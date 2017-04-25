@@ -1,0 +1,71 @@
+Return-path: <rfranske@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 10 Jan 2017 20:20:06 -0600
+Received: from mail-oi0-f42.google.com ([209.85.218.42]:36282)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <rfranske@gmail.com>)
+	id 1cR8WE-0002fX-MZ
+	for brenda@chainsawclinic.com; Tue, 10 Jan 2017 20:20:06 -0600
+Received: by mail-oi0-f42.google.com with SMTP id u143so161833313oif.3
+        for <brenda@chainsawclinic.com>; Tue, 10 Jan 2017 18:20:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=vtXzK8of46lUcPRruXW1gQ3W0d6kXxWLqa/hoV/IDZE=;
+        b=CSYpf0o9jxkHCLWt+xUxd/EK3XEEBLQtWx4DGXHR2azBlvCzADI4kVYX9Y+xec9kWY
+         YBp6IgCYlR7Z3fjEjfokfaRfqW9zTYTQ2PyW2NY2vp3n3eA9TQ86S3PBofUQ4J7CqoRn
+         IEXSrw11NtGRpTuZAyN8t0tkmTMy+zrHE+KJzp1XG4Mn1x+YpN2xIEDiq7H/ZUxlherU
+         qiLMwfNneCPWMeLY7w1PVswb+hFC2tkI3zKMji6HiycbqraDPpFb1EfEkEwE9t6TjmT4
+         R4Su7wT/bwcVUPSEN8YnkiqKLOjaAMfGGoHwQu9AfPJK7utk8BbivobJBBxywuhX2O4y
+         tXOg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=vtXzK8of46lUcPRruXW1gQ3W0d6kXxWLqa/hoV/IDZE=;
+        b=aOQdO5qqp3yGA0ZXGyiSgxi2/Mj297mDpchXyTN64gxVBbp9eOMZXe545HqKT43GDs
+         b/XCGYM9GboNdD2YuyrmYSHNxpsDp5vmYKN9KeOVphuZ4qD01dH0JUsYpETZXhHzg5ts
+         yDsOw+3kgv5wOiCGfq3PN+g3fJ062Y+ejt6YfDB0iQSCz2b0wHHH0Hv4So33pv67Bn2e
+         N/mP19b0CTwSXy6F1zJV5X9O+cUEIR/ita8YyHQmo2oBsdFJQa3aXBH+Sgx+xntGEzPi
+         FM0/b+WTZ6fPnStg3D6H7RMbYD+XIc7oYf6442cZU3I8kn3lLCNl9B18KpWxhNhyAwHH
+         CWnw==
+X-Gm-Message-State: AIkVDXI38hnz02t9oD8NiQZYml6GPe/28wVG0dI5boFjFIp5Khch3a9iI4U+ViswPwAwXkwbdf5ZDom1ormHbw==
+X-Received: by 10.202.52.139 with SMTP id b133mr2796247oia.75.1484101196315;
+ Tue, 10 Jan 2017 18:19:56 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.182.95.6 with HTTP; Tue, 10 Jan 2017 18:19:55 -0800 (PST)
+From: Randall Franske <rfranske@gmail.com>
+Date: Tue, 10 Jan 2017 21:19:55 -0500
+Message-ID: <CAFGvh3JWvnZPsbDHtupQmkX_jr9OeXg6eCaf3b7tGWcbYCWbsQ@mail.gmail.com>
+Subject: Reports December reminder
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001a113d448c9e05290545c83c9d
+Bcc: brenda@chainsawclinic.com
+
+--001a113d448c9e05290545c83c9d
+Content-Type: text/plain; charset=UTF-8
+
+Hi Brothers,
+If you have reported -Thank you.
+If not, would you be able to E-mail your reports to me or bring them to the
+hall on Wednesday?
+
+Thank you for you faithful service,
+ Randall
+
+--001a113d448c9e05290545c83c9d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div>Hi Brothers,<br></div>If you have <span><span><s=
+pan><span><span><span class=3D"gmail-m_6158512782206397921gmail-m_495826063=
+2324081122gmail-il"><span class=3D"gmail-il">reported</span></span></span><=
+/span></span></span></span> -Thank you.=C2=A0 <br>If not, would you be able=
+ to E-mail your <span><span><span><span><span><span><span><span class=3D"gm=
+ail-m_6158512782206397921gmail-m_4958260632324081122gmail-il"><span class=
+=3D"gmail-m_6158512782206397921gmail-il"><span class=3D"gmail-il">reports</=
+span></span></span></span></span></span></span></span></span></span> to me =
+or bring them to the hall on Wednesday?<br><br>Thank you for you faithful s=
+ervice,<br></div>=C2=A0Randall</div>
+
+--001a113d448c9e05290545c83c9d--

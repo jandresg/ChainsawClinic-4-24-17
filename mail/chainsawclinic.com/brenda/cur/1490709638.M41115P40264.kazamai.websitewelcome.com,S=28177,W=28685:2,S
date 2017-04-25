@@ -1,0 +1,508 @@
+Return-Path: <v-kdaape_cjadplfpao_ecnoipfg_ecnoipfg_a@bounce.emails.nebs.ca>
+Delivered-To: brenda@chainsawclinic.com
+Received: from kazamai.websitewelcome.com
+	by kazamai.websitewelcome.com (Dovecot) with LMTP id MeJKAoZs2lhInQAAaocpPg
+	for <brenda@chainsawclinic.com>; Tue, 28 Mar 2017 09:00:38 -0500
+Return-path: <v-kdaape_cjadplfpao_ecnoipfg_ecnoipfg_a@bounce.emails.nebs.ca>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 28 Mar 2017 09:00:38 -0500
+Received: from mail7340.deluxecorporation.mkt7939.com ([129.33.240.34]:36002)
+	by kazamai.websitewelcome.com with esmtp (Exim 4.87)
+	(envelope-from <v-kdaape_cjadplfpao_ecnoipfg_ecnoipfg_a@bounce.emails.nebs.ca>)
+	id 1csrfp-000AVQ-SD
+	for brenda@chainsawclinic.com; Tue, 28 Mar 2017 09:00:37 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=spop1024; d=emails.nebs.ca;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=NEBS@emails.nebs.ca;
+ bh=Bl462uqef3EkR5vaXcRmzAhTHmE=;
+ b=VwnDTXsm2G1nCM2QcnI+CpKK+Ai9m0CJQIv/0mNoCRhpu4vWK9y0Ar1/+lh/xoN0AqHo2GLaoaIm
+   Hdy03Ld+NExsfjUvhrGLqQEUHS9F2Uh/0QLER/vSUaoPsW+1vgvguy5a2OpVixSti4+jqnCfJ2Dy
+   O1mK5MrnPFmXz1K7MNg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=spop1024; d=emails.nebs.ca;
+ b=UYzgi9DMdACYyIBsc0/KJe2F8qXQ7nGNS2g+sGIMZj7Tm0yUbefxb4BS0sk3RjVZHkuyK0LI9iT2
+   RY/lWTmLb6vcu8WzsbqXfTtn93+jlGEUgNd4wSWl5x5CuS77UxiOQ2GfZzRMIM+2r6VRPbikO6Pb
+   iVPwI7Urv1yAHP5enIY=;
+Received: by mail7340.deluxecorporation.mkt7939.com id hr9m8a19if46 for <brenda@chainsawclinic.com>; Tue, 28 Mar 2017 14:00:26 +0000 (envelope-from <v-kdaape_cjadplfpao_ecnoipfg_ecnoipfg_a@bounce.emails.nebs.ca>)
+Date: Tue, 28 Mar 2017 14:00:26 +0000 (GMT)
+From: "NEBS.ca" <NEBS@emails.nebs.ca>
+Reply-To: NEBS@emails.nebs.ca
+To: brenda@chainsawclinic.com
+Message-ID: <1502490828.613459571490709626727.JavaMail.app@rbg23.atlis1>
+Subject: Save $50 on your order. No fooling!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_186701_1229539744.1490709614365"
+x-mid: 10682612
+X-CSA-Complaints: whitelist-complaints@eco.de
+x-rpcampaign: sp10682612
+Feedback-ID: pod2_26548_10682612_1121881942:pod2_26548:ibmsilverpop
+x-job: 10682612
+x-orgId: 26548
+List-Unsubscribe: <mailto:v-kdaape_cjadplfpao_ecnoipfg_ecnoipfg_a@bounce.emails.nebs.ca?subject=Unsubscribe>
+
+------=_Part_186701_1229539744.1490709614365
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+View this email as a web page:
+ http://links.emails.nebs.ca/servlet/MailView?ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0 
+____________________________________________________________________
+
+DELUXE NEBS
+emails.nebs.ca
+--------------------------------------------------------------------
+
+Hurry! Big savings end April 11.
+ http://links.emails.nebs.ca/ctt?kn=2&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=2&j=MTEyMTg4MTk0MgS2&mt=1&rt=0 
+-------------------------------------------------------------------
+
+$50 off your order
+
+No joke, just huge savings!
+$50 off your order.
+ http://links.emails.nebs.ca/ctt?kn=11&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=2&j=MTEyMTg4MTk0MgS2&mt=1&rt=0 
+
+-High Security Cheques
+ http://links.emails.nebs.ca/ctt?kn=12&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=2&j=MTEyMTg4MTk0MgS2&mt=1&rt=0 
+
+-Deposit slips
+ http://links.emails.nebs.ca/ctt?kn=4&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=2&j=MTEyMTg4MTk0MgS2&mt=1&rt=0 
+
+-Forms
+ http://links.emails.nebs.ca/ctt?kn=5&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=2&j=MTEyMTg4MTk0MgS2&mt=1&rt=0 
+
+-Full-colour printing
+ http://links.emails.nebs.ca/ctt?kn=15&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=2&j=MTEyMTg4MTk0MgS2&mt=1&rt=0 
+
+-Apparel
+ http://links.emails.nebs.ca/ctt?kn=14&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=2&j=MTEyMTg4MTk0MgS2&mt=1&rt=0 
+
+-Promotional items
+ http://links.emails.nebs.ca/ctt?kn=13&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=2&j=MTEyMTg4MTk0MgS2&mt=1&rt=0 
+
+-See more products  
+ http://links.emails.nebs.ca/ctt?kn=11&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=2&j=MTEyMTg4MTk0MgS2&mt=1&rt=0 
+--------------------------------------------------------------------
+
+Call one of our experts at 800.461.7572
+Monday-Thursday 8 am - 6:30 pm EST
+Friday 8 am - 6 pm EST
+        
+Please use Mail Code JN408 when placing your order.  
+____________________________________________________________________
+  
+$50 off orders of $350 or more. Does not include personal cheques, 
+logo design, website services, payroll and other business services, 
+EZShield, shipping and handling, tax and other order fees. Not valid 
+in combination with any other offer. Offer not valid on previously 
+placed orders. Prices subject to change without notice. 
+Offer expires 4/11/17. 
+
+NEBS, a Deluxe company, sincerely respects your right to online 
+privacy. To unsubscribe or change your email preferences, click here.
+ http://links.emails.nebs.ca/ctt?kn=1&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=2&j=MTEyMTg4MTk0MgS2&mt=1&rt=0 
+ 
+Deluxe  NEBS
+330 Cranston Crescent, Midland, Ontario L4R 4V9 
+
+800.461.7572
+
+(c) 2017 Deluxe Enterprise Operations, LLC 
+
+CX3728AFDE
+
+
+------=_Part_186701_1229539744.1490709614365
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<title>Save $50 on your order. No fooling!</title>
+	<!--
+        APPLE IOS 1024 CHARACTER HACK FOR MOBILE PHONE RENDERING            
+        
+        
+            ########################
+            ############################
+            ##############################
+            ################################
+                                   ###########
+            #################        ##########
+            ####################      #########
+            #####################      ########
+            ######################     ########
+            #######################    ########
+            ######################     #######
+            #####################     #######
+            ####################     ######
+            #################       #####        
+        
+        
+        --><!-- Styling For Supported Email Clients -->
+	<style type="text/css">/* Based on The MailChimp Reset INLINE: Yes. */  
+			/* Client-specific Styles */
+
+#outlook a {
+	padding: 0;
+} /* Force Outlook to provide a "view in browser" menu link. */
+body {
+	width: 100% !important;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	margin: 0;
+	padding: 0;
+}
+/* Prevent Webkit and Windows Mobile platforms from changing default font sizes.*/ 
+.ExternalClass {
+	width: 100%;
+} /* Force Hotmail to display emails at full width */
+.ExternalClass, .ExternalClass a, .ExternalClass br, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+	line-height: 100%;
+}
+/* Forces Hotmail to display normal line spacing.  More on that: http://www.emailonacid.com/forum/viewthread/43/ */ 
+#wrapper {
+	margin: 0;
+	padding: 0;
+	width: 100% !important;
+	line-height: 100% !important;
+}
+.wrapper {
+	margin: 0;
+	padding: 0;
+	width: 100% !important;
+	line-height: 100% !important;
+}
+/* End reset */
+			/* Some sensible defaults for images
+			Bring inline: Yes. */
+img {
+	outline: none;
+	text-decoration: none;
+	-ms-interpolation-mode: bicubic;
+}
+a img {
+	border: none;
+}
+.image_fix {
+	display: block;
+}
+/* Yahoo paragraph fix
+			Bring inline: Yes. */
+p {
+	margin: 1em 0;
+}
+/* Outlook 07, 10 Padding issue fix
+			Bring inline: No.*/
+table td {
+	border-collapse: collapse;
+}
+/* Remove spacing around Outlook 07, 10 tables
+			Bring inline: Yes */
+table {
+	border-collapse: collapse;
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+	mso-cellspacing: 0px;
+	mso-padding-alt: 0px 0px 0px 0px;
+}
+.branding-link:hover {
+	color: #413A64 !important;
+}
+.product-link:hover{	text-decoration: underline !important; }
+	</style>
+	<!--[if gte mso 9]>
+            <style>
+                .outlook-fix
+                {
+                    font-size:8pt !important;
+                }                
+            </style>
+            
+            <xml>
+             <o:OfficeDocumentSettings>
+              <o:AllowPNG/>
+              <o:PixelsPerInch>96</o:PixelsPerInch>
+             </o:OfficeDocumentSettings>
+            </xml>
+        <![endif]-->
+</head>
+<body bgcolor="#FFFFFF" style="background-color:#FFFFFF; margin:0px; padding:0px;"><!-- WRAPPER -->
+<table border="0" cellpadding="0" cellspacing="0" class="wrapper" style="background-color:#FFFFFF;" width="100%">
+	
+		<tr>
+			<td><!-- INNER CONTENT -->
+			<table align="center" border="0" cellpadding="0" cellspacing="0" style=" width:600px;" width="600"><!-- TOP -->
+				
+					<tr class="top">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr><!-- SNIPPET -->
+									<td class="snippet" style="color:#00AABF; font-size:10px; font-family:Arial, Helvetica, sans-serif; padding-top:10px; padding-bottom:10px; padding-left:20px; text-align:left;"><span style="text-decoration: underline;"><a class="branding-link" href="http://links.emails.nebs.ca/ctt?kn=2&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="www_nebs_ca_canEcat_index_html_utm_" style="color:#413A64; font-size:10px; font-family:Arial, Helvetica, sans-serif;" target="_blank" >Hurry! Big savings end April 11. </a></span></td>
+									<!-- END SNIPPET --><!-- NOT SEEING IMAGES -->
+									<td class="not-seeing-images" style="padding-top:10px; padding-bottom:10px;padding-right:20px;text-align:right; font-size:10px; font-family:Arial, Helvetica, sans-serif;"><span style="color:#666666;">Not Seeing Images?</span> <span style="text-decoration: underline;"><a class="branding-link" href="http://links.emails.nebs.ca/servlet/MailView?ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="link_CCTVhtml" style="color:#413A64" target="_blank" xt="SPCLICKTOVIEW">Click here</a></span><span>.</span></td>
+									<!-- END NOT SEEING IMAGES -->
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END TOP --><!-- DIVIDER -->
+					<tr class="divider">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr>
+									<td style="width:600px; height:1px; font-size: 1px; line-height: 1px;" width="600"><img alt="" class="image_fix"  height="1"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10682612/images_600px-divider.jpg' style="display:block;" width="600"  /></td>
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END DIVIDER --><!-- HEADER -->
+					<tr class="header">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr><!-- LOGO -->
+									<td class="logo" style="text-align:left; font-size:8.5pt; font-family:Helvetica, Arial, sans-serif;padding-top:20px; padding-bottom:20px;padding-left:20px;" width="30%"><a href="http://links.emails.nebs.ca/ctt?kn=7&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="www_nebs_ca_canEcat_index_html_utm__2" style="color:#413A64;" target="_blank" ><img alt="Deluxe | NEBS" border="0" class="image_fix"  height="29" img=""   src='http://contentz.mkt7721.com/ra/2017/26548/03/10682612/images_Deluxe-NEBS-logo.jpg' style="font-family:Helvetica, Arial, sans-serif; font-size:8.5pt; text-align:center; display:block; color:#666666;" width="234"  /> </a></td>
+									<!-- END LOGO --><!-- UPPER RIGHT MESSAGE -->
+									<td class="upper-right-message" style="padding-top:10px; padding-bottom:10px;padding-right:20px;text-align:right;" width="70%"><a class="branding-link" href="http://links.emails.nebs.ca/ctt?kn=10&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="www_nebs_ca_canEcat_index_html_utm__3" style="color:#413A64; text-decoration:none; font-size:18px; font-family:Helvetica, Arial,sans-serif; text-transform:uppercase;font-weight:bold;" target="_blank" ><img align="right" alt="$50 off your order" border="0" class="image_fix"  height="48"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10682612/images_DX3728AFDC_03.jpg' style="display:block;" width="204"  /></a></td>
+									<!-- END UPPER RIGHT MESSAGE -->
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END HEADER --><!-- DIVIDER -->
+					<tr class="divider">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr>
+									<td style="width:600px; height:1px; font-size: 1px; line-height: 1px;" width="600"><img alt="" class="image_fix"  height="1"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10682612/images_600px-divider.jpg' style="display:block;" width="600"  /></td>
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END DIVIDER --><!-- AD SPACE -->
+					<tr class="hero">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr><!-- AD CONTENT -->
+									<td bgcolor="#802d73" style="width:600px; vertical-align:top;" valign="top" width="600"><!--
+                                            ############################################################################
+                                            ############################################################################
+                                            ###############################CONTENT GOES HERE############################
+                                            ############################################################################
+                                            ############################################################################
+                                            -->
+									<table border="0" cellpadding="0" cellspacing="0">
+										
+											<tr>
+												<td style="background-color: #802d73; padding-top: 30px; padding-right: 20px; padding-bottom: 30px; padding-left: 40px;">
+												<table border="0" cellpadding="0" cellspacing="0">
+													
+														<tr>
+															<td style="width: 252px; padding-right: 50px;" width="252"><a href="http://links.emails.nebs.ca/ctt?kn=11&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="www_nebs_ca_canEcat_index_html_utm__4" target="_blank" ><img alt="Save $50" border="0" class="image_fix"  height="244"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10682612/images_DX3728AFDC_07.jpg' style="display:block; color:#00aafb;" width="234"  /></a></td>
+															<td style="width: 252px; vertical-align: middle;" width="252">
+															<table border="0" cellpadding="0" cellspacing="0">
+																
+																	<tr>
+																		<td style="font-family:Arial, Helvetica, sans-serif; color: #FFFFFF; font-size:13px; font-weight:bold; text-align:left; line-height:20px; vertical-align:top;"><a href="http://links.emails.nebs.ca/ctt?kn=8&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="www_nebs_ca_canEcat_index_html_utm__5" target="_blank" ><img alt="No joke, just huge savings!" border="0" class="image_fix"  height="67"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10682612/images_DX3728AFDC_09.jpg' style="display:block; color:#00aafb;" width="222"  /></a><br />
+																		$50 off your order.</td>
+																	</tr>
+																	<tr>
+																		<td align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:bold; text-align:center; line-height:20px; vertical-align:top;" valign="top">
+																		<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;">
+																			
+																				<tr>
+																					<td align="center" style="width: 160px; color: #FFFFFF; font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:bold; text-align:left; line-height:20px; vertical-align:top;" valign="top"><br />
+																					<span style="font-size: 18px;">&rsaquo;</span><span style="color: #FFFFFF; text-decoration: none;"> <a class="product-link" href="http://links.emails.nebs.ca/ctt?kn=12&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="ww_nebs_ca_manage_highsecurity_php_" style="color:#FFFFFF; text-decoration: none;" target="_blank" >High Security Cheques </a></span><br />
+																					<span style="font-size: 18px;">&rsaquo;</span><span style="color: #FFFFFF; text-decoration: none;"> <a class="product-link" href="http://links.emails.nebs.ca/ctt?kn=4&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="www_nebs_ca_canEcat_products_subcat" style="color:#FFFFFF; text-decoration: none;" target="_blank" >Deposit slips</a></span><br />
+																					<span style="font-size: 18px;">&rsaquo;</span><span style="color: #FFFFFF; text-decoration: none;"> <a class="product-link" href="http://links.emails.nebs.ca/ctt?kn=5&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="www_nebs_ca_canEcat_products_catego" style="color:#FFFFFF; text-decoration: none;" target="_blank" >Forms</a></span><br />
+																					<span style="font-size: 18px;">&rsaquo;</span><span style="color: #FFFFFF; text-decoration: none;"> <a class="product-link" href="http://links.emails.nebs.ca/ctt?kn=15&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="www_nebs_ca_canEcat_products_catego_2" style="color:#FFFFFF; text-decoration: none;" target="_blank" >Full-colour printing</a></span><br />
+																					<span style="font-size: 18px;">&rsaquo;</span><span style="color: #FFFFFF; text-decoration: none;"> <a class="product-link" href="http://links.emails.nebs.ca/ctt?kn=14&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="www_nebs_ca_canEcat_products_catego_3" style="color:#FFFFFF; text-decoration: none;" target="_blank" >Apparel</a></span><br />
+																					<span style="font-size: 18px;">&rsaquo;</span><span style="color: #FFFFFF; text-decoration: none;"> <a class="product-link" href="http://links.emails.nebs.ca/ctt?kn=13&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="www_nebs_ca_canEcat_products_catego_4" style="color:#FFFFFF; text-decoration: none;" target="_blank" >Promotional items</a></span><br />
+																					<span style="font-size: 18px;">&rsaquo;</span><span style="color: #FFFFFF; text-decoration: none;"> <a class="product-link" href="http://links.emails.nebs.ca/ctt?kn=9&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="www_nebs_ca_canEcat_index_html_utm__6" style="color:#FFFFFF; text-decoration: none;" target="_blank" >See more products</a></span></td>
+																				</tr>
+																			
+																		</table>
+																		</td>
+																	</tr>
+																
+															</table>
+															</td>
+														</tr>
+													
+												</table>
+												<!-- END MAIN BODY CONTENT --></td>
+											</tr>
+										
+									</table>
+									</td>
+									<!--END AD CONTENT -->
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END AD SPACE --><!-- DIVIDER -->
+					<tr class="divider">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr>
+									<td style="width:600px; height:1px; font-size: 1px; line-height: 1px;" width="600"><img alt="" class="image_fix"  height="1"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10682612/images_600px-divider.jpg' style="display:block;" width="600"  /></td>
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END DIVIDER --><!-- PHONE | MAIL CODE -->
+					<tr class="lower-section">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px; border:none; " width="600">
+							
+								<tr><!-- PHONE CONTENT -->
+									<td align="left" style="width:200px;" valign="top" width="200">
+									<table border="0" cellpadding="0" cellspacing="0" style="width:200px;" width="200">
+										
+											<tr>
+												<td style="width:180px; padding:0; padding-left:20px; padding-top:20px;" width="180"><span class="outlook-fix" style="font-family:Helvetica, Arial, sans-serif; font-size:8.5pt; line-height: 11pt; height: 11pt; color:#666666;"> Call one of our experts at: </span></td>
+											</tr>
+											<tr>
+												<td style="width:180px; padding:0; padding-left:20px;" width="180"><span class="outlook-fix" style="font-family:Helvetica, Arial, sans-serif; font-size:14px; line-height: 11pt; height: 11pt; color:#C72922; font-weight:bold;">800.461.7572 </span></td>
+											</tr>
+											<tr>
+												<td style="width:180px; padding:0; padding-left:20px;" width="180"><span class="outlook-fix" style="font-family:Helvetica, Arial, sans-serif; font-size:8.5pt; line-height: 11pt; height: 11pt; color:#666666; "> Mon. &ndash; Thurs. 8 am &ndash; 6:30 pm EST </span></td>
+											</tr>
+											<tr>
+												<td style="width:180px; padding:0; padding-left:20px; padding-bottom:20px;" width="180"><span class="outlook-fix" style="font-family:Helvetica, Arial, sans-serif; font-size:8.5pt; line-height: 11pt; height: 11pt; color:#666666; "> Friday 8 am &ndash; 6 pm EST </span></td>
+											</tr>
+										
+									</table>
+									</td>
+									<!--END PHONE CONTENT --><!-- VERTICAL DIVIDER -->
+									<td align="center" style="width:1px;" valign="middle" width="1"><img alt=""  height="60"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10682612/images_1x60px-vertical-divider.jpg' style="display:block;" width="1"  /></td>
+									<!-- END VERTICAL DIVIDER --><!-- MAIL CODE CONTENT -->
+									<td align="center" style="width:268px;" width="268">
+									<table border="0" cellpadding="0" cellspacing="0" style="width: 244px;" width="244">
+										
+											<tr><!-- MAIL CODE ARROW -->
+												<td style="width: 116px;" valign="middle" width="116">
+												<table border="0" cellpadding="0" cellspacing="0" style="width:116px;" width="116">
+													
+														<tr>
+															<td align="center" style="width:116px; padding-top: 5px;" width="116"><img alt="Mail Code" border="0" class="image_fix"  height="44"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10682612/images_mail-code.jpg' style="text-align:center; display:block; color:#413A64; font-size:8.5pt; font-family:Helvetica, Arial, sans-serif" width="109"  /></td>
+														</tr>
+														<tr>
+															<td align="center" bgcolor="#FFFF66" height="30" style="width:116px; padding-top: 5px; font-family:Helvetica, Arial, sans-serif; font-size:12px; color:#666666; text-align:center" valign="middle" width="116">JN408</td>
+														</tr>
+													
+												</table>
+												</td>
+												<!-- END MAIL CODE ARROW --><!-- MAIL CODE MESSAGING -->
+												<td style="width:128px; font-family:Helvetica, Arial, sans-serif; font-size:11px;  line-height: 11pt; height: 11pt; text-align: left; color:#666666; padding-left: 15px;" width="128">Please use<br />
+												this Mail Code<br />
+												when placing<br />
+												your order.</td>
+												<!-- END MAIL CODE MESSAGING -->
+											</tr>
+										
+									</table>
+									</td>
+									<!-- END MAIL CODE CONTENT -->
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!--END  PHONE | MAIL CODE --><!-- DIVIDER -->
+					<tr class="divider">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px; height:1px;" width="600">
+							
+								<tr>
+									<td style="width:600px; height:1px; font-size: 1px; line-height: 1px;" width="600"><img alt="" class="image_fix"  height="1"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10682612/images_600px-divider.jpg' style="display:block;" width="600"  /></td>
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END DIVIDER --><!-- FOOTER  -->
+					<tr class="footer">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600"><!-- DISCLAIMER CONTENT -->
+							
+								<tr>
+									<td style="width:600px; padding:0; padding-left:20px; padding-right:20px; padding-top:20px; padding-bottom:20px;" width="600">
+									<table border="0" cellpadding="0" cellspacing="0">
+										
+											<tr>
+												<td style="font-family:Helvetica, Arial, sans-serif; font-size:8.5pt; color:#666666; line-height: 10pt; height: 10pt;">$50 off orders of $350 or more. Does not include personal cheques, logo design, website services, payroll and other business services, EZShield, shipping and handling, tax and other order fees. Not valid in combination with any other offer. Offer not valid on previously placed orders. Prices subject to change without notice. Offer expires 4/11/2017.</td>
+											</tr>
+										
+									</table>
+									</td>
+								</tr>
+								<!--END DISCLAIMER  --><!-- DIVIDER -->
+								<tr class="divider">
+									<td>
+									<table border="0" cellpadding="0" cellspacing="0" style="width:600px; height:1px;" width="600">
+										
+											<tr>
+												<td style="width:600px; height:1px; font-size: 1px; line-height: 1px;" width="600"><img alt=""  height="1"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10682612/images_600px-divider.jpg' style="display:block;" width="600"  /></td>
+											</tr>
+										
+									</table>
+									</td>
+								</tr>
+								<!-- END DIVIDER --><!-- LEGAL CONTENT -->
+								<tr>
+									<td style="width:600px; padding:0; padding-left:20px; padding-top:20px; padding-bottom:20px" width="600">
+									<table border="0" cellpadding="0" cellspacing="0">
+										
+											<tr>
+												<td style="font-family:Helvetica, Arial, sans-serif; font-size:8.5pt; color:#666666; line-height: 10pt; height: 10pt;">NEBS, a Deluxe company, sincerely respects your right to online privacy. To unsubscribe or change your email preferences, click <a href="http://links.emails.nebs.ca/ctt?kn=1&ms=MTA2ODI2MTIS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMTg4MTk0MgS2&mt=1&rt=0" name="deluxecorporation_mkt7721_com_NEBSC" style="color:#666666; line-height: 10pt; height: 10pt;" >here</a>.</td>
+											</tr>
+										
+									</table>
+									</td>
+								</tr>
+								<tr>
+									<td style="width:600px; padding:0; padding-left:20px; padding-right:20px; padding-top:0; padding-bottom:20px;" width="600">
+									<table border="0" cellpadding="0" cellspacing="0">
+										
+											<tr>
+												<td style="font-family:Helvetica, Arial, sans-serif; font-size:8.5pt; color:#666666; line-height: 10pt; height: 10pt;">Deluxe | NEBS&nbsp;&nbsp;|&nbsp;&nbsp;330 Cranston Crescent, Midland ON L4R 4V9&nbsp;&nbsp;|&nbsp;&nbsp;800.461.7572<br />
+												&copy; 2017 Deluxe Enterprise Operations, LLC&nbsp;&nbsp;|&nbsp;&nbsp;CX3728AFDE</td>
+											</tr>
+										
+									</table>
+									</td>
+								</tr>
+								<!--END LEGAL CONTENT -->
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END FOOTER -->
+				
+			</table>
+			<!-- END INNER CONTENT --></td>
+		</tr>
+	
+</table>
+<!-- END WRAPPER --><!--    TITLE:          NEBS Canada Template                      --><!--    AUTHOR:         Veronique Puderecki                       --><!--    VERSION:        1.1                                       --><!--    DATE:           11/11/2016                                --><!--    ORGANIZATION:   DELUXE ENTERPRISE OPERATIONS, LLC         --><!-- Change log :
+    1.1 Edited By Daniel Cheung: Added link class in the header for the main content links.
+1.2 Edited by Dawn Santo: Logo updated to Deluxe/NEBS Phase 3 Logo & copyright updated to 2017
+        --><IMG src="http://links.emails.nebs.ca/open/log/10682612/MTc2MTYwNDY0NjU0S0/0/MTEyMTg4MTk0MgS2/1/0"></body>
+</html>
+
+
+
+------=_Part_186701_1229539744.1490709614365--
+

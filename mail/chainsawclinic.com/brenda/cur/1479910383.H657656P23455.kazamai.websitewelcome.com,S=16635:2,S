@@ -1,0 +1,318 @@
+Return-path: <husqvarna-marketing@mailmw.rnmk.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Wed, 23 Nov 2016 08:13:03 -0600
+Received: from rnmkmw65.rightnowtech.com ([74.117.203.65]:33441 helo=rntmw65.rnmk.com)
+	by kazamai.websitewelcome.com with esmtp (Exim 4.87)
+	(envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	id 1c9YIJ-00062K-FE
+	for brenda@chainsawclinic.com; Wed, 23 Nov 2016 08:13:03 -0600
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailca.rnmk.com;
+	h=DKIM-Signature:Received:MIME-Version:Message-Id:To:Date:Subject:List-Unsubscribe:From:Reply-To:Content-Type:Content-Transfer-Encoding;
+	b=tJp+XMr/XspeTBfumHf1DWqfX18R8E3q8nQFT4vixWAynkKT/3O5XmBzSmwMDu2l
+	QHoW0/9QlC/0SccGEYoXGLBVr6pU0r4ieqQLSSUXOI4My6w/eU3eY+ApUR4Fl2Fv
+	QHLsIvdsBxJpCPo5dIA3itCZhsDeG559N1+bvvYwR1k=
+DKIM-Signature: v=1; a=rsa-sha1; d=mailca.rnmk.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailca.rnmk.com; t=1479910371;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=E7GlhWe28NPXNvoOV40uq6Wq66k=;
+	b=kHMwMPyh0m51taWmHMCLAcUz146u13VJv/WxHXwyV9+FEbPktn463uR56d6wnJ98
+	jyUT7xOIqPxRbJCfGTKV2lz6nuAXa4Mraod9AFZ024Ox3RJdNNLONzP/FoZgN3kM
+	HRRjJafZp0mDYKsZIx3elaadqXPAtTqiUq6+MD1LJ6g=;
+Received: from [10.70.0.90] ([10.70.0.90:16561] helo=rnmdmw01.int.rightnowtech.com)
+	by rntmw65.rnmk.com (envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id A8/F3-26682-3E3A5385; Wed, 23 Nov 2016 08:12:51 -0600
+MIME-Version: 1.0
+Message-Id: <RNTM.AvMM~wrnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj7~Pv_J.0.1479910366.6C~kGcgT0hs9.488172@rnmdmw01.int.rightnowtech.com>
+To: brenda@chainsawclinic.com
+Date: Wed, 23 Nov 2016 09:12:46 -0500 (EST)
+Subject: Black Friday Savings!
+List-Unsubscribe: <mailto:husqvarna-marketing@mailca.rnmk.com?subject=Unsubscribe AvMM~wrnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj7~Pv_J>
+From: "Husqvarna Canada" <husqvarna-marketing@mailca.rnmk.com>
+Reply-To: "Husqvarna Canada" <husqvarna-marketing@mailca.rnmk.com>
+Content-Type: Text/Html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:rn=3D"http://schemas.r=
+ightnow.com/crm/document">
+<head>
+<title></title>
+                                                                    =20
+<style type=3D"text/css" xml:space=3D"preserve">
+/*<![CDATA[*/
+=2Efleet {
+        WIDTH: 100%; VERTICAL-ALIGN: top
+}
+=2Efleet TD {
+        BORDER-TOP: #ccc 1px solid; HEIGHT: 40px; VERTICAL-ALIGN: middle;=
+ BORDER-BOTTOM: #ccc 1px solid
+}
+/*]]>*/
+</style>
+
+<style type=3D"text/css" xml:space=3D"preserve">
+/*<![CDATA[*/
+=2Efleet {
+        WIDTH: 100%; VERTICAL-ALIGN: top
+}
+=2Efleet TD {
+        BORDER-TOP: #ccc 1px solid; HEIGHT: 40px; VERTICAL-ALIGN: middle;=
+ BORDER-BOTTOM: #ccc 1px solid
+}
+/*]]>*/
+</style>
+</head>
+<body style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-s=
+erif; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-=
+LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #d4d5d8">
+
+<p style=3D"COLOR: #8e8e8e">&#160;</p>
+<p style=3D"COLOR: #8e8e8e">Having trouble reading this email? <a target=3D=
+"_blank" href=3D"http://husqvarna.custhelp.com/ci/documents/view/1/AvMM~w=
+rnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj7~Pv_J"><span style=3D"FONT-SIZE: 14px; T=
+EXT-DECORATION: none; COLOR: #f15321">View it in your browser.</span></a>=
+</p>
+<table style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-=
+serif; WIDTH: 600px; MARGIN: 0px auto" cellspacing=3D"0" cellpadding=3D"0=
+"><!-- TOP ICONS -->
+<tbody>
+<tr>
+<td style=3D"FONT-VARIANT: small-caps; COLOR: #8e8e8e; PADDING-BOTTOM: 10=
+px; TEXT-ALIGN: right; PADDING-TOP: 10px; PADDING-LEFT: 40px; LETTER-SPAC=
+ING: 1px; PADDING-RIGHT: 40px; BACKGROUND-COLOR: #e2e3e6">&#160;<a style=3D=
+"TEXT-DECORATION: none; COLOR: #8e8e8e" href=3D"http://husqvarna.custhelp=
+=2Ecom/rd?1=3DAvMM~wrnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj7~Pv_J&amp;2=3D6211">=
+<img alt=3D"locate your dealer icon" border=3D"0" src=3D"http://54.76.127=
+=2E175/Emails/promos/template-redesign/assets/locate-icon.png" />dealers<=
+/a><a style=3D"TEXT-DECORATION: none; COLOR: #8e8e8e" href=3D"http://husq=
+varna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj7~Pv_J&am=
+p;2=3D6210"><img alt=3D"visit the website icon" border=3D"0" src=3D"http:=
+//54.76.127.175/Emails/promos/template-redesign/assets/link-icon.png" />w=
+ebsite</a> <a
+style=3D"TEXT-DECORATION: none; COLOR: #8e8e8e" href=3D"http://husqvarna.=
+custhelp.com/cgi-bin/husqvarna.cfg/php/ma/unsub.php?1=3DAvMM~wrnDv8S~xb~G=
+v8O~yI1ockqbov7JiVAcj7~Pv_J&amp;2=3D100025&amp;3=3D1"><img alt=3D"unsubsc=
+ribe icon" border=3D"0" src=3D"http://54.76.127.175/Emails/promos/templat=
+e-redesign/assets/unsub-icon.png" />unsubscribe</a></td>
+</tr>
+<!-- END TOP ICONS --><!-- BLUE HEADER -->
+<tr>
+<td style=3D"HEIGHT: 100px; PADDING-BOTTOM: 10px; TEXT-ALIGN: right; PADD=
+ING-TOP: 10px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND-COLOR:=
+ #273a60"><a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb=
+~Gv8O~yI1ockqbov7JiVAcj7~Pv_J&amp;2=3D6210"><img alt=3D"Husqvarna, Ready =
+when you are (logo)" border=3D"0" src=3D"http://54.76.127.175/Emails/prom=
+os/template-redesign/assets/logo.png" /></a></td>
+</tr>
+<!-- END BLUE HEADER --><!-- MAIN IMAGE -->
+<tr style=3D"HEIGHT: 300px">
+<td><img alt=3D"Take home some orange this black friday" border=3D"0" hei=
+ght=3D"300" src=3D"http://54.76.127.175/Emails/promos/2016/11-15-black-fr=
+iday/black-friday-600-300.png" width=3D"600" /></td>
+</tr>
+<!-- END MAIN IMAGE --><!-- MAIN SUBJECT TEXT -->
+<tr style=3D"HEIGHT: 150px; VERTICAL-ALIGN: text-top; TEXT-ALIGN: left; B=
+ACKGROUND-COLOR: #ffffff">
+<td style=3D"PADDING-BOTTOM: 20px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px">
+<div style=3D"WIDTH: 100%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING=
+-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">
+<p style=3D"MARGIN-BOTTOM: 5px; FONT-SIZE: 28px">Get the Husqvarna 455 Ra=
+ncher for Less</p>
+<p style=3D"FONT-SIZE: 14px">Offer valid&#160;November 20<sup>th</sup> -&=
+#160;November 26<sup>th</sup>, 2016<br />
+<br />
+$479.99 Hot Buy + $25 Mail in Rebate! The 455 Rancher is an ideal saw for=
+ landowners and part-time users who require a high powered, heavy-duty an=
+d responsive workmate for all cutting conditions.<br />
+<br />
+Quantities are limited so shop early to pick up some Husqvarna orange on =
+Black Friday!<br />
+<br />
+<br /></p>
+<p style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: #f15321; TEXT-=
+ALIGN: right"><a style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: =
+#f15321" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb~Gv8=
+O~yI1ockqbov7JiVAcj7~Pv_J&amp;2=3D6217">Learn more about Black Friday Off=
+ers<img alt=3D"link arrow" border=3D"0" src=3D"http://54.76.127.175/Email=
+s/promos/template-redesign/assets/link-arrow.png" /></a><br />
+<br />
+<br /></p>
+<p style=3D"TEXT-ALIGN: center"><a href=3D"http://husqvarna.custhelp.com/=
+rd?1=3DAvMM~wrnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj7~Pv_J&amp;2=3D6218"><img al=
+t=3D"455 Rancher" border=3D"0" src=3D"http://54.76.127.175/Emails/promos/=
+2016/11-15-black-friday/chainsaw.png" width=3D"400" /></a><br />
+<a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb~Gv8O~yI1o=
+ckqbov7JiVAcj7~Pv_J&amp;2=3D6218"><img alt=3D"455 Rancher" border=3D"0" h=
+eight=3D"50" src=3D"http://54.76.127.175/Emails/promos/2016/11-15-black-f=
+riday/reviews.png" width=3D"298" /></a></p>
+<p style=3D"FONT-SIZE: 16px; FONT-STYLE: italic">"I cut lots of spruce, b=
+irch and tamarack firewood, and it chews through like a beaver on steroid=
+s. Bought it last fall (2015) used it until freeze up, then took it out a=
+gain this spring. A couple primes, choke and four pulls. Running like a c=
+harm. I don't really care if it uses more chain oil than usual, I know it=
+s is getting lubed. And there was no pool of oil under it when I took it =
+out this spring, so there is no leaking. Keep the chain sharp. Get one. Y=
+ou will not be sorry."</p>
+<p style=3D"FONT-SIZE: 16px; FONT-STYLE: italic" align=3D"right">- Review=
+ posted by T.D.&#160; from North East Ontario Canada</p>
+</div>
+</td>
+</tr>
+<!-- END MAIN SUBJECT TEXT --><!-- MAIN SUBJECT TEXT -->
+<tr style=3D"HEIGHT: 200px; VERTICAL-ALIGN: text-top; TEXT-ALIGN: left; B=
+ACKGROUND-COLOR: #ffffff">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px">
+<hr />
+<div style=3D"WIDTH: 100%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING=
+-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">
+<table>
+<tbody>
+<tr>
+<td><a style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: #f15321" h=
+ref=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb~Gv8O~yI1ockqb=
+ov7JiVAcj7~Pv_J&amp;2=3D6219"><img alt=3D"Husqvarna Snow Blower" border=3D=
+"0" height=3D"200" src=3D"http://54.76.127.175/Emails/promos/2016/11-15-b=
+lack-friday/snow-thrower.png" width=3D"200" /></a></td>
+<td>
+<p style=3D"FONT-SIZE: 20px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-seri=
+f">Start saving before it starts snowing!</p>
+<p style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-seri=
+f">Offer valid through&#160;December 30th<br />
+&#160;&#160;&#160;&#160;&#160;&#160;&#160; <span style=3D"FONT-SIZE: smal=
+l; FONT-FAMILY: arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px=
+; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(84,8=
+4,84); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPL=
+AY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-=
+caps: normal; -webkit-text-stroke-width: 0px">=95</span> Earn up to $50 u=
+sing a mail-in rebate<br />
+&#160;&#160;&#160;&#160;&#160;&#160;&#160; <span style=3D"FONT-SIZE: smal=
+l; FONT-FAMILY: arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px=
+; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(84,8=
+4,84); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPL=
+AY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-=
+caps: normal; -webkit-text-stroke-width: 0px">=95</span> Extend the exten=
+ded warranty from three<br />
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; years =
+to four years<br />
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <span style=3D"FONT-SIZE=
+: small; FONT-FAMILY: arial, sans-serif; WHITE-SPACE: normal; WORD-SPACIN=
+G: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rg=
+b(84,84,84); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2;=
+ DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rg=
+b(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-va=
+riant-caps: normal; -webkit-text-stroke-width: 0px">=95</span> Special fi=
+nancing options available</p>
+<p style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-seri=
+f"><i>*While inventory and supplies last. All models not available at all=
+ dealers.</i></p>
+<p style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; HEIGHT: 20px; FONT-FA=
+MILY: 'Myriad Pro',Helvetica,San-serif; COLOR: #f15321; TEXT-ALIGN: right=
+"><a style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; HEIGHT: 25px; COLOR=
+: #f15321" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb~G=
+v8O~yI1ockqbov7JiVAcj7~Pv_J&amp;2=3D6219">Learn more about Snow Rebates<i=
+mg alt=3D"link arrow" border=3D"0" src=3D"http://54.76.127.175/Emails/pro=
+mos/template-redesign/assets/link-arrow.png" /></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<!-- END MAIN SUBJECT TEXT --><!-- HORIZONTAL RULE-->
+<tr style=3D"BACKGROUND-COLOR: white">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px">
+<hr /></td>
+</tr>
+<!-- END HORIZONTAL RULE--><!-- FOOTER LOCATE YOUR NEAREST DEALER -->
+<tr style=3D"HEIGHT: 250px; BACKGROUND-COLOR: white">
+<td style=3D"PADDING-LEFT: 40px; MARGIN: 0px; PADDING-RIGHT: 0px">
+<table style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-=
+serif; MARGIN: 0px" height=3D"250" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td style=3D"WIDTH: 300px; TEXT-ALIGN: left">
+<p style=3D"MARGIN-BOTTOM: 5px; FONT-SIZE: 28px">Dealers at your service!=
+</p>
+<p style=3D"FONT-SIZE: 14px">Go to our website to find a dealer or<br />
+a service shop near you.</p>
+<p style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: #f15321"><a st=
+yle=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: #f15321" href=3D"ht=
+tp://husqvarna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj=
+7~Pv_J&amp;2=3D6211">Locate your nearest dealer <img alt=3D"link arrow" b=
+order=3D"0" src=3D"http://54.76.127.175/Emails/promos/template-redesign/a=
+ssets/link-arrow.png" /></a></p>
+</td>
+<td style=3D"WIDTH: 300px"><a href=3D"http://husqvarna.custhelp.com/rd?1=3D=
+AvMM~wrnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj7~Pv_J&amp;2=3D6211"><img alt=3D"De=
+alers at your service! Go to our website to find a dealer or a service sh=
+op near you." border=3D"0" src=3D"http://54.76.127.175/Emails/promos/temp=
+late-redesign/assets/dealer-on-phone.png" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- END FOOTER LOCATE YOUR NEAREST DEALER --><!-- FOOTER SOCIAL -->
+<tr style=3D"HEIGHT: 80px; VERTICAL-ALIGN: middle; TEXT-ALIGN: center; BA=
+CKGROUND-COLOR: #ebecef">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px"><a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvM=
+M~wrnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj7~Pv_J&amp;2=3D6212"><img alt=3D"faceb=
+ook" border=3D"0" src=3D"http://54.76.127.175/Emails/promos/template-rede=
+sign/assets/social-facebook.png" width=3D"50" /></a> <a href=3D"http://hu=
+sqvarna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj7~Pv_J&=
+amp;2=3D6214"><img alt=3D"twitter" border=3D"0" src=3D"http://54.76.127.1=
+75/Emails/promos/template-redesign/assets/social-twitter.png" width=3D"50=
+" /></a> <a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb~=
+Gv8O~yI1ockqbov7JiVAcj7~Pv_J&amp;2=3D6215"><img alt=3D"youtube" border=3D=
+"0" src=3D"http://54.76.127.175/Emails/promos/template-redesign/assets/so=
+cial-youtube.png" width=3D"50" /></a>
+<a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb~Gv8O~yI1o=
+ckqbov7JiVAcj7~Pv_J&amp;2=3D6213"><img alt=3D"instagram" border=3D"0" src=
+=3D"http://54.76.127.175/Emails/promos/template-redesign/assets/social-in=
+stagram.png" width=3D"50" /></a></td>
+</tr>
+<!-- END FOOTER SOCIAL --><!-- BLUE FOOTER -->
+<tr>
+<td style=3D"FONT-SIZE: 12px; HEIGHT: 150px; COLOR: white; PADDING-BOTTOM=
+: 10px; TEXT-ALIGN: center; PADDING-TOP: 10px; PADDING-LEFT: 40px; PADDIN=
+G-RIGHT: 40px; BACKGROUND-COLOR: #273a60"><a href=3D"http://husqvarna.cus=
+thelp.com/rd?1=3DAvMM~wrnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj7~Pv_J&amp;2=3D621=
+0"><img alt=3D"Husqvarna, Ready when you are (logo)" border=3D"0" src=3D"=
+http://54.76.127.175/Emails/promos/template-redesign/assets/logo.png" wid=
+th=3D"150" /></a>
+<p>This is a newsletter from Husqvarna Canada Corp. 850 Matheson Blvd. W.=
+ Unit 1, &#160;Mississauga ON L5V 0B4. Please do not respond directly to =
+this e-mail. If you have questions or comments, please <u><a style=3D"TEX=
+T-DECORATION: underline; COLOR: #f15321" href=3D"mailto:marketing.canada@=
+husqvarnagroup.com">contact us</a></u>. We respect your privacy and do no=
+t share or sell email addresses. If you no longer wish to receive emails =
+from Husqvarna please&#160;<u><a style=3D"TEXT-DECORATION: underline; COL=
+OR: #f15321" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb=
+~Gv8O~yI1ockqbov7JiVAcj7~Pv_J&amp;2=3D6229">click here</a></u>. By unsubs=
+cribing you will no longer receive important company updates, product lau=
+nch information and other marketing communications.</p>
+<p>Visit our website:&#160;<a style=3D"TEXT-DECORATION: none; COLOR: whit=
+e" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrnDv8S~xb~Gv8O~yI1o=
+ckqbov7JiVAcj7~Pv_J&amp;2=3D6210">www.husqvarna.com</a> | <a style=3D"TEX=
+T-DECORATION: none; COLOR: #ffffff" href=3D"http://husqvarna.custhelp.com=
+/cgi-bin/husqvarna.cfg/php/ma/unsub.php?1=3DAvMM~wrnDv8S~xb~Gv8O~yI1ockqb=
+ov7JiVAcj7~Pv_J&amp;2=3D100025&amp;3=3D1">Unsubscribe</a></p>
+</td>
+</tr>
+<!-- END BLUE FOOTER --></tbody>
+</table>
+<img alt=3D"" height=3D"1" width=3D"1" style=3D"display: none" src=3D"htt=
+p://husqvarna.custhelp.com/rd/AvMM~wrnDv8S~xb~Gv8O~yI1ockqbov7JiVAcj7~Pv_=
+J.gif"/> </body>
+</html>
+

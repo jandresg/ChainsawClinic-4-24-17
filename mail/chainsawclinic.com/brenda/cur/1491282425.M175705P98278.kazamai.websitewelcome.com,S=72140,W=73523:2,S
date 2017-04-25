@@ -1,0 +1,1383 @@
+Return-Path: <bounces+1605750-ecf7-brenda=chainsawclinic.com@mail7.shared.hubspot.com>
+Delivered-To: brenda@chainsawclinic.com
+Received: from kazamai.websitewelcome.com
+	by kazamai.websitewelcome.com (Dovecot) with LMTP id EQPKCfkp41jmfwEAaocpPg
+	for <brenda@chainsawclinic.com>; Tue, 04 Apr 2017 00:07:05 -0500
+Return-path: <bounces+1605750-ecf7-brenda=chainsawclinic.com@mail7.shared.hubspot.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 04 Apr 2017 00:07:05 -0500
+Received: from o316.mail7.shared.hubspot.com ([167.89.31.181]:45746)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+1605750-ecf7-brenda=chainsawclinic.com@mail7.shared.hubspot.com>)
+	id 1cvGgL-000RAQ-01
+	for brenda@chainsawclinic.com; Tue, 04 Apr 2017 00:07:05 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=hubspot.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-unsubscribe; 
+	s=smtpapi; bh=YKazEQd9X4cZ72NZ3HRO3lTV5e8=; b=zUigVrZceEAqsssZZ0
+	oeRCbdun4jMktuoHL00RBIBKj98L/ma6XnA983SO97GlpgUrfRqlcs2dJEk7KoR5
+	HYvlPtReZ32dj1Twt+N9VhjfrfR5EN5OIGcmsAUULZatS8MXglSyLp4LiJ72bXT7
+	PzWdKXxFIJY/a6j56wpSG7cfA=
+From: ZoomShipR Team <support@zoomshipr.ca>
+Reply-To: support@zoomshipr.ca
+To: brenda@chainsawclinic.com
+Message-ID: <1491282414130.cbac119b-9731-49d9-8e46-a3739aab47bc@mail7.shared.hubspot.com>
+Subject: Great News, Brenda! Our International Shipping Rates have been
+ improved.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_419066_744344669.1491282414212"
+List-Unsubscribe: <mailto:1a1novytaivrzepfm5rtmv8q8zkb59zx8xm8r5s0omku@m.hsms02.com?subject=unsubscribe>, <http://hs.emergeit.com/hs/manage-preferences/unsubscribe-all?v=1&d=eyJlYSI6ImJyZW5kYUBjaGFpbnNhd2NsaW5pYy5jb20iLCJlYyI6NDk1NjU2NDgsInN1YnNjcmlwdGlvbklkIjoyNzg4NjAsImV0IjoxNDkxMjgyNDE0MTMwLCJldSI6ImNiYWMxMTliLTk3MzEtNDlkOS04ZTQ2LWEzNzM5YWFiNDdiYyJ9>
+X-Report-Abuse-To: abuse@hubspot.com (see https://www.hubspot.com/abuse-complaints)
+X-HubSpot-MID: CiRjYmFjMTE5Yi05NzMxLTQ5ZDktOGU0Ni1hMzczOWFhYjQ3Y
+        mMQxs8QGHEgACjQn9EXMMyCEToZYnJlbmRhQGNoYWluc2F3Y2xpbmljL
+        mNvbUCylO+6sytI6gJaIGQ4MmZkZTU4ZWUyYzkzNTBiZDFlZjIzNWE5M
+        mU3MDhlZQAAokJwqFmAAQCKASQ3ODYzMTcxZi04YzVkLTNmNjMtYWE4M
+        C02YzQxMmZmOThhZTSgAQCoAQewAQDIAQHSARRzdXBwb3J0QHpvb21za
+        Glwci5jYeIBEmNoYWluc2F3Y2xpbmljLmNvbQ==
+Date: Tue, 04 Apr 2017 05:06:54 +0000 (UTC)
+X-SG-EID: IuTw9Apubm5pef66PmGnqST8qtdQoP1y1iVhDOMfGVVhguO9feT1im1smhR0+s3NIDnKAJDwakqBEE
+ A2tBgbfeT5QO7igNvLZVOprskksNPNUfionRt83HIB8dvqRWpqf3uS7wiogHigYditabMbGUaPo9+a
+ MJGwSeXX/2Pqu5wkneTwOhGGtrkuOJXh5IE3vUHxSQ6LfdB224KUq3SsCxSACZEFaZ/lzpFqbkbs0/
+ c=
+X-SG-ID: BaKDar+VrkG/S9kwb9JXA5LU9U+girbrBl1gQx7L6u7PQIOcrHk01r53szIESU0FPDiAUwixh8qCL7
+ aCbFBfedaiKEfkvZ2Uxm7ZLu2h/4HkhGPQf08Rs+Nzrad/Y9vvvluniarAKal7259otTXit3k2NrOV
+ O83yuaQ1nzj7bY63MmDEmaLnvOXzsc4nn3WBnr3ZPwdeBZp9Pqa7WEkz6E1jIKYDcvSw9wPGuRi+1/
+ HSRtatlJsN7GiE3KtxUD/BrGtC2bv4fb5YTypk6BH65M0asQfcgLfk9YTsyWBMMaU1LvF7V3Pk4wYT
+ I6JNcJJwu97nGsEE3GXI9FmOtkNzK/WzSdoldWNEY+fLwA66PhSnOQxHVQSVmLPRUDbKqOI4HrjrL4
+ PxnawYjOMu+kdGPV9B4/wA8wj3Ala6JTGWQhLHwqprZ0vRItEG3pbZlQth
+
+------=_Part_419066_744344669.1491282414212
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Ship Fast. Ship Easy. Login now to see your additional savings on Internati=
+onal Shipments - no matter how far away!
+
+Not rendering correctly? View this email as a web page here (http://hs.emer=
+geit.com/great-news-contact.firstname-our-international-shipping-rates-have=
+-been-improved?ecid=3DACsprvvUq4sIDmy90IG9UG4O7kaTjT4VeDJM3F2_nYbWgc4B_vP8T=
+S-Pn95fN_SKkJfLwVpTGURd&utm_campaign=3DInternation%20Shipping%20Reduced&utm=
+_source=3Dhs_email&utm_medium=3Demail&utm_content=3D49565648&_hsenc=3Dp2ANq=
+tz-8u8nrt3ywwUBglChJWnpTr50Nl2As9dtLEeHQWjVmanHR07KS3uQdK4xQwwkqAuni4KPrIFr=
+TdkhxkIdm2pW_GVdtkCQ&_hsmi=3D49565648) .
+
+zoomshipr-logo.png (http://shiptime.com/?utm_campaign=3DInternation%20Shipp=
+ing%20Reduced&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D495656=
+48&_hsenc=3Dp2ANqtz--mwUze36vF8GlvnrLB-rBjFPBst8lQFYdeoF_eDNhEldG-NpR1X9u1j=
+8wBh57YeHqdgS9ib2HqaCqic2fftE77xhs-Uw&_hsmi=3D49565648)
+
+With ZoomShipR, the world is closer!
+
+NewADFeb2017-1.jpg (https://www.zoomshipr.ca/?utm_campaign=3DInternation%20=
+Shipping%20Reduced&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D4=
+9565648&_hsenc=3Dp2ANqtz-9_MGgyqrIWzpq1M_dAmh2q9GvchYYGWFQ601lcV2BEJ3rBRoJX=
+MC-pWliqUirdY3akzjcS-ztj8_DBOXkFf_gKflnDpw&_hsmi=3D49565648)
+
+Want to save even more on international shipments?
+
+Dear Brenda,
+
+We have negotiated improved savings on many of our international shipping r=
+ates to make it less expensive to ship your envelopes and packages to anywh=
+ere in the world -  no matter how far away.
+
+Just our way of saying thank you for being part of the family.
+
+Use Your ZoomShipR account (https://www.zoomshipr.ca/?utm_campaign=3DIntern=
+ation%20Shipping%20Reduced&utm_source=3Dhs_email&utm_medium=3Demail&utm_con=
+tent=3D49565648&_hsenc=3Dp2ANqtz-8U-QHnfO1_6EzGYqTO1E_k91sXKrxU4qz-FO-NW2D9=
+oO1VAQ3lq2Z26TBpoMceNW29NBz_7R6anEFOZ7E6TPeym2NKpA&_hsmi=3D49565648#) today=
+ and spring into your added savings!
+
+Compare Rates and Ship Now (https://cta-image-cms2.hubspot.com/ctas/v2/publ=
+ic/cs/ci/?pg=3D601c847c-9d11-4657-8718-d046ec316e43&pid=3D272326&ecid=3DACs=
+prvvUq4sIDmy90IG9UG4O7kaTjT4VeDJM3F2_nYbWgc4B_vP8TS-Pn95fN_SKkJfLwVpTGURd&h=
+seid=3D49565648&hsic=3Dfalse&utm_rewrite=3DREWRITE_ALL&utm_campaign=3DInter=
+nation%20Shipping%20Reduced&utm_source=3Dhs_email&utm_medium=3Demail&utm_co=
+ntent=3D49565648&_hsenc=3Dp2ANqtz-_1g1nEpJ5vUSxCiBt1gOO0a0lRnPsvIv5wH7uTB1k=
+v6SFxZqcl9mEJT1o6BBR3Ufu85GwTuSyofOjSzPnfuocTmrFgKQ&_hsmi=3D49565648)
+
+If it=E2=80=99s been a while since you logged into ZoomShipR, don=E2=80=99t=
+ worry!
+You can recover your password or login here. (https://www.zoomshipr.ca/?utm=
+_campaign=3DInternation%20Shipping%20Reduced&utm_source=3Dhs_email&utm_medi=
+um=3Demail&utm_content=3D49565648&_hsenc=3Dp2ANqtz-9b9mjkUpWj6IXYGT3olv0tJk=
+oa42cBD3zU3aLftua-55FXsjXUxJGEzMI0XbU44zwuWFQChD4vZS8HomAqoADUAmEVQg&_hsmi=
+=3D49565648#)
+
+Call our Heroic Support Team at 1-877-309-2710
+
+Monday to Friday 8am to 8pm (EST)
+
+Share on Facebook (http://www.facebook.com/share.php?u=3Dhttp%3A%2F%2Fhs.em=
+ergeit.com%2Fgreat-news-contact.firstname-our-international-shipping-rates-=
+have-been-improved%3Futm_medium%3Dsocial%26utm_source%3Dfacebook&utm_campai=
+gn=3DInternation%20Shipping%20Reduced&utm_source=3Dhs_email&utm_medium=3Dem=
+ail&utm_content=3D49565648&_hsenc=3Dp2ANqtz-_mL14lgNpaqbhMTSAmt4vK0d5HT6SkG=
+zt2gLpVtBa_iEZx4hBlHOKq3ERDIymp6eJZ49Xpga6K9SQ_PiNAz9qjvijakQ&_hsmi=3D49565=
+648)  Share on LinkedIn (http://www.linkedin.com/shareArticle?mini=3Dtrue&u=
+rl=3Dhttp%3A%2F%2Fhs.emergeit.com%2Fgreat-news-contact.firstname-our-intern=
+ational-shipping-rates-have-been-improved%3Futm_medium%3Dsocial%26utm_sourc=
+e%3Dlinkedin&utm_campaign=3DInternation%20Shipping%20Reduced&utm_source=3Dh=
+s_email&utm_medium=3Demail&utm_content=3D49565648&_hsenc=3Dp2ANqtz-_4xqjwVb=
+1N6q9OuTc0RnAIgrFXpBgFWAkxNXrvvR6lPxJtQ3gWGRtn9aJDARdoSu-_iT_KC5lKFDdYvhUbn=
+RkXuLBsLg&_hsmi=3D49565648)  Share on Twitter (https://twitter.com/intent/t=
+weet?original_referer=3Dhttp%3A%2F%2Fhs.emergeit.com%2Fgreat-news-contact.f=
+irstname-our-international-shipping-rates-have-been-improved%3Futm_medium%3=
+Dsocial%26utm_source%3Dtwitter&url=3Dhttp%3A%2F%2Fhs.emergeit.com%2Fgreat-n=
+ews-contact.firstname-our-international-shipping-rates-have-been-improved%3=
+Futm_medium%3Dsocial%26utm_source%3Dtwitter&source=3Dtweetbutton&text=3DGre=
+at+News%2C+Brenda%21+Our+International+Shipping+Rates+have+been+improved&ut=
+m_campaign=3DInternation%20Shipping%20Reduced&utm_source=3Dhs_email&utm_med=
+ium=3Demail&utm_content=3D49565648&_hsenc=3Dp2ANqtz-_Ldf-4M729eIWktBLNDXx3L=
+MuI9o2TrvDPTwsubAoNooTcE1BR1iCakUa4kd_QDl0IRUFdjuEG7djcWDBj9xjCQhKzDw&_hsmi=
+=3D49565648.)
+
+ShipTime Inc.   700 Dorval Drive  302  Oakville,  ON   L6K 3V3   Canada
+
+You received this email because you are subscribed to Account Information f=
+rom ShipTime Inc.
+
+Update your email preferences (http://hs.emergeit.com/hs/manage-preferences=
+/unsubscribe?v=3D1&d=3DeyJlYSI6ImJyZW5kYUBjaGFpbnNhd2NsaW5pYy5jb20iLCJlYyI6=
+NDk1NjU2NDgsInN1YnNjcmlwdGlvbklkIjoyNzg4NjAsImV0IjoxNDkxMjgyNDE0MTMwLCJldSI=
+6ImNiYWMxMTliLTk3MzEtNDlkOS04ZTQ2LWEzNzM5YWFiNDdiYyJ9&utm_campaign=3DIntern=
+ation%20Shipping%20Reduced&utm_source=3Dhs_email&utm_medium=3Demail&utm_con=
+tent=3D49565648&_hsenc=3Dp2ANqtz-97P-X2wNDSW7bcCiS3xY8p4eAzVulzOc2y3iWrgPuq=
+pzL4OnXLvvMEoiASdXCz-7RMQAgy6qjO4hNyPxs-U5M4FawE5A&_hsmi=3D49565648) to cho=
+ose the types of emails you receive.
+
+Unsubscribe from all future emails (http://hs.emergeit.com/hs/manage-prefer=
+ences/unsubscribe-all?v=3D1&d=3DeyJlYSI6ImJyZW5kYUBjaGFpbnNhd2NsaW5pYy5jb20=
+iLCJlYyI6NDk1NjU2NDgsInN1YnNjcmlwdGlvbklkIjoyNzg4NjAsImV0IjoxNDkxMjgyNDE0MT=
+MwLCJldSI6ImNiYWMxMTliLTk3MzEtNDlkOS04ZTQ2LWEzNzM5YWFiNDdiYyJ9&utm_campaign=
+=3DInternation%20Shipping%20Reduced&utm_source=3Dhs_email&utm_medium=3Demai=
+l&utm_content=3D49565648&_hsenc=3Dp2ANqtz-_Ks098-7YuYWjTEfpurqbd5m2-UCkmlCp=
+ptBdmGwRXKoBvbGRmlf8iShWI7tPPH3AZKzgcLkR5GmsrZPW2U2PQ322ViA&_hsmi=3D4956564=
+8)=
+
+------=_Part_419066_744344669.1491282414212
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- start coded_template: id:1629262513 =
+path:generated_layouts/1629262498.html --><html xmlns=3D"http://www.w3.org/=
+1999/xhtml"><head>
+        <title>Great News, Brenda! Our International Shipping Rates have be=
+en improved.</title>
+        <meta property=3D"og:title" content=3D"Great News, Brenda! Our Inte=
+rnational Shipping Rates have been improved.">
+        <meta name=3D"twitter:title" content=3D"Great News, Brenda! Our Int=
+ernational Shipping Rates have been improved.">
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8">
+=20=20=20=20=20=20=20=20
+         <style type=3D"text/css" id=3D"hs-inline-css">
+        /*<![CDATA[*/
+            /* everything in this node will be inlined */
+
+            /* =3D=3D=3D=3D Page Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            body, #backgroundTable {
+                background-color: #ffffff; /* Use body to determine backgro=
+und color */
+                font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #templateTable {
+                width: 600px;
+                background-color: #ffffff;
+                -webkit-font-smoothing: antialiased;
+            }
+
+            h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+                color:#444444;
+                display:block;
+                font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+                font-weight:bold;
+                line-height:100%;
+                margin-top:0;
+                margin-right:0;
+                margin-bottom:10px;
+                margin-left:0;
+                text-align:left;
+            }
+
+            h1, .h1 {
+                font-size:26px;
+            }
+
+            h2, .h2 {
+                font-size:20px;
+            }
+
+            h3, .h3 {
+                font-size:15px;
+            }
+
+            h4, .h4 {
+                font-size:13px;
+            }
+
+            h5, .h5 {
+                font-size:11px;
+            }
+
+            h6, .h6 {
+                font-size:10px;
+            }
+
+            /* =3D=3D=3D=3D Header Styles =3D=3D=3D=3D */
+
+            #headerTable {
+                background-color: #ffffff;
+                color:#444444;
+                font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+                font-size:10px;
+                line-height:120%;
+                text-align:right;
+                border-collapse: separate !important;
+                padding-right: 30px;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #headerTable a:link, #headerTable a:visited, /* Yahoo! Mail Ove=
+rride */ #headerTable a .yshortcuts /* Yahoo! Mail Override */{
+                font-weight:normal;
+                text-decoration:underline;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            /* =3D=3D=3D=3D Template Wrapper Styles =3D=3D=3D=3D */
+
+            #contentCell {
+                padding: 10px 20px;
+                background-color: #ffffff;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+            #contentTableOuter {
+                border-collapse: separate !important;
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                background-color: #ffffff;
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                box-shadow: 0px 1px rgba(0, 0, 0, 0.1);
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+                padding: 30px;
+            }
+
+            #contentTableInner {
+                width: 600px;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            /* =3D=3D=3D=3D Body Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            .bodyContent {
+                color:#444444;
+                font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+                font-size: 15px;
+                line-height:150%;
+                text-align:left;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            /* =3D=3D=3D=3D Column Styles =3D=3D=3D=3D */
+
+            table.columnContentTable {
+                border-collapse:separate !important;
+                border-spacing:0;
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                background-color: #ffffff;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            td[class~=3D"columnContent"] {
+                color:#444444;
+                font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+                font-size:15px;
+                line-height:120%;
+                padding-top:20px;
+                padding-right:20px;
+                padding-bottom:20px;
+                padding-left:20px;
+            }
+
+            /* =3D=3D=3D=3D Footer Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #footerTable {
+                background-color: #ffffff;
+            }
+
+            #footerTable a {
+                color: #C15326;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #footerTable {
+                color:#C15326;
+                font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+                font-size:12px;
+                line-height:120%;
+                padding-top:20px;
+                padding-right:20px;
+                padding-bottom:20px;
+                padding-left:20px;
+                text-align:center;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #footerTable a:link, #footerTable a:visited, /* Yahoo! Mail Ove=
+rride */ #footerTable a .yshortcuts /* Yahoo! Mail Override */{
+                font-weight:normal;
+                text-decoration:underline;
+            }
+
+            .hs-image-social-sharing-24 {
+                max-width: 24px;
+                max-height: 24px;
+            }
+
+            /* =3D=3D=3D=3D Standard Resets =3D=3D=3D=3D */
+            .ExternalClass{
+                width:100%;
+            } /* Force Hotmail to display emails at full width */
+            .ExternalClass, .ExternalClass p, .ExternalClass span, .Externa=
+lClass font, .ExternalClass td, .ExternalClass div {
+                line-height: 100%;
+            } /* Force Hotmail to display normal line spacing */
+            body, table, td, p, a, li, blockquote{
+                -webkit-text-size-adjust:100%;
+                -ms-text-size-adjust:100%;
+            } /* Prevent WebKit and Windows mobile changing default text si=
+zes */
+            table, td {
+                mso-table-lspace:0pt;
+                mso-table-rspace:0pt;
+            } /* Remove spacing between tables in Outlook 2007 and up */
+            img {
+                vertical-align: bottom;
+                -ms-interpolation-mode:bicubic;
+            } /* Allow smoother rendering of resized image in Internet Expl=
+orer */
+=20=20=20=20
+            /* Reset Styles */
+            body {
+                margin:0;
+                padding:0;
+            }
+            table {
+                border-collapse:collapse !important;
+            }
+            body, #backgroundTable, #bodyCell{
+                height:100% !important;
+                margin:0;
+                padding:0;
+                width:100% !important;
+            }
+            a:link, a:visited {
+                border-bottom: none;
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20
+            /* iOS automatically adds a link to addresses */
+            /* Style the footer with the same color as the footer text */
+            #footer a {
+                color: #C15326;;
+                -webkit-text-size-adjust: none;
+                text-decoration: underline;
+                font-weight: normal
+            }
+        /*]]>*/
+    </style>
+
+         <style type=3D"text/css">
+        /*<![CDATA[*/
+            /* =3D=3D=3D=3D Mobile Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            /* Constrain email width for small screens */
+            @media screen and (max-width: 650px) {
+                table[id=3D"backgroundTable"] {
+                    width: 95% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                table[id=3D"templateTable"] {
+                    max-width:600px !important;
+                    width:100% !important;
+                }
+
+                table[id=3D"contentTableInner"] {
+                    max-width:600px !important;
+                    width:100% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20
+                /* Makes image expand to take 100% of width*/
+                img {
+                    width: 100% !important;
+                    height: auto !important;
+                }
+
+                #contentCell {
+                    padding: 10px 10px !important;
+                }
+
+                #headerTable {
+                    padding-right: 15.0px !important;
+                }
+
+                #contentTableOuter {
+                    padding: 15.0px !important;
+                }
+            }
+
+            @media only screen and (max-width: 480px) {
+                /* =3D=3D=3D=3D Client-Specific Mobile Styles =3D=3D=3D=3D =
+*/
+                body, table, td, p, a, li, blockquote{
+                    -webkit-text-size-adjust:none !important;
+                } /* Prevent Webkit platforms from changing default text si=
+zes */
+                body{
+                    width:100% !important;
+                    min-width:100% !important;
+                } /* Prevent iOS Mail from adding padding to the body */
+
+                /* =3D=3D=3D=3D Mobile Reset Styles =3D=3D=3D=3D */
+                td[id=3D"bodyCell"] {
+                    padding:10px !important;
+                }
+
+                /* =3D=3D=3D=3D Mobile Template Styles =3D=3D=3D=3D */
+=20=20=20=20
+                table[id=3D"templateTable"] {
+                    max-width:600px !important;
+                    width:100% !important;
+                }
+
+                table[id=3D"contentTableInner"] {
+                    max-width:600px !important;
+                    width:100% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                /* =3D=3D=3D=3D Image Alignment Styles =3D=3D=3D=3D */
+
+                h1, .h1 {
+                    font-size:26px !important;
+                    line-height:125% !important;
+                }
+
+                h2, .h2 {
+                    font-size:20px !important;
+                    line-height:125% !important;
+                }
+
+                h3, .h3 {
+                    font-size:15px !important;
+                    line-height:125% !important;
+                }
+
+                h4, .h4 {
+                    font-size:13px !important;
+                    line-height:125% !important;
+                }
+
+                h5, .h5 {
+                    font-size:11px !important;
+                    line-height:125% !important;
+                }
+
+                h6, .h6 {
+                    font-size:10px !important;
+                    line-height:125% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                .hide {
+                    display:none !important;
+                } /* Hide to save space */
+
+                /* =3D=3D=3D=3D Body Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                td[class=3D"bodyContent"] {
+                    font-size:16px !important;
+                    line-height:145% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                /* =3D=3D=3D=3D Footer Styles =3D=3D=3D=3D */
+
+                td[id=3D"footerTable"]{
+                    padding-left: 0px !important;
+                    padding-right: 0px !important;
+                    font-size:12px !important;
+                    line-height:145% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                /* =3D=3D=3D=3D Image Alignment Styles =3D=3D=3D=3D */
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                table[class=3D"alignImageTable"] {
+                    width: 100% !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                td[class=3D"imageTableTop"] {
+                    display: none !important;
+                    /*padding-top: 10px !important;*/
+                }
+                td[class=3D"imageTableRight"] {
+                    display: none !important;
+                }
+                td[class=3D"imageTableBottom"] {
+                    padding-bottom: 10px !important;
+                }
+                td[class=3D"imageTableLeft"] {
+                    display: none !important;
+                }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                /* =3D=3D=3D=3D Column Styles =3D=3D=3D=3D */
+
+                td[class~=3D"column"] {
+                    display: block !important;
+                    width: 100% !important;
+                    padding-top: 0 !important;
+                    padding-right: 0 !important;
+                    padding-bottom: 0 !important;
+                    padding-left: 0 !important;
+                }
+
+                td[class~=3DcolumnContent] {
+                    font-size:14px !important;
+                    line-height:145% !important;
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    padding-top: 10px !important;
+                    padding-right: 10px !important;
+                    padding-bottom: 10px !important;
+                    padding-left: 10px !important;
+                }
+
+                #contentCell {
+                    padding: 10px 0px !important;
+                }
+
+                #headerTable {
+                    padding-right: 15.0px !important;
+                }
+
+                #contentTableOuter {
+                    padding: 15.0px !important;
+                }
+            }
+        /*]]>*/
+    </style>
+
+        <!-- http://www.emailon@cid.com/blog/details/C13/ensure_that_your_e=
+ntire_email_is_rendered_by_default_in_the_iphone_ipad -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                               =
+                                                      -->
+        <!--                            _/    _/            _/          _/_=
+/_/                        _/                         -->
+        <!--                           _/    _/  _/    _/  _/_/_/    _/    =
+    _/_/_/      _/_/    _/_/_/_/                      -->
+        <!--                          _/_/_/_/  _/    _/  _/    _/    _/_/ =
+   _/    _/  _/    _/    _/                           -->
+        <!--                         _/    _/  _/    _/  _/    _/        _/=
+  _/    _/  _/    _/    _/                            -->
+        <!--                        _/    _/    _/_/_/  _/_/_/    _/_/_/   =
+ _/_/_/      _/_/        _/_/                         -->
+        <!--                                                               =
+_/                                                    -->
+        <!--                                                              _=
+/                                                     -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                 Extra White Sp=
+ace!                                                  -->
+        <!--                                                               =
+                                                      -->
+        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - =
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+=20=20=20=20=20=20=20=20
+    <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" =
+content=3D"http://hs.emergeit.com/great-news-contact.firstname-our-internat=
+ional-shipping-rates-have-been-improved"></head>
+    <body class=3D"" style=3D"background-color:#ffffff; font-family:'Helvet=
+ica Neue', Helvetica, Arial, sans-serif; -webkit-text-size-adjust:100%; -ms=
+-text-size-adjust:100%; height:100% !important; margin:0; padding:0; width:=
+100% !important" leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginh=
+eight=3D"0" offset=3D"0" bgcolor=3D"#ffffff" height=3D"100% !important" wid=
+th=3D"100% !important">
+        <!-- Preview text (text which appears right after subject) -->
+        <div id=3D"preview_text" style=3D"display:none;font-size:1px;color:=
+#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hid=
+den;">
+            Ship Fast. Ship Easy. Login now to see your additional savings =
+on International Shipments - no matter how far away!
+        </div>
+
+        <!--  The  backgroundTable table manages the color of the backgroun=
+d and then the templateTable maintains the body of=20
+        the email template, including preheader & footer. This is the only =
+table you set the width of to, everything else is set to=20
+        100% and in the CSS above. Having the width here within the table i=
+s just a small win for Lotus Notes. -->
+
+        <!-- Begin backgroundTable -->=20=20
+        <table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" height=3D"100% !important" width=3D"100% !importa=
+nt" id=3D"backgroundTable" style=3D"-webkit-text-size-adjust:100%; -ms-text=
+-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-colla=
+pse:collapse !important; background-color:#ffffff; font-family:'Helvetica N=
+eue', Helvetica, Arial, sans-serif; height:100% !important; margin:0; paddi=
+ng:0; width:100% !important">
+            <tbody><tr>
+                <td align=3D"center" valign=3D"top" id=3D"bodyCell" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; height:100% !important; margin:0; padding:0;=
+ width:100% !important" height=3D"100% !important" width=3D"100% !important=
+"> <!-- When nesting tables within a TD, align center keeps it well, center=
+ed. -->
+                    <!-- Begin Template Container -->
+                    <!-- This holds everything together in a nice container=
+ -->
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ id=3D"templateTable" style=3D"-webkit-text-size-adjust:100%; -ms-text-size=
+-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:c=
+ollapse !important; width:600px; background-color:#ffffff; -webkit-font-smo=
+othing:antialiased" width=3D"600" bgcolor=3D"#ffffff">
+                        <tbody><tr>
+                            <td align=3D"center" valign=3D"top" style=3D"-w=
+ebkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0p=
+t; mso-table-rspace:0pt">
+                                <!-- Begin Template Preheader -->
+                                <div class=3D"header-container-wrapper">
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" id=3D"headerTable" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-=
+adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; background-color:#=
+ffffff; color:#444444; font-family:'Helvetica Neue', Helvetica, Arial, sans=
+-serif; font-size:10px; line-height:120%; text-align:right; border-collapse=
+:separate !important; padding-right:30px" bgcolor=3D"#ffffff" align=3D"righ=
+t">
+                                    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; l=
+ine-height:1.5em; color:#444444" align=3D"left">
+
+<div class=3D"widget-span widget-type-email_view_as_web_page " style=3D"" d=
+ata-widget-type=3D"email_view_as_web_page">
+
+<div style=3D"padding-top: 15px; font-family: Geneva, Verdana, Arial, Helve=
+tica, sans-serif; text-align: right; font-size: 9px; line-height: 1.34em; c=
+olor: #C15326">
+    Not rendering correctly? View this email as a web page <a class=3D"hubs=
+pot-mergetag" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:=
+100%; color:#C15326; text-decoration:underline; white-space:nowrap" data-vi=
+ewaswebpage=3D"true" href=3D"http://hs.emergeit.com/e1t/c/*VMSDJ68nCgQBW6Nx=
+w2z2YnyP-0/*VPJMGl47k_g8W3pzBXy2tV9Q90/5/f18dQhb0S66Y6XNQnnW12NW1f1NmcWHW51=
+kXHy5VXjM9W7F9gLL7JNyW9W7LBLKX5pR7xXW3gYylN3Q8TnTW8hS1Dd4HC40qVW5dsQ6btqxWM=
+M-w-L63GYxVKFb8r4HRkhPW5Qv26X5R1tVtW7dlcR31M5B6fW58DsCW8nL9yZW45JpZC5NG9T4W=
+6JKC7_1l1t7bV55d8b3Nyr7FW1CZl6X2m2XP5W1pmZn-2lS8TSW5TDR5b7nSNDbW2MrvCM4Xqgn=
+SW5RCm9m3dFhF6W5b9Kfl23Ml_NW8pZ4Tw4L878jW5v-YX67G6pZ_W4tWrq07Kd-Y_W69hsVQ1x=
+LRg3W8CblJN21WBzfW8h9FS32NTHMcW3VkWfr7P3H5MW25TfSp7LhBgNW139N2l5Tx0P6W7lYly=
+35fsQ53W98fPfh1Hv-G5W25GQvj2scFTLW470jbn4vcpKKW8x3VlT7-WVKmW5hjH2q48T5B-W45=
+Q39M2kk8z9Vmvt7q6FVk8KW2gTsg16QyfsFN1Y01BHXx5lHW8LrJYG3t7r79W6xq_lF8nJ3L_W5=
+QWsC449YMYdW71KCl91JCy37W6mKwRv4WfrH1W4gJM111Y8zPGVp0ftt5HCQn_W3k9dYM7CMm-_=
+W3D00gw4v99XvW1tl9Rk47H9V1W1RLgMQ4pQZ3YW49YcX22zz1DfW88cR446h3fYrW6qfS2K91b=
+B_yW8SkFYT8GBFbmW6h2pWB44f953W4m8Kdh5SqPygW41ml6X3bD-YHf6gXjVl11" data-hs-l=
+ink-id=3D"0" target=3D"_blank">here</a>.
+</div>
+
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<!--end header wrapper -->
+                                </tbody></table>
+                                <!-- End Template Preheader -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align=3D"center" valign=3D"top" id=3D"conte=
+ntCell" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; =
+mso-table-lspace:0pt; mso-table-rspace:0pt; padding:10px 20px; background-c=
+olor:#ffffff" bgcolor=3D"#ffffff">
+                                <!-- Begin Template Wrapper -->
+                                <!-- This separates the preheader which usu=
+ally contains the "open in browser, etc" content
+                                from the actual body of the email. Can alte=
+rnatively contain the footer too, but I choose not
+                                to so that it stays outside of the border. =
+-->
+                                <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" id=3D"contentTableOuter" style=3D"-webkit-text-=
+size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-tabl=
+e-rspace:0pt; border-collapse:separate !important; background-color:#ffffff=
+; box-shadow:0px 1px rgba(0, 0, 0, 0.1); padding:30px; border:1px solid #d9=
+d9d9; border-bottom:1px solid #b9b9b9" bgcolor=3D"#ffffff">
+                                    <tbody><tr>
+                                        <td align=3D"center" valign=3D"top"=
+ style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-tab=
+le-lspace:0pt; mso-table-rspace:0pt">
+                                            <div class=3D"body-container-wr=
+apper">
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"content=
+TableInner" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:10=
+0%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !i=
+mportant; width:600px" width=3D"600">
+                                                <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; l=
+ine-height:1.5em; color:#444444" align=3D"left">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"6" width=3D"50.0%" class=3D" column" style=3D=
+"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace=
+:0pt; mso-table-rspace:0pt; width:50.0%; text-align:left; padding:0; font-f=
+amily:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-=
+height:1.5em; color:#444444" align=3D"left">
+
+<div class=3D"widget-span widget-type-logo " style=3D"padding-bottom:20px;"=
+ data-widget-type=3D"logo">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_logo_image" class=3D"hs_cos_wrapper hs_cos_wrappe=
+r_widget hs_cos_wrapper_type_logo" style=3D"color: inherit; font-size: inhe=
+rit; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos=
+-type=3D"logo"><a href=3D"http://hs.emergeit.com/e1t/c/*VMSDJ68nCgQBW6Nxw2z=
+2YnyP-0/*W3Wn-pH65dmxJW3Dh3t66Z9Hw70/5/f18dQhb0Sjv78YHtdnW7X6njt2qwv1fW2MDC=
+Gt1TNPHpMf5wqnXD6prN39Dr-9YwlGmW5DjTKg7nwMJHW90G7th8S3yR5VbY02S4s86chW1njGY=
+D50Cw2DW4s2-Mq73jjcGW5CRkYj3LVbG8N3T2_kjZTmzXW4DqHqz6dgmw3W4yv2r03LmJLKW20Y=
+98h1YfY96W727L4r5JXzdCW6qQkLP8R1PVWW4yc3CK3sSDqDW5kmcLG2Jb9QhW2JgNR54cJx8QW=
+6rQSs264xFZwW4yqprG2_9NFXW2lSy-16nfDCqW5rnKtr60DZVRW3CPjFz3FFyvnW4ymqSm64wL=
+WXW2HJr-l6bb7frW2Bx8n166qVjsW50TyY_60L58BW4mH93-2y5B5BW6vxgwz6p0MKLW74CTDW3=
+7P0d4W15hnZl2-9yLRW2HzVnp1wZrZZVYnY4t7cN1n5W25G0_m7lSxmDW1Ngx1f51bgpGW3vphy=
+_6S77ptVVpn7x2hNtH3N8q-grpXD7XmW4scP1f6G6v46N4Pv86f5Y2nRf2bHkk702" id=3D"hs=
+-link-logo_image" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adj=
+ust:100%; border-width:0px; border:0px" data-hs-link-id=3D"0" target=3D"_bl=
+ank"><img src=3D"https://cdn2.hubspot.net/hub/272326/file-1092158421-png/zo=
+omshipr-logo.png?width=3D303&amp;name=3Dzoomshipr-logo.png" class=3D"hs-ima=
+ge-widget " style=3D"vertical-align:bottom; -ms-interpolation-mode:bicubic;=
+ max-height:95px; max-width:303px; border-width:0px; border:0px" width=3D"3=
+03" alt=3D"zoomshipr-logo.png" title=3D"zoomshipr-logo.png" srcset=3D"https=
+://cdn2.hubspot.net/hub/272326/file-1092158421-png/zoomshipr-logo.png?width=
+=3D303&amp;name=3Dzoomshipr-logo.png 303w, https://cdn2.hubspot.net/hub/272=
+326/file-1092158421-png/zoomshipr-logo.png?width=3D606&amp;name=3Dzoomshipr=
+-logo.png 606w" sizes=3D"(max-width: 303px) 100vw, 303px"></a></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+       </td>
+<td valign=3D"top" colspan=3D"6" width=3D"50.0%" class=3D" column" style=3D=
+"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace=
+:0pt; mso-table-rspace:0pt; width:50.0%; text-align:left; padding:0; font-f=
+amily:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-=
+height:1.5em; color:#444444" align=3D"left">
+
+<div class=3D"widget-span widget-type-raw_html " style=3D"" data-widget-typ=
+e=3D"raw_html">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_14107925392541828" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style=3D"color: inheri=
+t; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"w=
+idget" data-hs-cos-type=3D"raw_html"></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+</tbody></table>
+</td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; l=
+ine-height:1.5em; color:#444444; padding:0px 0px 8px 0px" align=3D"left">
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:separate !important; border=
+-spacing:0; border-radius:8px; background-color:#2282c7" class=3D" columnCo=
+ntentTable" bgcolor=3D"#2282c7"><tbody><tr><td align=3D"left" valign=3D"top=
+" class=3D"columnContent widget-span widget-type-rich_text" style=3D"-webki=
+t-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; m=
+so-table-rspace:0pt; text-align:left; padding:0; font-family:'Helvetica Neu=
+e', Helvetica, Arial, sans-serif; font-size:15px; line-height:1.5em; color:=
+#444444; padding:10px 0px 7px 0px" data-widget-type=3D"rich_text">
+
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1489154669342484" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style=3D"color: inheri=
+t; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"w=
+idget" data-hs-cos-type=3D"rich_text"><h2 style=3D"color:#444444; display:b=
+lock; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-weig=
+ht:bold; line-height:100%; margin-top:0; margin-right:0; margin-bottom:10px=
+; margin-left:0; font-size:20px; text-align:center" align=3D"center"><span =
+style=3D"color: #ffffff; font-size: 24px;">With ZoomShipR, the world is clo=
+ser!</span></h2></div>
+</div><!--end layout-widget-wrapper -->
+</td></tr></tbody></table><!--end widget-table -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; l=
+ine-height:1.5em; color:#444444; border-radius:8px; margin-top:50px; backgr=
+ound-color:#EA733C; padding:10px 15px 10px 15px; margin:100px 0px 0px 0px" =
+align=3D"left" bgcolor=3D"#EA733C">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; l=
+ine-height:1.5em; color:#444444; padding:0px 0px 20px 0px" align=3D"left">
+
+<div class=3D"widget-span widget-type-rich_text " style=3D"" data-widget-ty=
+pe=3D"rich_text">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_14107939325541133" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style=3D"color: inher=
+it; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"=
+widget" data-hs-cos-type=3D"rich_text"><h1 style=3D"color:#444444; display:=
+block; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-wei=
+ght:bold; line-height:100%; margin-top:0; margin-right:0; margin-bottom:10p=
+x; margin-left:0; text-align:left; font-size:26px" align=3D"left"><a href=
+=3D"http://hs.emergeit.com/e1t/c/*VMSDJ68nCgQBW6Nxw2z2YnyP-0/*W48h_0s3n7NXF=
+W2qQ0YM3tY4Wz0/5/f18dQhb0SbTR8XJ8K-W7X6njt2qwv1fW2MDCGt1TNPHpMf5c-0XD6prW7c=
+mS1s8pCQ6vW37FtWp7bWhtGW2y4Ql1999f65W6PVKcr6N3nBLW8xGZN44r1Pl9W4rQbdX96dHLx=
+MfkKgkc2CScW2m3yJj2KRk7dW52vv9C2RQjvJW2-J-SL2z_tPYN41Q2Wg-zgqsW41TlcR3Tx3Jb=
+W5TgpJR7DqVVdW3kJMvb6GcPSdW8QKpyr4sj3hVW2BcyM91mGWjzVDySbT620ccmW7mDpQc61Q2=
+GLW1Ky5zK5kbFQQW5Xrndg96mg1jW1qQRJQ4F5cgSW3K0mQm4syl01W25vCWN8f5Jz6W7mWfTK3=
+Bbk_BW8Sn8sk36_h2gW3z4jGm2HRpvqW7yLr6S3M3C9cW2hT5bj6SSJNcVcb0hT3kYc04W4p7yD=
+T2ByqWNW1p7NGM61SdfTN3Nwq-zNLZghW8szb-_1qPD_JW8rTsg-7mtWScW8Gs3P34jFm-1W56b=
+scG41FGWTW4dJlNW3Yq0l9W1_7MqG3YwfQnW4Pxhj53DlwBbW4--z7m37JpNz0" style=3D"-w=
+ebkit-text-size-adjust:100%; -ms-text-size-adjust:100%" data-hs-link-id=3D"=
+0" target=3D"_blank"><img src=3D"https://cdn2.hubspot.net/hub/272326/hubfs/=
+NewADFeb2017-1.jpg?width=3D640&amp;name=3DNewADFeb2017-1.jpg" alt=3D"NewADF=
+eb2017-1.jpg" width=3D"640" title=3D"NewADFeb2017-1.jpg" caption=3D"false" =
+data-constrained=3D"true" style=3D"vertical-align:bottom; -ms-interpolation=
+-mode:bicubic; width:640px; max-width:640px" srcset=3D"https://cdn2.hubspot=
+.net/hub/272326/hubfs/NewADFeb2017-1.jpg?width=3D640&amp;name=3DNewADFeb201=
+7-1.jpg 640w, https://cdn2.hubspot.net/hub/272326/hubfs/NewADFeb2017-1.jpg?=
+width=3D1280&amp;name=3DNewADFeb2017-1.jpg 1280w" sizes=3D"(max-width: 640p=
+x) 100vw, 640px"></a></h1>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%; text-align:center" align=3D"center"><span style=3D"font-size=
+: 18px;"><strong><span style=3D"color: #ffffff;">Want to save even more on =
+international shipments?&nbsp;</span></strong></span></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><span style=3D"color: #ffffff;"><span style=3D"font-family: =
+verdana, geneva;">Dear&nbsp;Brenda,</span></span></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%; text-align:left" align=3D"left"><span style=3D"color: #fffff=
+f; font-family: verdana, geneva;">We have negotiated improved savings on ma=
+ny of our international shipping rates to make it less expensive to ship yo=
+ur envelopes and packages to anywhere in the world - &nbsp;no matter how fa=
+r away.&nbsp;</span></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%; text-align:center" align=3D"center"><span style=3D"color: #f=
+fffff; font-family: verdana, geneva;">Just our way of saying thank you for =
+being part of the family.</span></p>
+<center></center><center><span style=3D"color: #ffffff; font-family: verdan=
+a, geneva;"><a href=3D"http://hs.emergeit.com/e1t/c/*VMSDJ68nCgQBW6Nxw2z2Yn=
+yP-0/*W3CqJ0w7z5QWJW7YYJll5T3wdZ0/5/f18dQhb0SbTM8XJ8K-W7X6njt2qwv1fW2MDCGt1=
+TNPHpMf5rbRXD6prW7cmS1s8pCQ6vW37FtWp7bWhtGW2y4Ql1999f65W6PVKcr6N3nBLW8xGZN4=
+4r1Pl9W4rQbdX96dHLxMfkKgkc2CScW2m3yJj2KRk7dW52vv9C2RQjvJW2-J-SL2z_tPYN41Q2W=
+g-zgqsW41TlcR3Tx3JbW5TgpJR7DqVVdW3kJMvb6GcPSdW8QKpyr4sj3hVW2BcyM91mGWmCN7cV=
+FrQdnzPXN9jbsKY3NSw0W3J-zch1c8y_nW7dtspC7cc3_8Mcqs9Zb26v1VYjbrr6PwHBhW2VGY3=
+B5bdjScW632CQB8fddX8W6YYnCK4rxQ3rW3JPsLB8nls1ZW2-VpG896LnkGW4VW6fv6SSJNcVcb=
+0cl1tDQG2W1NFfl48P4zkFW2HkLJ38r4phdW1kRCc48p-tdvW1sLD703JBnxpW8tzmRx2GD9PDW=
+48PlnV4wCgQ1MPwLBPbKFC6W6QVTBd5vPM-kW1mqR376_J9KKM4ZDML2LMBkTq3zX5zBfWH103"=
+ style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; color:#=
+ffffff" data-hs-link-id=3D"0" target=3D"_blank">Use Your ZoomShipR account<=
+/a> today and spring into your added savings!</span></center><center><span =
+style=3D"color: #000000;"></span></center><center><span style=3D"color: #00=
+0000;"></span></center><center></center></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+    <tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; l=
+ine-height:1.5em; color:#444444; padding:0px 0px 20px 20px" align=3D"left">
+
+<div class=3D"widget-span widget-type-cta " style=3D"text-align:center" dat=
+a-widget-type=3D"cta">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_14107943243312750" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_cta" style=3D"color: inherit; fo=
+nt-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget=
+" data-hs-cos-type=3D"cta"><!--HubSpot Call-to-Action Code -->
+<span class=3D"hs-cta-wrapper" data-hs-img-pg=3D"601c847c-9d11-4657-8718-d0=
+46ec316e43" id=3D"hs-cta-wrapper-601c847c-9d11-4657-8718-d046ec316e43"><spa=
+n class=3D"hs-cta-node hs-cta-601c847c-9d11-4657-8718-d046ec316e43" id=3D"h=
+s-cta-601c847c-9d11-4657-8718-d046ec316e43"><a href=3D"http://hs.emergeit.c=
+om/e1t/c/*VMSDJ68nCgQBW6Nxw2z2YnyP-0/*W24r1sL66lJGJW3R-vwz5cKKhc0/5/f18dQhb=
+0S1Xn2MQydyL3jpr-C7gXVb_cKy17WXCXW6zTrPx18bD2KW7KPwff2tzQGdVFK2RR1kvD0PW8Fq=
+Lpt6cCtRFN2d9TBpnsPrVW3BtR6p6cCtV4W2ZsNF199nrPhW89Nzq-4qLtvvW8DBjyx4fJXJWW2=
+4MQYM8HZWYPW5PFstY8QDbY6W5jr_0G15ZcbtW12wXnf5S5qSdW5_5bNL2fjSgfVlVbWM8LJKzf=
+W1J0XVB3NMgCDN7k9snbHqFVnW2yr_x02-s-3wW4fgkcQ1tfRkPN3LWw2WdsHK2W1tf7YK7xZ7F=
+xW5KnZKm7jZ9B9W6n609V6Xz0-GW8zJKHK5Jb8NJW81_Q173dxFQ5V_yjzH5FfTXSN1Gcl9s_HH=
+qlW8-80Lq5HM2v_W8B50--7spwcxW8yVDQg3vF2N5W3xmJd37fPKhGW4n-DzW10D1XRW6g8phw9=
+5_B42W4yLNYr7YYj45VnRkQY8HH5j0W2051Y_74-ffXW1mKrPD1jVGX9VZqNCy75R55wW8Glq0m=
+3v15-nW1cVCcg3vVZp0W3Kw31x9f6-sRN3h98xHXr1jBW5_pMfT5LLbHQW87NcWJ7MsN1HW2jDL=
+mX6TTgvkW2mMQN977Bxb0W2Ry7bc6jBp5DW4BQ7KC6qmG5ZW8_xYyg6K-ZkrVdr4Lj4fymxBW2T=
+h19K5-g4ChW75zKgV1WBtCtVKf-r77KqSYGW1t0NpN5ddzRQW9fk1k586yVlfW1vlhL21jb--3W=
+1rvVbN7qsHMcW1C3Rw-2j_V5wW4vDwJ495c0Q1W3Cd_9l7VDNWKW78zJfS7jyK40N4mR4h2mL2B=
+2f11tcxH21" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:10=
+0%" data-hs-link-id=3D"0" target=3D"_blank"><img class=3D"hs-cta-img" id=3D=
+"hs-cta-img-601c847c-9d11-4657-8718-d046ec316e43" style=3D"vertical-align:b=
+ottom; -ms-interpolation-mode:bicubic; border-width:0px; width:auto !import=
+ant; max-width:100% !important" mce_noresize=3D"1" src=3D"https://cta-image=
+-cms2.hubspot.com/ctas/v2/public/cs/il/?pg=3D601c847c-9d11-4657-8718-d046ec=
+316e43&amp;pid=3D272326&amp;ecid=3DACsprvvUq4sIDmy90IG9UG4O7kaTjT4VeDJM3F2_=
+nYbWgc4B_vP8TS-Pn95fN_SKkJfLwVpTGURd&amp;hseid=3D49565648&amp;hsic=3Dfalse"=
+ alt=3D"Compare Rates and Ship Now" width=3D"auto !important"></a></span></=
+span>
+<!-- end HubSpot Call-to-Action Code --></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+</tbody></table>
+</td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; l=
+ine-height:1.5em; color:#444444; padding:10px 0px 0px 0px" align=3D"left">
+
+<div class=3D"widget-span widget-type-email_body " style=3D"" data-widget-t=
+ype=3D"email_body">
+<div id=3D"hs_cos_wrapper_hs_email_body" class=3D"hs_cos_wrapper hs_cos_wra=
+pper_widget hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-si=
+ze: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" dat=
+a-hs-cos-type=3D"rich_text"><div style=3D"text-align: center;">&nbsp;</div>
+<div style=3D"text-align: center;">If it=E2=80=99s been a while since you l=
+ogged into ZoomShipR, don=E2=80=99t worry! <br><a href=3D"http://hs.emergei=
+t.com/e1t/c/*VMSDJ68nCgQBW6Nxw2z2YnyP-0/*W1TCXpP4-Bsj0VGN0yd2SbNWP0/5/f18dQ=
+hb0SbTM8XJ8K-W7X6njt2qwv1fW2MDCGt1TNPHpMf5rbRXD6prW7cmS1s8pCQ6vW37FtWp7bWht=
+GW2y4Ql1999f65W6PVKcr6N3nBLW8xGZN44r1Pl9W4rQbdX96dHLxMfkKgkc2CScW2m3yJj2KRk=
+7dW52vv9C2RQjvJW2-J-SL2z_tPYN41Q2Wg-zgqsW41TlcR3Tx3JbW5TgpJR7DqVVdW3kJMvb6G=
+cPSdW8QKpyr4sj3hVW2BcyM91mGWmCW5XrLsY5jJWQBVcH6185jFv46W7glGyx16njRNVYCZ0Y7=
+mncdPW6P9FQh5l35zgW8qMrzX5Qjf5rW25fKwZ1JpcmCW5j7wwB6c8PmQW7mmWl587Rn5rW4KPy=
+LL7ZJ7W2W3TCYGr6bsgy3W3gmnjM6SSJNcVcb0cl1tDQG2W1NFfl48P4zkFW2HkLJ38r4phdW1k=
+RCc48p-tdvW1sLD703JBnxpW8tzmRx2GD9PDW48PlnV4wCgQ1MPwLBPbKFC6W6QVTBd5vPM-kW1=
+mqR376_J9KKM4ZDNk2LMBkV1LxRz6wVs_v103" style=3D"-webkit-text-size-adjust:10=
+0%; -ms-text-size-adjust:100%" data-hs-link-id=3D"1" target=3D"_blank">You =
+can <span>recover your password or login here.</span></a></div></div>
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; l=
+ine-height:1.5em; color:#444444" align=3D"left">
+
+<div class=3D"widget-span widget-type-rich_text " style=3D"" data-widget-ty=
+pe=3D"rich_text">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_14110497775877495" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style=3D"color: inher=
+it; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"=
+widget" data-hs-cos-type=3D"rich_text"><p align=3D"center" style=3D"margin-=
+bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%">&nbs=
+p;</p>
+<p align=3D"center" style=3D"margin-bottom: 1em; -webkit-text-size-adjust:1=
+00%; -ms-text-size-adjust:100%">Call our <em>Heroic Support Team</em> at <s=
+trong>1-877-309-2710</strong></p>
+<p align=3D"center" style=3D"margin-bottom: 1em; -webkit-text-size-adjust:1=
+00%; -ms-text-size-adjust:100%"><span>Monday to Friday 8am to 8pm (EST)</sp=
+an></p></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; l=
+ine-height:1.5em; color:#444444" align=3D"left">
+
+<div class=3D"widget-span widget-type-text " style=3D"padding: 10px 0px 0px=
+ 0px; text-align: right" data-widget-type=3D"text">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_social_sharing_label" class=3D"hs_cos_wrapper hs_=
+cos_wrapper_widget hs_cos_wrapper_type_text" style=3D"color: inherit; font-=
+size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" d=
+ata-hs-cos-type=3D"text"></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; l=
+ine-height:1.5em; color:#444444" align=3D"left">
+
+<div class=3D"widget-span widget-type-social_sharing " style=3D"padding: 10=
+px 0px 0px 0px; text-align: right" data-widget-type=3D"social_sharing">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_Social_Sharing" class=3D"hs_cos_wrapper hs_cos_wr=
+apper_widget hs_cos_wrapper_type_social_sharing" style=3D"color: inherit; f=
+ont-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widge=
+t" data-hs-cos-type=3D"social_sharing"><a href=3D"http://hs.emergeit.com/e1=
+t/c/*VMSDJ68nCgQBW6Nxw2z2YnyP-0/*W33SfM84TP3FTW3wVVvv5hvWCC0/5/f18dQhb0S1Wb=
+2p44bJW12NnsW5TSVHKVCnyWn5sScMkW20lGv364zn2vW8Gj4_B3TvRRPW1Lv79t7CgnTNN7ZMc=
+vnS8R8mW5xGN4d44fsK2W8Y9plt6qdPdWW2Jxt0Q2ncsXgW75PxtN1729bZW7rwPr54CNbWKW6J=
+TPlF7Vy15wW6FQHc34yFHkPW1zBqft7KL0FKN5zpN3RcV_Y0N3fGgqRDCC5BW7bjWr56WC3t8W4=
+2Vhbp2F4DP8W18tb6z33wr4nVnCD011fcPVgW1v9Rv133ZF48N2-4rpwmNsslN2zl6pYdf89QW9=
+2tD1s1k6cYWW2X-8FL7pk9MkW72t03G2wxWh9W5ds3N511rLw4W2tWTMT34lng_W2PNDhy3_lZJ=
+PW6ymXSJ81369QW5KG8jq7vCvyDW8_wm_l4JKT_MW23408C6Ts8vkW8W73kR8s-szqW87zPz63c=
+zbx1N1cP6Qr8w1RHW6jPml2572DsjW6Fd5Sc7_0y5BW3PBzt07wXxqRW6KXKqR64zslrW7S9cth=
+958RpJW3-wRwc42m5VHW6fDW7Q2zfZV8W3SSdrK2xJnqcW8KPXk32hg048W6TKMS52KyvwVW8Kd=
+2jy68bJJ4N4yfkkn-_jpqMKhyw6K-p64W2QZ1sf7928YyW67gwz93g5_7sW23r-cR7rT5JyW1rY=
+w8F6YvbTlW70P4tZ5Lh72pW2fNVKD8J5kcNW4m-8sw3hTCX_W9k7_H566SCYy102" target=3D=
+"_blank" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;=
+ width:24px; border-width:0px; border:0px" width=3D"24" data-hs-link-id=3D"=
+0"><img src=3D"https://static.hubspot.com/final/img/common/icons/social/fac=
+ebook-24x24.png" class=3D"hs-image-widget hs-image-social-sharing-24" style=
+=3D"vertical-align:bottom; -ms-interpolation-mode:bicubic; max-height:24px;=
+ max-width:24px; border-width:0px; border:0px" width=3D"24" hspace=3D"0" al=
+t=3D"Share on Facebook"></a>&nbsp;<a href=3D"http://hs.emergeit.com/e1t/c/*=
+VMSDJ68nCgQBW6Nxw2z2YnyP-0/*W8lMd4K67BDZNW6-HdvN1dRb090/5/f18dQhb0S1Wf2WJLf=
+BVM-_1z5TSVHKMCny_6DSM4YW5lwt-h3kLRZ8W1dnF6M3Tf4YCVKcTR-7xXCGpW7zcMxL51RKcX=
+N3rhJ1w_JRqWW1z6vJr6LXqhqW93w_hN7308cTW8b1Hs6789KP3W1KLFgv9gLFX6W44mDm93Z0B=
+6fW996LHf7wSf3xW2D2fHK4fkBVsW11QcvY1FbfKdW5qDQgx63kZ7lW2D4ZBk6FcqKdW7s0Zb53=
+MxzXdN8HpjJh7WYX_W6mZNm42bsGTmW4SMwGT2vNsdgW3sm4hl2_Qg-4W1nM7b91gLkw6VZrdV1=
+1vHhNVW2Hs0vK7Kpg7DTh7b41STsvhW39n0jK2tk3zGW4V5W7Y7k2CrlW6gDkkG1DBWkFN9dnFJ=
+cbZd6RW492Xk97PcQjKW3TkwBN2D0lVLW4PHWh66yKDP5W5MDw1y2skwkfW7Z-KLg6rJs5DW7JH=
+xH24DlV8tW3B9DM43LQqHQW3RxB3K935XYLW8xlnJ45KhBNyW3GNQnT2-g_MtW4kdNNc1rBKQnW=
+76-QkY45zflTW4m7GVn7H9JpmW3gB0TY7f7NqlW3_jCVx98YHxqW1t9dqT27bdHrW4HjSJH7Xv-=
+cLW1Hhj848XdtdFW7FMg6b44-jjtW85wd9l1JCB8GW49BrwH5mT51dW1_MwM242nt0nW97fjzL7=
+BZsn7W8MhTY66_C5q_W1FBSv64CdDJPW4zygQX9f9JrwW7TxhgY8jnvMwf7qlvmL02" target=
+=3D"_blank" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:10=
+0%; width:24px; border-width:0px; border:0px" width=3D"24" data-hs-link-id=
+=3D"0"><img src=3D"https://static.hubspot.com/final/img/common/icons/social=
+/linkedin-24x24.png" class=3D"hs-image-widget hs-image-social-sharing-24" s=
+tyle=3D"vertical-align:bottom; -ms-interpolation-mode:bicubic; max-height:2=
+4px; max-width:24px; border-width:0px; border:0px" width=3D"24" hspace=3D"0=
+" alt=3D"Share on LinkedIn"></a>&nbsp;<a href=3D"http://hs.emergeit.com/e1t=
+/c/*VMSDJ68nCgQBW6Nxw2z2YnyP-0/*W8H_t4z3_rGvmW9bbjLr3tM6pq0/5/f18dQhb0S1Wd7=
+3F0FpVM_py62FpGwxVC7dM952vZxDW7Jfmh860Z81fW7_NnJ33Vtyd7W3zzS-24k7313W85D_bT=
+6g6G4GW2pM3Bk8hbb6GW8H6Cbq1sq8ZzW61jYt39fh1NtW8QpDRM8bYNM3W4wHs8n5DRtttW5x9=
+y-c1FsjSSW55WQRq1Gj_r7W3_p1Bb3T1gYPW2PxlQc7Lcx52N5yqB3g1MYPwN1NPg7sVnl_vW2m=
+4kcR97-kvsVnyvjY4PDmGvW1Dz46J59g6j8W2LBn-P6t3k7mN2RDvzBF5nC_W71z4Rs8ggKB3W7=
+tBsVh3wR27_N83B8gzk7Mp1W4J_Nb-1WhnQ-MWj0y7XWQDzW5XbWkD6bNYh-W7mW0hq3VGCgdW7=
+DqRM670FjvpN46npyXM2b9HW8W_L6F5Lwhf5W2swNB85rnbdpW8_4xCw8zvGyYN1ccSm01KGHKW=
+5Cz8Ck2YgKVYW1ZSQJ15lM3_VVFs3WY5ljkvGW60ft4l3yJ09VW7nWZVL3hbr7TW2cNv3k5N-NK=
+SW1qTGrh8G55r0W3xpSKN5pwCsnW1mv_YD1p6-YHW1K_nKp4CYyxvW13cYs55SwHN_W95x3FK8k=
+791fW3MMX846m9MdZW59t9j_2TLwJqW2kRhKy3QCLRDW4l45G514dX4CW19lZlK2t9DvVW588N7=
+S7kZc4LW7H03NL6jhnKjW1s8Wll5Pv21DW7hjLdG7Gk_mBW7Jt_pS3SzHg6W2MPgF92sWS2yW7R=
+3sFG74bQ_9W64C-G21RVKn1W69JhkQ7DHC5_VSNZ8v4CBggJW4xB6vH5tYgyWW80VsQs8VpfFRW=
+9k4nsh7zLKhcW4f1xxm2jfZdMf11QpMP21" target=3D"_blank" style=3D"-webkit-text=
+-size-adjust:100%; -ms-text-size-adjust:100%; width:24px; border-width:0px;=
+ border:0px" width=3D"24" data-hs-link-id=3D"0"><img src=3D"https://static.=
+hubspot.com/final/img/common/icons/social/twitter-24x24.png" class=3D"hs-im=
+age-widget hs-image-social-sharing-24" style=3D"vertical-align:bottom; -ms-=
+interpolation-mode:bicubic; max-height:24px; max-width:24px; border-width:0=
+px; border:0px" width=3D"24" hspace=3D"0" alt=3D"Share on Twitter"></a></di=
+v>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<!--end body wrapper -->
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                                <!-- End Template Wrapper -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align=3D"center" valign=3D"top" style=3D"-w=
+ebkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0p=
+t; mso-table-rspace:0pt">
+                                <!-- Begin Template Footer -->
+                                <div class=3D"footer-container-wrapper">
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" id=3D"footerTable" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-=
+adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:co=
+llapse !important; background-color:#ffffff; color:#c15326; font-family:'He=
+lvetica Neue', Helvetica, Arial, sans-serif; font-size:12px; line-height:12=
+0%; padding-top:20px; padding-right:20px; padding-bottom:20px; padding-left=
+:20px; text-align:center" bgcolor=3D"#ffffff" align=3D"center">
+                                    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; line-height:=
+150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; l=
+ine-height:1.5em; color:#444444" align=3D"left">
+
+<div class=3D"widget-span widget-type-email_can_spam " style=3D"" data-widg=
+et-type=3D"email_can_spam">
+<p id=3D"footer" style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%=
+; -ms-text-size-adjust:100%; font-family:Geneva, Verdana, Arial, Helvetica,=
+ sans-serif; text-align:center; font-size:12px; line-height:1em; display:bl=
+ock" align=3D"center">ShipTime Inc. &nbsp;&nbsp;700 Dorval Drive &nbsp;302 =
+&nbsp;Oakville, &nbsp;ON &nbsp;&nbsp;L6K 3V3 &nbsp;&nbsp;Canada <br><br> Yo=
+u received this email because you are subscribed to Account Information fro=
+m ShipTime Inc.<br><br> <span style=3D"font-size: 8px;">Update your <a targ=
+et=3D"_blank" href=3D"http://hs.emergeit.com/hs/manage-preferences/unsubscr=
+ibe?v=3D1&amp;d=3DeyJlYSI6ImJyZW5kYUBjaGFpbnNhd2NsaW5pYy5jb20iLCJlYyI6NDk1N=
+jU2NDgsInN1YnNjcmlwdGlvbklkIjoyNzg4NjAsImV0IjoxNDkxMjgyNDE0MTMwLCJldSI6ImNi=
+YWMxMTliLTk3MzEtNDlkOS04ZTQ2LWEzNzM5YWFiNDdiYyJ9&amp;utm_campaign=3DInterna=
+tion%20Shipping%20Reduced&amp;utm_source=3Dhs_email&amp;utm_medium=3Demail&=
+amp;utm_content=3D49565648&amp;_hsenc=3Dp2ANqtz-9khM6Pa5ItBp2dxXRKJ-Yfxmrur=
+i4YjSyiZXYeniptcSeoOeNtqVRFciONFU4eXmX0zjVnTAWDVdyp_V6Or-RQXt6GUQ&amp;_hsmi=
+=3D49565648" style=3D"-ms-text-size-adjust:100%; -webkit-text-size-adjust:n=
+one; font-weight:normal; text-decoration:underline; whitespace:nowrap; colo=
+r:inherit" data-unsubscribe=3D"true" data-hs-link-id=3D"0">email preference=
+s</a> to choose the types of emails you receive. </span><br><br><span style=
+=3D"font-size: 8px;"> &nbsp;<a target=3D"_blank" href=3D"http://hs.emergeit=
+.com/hs/manage-preferences/unsubscribe-all?v=3D1&amp;d=3DeyJlYSI6ImJyZW5kYU=
+BjaGFpbnNhd2NsaW5pYy5jb20iLCJlYyI6NDk1NjU2NDgsInN1YnNjcmlwdGlvbklkIjoyNzg4N=
+jAsImV0IjoxNDkxMjgyNDE0MTMwLCJldSI6ImNiYWMxMTliLTk3MzEtNDlkOS04ZTQ2LWEzNzM5=
+YWFiNDdiYyJ9&amp;utm_campaign=3DInternation%20Shipping%20Reduced&amp;utm_so=
+urce=3Dhs_email&amp;utm_medium=3Demail&amp;utm_content=3D49565648&amp;_hsen=
+c=3Dp2ANqtz-8MQalTw7dysOHPkuM9G_uhRq1PJgjPhRm6JN8T56CB4eTxGosndgmlyHs4dOZN_=
+x9kP3uLGF9TuxsSOlzaYoE6WyxL2A&amp;_hsmi=3D49565648" style=3D"-ms-text-size-=
+adjust:100%; -webkit-text-size-adjust:none; font-weight:normal; text-decora=
+tion:underline; whitespace:nowrap; color:inherit" data-unsubscribe=3D"true"=
+ data-hs-link-id=3D"0">Unsubscribe from all future emails</a>&nbsp;</span><=
+/p>
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<!--end footer wrapper -->
+                                    <tr>
+                                        <td style=3D"-webkit-text-size-adju=
+st:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:=
+0pt"></td>
+                                    </tr>
+                                </tbody></table>
+                                <!-- End Template Footer -->
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <!-- End Template Container -->
+                </td>
+            </tr>
+        </tbody></table>
+=20=20=20=20
+<!-- end coded_template: id:1629262513 path:generated_layouts/1629262498.ht=
+ml -->
+<img src=3D"http://hs.emergeit.com/e1t/o/*N6hCyb2jNyshW7d21DH8N-ldy0/*W2Sj1=
+rS6vz268W47y-xl914QbY0/5/f18dQhb0J6F1b524W8P06NM7zyPZhW1f7_vX1Y_w_4W1X1Ps42=
+WvzRzW1RGqgd2lhw0SN2XZgmWmY1yjW3K76TS2m2ln1W3T1lbJ4mzpqkW41SZXH3Fbt4_N2fp-y=
+NmWFf6W5fvtTD8KWcXdV25zbL7d6YhkN4T5wSBWLrFBN6RnbnC1hv83f6_FQzC03" alt=3D"" =
+width=3D"1" height=3D"1" border=3D"0" style=3D"display:none!important;min-h=
+eight:1px!important;width:1px!important;border-width:0!important;margin-top=
+:0!important;margin-bottom:0!important;margin-right:0!important;margin-left=
+:0!important;padding-top:0!important;padding-bottom:0!important;padding-rig=
+ht:0!important;padding-left:0!important"><style>@media print{#_hs { backgro=
+und-image: url('http://hs.emergeit.com/e1t/o/*N6hCyb2jNyshW7d21DH8N-ldy0/*W=
+4zfmpb3Zm3RRW5RN_Ms5N8cY20/5/f18dQhb0S6Hf5gp0yqN6VY5qNHzfcVW6bFhBG51lf3pW2m=
+p9f_4-tC2kW4Pw4J12sbPxnVKGp2b2-FxmMW5Y8BnY3C8825W3Cj4Qd3L_0-YW3sm0wn2GtM6jW=
+5x6QYq9jzfsGW6ZB-s05dPc9HW8m6wmN41W9TTW5Fv0G15rX-9sN3Xsrvs1Jlzsf3vfbb403');=
+}} div.OutlookMessageHeader {background-image:url('http://hs.emergeit.com/e=
+1t/o/*N6hCyb2jNyshW7d21DH8N-ldy0/*W8vwySh4-QVRvW3QS7kk8PcPZK0/5/f18dQhb0S6H=
+h5gqHrYN6VY5qNHzfcVW6bFhBG51lf4VW5HQHpl3FsfphW4PFxqB5ZH4gdW448gSD3GYWq6W3s2=
+qJf49tBfHW3slyCp49xXpxW3MD-6K4C-5G9W5qv4fv7hTWxSW3bBm_t6vGx13W8cMv0c29kYVnW=
+6NYrJ73C_CzcW6SnR9J1MKdddf6Tj96201')} table.moz-email-headers-table {backgr=
+ound-image:url('http://hs.emergeit.com/e1t/o/*N6hCyb2jNyshW7d21DH8N-ldy0/*W=
+8vwySh4-QVRvW3QS7kk8PcPZK0/5/f18dQhb0S6Hh5gqHrYN6VY5qNHzfcVW6bFhBG51lf4VW5H=
+QHpl3FsfphW4PFxqB5ZH4gdW448gSD3GYWq6W3s2qJf49tBfHW3slyCp49xXpxW3MD-6K4C-5G9=
+W5qv4fv7hTWxSW3bBm_t6vGx13W8cMv0c29kYVnW6NYrJ73C_CzcW6SnR9J1MKdddf6Tj96201'=
+)} blockquote #_hs {background-image:url('http://hs.emergeit.com/e1t/o/*N6h=
+Cyb2jNyshW7d21DH8N-ldy0/*W8vwySh4-QVRvW3QS7kk8PcPZK0/5/f18dQhb0S6Hh5gqHrYN6=
+VY5qNHzfcVW6bFhBG51lf4VW5HQHpl3FsfphW4PFxqB5ZH4gdW448gSD3GYWq6W3s2qJf49tBfH=
+W3slyCp49xXpxW3MD-6K4C-5G9W5qv4fv7hTWxSW3bBm_t6vGx13W8cMv0c29kYVnW6NYrJ73C_=
+CzcW6SnR9J1MKdddf6Tj96201')} #MailContainerBody #_hs {background-image:url(=
+'http://hs.emergeit.com/e1t/o/*N6hCyb2jNyshW7d21DH8N-ldy0/*W8vwySh4-QVRvW3Q=
+S7kk8PcPZK0/5/f18dQhb0S6Hh5gqHrYN6VY5qNHzfcVW6bFhBG51lf4VW5HQHpl3FsfphW4PFx=
+qB5ZH4gdW448gSD3GYWq6W3s2qJf49tBfHW3slyCp49xXpxW3MD-6K4C-5G9W5qv4fv7hTWxSW3=
+bBm_t6vGx13W8cMv0c29kYVnW6NYrJ73C_CzcW6SnR9J1MKdddf6Tj96201')}</style><div =
+id=3D"_hs"></div></body></html>=
+
+------=_Part_419066_744344669.1491282414212--
+

@@ -1,0 +1,270 @@
+Return-path: <husqvarna-marketing@mailmw.rnmk.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Mon, 19 Dec 2016 09:01:41 -0600
+Received: from rnmkmw65.rightnowtech.com ([74.117.203.65]:49649 helo=rntmw65.rnmk.com)
+	by kazamai.websitewelcome.com with esmtp (Exim 4.87)
+	(envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	id 1cIzRd-000PV0-02
+	for brenda@chainsawclinic.com; Mon, 19 Dec 2016 09:01:41 -0600
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailca.rnmk.com;
+	h=DKIM-Signature:Received:MIME-Version:Message-Id:To:Date:Subject:List-Unsubscribe:From:Reply-To:Content-Type:Content-Transfer-Encoding;
+	b=YrMJkT+Dr4PQrxzpujpuan4gRXRhmecp7Qim6YMFM607suf2DQy7pFOA1b76pQSU
+	hbISCpOKEEy+OkoZTeEI1S7f17M6m1pyIsSZG0VhXbknhYdVpK5GYJQ2xpRHzoev
+	pEBqsYmrj1JlR8o+ICLMwQDjpI31szU+saI4LMTntaM=
+DKIM-Signature: v=1; a=rsa-sha1; d=mailca.rnmk.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailca.rnmk.com; t=1482159685;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=WYKwZfa/ZGU7LjuqJi65ankK84Y=;
+	b=nZzDP1nezqXcU3ZRle3myceBwhqRJPCI+RdrmMOZeFITmYjOJjwQ+UZedjQe0T/T
+	PaGDyWS+/b4pLlcin6sLrpov06sCIFZdO/MDcIj8Z9VsC8zF937l4c7zIdIy2YOr
+	K1qZ6QgTwgj3q7+1ZdRWx1NyXiuqzigRg+ge1J7bijc=;
+Received: from [10.70.0.90] ([10.70.0.90:9607] helo=rnmdmw01.int.rightnowtech.com)
+	by rntmw65.rnmk.com (envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id B6/F3-12527-546F7585; Mon, 19 Dec 2016 09:01:25 -0600
+MIME-Version: 1.0
+Message-Id: <RNTM.AvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9V.0.1482159679.6C~kGcgT0hs9.120837@rnmdmw01.int.rightnowtech.com>
+To: brenda@chainsawclinic.com
+Date: Mon, 19 Dec 2016 10:01:19 -0500 (EST)
+Subject: The holidays are here! Check out the Husqvarna gift guide for ideas that will delight your loved ones
+List-Unsubscribe: <mailto:husqvarna-marketing@mailca.rnmk.com?subject=Unsubscribe AvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9V>
+From: "Husqvarna Canada" <husqvarna-marketing@mailca.rnmk.com>
+Reply-To: "Husqvarna Canada" <husqvarna-marketing@mailca.rnmk.com>
+Content-Type: Text/Html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:rn=3D"http://schemas.r=
+ightnow.com/crm/document">
+<head>
+<title></title>
+                                                                    =20
+<style type=3D"text/css" xml:space=3D"preserve">
+/*<![CDATA[*/
+=2Efleet {
+        WIDTH: 100%; VERTICAL-ALIGN: top
+}
+=2Efleet TD {
+        BORDER-TOP: #ccc 1px solid; HEIGHT: 40px; VERTICAL-ALIGN: middle;=
+ BORDER-BOTTOM: #ccc 1px solid
+}
+/*]]>*/
+</style>
+
+<style type=3D"text/css" xml:space=3D"preserve">
+/*<![CDATA[*/
+=2Efleet {
+        WIDTH: 100%; VERTICAL-ALIGN: top
+}
+=2Efleet TD {
+        BORDER-TOP: #ccc 1px solid; HEIGHT: 40px; VERTICAL-ALIGN: middle;=
+ BORDER-BOTTOM: #ccc 1px solid
+}
+/*]]>*/
+</style>
+</head>
+<body style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-s=
+erif; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-=
+LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #d4d5d8">
+
+<p style=3D"COLOR: #8e8e8e">&#160;</p>
+<p style=3D"COLOR: #8e8e8e">Having trouble reading this email? <a target=3D=
+"_blank" href=3D"http://husqvarna.custhelp.com/ci/documents/view/1/AvMM~w=
+rNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9V"><span style=3D"FONT-SIZE: 14px; T=
+EXT-DECORATION: none; COLOR: #f15321">View it in your browser.</span></a>=
+</p>
+<table style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-=
+serif; WIDTH: 600px; MARGIN: 0px auto" cellspacing=3D"0" cellpadding=3D"0=
+"><!-- TOP ICONS -->
+<tbody>
+<tr>
+<td style=3D"FONT-VARIANT: small-caps; COLOR: #8e8e8e; PADDING-BOTTOM: 10=
+px; TEXT-ALIGN: right; PADDING-TOP: 10px; PADDING-LEFT: 40px; LETTER-SPAC=
+ING: 1px; PADDING-RIGHT: 40px; BACKGROUND-COLOR: #e2e3e6">&#160;<a style=3D=
+"TEXT-DECORATION: none; COLOR: #8e8e8e" href=3D"http://husqvarna.custhelp=
+=2Ecom/rd?1=3DAvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9V&amp;2=3D6211">=
+<img alt=3D"locate your dealer icon" border=3D"0" src=3D"http://54.76.127=
+=2E175/Emails/promos/template-redesign/assets/locate-icon.png" />dealers<=
+/a><a style=3D"TEXT-DECORATION: none; COLOR: #8e8e8e" href=3D"http://husq=
+varna.custhelp.com/rd?1=3DAvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9V&am=
+p;2=3D6210"><img alt=3D"visit the website icon" border=3D"0" src=3D"http:=
+//54.76.127.175/Emails/promos/template-redesign/assets/link-icon.png" />w=
+ebsite</a> <a
+style=3D"TEXT-DECORATION: none; COLOR: #8e8e8e" href=3D"http://husqvarna.=
+custhelp.com/cgi-bin/husqvarna.cfg/php/ma/unsub.php?1=3DAvMM~wrNDv8S~xb~G=
+v8O~yIbockqbov7JiWccj7~Pv9V&amp;2=3D100025&amp;3=3D1"><img alt=3D"unsubsc=
+ribe icon" border=3D"0" src=3D"http://54.76.127.175/Emails/promos/templat=
+e-redesign/assets/unsub-icon.png" />unsubscribe</a></td>
+</tr>
+<!-- END TOP ICONS --><!-- BLUE HEADER -->
+<tr>
+<td style=3D"HEIGHT: 100px; PADDING-BOTTOM: 10px; TEXT-ALIGN: right; PADD=
+ING-TOP: 10px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND-COLOR:=
+ #273a60"><a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrNDv8S~xb=
+~Gv8O~yIbockqbov7JiWccj7~Pv9V&amp;2=3D6210"><img alt=3D"Husqvarna, Ready =
+when you are (logo)" border=3D"0" src=3D"http://54.76.127.175/Emails/prom=
+os/template-redesign/assets/logo.png" /></a></td>
+</tr>
+<!-- END BLUE HEADER --><!-- MAIN IMAGE -->
+<tr style=3D"HEIGHT: 300px">
+<td><a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrNDv8S~xb~Gv8O~=
+yIbockqbov7JiWccj7~Pv9V&amp;2=3D6255"><img alt=3D"View the Husqvarna Holi=
+day gift guide" border=3D"0" height=3D"300" src=3D"http://54.76.127.175/E=
+mails/promos/2015-holiday-gift-guide-2-upcoming-promos/gift-guide-600-300=
+=2Epng" width=3D"600" /></a></td>
+</tr>
+<!-- END MAIN IMAGE --><!-- MAIN SUBJECT TEXT -->
+<tr style=3D"HEIGHT: 200px; VERTICAL-ALIGN: text-top; TEXT-ALIGN: left; B=
+ACKGROUND-COLOR: #ffffff">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px">
+<div style=3D"WIDTH: 100%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING=
+-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">
+<p style=3D"MARGIN-BOTTOM: 5px; FONT-SIZE: 28px">Gift ideas for the loved=
+ ones in your life!</p>
+<p style=3D"FONT-SIZE: 14px">This holiday season why not treat the ones y=
+ou love to time tested, performance&#160;driven Husqvarna products?&#160;=
+We have gloves, axes, glasses and even toy chainsaws that are sure to del=
+ight!</p>
+<p>Contact your local Husqvarna dealer for product details and availabili=
+ty.</p>
+<p style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: #f15321"><a st=
+yle=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: #f15321" href=3D"ht=
+tp://husqvarna.custhelp.com/rd?1=3DAvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj=
+7~Pv9V&amp;2=3D6256">View the Holiday Gift Guide <img alt=3D"link arrow" =
+border=3D"0" src=3D"http://54.76.127.175/Emails/promos/template-redesign/=
+assets/link-arrow.png" /></a><br />
+<br /></p>
+<hr />
+<p style=3D"TEXT-ALIGN: center"><a href=3D"http://husqvarna.custhelp.com/=
+rd?1=3DAvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9V&amp;2=3D6257"><img al=
+t=3D"Carpenter's Axe" border=3D"0" height=3D"199" src=3D"http://54.76.127=
+=2E175/Emails/promos/2016/12-02-holiday-gift-guide/carpenters-axe.png" wi=
+dth=3D"400" /><br />
+<img alt=3D"Carpenter's Axe" border=3D"0" src=3D"http://54.76.127.175/Ema=
+ils/promos/2016/12-02-holiday-gift-guide/carpenters-axe-reviews.png" /></=
+a></p>
+<p style=3D"MARGIN-BOTTOM: 5px; FONT-SIZE: 24px; TEXT-ALIGN: left">Carpen=
+ter's Axe</p>
+<p style=3D"FONT-SIZE: 16px; FONT-STYLE: italic">"I use this axe every da=
+y at work. It's the best axe I have ever owned. Setting wedges, cutting b=
+rush, and falling up to 18 inch trees. This axe is always up to work. I w=
+ill pass this axe on to my kids."</p>
+<p style=3D"FONT-SIZE: 16px; FONT-STYLE: italic" align=3D"right">- Review=
+ posted by Wildland34</p>
+<br />
+<hr />
+<p style=3D"TEXT-ALIGN: center"><a href=3D"http://husqvarna.custhelp.com/=
+rd?1=3DAvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9V&amp;2=3D6258"><img al=
+t=3D"Carpenter's Axe" border=3D"0" height=3D"199" src=3D"http://54.76.127=
+=2E175/Emails/promos/2016/12-02-holiday-gift-guide/toy-chainsaw.png" widt=
+h=3D"400" /><br />
+<img alt=3D"Carpenter's Axe" border=3D"0" src=3D"http://54.76.127.175/Ema=
+ils/promos/2016/12-02-holiday-gift-guide/toy-chainsaw-reviews.png" /></a>=
+</p>
+<p style=3D"MARGIN-BOTTOM: 5px; FONT-SIZE: 24px; TEXT-ALIGN: left">Toy Ch=
+ainsaw</p>
+<p style=3D"FONT-SIZE: 16px; FONT-STYLE: italic">"This little chainsaw is=
+ just perfect. We are so happy with it and you will be too. It even sound=
+s like a husqvarna!"</p>
+<p style=3D"FONT-SIZE: 16px; FONT-STYLE: italic" align=3D"right">- Review=
+ posted by&#160;Molly</p>
+</div>
+<p><br />
+&#160;</p>
+<p style=3D"FONT-STYLE: italic" align=3D"center">Please call or visit you=
+r local dealer for product pricing and availability</p>
+</td>
+</tr>
+<!-- END MAIN SUBJECT TEXT --><!-- HORIZONTAL RULE-->
+<tr style=3D"BACKGROUND-COLOR: white">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px">
+<hr /></td>
+</tr>
+<!-- END HORIZONTAL RULE--><!-- FOOTER LOCATE YOUR NEAREST DEALER -->
+<tr style=3D"HEIGHT: 250px; BACKGROUND-COLOR: white">
+<td style=3D"PADDING-LEFT: 40px; MARGIN: 0px; PADDING-RIGHT: 0px">
+<table style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-=
+serif; MARGIN: 0px" height=3D"250" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td style=3D"WIDTH: 300px; TEXT-ALIGN: left">
+<p style=3D"MARGIN-BOTTOM: 5px; FONT-SIZE: 28px">Dealers at your service!=
+</p>
+<p style=3D"FONT-SIZE: 14px">Go to our website to find a dealer or<br />
+a service shop near you.</p>
+<p style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: #f15321"><a st=
+yle=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: #f15321" href=3D"ht=
+tp://husqvarna.custhelp.com/rd?1=3DAvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj=
+7~Pv9V&amp;2=3D6211">Locate your nearest dealer <img alt=3D"link arrow" b=
+order=3D"0" src=3D"http://54.76.127.175/Emails/promos/template-redesign/a=
+ssets/link-arrow.png" /></a></p>
+</td>
+<td style=3D"WIDTH: 300px"><a href=3D"http://husqvarna.custhelp.com/rd?1=3D=
+AvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9V&amp;2=3D6211"><img alt=3D"De=
+alers at your service! Go to our website to find a dealer or a service sh=
+op near you." border=3D"0" src=3D"http://54.76.127.175/Emails/promos/temp=
+late-redesign/assets/dealer-on-phone.png" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- END FOOTER LOCATE YOUR NEAREST DEALER --><!-- FOOTER SOCIAL -->
+<tr style=3D"HEIGHT: 80px; VERTICAL-ALIGN: middle; TEXT-ALIGN: center; BA=
+CKGROUND-COLOR: #ebecef">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px"><a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvM=
+M~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9V&amp;2=3D6212"><img alt=3D"faceb=
+ook" border=3D"0" src=3D"http://54.76.127.175/Emails/promos/template-rede=
+sign/assets/social-facebook.png" width=3D"50" /></a> <a href=3D"http://hu=
+sqvarna.custhelp.com/rd?1=3DAvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9V&=
+amp;2=3D6214"><img alt=3D"twitter" border=3D"0" src=3D"http://54.76.127.1=
+75/Emails/promos/template-redesign/assets/social-twitter.png" width=3D"50=
+" /></a> <a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrNDv8S~xb~=
+Gv8O~yIbockqbov7JiWccj7~Pv9V&amp;2=3D6215"><img alt=3D"youtube" border=3D=
+"0" src=3D"http://54.76.127.175/Emails/promos/template-redesign/assets/so=
+cial-youtube.png" width=3D"50" /></a>
+<a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrNDv8S~xb~Gv8O~yIbo=
+ckqbov7JiWccj7~Pv9V&amp;2=3D6213"><img alt=3D"instagram" border=3D"0" src=
+=3D"http://54.76.127.175/Emails/promos/template-redesign/assets/social-in=
+stagram.png" width=3D"50" /></a></td>
+</tr>
+<!-- END FOOTER SOCIAL --><!-- BLUE FOOTER -->
+<tr>
+<td style=3D"FONT-SIZE: 12px; HEIGHT: 150px; COLOR: white; PADDING-BOTTOM=
+: 10px; TEXT-ALIGN: center; PADDING-TOP: 10px; PADDING-LEFT: 40px; PADDIN=
+G-RIGHT: 40px; BACKGROUND-COLOR: #273a60"><a href=3D"http://husqvarna.cus=
+thelp.com/rd?1=3DAvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9V&amp;2=3D621=
+0"><img alt=3D"Husqvarna, Ready when you are (logo)" border=3D"0" src=3D"=
+http://54.76.127.175/Emails/promos/template-redesign/assets/logo.png" wid=
+th=3D"150" /></a>
+<p>This is a newsletter from Husqvarna Canada Corp. 850 Matheson Blvd. W.=
+ Unit 1, &#160;Mississauga ON L5V 0B4. Please do not respond directly to =
+this e-mail. If you have questions or comments, please <u><a style=3D"TEX=
+T-DECORATION: underline; COLOR: #f15321" href=3D"mailto:marketing.canada@=
+husqvarnagroup.com">contact us</a></u>. We respect your privacy and do no=
+t share or sell email addresses. If you no longer wish to receive emails =
+from Husqvarna please&#160;<u><a style=3D"TEXT-DECORATION: underline; COL=
+OR: #f15321" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrNDv8S~xb=
+~Gv8O~yIbockqbov7JiWccj7~Pv9V&amp;2=3D6229">click here</a></u>. By unsubs=
+cribing you will no longer receive important company updates, product lau=
+nch information and other marketing communications.</p>
+<p>Visit our website:&#160;<a style=3D"TEXT-DECORATION: none; COLOR: whit=
+e" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wrNDv8S~xb~Gv8O~yIbo=
+ckqbov7JiWccj7~Pv9V&amp;2=3D6210">www.husqvarna.com</a> | <a style=3D"TEX=
+T-DECORATION: none; COLOR: #ffffff" href=3D"http://husqvarna.custhelp.com=
+/cgi-bin/husqvarna.cfg/php/ma/unsub.php?1=3DAvMM~wrNDv8S~xb~Gv8O~yIbockqb=
+ov7JiWccj7~Pv9V&amp;2=3D100025&amp;3=3D1">Unsubscribe</a></p>
+</td>
+</tr>
+<!-- END BLUE FOOTER --></tbody>
+</table>
+<img alt=3D"" height=3D"1" width=3D"1" style=3D"display: none" src=3D"htt=
+p://husqvarna.custhelp.com/rd/AvMM~wrNDv8S~xb~Gv8O~yIbockqbov7JiWccj7~Pv9=
+V.gif"/> </body>
+</html>
+

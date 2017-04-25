@@ -1,0 +1,453 @@
+Return-path: <ltiangco@MetroSCG.com>
+Envelope-to: Brenda@chainsawclinic.com
+Delivery-date: Thu, 26 Jan 2017 16:04:46 -0600
+Received: from mail-bl2nam02on0108.outbound.protection.outlook.com ([104.47.38.108]:48640 helo=NAM02-BL2-obe.outbound.protection.outlook.com)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <ltiangco@MetroSCG.com>)
+	id 1cWs9u-000Mm8-Jt; Thu, 26 Jan 2017 16:04:46 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=3ELogistics.onmicrosoft.com; s=selector1-MetroSCG-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=YV7Lx1ZscAzEhBUBn79ic3+soC/Q0auuv0sSgTp6xls=;
+ b=XyRo67JTtxSffXABBEy1w+AMp+YGywcut1o3yDzXKYE1+jYhyXCYM1D9pz2ocWakmTUBpIRq4rRTQVBgHhUQro6zCEzs65H6PBdIdq4/XHUdIDNbJ16fDmzQyv49JuJb8uBgoUCSJITbCH6HkK49SjDD35ZEyTZHUx3l90GdDzk=
+Received: from BLUPR0501MB1841.namprd05.prod.outlook.com (10.163.121.151) by
+ BLUPR0501MB1841.namprd05.prod.outlook.com (10.163.121.151) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.874.6; Thu, 26 Jan
+ 2017 22:04:24 +0000
+Received: from BLUPR0501MB1841.namprd05.prod.outlook.com ([10.163.121.151]) by
+ BLUPR0501MB1841.namprd05.prod.outlook.com ([10.163.121.151]) with mapi id
+ 15.01.0874.015; Thu, 26 Jan 2017 22:04:24 +0000
+From: "Tiangco, LuAnne" <ltiangco@MetroSCG.com>
+To: "sales@chainsawclinic.com" <sales@chainsawclinic.com>,
+	"Brenda@chainsawclinic.com" <Brenda@chainsawclinic.com>,
+	"ron@chainsawclinic.com" <ron@chainsawclinic.com>
+Subject: Dealer Ship Notification _Honda   05787
+Thread-Topic: Dealer Ship Notification _Honda   05787
+Thread-Index: AdJ4ICJzdrugtpMYSBqDJpYvUn2QBQ==
+Importance: high
+X-Priority: 1
+Date: Thu, 26 Jan 2017 22:04:24 +0000
+Message-ID: <BLUPR0501MB18410B9F3F63B92903BEA66DB6770@BLUPR0501MB1841.namprd05.prod.outlook.com>
+Accept-Language: en-CA, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=ltiangco@MetroSCG.com; 
+x-originating-ip: [208.66.3.26]
+x-ms-office365-filtering-correlation-id: 571ab2fb-5633-4552-952a-08d446374a14
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001);SRVR:BLUPR0501MB1841;
+x-microsoft-exchange-diagnostics: 1;BLUPR0501MB1841;7:nu/Pb1bLAq88wbRTNGhVqKccGfjrmanBXaycm1zBmlKTIuLLz8is5AvMd04owXtQkkTheMt845wJ+q2NiIaLqDiQGswB6D4dd83ez/wt8Xh3jxIFTac1n3un0OOvXtBoYqi3l8Wa3etzE/+qtD22YyUmNP46JpUjii9zVcOzd7jwRfQws1k6rJ14yIaVZzzFrtCFJrQauilOQB72kf9N3UdzNmX2ZuiwkidCi+jpS2aHJa73Z0VbugJIERoRaMhmyRE+bNRA9rUerevlL+Dhcd8OqeA0UmWBmCkVdyOZrinUAHOFztgBxqlp8VaNo+d8uyMotJwwTfXpjEuQtdJHh0/b8empzW/iSiMC4t1QlWXMDbCEy7o5of/yBViQLh8y8aow2nmjpLFBlWQain7PQO0/V5QQzv7knPL1BZgpuwJ7FCH3paj/XX8VkCZWG3q1SR48Bcqm9+mAkD4SjinoxQ==
+x-microsoft-antispam-prvs: <BLUPR0501MB184148E2EF0B63FCCC8F9444B6770@BLUPR0501MB1841.namprd05.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(158342451672863);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415395)(6040375)(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001)(6041248)(20161123560025)(20161123562025)(20161123555025)(20161123564025)(6072148);SRVR:BLUPR0501MB1841;BCL:0;PCL:0;RULEID:;SRVR:BLUPR0501MB1841;
+x-forefront-prvs: 019919A9E4
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(6009001)(7916002)(39410400002)(39450400003)(39830400002)(199003)(40224003)(189002)(33656002)(2201001)(6436002)(68736007)(9686003)(54896002)(99286003)(55016002)(86362001)(5890100001)(2501003)(25786008)(3846002)(102836003)(3280700002)(6116002)(2906002)(38730400001)(5001770100001)(97736004)(7696004)(107886002)(5660300001)(15650500001)(189998001)(77096006)(6506006)(105586002)(92566002)(7736002)(8676002)(3660700001)(81156014)(74316002)(122556002)(450100001)(2900100001)(106356001)(99936001)(66066001)(53936002)(81166006)(8936002)(50986999)(81686999)(54356999)(101416001)(14943795004);DIR:OUT;SFP:1102;SCL:1;SRVR:BLUPR0501MB1841;H:BLUPR0501MB1841.namprd05.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+received-spf: None (protection.outlook.com: MetroSCG.com does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/mixed;
+	boundary="_004_BLUPR0501MB18410B9F3F63B92903BEA66DB6770BLUPR0501MB1841_"
+MIME-Version: 1.0
+X-OriginatorOrg: MetroSCG.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 26 Jan 2017 22:04:24.4369
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: fdbb3d32-4b18-4512-8e39-1acfc2b8f6b7
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR0501MB1841
+
+--_004_BLUPR0501MB18410B9F3F63B92903BEA66DB6770BLUPR0501MB1841_
+Content-Type: multipart/alternative;
+	boundary="_000_BLUPR0501MB18410B9F3F63B92903BEA66DB6770BLUPR0501MB1841_"
+
+--_000_BLUPR0501MB18410B9F3F63B92903BEA66DB6770BLUPR0501MB1841_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi
+
+Please print the shipment notification attached and refer to it when receiv=
+ing the shipment. It contains the shipment reference numbers, shipment deta=
+ils, and the corresponding Honda release numbers..
+
+Please advise if you are unable to open the attached excel document or if t=
+his should be sent to someone else. Send your changes or concerns to Priyan=
+ka at pjhurry@metroscg.com.
+
+SVP imprimer la notification d'exp=E9dition ci-joint et s'y r=E9f=E9rer lor=
+s de la r=E9ception de l'exp=E9dition.  Il contient les num=E9ros d'exp=E9d=
+ition de r=E9f=E9rence, d=E9tails de l'exp=E9dition, et les num=E9ros de re=
+lease  Honda correspondant.
+
+SVP aviser si vous ne parvenez pas =E0 ouvrir le document Excel ci-joint ou=
+ si cela devrait =EAtre envoy=E9 =E0 quelqu'un d'autre. Envoyer vos changem=
+ents ou vos questions =E0 Priyanka au pjhurry@metroscg.com
+
+Dispatch                    Carrier                     ETA                =
+             Release#         Ship_ID               Serial Number          =
+           Model
+
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      EAA=
+T      1070977       EU1000ITC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      EAA=
+T      1070979       EU1000ITC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      EAA=
+T      1070980       EU1000ITC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      EAA=
+T      1070981       EU1000ITC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      EBP=
+C      1037309       EB5000X3C-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      EAA=
+T      1071016       EU1000ITC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      EAA=
+T      1071010       EU1000ITC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      EZG=
+F      1591116       EU3000ISKC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      EAA=
+T      1070986       EU1000ITC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      WAG=
+T      1038028       WX10TC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      WAG=
+T      1037850       WX10TC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      WAG=
+T      1038021       WX10TC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      WAG=
+T      1038007       WX10TC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      WAG=
+T      1038004       WX10TC-0
+2017/01/26      GENERAL CARTAGE 01/27/2017      052420  SID2624417      WAG=
+T      1037955       WX10TC-0
+
+Thanks,
+LuAnne Tiangco/Metro Supply Chain Group/905-888-4458
+
+
+--_000_BLUPR0501MB18410B9F3F63B92903BEA66DB6770BLUPR0501MB1841_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"MS Exchange Server version rmj.rmm.rup.=
+rpr">
+<title></title>
+</head>
+<body>
+<!-- Converted from text/rtf format -->
+<p><font face=3D"Calibri">Hi </font></p>
+<p><font face=3D"Calibri">Please print the shipment notification attached a=
+nd refer to it when receiving the shipment. It contains the shipment refere=
+nce numbers, shipment details, and the corresponding Honda release numbers.=
+.</font></p>
+<p><font face=3D"Calibri">Please advise if you are unable to open the attac=
+hed excel document or if this should be sent to someone else. Send your cha=
+nges or concerns to Priyanka at pjhurry@metroscg.com.</font></p>
+<p><font face=3D"Calibri">SVP imprimer la notification d'exp=E9dition ci-jo=
+int et s'y r=E9f=E9rer lors de la r=E9ception de l'exp=E9dition.&nbsp; Il c=
+ontient les num=E9ros d'exp=E9dition de r=E9f=E9rence, d=E9tails de l'exp=
+=E9dition, et les num=E9ros de release&nbsp; Honda correspondant.</font></p=
+>
+<p><font face=3D"Calibri">SVP aviser si vous ne parvenez pas =E0 ouvrir le =
+document Excel ci-joint ou si cela devrait =EAtre envoy=E9 =E0 quelqu'un d'=
+autre. Envoyer vos changements ou vos questions =E0 Priyanka au pjhurry@met=
+roscg.com</font></p>
+<p><font face=3D"Calibri">Dispatch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C=
+arrier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ETA&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R=
+elease#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ship_ID&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Se=
+rial Number&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Model&nbsp;&nbsp;
+</font></p>
+<p><font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL =
+CARTAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp; EAAT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1070977&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EU1000ITC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; EAAT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1070979&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; EU1000ITC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; EAAT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1070980&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; EU1000ITC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; EAAT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1070981&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; EU1000ITC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; EBPC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1037309&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; EB5000X3C-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; EAAT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1071016&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; EU1000ITC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; EAAT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1071010&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; EU1000ITC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; EZGF&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1591116&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; EU3000ISKC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; EAAT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1070986&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; EU1000ITC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; WAGT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1038028&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; WX10TC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; WAGT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1037850&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; WX10TC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; WAGT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1038021&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; WX10TC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; WAGT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1038007&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; WX10TC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; WAGT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1038004&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; WX10TC-0</font>
+<br>
+<font face=3D"Calibri">2017/01/26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 01/27/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 052420&nbsp; SID2624417&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; WAGT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1037955&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; WX10TC-0</font>
+</p>
+<p><font face=3D"Calibri">Thanks,</font> <br>
+<font face=3D"Calibri">LuAnne Tiangco/Metro Supply Chain Group/905-888-4458=
+</font> </p>
+<br>
+</body>
+</html>
+
+--_000_BLUPR0501MB18410B9F3F63B92903BEA66DB6770BLUPR0501MB1841_--
+
+--_004_BLUPR0501MB18410B9F3F63B92903BEA66DB6770BLUPR0501MB1841_
+Content-Type: application/vnd.ms-excel; name="Honda05787-26012017.xls"
+Content-Description: Honda05787-26012017.xls
+Content-Disposition: attachment; filename="Honda05787-26012017.xls";
+	size=10752; creation-date="Thu, 26 Jan 2017 22:04:15 GMT";
+	modification-date="Thu, 26 Jan 2017 22:04:15 GMT"
+Content-Transfer-Encoding: base64
+
+0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAPgADAP7/CQAGAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA
+EAAAAgAAAAEAAAD+////AAAAAAAAAAD/////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////9
+/////v////7///8EAAAABQAAAAYAAAAHAAAACAAAAAkAAAD+/////////wwAAAANAAAADgAAAA8A
+AAAQAAAAEQAAABIAAAATAAAAAwAAAP//////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////1IA
+bwBvAHQAIABFAG4AdAByAHkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAWAAUA//////////8CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAMZSIgeNIB
+/v///wAAAAAAAAAAQgBvAG8AawAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAoAAgD///////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAALAAAA3x8AAAAAAABDAG8AbQBwAE8AYgBqAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAACAQEAAAADAAAA/////wAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7///8AAAAAAAAAAFMAdQBtAG0AYQByAHkASQBu
+AGYAbwByAG0AYQB0AGkAbwBuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAAIA////////
+////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/v///wAAAAAAAAAA////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////8ABwAF
+ABgACgBTSUQyNjI0NDE3BAIXAAcABgAYAA8AQ0YvQlJFTkRBL1BIT05FBAISAAcABwAYAAoAQ01W
+MDY4NTI5MwQCGQAHAAgAGAARAEVBQVQgICAgICAxMDcxMDEwBAITAAcACQAYAAsARVUxMDAwSVRD
+LTAEAlEABwAKABgASQBzYWxlc0BjaGFpbnNhd2NsaW5pYy5jb207QnJlbmRhQGNoYWluc2F3Y2xp
+bmljLmNvbTtyb25AY2hhaW5zYXdjbGluaWMuY29tBAIdAAcACwAYABUAQ0hBSU4gU0FXIENMSU5J
+QyBMVEQuBAIYAAcADAAYABAAMjU5OCBXRVNUT04gUk9BRAQCFQAHAA0AGAANAE5PUlRIIFlPUkss
+T04EAhIACAAAABgACgAyMDE3LzAxLzI2BAIXAAgAAQAYAA8AR0VORVJBTCBDQVJUQUdFBAISAAgA
+AgAYAAoAMDEvMjcvMjAxNwQCDQAIAAMAGAAFADA1Nzg3BAIOAAgABAAYAAYAMDUyNDIwBAISAAgA
+BQAYAAoAU0lEMjYyNDQxNwQCFwAIAAYAGAAPAENGL0JSRU5EQS9QSE9ORQQCEgAIAAcAGAAKAENN
+VjA2ODUyOTMEAhkACAAIABgAEQBFWkdGICAgICAgMTU5MTExNgQCFAAIAAkAGAAMAEVVMzAwMElT
+S0MtMAQCUQAIAAoAGABJAHNhbGVzQGNoYWluc2F3Y2xpbmljLmNvbTtCcmVuZGFAY2hhaW5zYXdj
+bGluaWMuY29tO3JvbkBjaGFpbnNhd2NsaW5pYy5jb20EAh0ACAALABgAFQBDSEFJTiBTQVcgQ0xJ
+TklDIExURC4EAhgACAAMABgAEAAyNTk4IFdFU1RPTiBST0FEBAIVAAgADQAYAA0ATk9SVEggWU9S
+SyxPTgQCEgAJAAAAGAAKADIwMTcvMDEvMjYEAhcACQABABgADwBHRU5FUkFMIENBUlRBR0UEAhIA
+CQACABgACgAwMS8yNy8yMDE3BAINAAkAAwAYAAUAMDU3ODcEAg4ACQAEABgABgAwNTI0MjAEAhIA
+CQAFABgACgBTSUQyNjI0NDE3BAIXAAkABgAYAA8AQ0YvQlJFTkRBL1BIT05FBAISAAkABwAYAAoA
+Q01WMDY4NTI5MwQCGQAJAAgAGAARAEVBQVQgICAgICAxMDcwOTg2BAITAAkACQAYAAsARVUxMDAw
+SVRDLTAEAlEACQAKABgASQBzYWxlc0BjaGFpbnNhd2NsaW5pYy5jb207QnJlbmRhQGNoYWluc2F3
+Y2xpbmljLmNvbTtyb25AY2hhaW5zYXdjbGluaWMuY29tBAIdAAkACwAYABUAQ0hBSU4gU0FXIENM
+SU5JQyBMVEQuBAIYAAkADAAYABAAMjU5OCBXRVNUT04gUk9BRAQCFQAJAA0AGAANAE5PUlRIIFlP
+UkssT04EAhIACgAAABgACgAyMDE3LzAxLzI2BAIXAAoAAQAYAA8AR0VORVJBTCBDQVJUQUdFBAIS
+AAoAAgAYAAoAMDEvMjcvMjAxNwQCDQAKAAMAGAAFADA1Nzg3BAIOAAoABAAYAAYAMDUyNDIwBAIS
+AAoABQAYAAoAU0lEMjYyNDQxNwQCFwAKAAYAGAAPAENGL0JSRU5EQS9QSE9ORQQCEgAKAAcAGAAK
+AENNVjA2ODUyOTMEAhkACgAIABgAEQBXQUdUICAgICAgMTAzODAyOAQCEAAKAAkAGAAIAFdYMTBU
+Qy0wBAJRAAoACgAYAEkAc2FsZXNAY2hhaW5zYXdjbGluaWMuY29tO0JyZW5kYUBjaGFpbnNhd2Ns
+aW5pYy5jb207cm9uQGNoYWluc2F3Y2xpbmljLmNvbQQCHQAKAAsAGAAVAENIQUlOIFNBVyBDTElO
+SUMgTFRELgQCGAAKAAwAGAAQADI1OTggV0VTVE9OIFJPQUQEAhUACgANABgADQBOT1JUSCBZT1JL
+LE9OBAISAAsAAAAYAAoAMjAxNy8wMS8yNgQCFwALAAEAGAAPAEdFTkVSQUwgQ0FSVEFHRQQCEgAL
+AAIAGAAKADAxLzI3LzIwMTcEAg0ACwADABgABQAwNTc4NwQCDgALAAQAGAAGADA1MjQyMAQCEgAL
+AAUAGAAKAFNJRDI2MjQ0MTcEAhcACwAGABgADwBDRi9CUkVOREEvUEhPTkUEAhIACwAHABgACgBD
+TVYwNjg1MjkzBAIZAAsACAAYABEAV0FHVCAgICAgIDEwMzc4NTAEAhAACwAJABgACABXWDEwVEMt
+MAQCUQALAAoAGABJAHNhbGVzQGNoYWluc2F3Y2xpbmljLmNvbTtCcmVuZGFAY2hhaW5zYXdjbGlu
+aWMuY29tO3JvbkBjaGFpbnNhd2NsaW5pYy5jb20EAh0ACwALABgAFQBDSEFJTiBTQVcgQ0xJTklD
+IExURC4EAhgACwAMABgAEAAyNTk4IFdFU1RPTiBST0FEBAIVAAsADQAYAA0ATk9SVEggWU9SSyxP
+TgQCEgAMAAAAGAAKADIwMTcvMDEvMjYEAhcADAABABgADwBHRU5FUkFMIENBUlRBR0UEAhIADAAC
+ABgACgAwMS8yNy8yMDE3BAINAAwAAwAYAAUAMDU3ODcEAg4ADAAEABgABgAwNTI0MjAEAhIADAAF
+ABgACgBTSUQyNjI0NDE3BAIXAAwABgAYAA8AQ0YvQlJFTkRBL1BIT05FBAISAAwABwAYAAoAQ01W
+MDY4NTI5MwQCGQAMAAgAGAARAFdBR1QgICAgICAxMDM4MDIxBAIQAAwACQAYAAgAV1gxMFRDLTAE
+AlEADAAKABgASQBzYWxlc0BjaGFpbnNhd2NsaW5pYy5jb207QnJlbmRhQGNoYWluc2F3Y2xpbmlj
+LmNvbTtyb25AY2hhaW5zYXdjbGluaWMuY29tBAIdAAwACwAYABUAQ0hBSU4gU0FXIENMSU5JQyBM
+VEQuBAIYAAwADAAYABAAMjU5OCBXRVNUT04gUk9BRAQCFQAMAA0AGAANAE5PUlRIIFlPUkssT04E
+AhIADQAAABgACgAyMDE3LzAxLzI2BAIXAA0AAQAYAA8AR0VORVJBTCBDQVJUQUdFBAISAA0AAgAY
+AAoAMDEvMjcvMjAxNwQCDQANAAMAGAAFADA1Nzg3BAIOAA0ABAAYAAYAMDUyNDIwBAISAA0ABQAY
+AAoAU0lEMjYyNDQxNwQCFwANAAYAGAAPAENGL0JSRU5EQS9QSE9ORQQCEgANAAcAGAAKAENNVjA2
+ODUyOTMEAhkADQAIABgAEQBXQUdUICAgICAgMTAzODAwNwQCEAANAAkAGAAIAFdYMTBUQy0wBAJR
+AA0ACgAYAEkAc2FsZXNAY2hhaW5zYXdjbGluaWMuY29tO0JyZW5kYUBjaGFpbnNhd2NsaW5pYy5j
+b207cm9uQGNoYWluc2F3Y2xpbmljLmNvbQQCHQANAAsAGAAVAENIQUlOIFNBVyBDTElOSUMgTFRE
+LgQCGAANAAwAGAAQADI1OTggV0VTVE9OIFJPQUQEAhUADQANABgADQBOT1JUSCBZT1JLLE9OBAIS
+AA4AAAAYAAoAMjAxNy8wMS8yNgQCFwAOAAEAGAAPAEdFTkVSQUwgQ0FSVEFHRQQCEgAOAAIAGAAK
+ADAxLzI3LzIwMTcEAg0ADgADABgABQAwNTc4NwQCDgAOAAQAGAAGADA1MjQyMAQCEgAOAAUAGAAK
+AFNJRDI2MjQ0MTcEAhcADgAGABgADwBDRi9CUkVOREEvUEhPTkUEAhIADgAHABgACgBDTVYwNjg1
+MjkzBAIZAA4ACAAYABEAV0FHVCAgICAgIDEwMzgwMDQEAhAADgAJABgACABXWDEwVEMtMAQCUQAO
+AAoAGABJAHNhbGVzQGNoYWluc2F3Y2xpbmljLmNvbTtCcmVuZGFAY2hhaW5zYXdjbGluaWMuY29t
+O3JvbkBjaGFpbnNhd2NsaW5pYy5jb20EAh0ADgALABgAFQBDSEFJTiBTQVcgQ0xJTklDIExURC4E
+AhgADgAMABgAEAAyNTk4IFdFU1RPTiBST0FEBAIVAA4ADQAYAA0ATk9SVEggWU9SSyxPTgQCEgAP
+AAAAGAAKADIwMTcvMDEvMjYEAhcADwABABgADwBHRU5FUkFMIENBUlRBR0UEAhIADwACABgACgAw
+MS8yNy8yMDE3BAINAA8AAwAYAAUAMDU3ODcEAg4ADwAEABgABgAwNTI0MjAEAhIADwAFABgACgBT
+SUQyNjI0NDE3BAIXAA8ABgAYAA8AQ0YvQlJFTkRBL1BIT05FBAISAA8ABwAYAAoAQ01WMDY4NTI5
+MwQCGQAPAAgAGAARAFdBR1QgICAgICAxMDM3OTU1BAIQAA8ACQAYAAgAV1gxMFRDLTAEAlEADwAK
+ABgASQBzYWxlc0BjaGFpbnNhd2NsaW5pYy5jb207QnJlbmRhQGNoYWluc2F3Y2xpbmljLmNvbTty
+b25AY2hhaW5zYXdjbGluaWMuY29tBAIdAA8ACwAYABUAQ0hBSU4gU0FXIENMSU5JQyBMVEQuBAIY
+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
+AAAADAAWAAYAQURSTE4xBAIQAAAADQAWAAgAQ0lUWVBST1YEAhIAAQAAABgACgAyMDE3LzAxLzI2
+BAIXAAEAAQAYAA8AR0VORVJBTCBDQVJUQUdFBAISAAEAAgAYAAoAMDEvMjcvMjAxNwQCDQABAAMA
+GAAFADA1Nzg3BAIOAAEABAAYAAYAMDUyNDIwBAISAAEABQAYAAoAU0lEMjYyNDQxNwQCFwABAAYA
+GAAPAENGL0JSRU5EQS9QSE9ORQQCEgABAAcAGAAKAENNVjA2ODUyOTMEAhkAAQAIABgAEQBFQUFU
+ICAgICAgMTA3MDk3NwQCEwABAAkAGAALAEVVMTAwMElUQy0wBAJRAAEACgAYAEkAc2FsZXNAY2hh
+aW5zYXdjbGluaWMuY29tO0JyZW5kYUBjaGFpbnNhd2NsaW5pYy5jb207cm9uQGNoYWluc2F3Y2xp
+bmljLmNvbQQCHQABAAsAGAAVAENIQUlOIFNBVyBDTElOSUMgTFRELgQCGAABAAwAGAAQADI1OTgg
+V0VTVE9OIFJPQUQEAhUAAQANABgADQBOT1JUSCBZT1JLLE9OBAISAAIAAAAYAAoAMjAxNy8wMS8y
+NgQCFwACAAEAGAAPAEdFTkVSQUwgQ0FSVEFHRQQCEgACAAIAGAAKADAxLzI3LzIwMTcEAg0AAgAD
+ABgABQAwNTc4NwQCDgACAAQAGAAGADA1MjQyMAQCEgACAAUAGAAKAFNJRDI2MjQ0MTcEAhcAAgAG
+ABgADwBDRi9CUkVOREEvUEhPTkUEAhIAAgAHABgACgBDTVYwNjg1MjkzBAIZAAIACAAYABEARUFB
+VCAgICAgIDEwNzA5NzkEAhMAAgAJABgACwBFVTEwMDBJVEMtMAQCUQACAAoAGABJAHNhbGVzQGNo
+YWluc2F3Y2xpbmljLmNvbTtCcmVuZGFAY2hhaW5zYXdjbGluaWMuY29tO3JvbkBjaGFpbnNhd2Ns
+aW5pYy5jb20EAh0AAgALABgAFQBDSEFJTiBTQVcgQ0xJTklDIExURC4EAhgAAgAMABgAEAAyNTk4
+IFdFU1RPTiBST0FEBAIVAAIADQAYAA0ATk9SVEggWU9SSyxPTgQCEgADAAAAGAAKADIwMTcvMDEv
+MjYEAhcAAwABABgADwBHRU5FUkFMIENBUlRBR0UEAhIAAwACABgACgAwMS8yNy8yMDE3BAINAAMA
+AwAYAAUAMDU3ODcEAg4AAwAEABgABgAwNTI0MjAEAhIAAwAFABgACgBTSUQyNjI0NDE3BAIXAAMA
+BgAYAA8AQ0YvQlJFTkRBL1BIT05FBAISAAMABwAYAAoAQ01WMDY4NTI5MwQCGQADAAgAGAARAEVB
+QVQgICAgICAxMDcwOTgwBAITAAMACQAYAAsARVUxMDAwSVRDLTAEAlEAAwAKABgASQBzYWxlc0Bj
+aGFpbnNhd2NsaW5pYy5jb207QnJlbmRhQGNoYWluc2F3Y2xpbmljLmNvbTtyb25AY2hhaW5zYXdj
+bGluaWMuY29tBAIdAAMACwAYABUAQ0hBSU4gU0FXIENMSU5JQyBMVEQuBAIYAAMADAAYABAAMjU5
+OCBXRVNUT04gUk9BRAQCFQADAA0AGAANAE5PUlRIIFlPUkssT04EAhIABAAAABgACgAyMDE3LzAx
+LzI2BAIXAAQAAQAYAA8AR0VORVJBTCBDQVJUQUdFBAISAAQAAgAYAAoAMDEvMjcvMjAxNwQCDQAE
+AAMAGAAFADA1Nzg3BAIOAAQABAAYAAYAMDUyNDIwBAISAAQABQAYAAoAU0lEMjYyNDQxNwQCFwAE
+AAYAGAAPAENGL0JSRU5EQS9QSE9ORQQCEgAEAAcAGAAKAENNVjA2ODUyOTMEAhkABAAIABgAEQBF
+QUFUICAgICAgMTA3MDk4MQQCEwAEAAkAGAALAEVVMTAwMElUQy0wBAJRAAQACgAYAEkAc2FsZXNA
+Y2hhaW5zYXdjbGluaWMuY29tO0JyZW5kYUBjaGFpbnNhd2NsaW5pYy5jb207cm9uQGNoYWluc2F3
+Y2xpbmljLmNvbQQCHQAEAAsAGAAVAENIQUlOIFNBVyBDTElOSUMgTFRELgQCGAAEAAwAGAAQADI1
+OTggV0VTVE9OIFJPQUQEAhUABAANABgADQBOT1JUSCBZT1JLLE9OBAISAAUAAAAYAAoAMjAxNy8w
+MS8yNgQCFwAFAAEAGAAPAEdFTkVSQUwgQ0FSVEFHRQQCEgAFAAIAGAAKADAxLzI3LzIwMTcEAg0A
+BQADABgABQAwNTc4NwQCDgAFAAQAGAAGADA1MjQyMAQCEgAFAAUAGAAKAFNJRDI2MjQ0MTcEAhcA
+BQAGABgADwBDRi9CUkVOREEvUEhPTkUEAhIABQAHABgACgBDTVYwNjg1MjkzBAIZAAUACAAYABEA
+RUJQQyAgICAgIDEwMzczMDkEAhMABQAJABgACwBFQjUwMDBYM0MtMAQCUQAFAAoAGABJAHNhbGVz
+QGNoYWluc2F3Y2xpbmljLmNvbTtCcmVuZGFAY2hhaW5zYXdjbGluaWMuY29tO3JvbkBjaGFpbnNh
+d2NsaW5pYy5jb20EAh0ABQALABgAFQBDSEFJTiBTQVcgQ0xJTklDIExURC4EAhgABQAMABgAEAAy
+NTk4IFdFU1RPTiBST0FEBAIVAAUADQAYAA0ATk9SVEggWU9SSyxPTgQCEgAGAAAAGAAKADIwMTcv
+MDEvMjYEAhcABgABABgADwBHRU5FUkFMIENBUlRBR0UEAhIABgACABgACgAwMS8yNy8yMDE3BAIN
+AAYAAwAYAAUAMDU3ODcEAg4ABgAEABgABgAwNTI0MjAEAhIABgAFABgACgBTSUQyNjI0NDE3BAIX
+AAYABgAYAA8AQ0YvQlJFTkRBL1BIT05FBAISAAYABwAYAAoAQ01WMDY4NTI5MwQCGQAGAAgAGAAR
+AEVBQVQgICAgICAxMDcxMDE2BAITAAYACQAYAAsARVUxMDAwSVRDLTAEAlEABgAKABgASQBzYWxl
+c0BjaGFpbnNhd2NsaW5pYy5jb207QnJlbmRhQGNoYWluc2F3Y2xpbmljLmNvbTtyb25AY2hhaW5z
+YXdjbGluaWMuY29tBAIdAAYACwAYABUAQ0hBSU4gU0FXIENMSU5JQyBMVEQuBAIYAAYADAAYABAA
+MjU5OCBXRVNUT04gUk9BRAQCFQAGAA0AGAANAE5PUlRIIFlPUkssT04EAhIABwAAABgACgAyMDE3
+LzAxLzI2BAIXAAcAAQAYAA8AR0VORVJBTCBDQVJUQUdFBAISAAcAAgAYAAoAMDEvMjcvMjAxNwQC
+DQAHAAMAGAAFADA1Nzg3BAIOAAcABAAYAAYAMDUyNDIwBAIS
+
+--_004_BLUPR0501MB18410B9F3F63B92903BEA66DB6770BLUPR0501MB1841_--

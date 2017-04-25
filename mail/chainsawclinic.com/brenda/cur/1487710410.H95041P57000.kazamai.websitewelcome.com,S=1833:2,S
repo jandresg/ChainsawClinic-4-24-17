@@ -1,0 +1,58 @@
+Return-path: <JROPER@semplegooder.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 21 Feb 2017 14:53:30 -0600
+Received: from mail.semplegooder.com ([207.164.11.6]:44313)
+	by kazamai.websitewelcome.com with esmtps (TLSv1:AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <JROPER@semplegooder.com>)
+	id 1cgHRC-000En3-03
+	for brenda@chainsawclinic.com; Tue, 21 Feb 2017 14:53:30 -0600
+Received: from [192.168.168.104] (192.168.168.104) by SGRSBS01.sgr.local
+ (192.168.168.10) with Microsoft SMTP Server id 8.2.255.0; Tue, 21 Feb 2017
+ 15:53:18 -0500
+MIME-Version: 1.0
+X-Mailer: MailBee.NET 7.0.2.334
+From: <jroper@semplegooder.com>
+To: brenda@chainsawclinic.com
+Subject: Semple Gooder Roofing Corp Direct Deposit
+Date: Tue, 21 Feb 2017 15:53:18 -0500
+Message-ID: <1.bec9384bff296b5afc7d@SGRHFUHS>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_7719_EFDF41C7.593C343E"
+
+------=_NextPart_000_7719_EFDF41C7.593C343E
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+2000007 ONTARIO INC. We have deposited $4,633.00 to your account, paying th=
+e following invoices. 
+ Invoice # Amount Discount Amount Paid 
+ 4352 $4,633.00$0.00 $4,633.00 
+ Totals : $4,633.00$0.00 $4,633.00 
+ =
+
+------=_NextPart_000_7719_EFDF41C7.593C343E
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+<html>CHAIN SAW CLINIC LTD
+
+We have deposited $283.86 to your account, paying the following invoices.
+<table  border=3D0>
+<font size=3D3><TH>Invoice #</TH>
+<TH>Amount</TH>
+<TH>Discount</TH>
+<TH>Amount Paid</TH>
+<tr>
+<td>3230</td>
+<td align=3DRight>$283.86<td align=3DRight>$0.00</td>
+<td align=3DRight>$283.86</td>
+</tr>
+<tr>
+<td>Totals :</td>
+<td align=3DRight>$283.86<td align=3DRight>$0.00</td>
+<td align=3DRight>$283.86</td>
+</tr>
+</table>
+</html>
+------=_NextPart_000_7719_EFDF41C7.593C343E--

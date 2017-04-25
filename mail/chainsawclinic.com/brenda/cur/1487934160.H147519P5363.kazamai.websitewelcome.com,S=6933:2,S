@@ -1,0 +1,149 @@
+Return-path: <husqvarna-marketing@mailmw.rnmk.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Fri, 24 Feb 2017 05:02:40 -0600
+Received: from rnmkmw65.rightnowtech.com ([74.117.203.65]:14428 helo=rntmw65.rnmk.com)
+	by kazamai.websitewelcome.com with esmtp (Exim 4.87)
+	(envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	id 1chDe4-0001JF-0z
+	for brenda@chainsawclinic.com; Fri, 24 Feb 2017 05:02:40 -0600
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailca.rnmk.com;
+	h=DKIM-Signature:Received:MIME-Version:Message-Id:To:Date:Subject:List-Unsubscribe:From:Reply-To:Content-Type:Content-Transfer-Encoding;
+	b=MnYwi8tPF6N2RsAj8IwM4KyZTnXdvfX5Q9+UkqOJkiuFxWBFWPC7UfKqX1HE3Nun
+	A99HmJw8nq7lcmpHVltCkBfFwStG9lg3T3lpbowXRrz/oWAGUYKTjrvcIkokob3Y
+	3O4wd7M7tSCsJ7jHUHQfzYr6KtvMsDuV9I24iwPkCU4=
+DKIM-Signature: v=1; a=rsa-sha1; d=mailca.rnmk.com; s=dkimrnt; c=simple/simple;
+	q=dns/txt; i=@mailca.rnmk.com; t=1487934145;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=anvHbuH35lnknYwrDFEY+lvg8Zo=;
+	b=tAjYBPKH4MDSXpXFnPckvv53RrEKfbSdEmUr52jd9EoyQEkfbOmlZA8A1ro/oWXb
+	JOLSRiheervoniLYnnDwpqgLS2gdvKEfIT23wQlIz+/B23NRm9ueB2VOwn1k2tdC
+	pE8jFGP+ZBoIhvpHm1HAzEwUGCWrs4fFOG023NYXjbo=;
+Received: from [10.70.0.90] ([10.70.0.90:23658] helo=rnmdmw01.int.rightnowtech.com)
+	by rntmw65.rnmk.com (envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id F3/02-09541-1C210B85; Fri, 24 Feb 2017 05:02:25 -0600
+MIME-Version: 1.0
+Message-Id: <RNTM.AvMM~wqfDv8S~xb~Gv8O~yKiockqbov7JiVncj7~Pv_u.0.1487934138.6C~kGcgT0hs9.164969@rnmdmw01.int.rightnowtech.com>
+To: brenda@chainsawclinic.com
+Date: Fri, 24 Feb 2017 06:02:18 -0500 (EST)
+Subject: Web Warranty Upgrade Information
+List-Unsubscribe: <mailto:husqvarna-marketing@mailca.rnmk.com?subject=Unsubscribe AvMM~wqfDv8S~xb~Gv8O~yKiockqbov7JiVncj7~Pv_u>
+From: "Andrew Conville, Husqvarna After Sales Manager" <husqvarna-marketing@mailca.rnmk.com>
+Reply-To: "Husqvarna" <husqvarna-marketing@mailca.rnmk.com>
+Content-Type: Text/Html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-micro=
+soft-com:office:office" xmlns:rn=3D"http://schemas.rightnow.com/crm/docum=
+ent">
+<head>
+<title></title>
+                                                                    =20
+<style type=3D"text/css" xml:space=3D"preserve">
+/*<![CDATA[*/
+TD {
+        PADDING-LEFT: 15px
+}
+/*]]>*/
+</style>
+</head>
+<body style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-s=
+erif; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-=
+LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #d4d5d8">
+
+<p style=3D"COLOR: #8e8e8e">&#160;</p>
+<p style=3D"COLOR: #8e8e8e">Having trouble reading this email? <a target=3D=
+"_blank" href=3D"http://husqvarna.custhelp.com/ci/documents/view/1/AvMM~w=
+qfDv8S~xb~Gv8O~yKiockqbov7JiVncj7~Pv_u"><span style=3D"FONT-SIZE: 14px; T=
+EXT-DECORATION: none; COLOR: #f15321">View it in your browser.</span></a>=
+</p>
+<table style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-=
+serif; WIDTH: 600px; MARGIN: 0px auto" cellspacing=3D"0" cellpadding=3D"0=
+"><!-- LIGHT-GRAY HEADER -->
+<tbody>
+<tr>
+<td style=3D"HEIGHT: 100px; PADDING-BOTTOM: 10px; TEXT-ALIGN: right; PADD=
+ING-TOP: 10px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND-COLOR:=
+ #efefef"><a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wqfDv8S~xb=
+~Gv8O~yKiockqbov7JiVncj7~Pv_u&amp;2=3D5808"><img alt=3D"Husqvarna, Ready =
+when you are (logo)" border=3D"0" height=3D"53" src=3D"http://54.76.127.1=
+75/Emails/Dealer-News/2016/february/husq-logo.png" width=3D"216" /></a></=
+td>
+</tr>
+<!-- END LIGHT-GRAY HEADER --><!-- MAIN SUBJECT TEXT -->
+<tr style=3D"HEIGHT: 200px; VERTICAL-ALIGN: text-top; TEXT-ALIGN: left; B=
+ACKGROUND-COLOR: #ffffff">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px">
+<div style=3D"WIDTH: 100%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING=
+-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"><br />
+<p style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-seri=
+f; PADDING-BOTTOM: 0px" dir=3D"ltr">Dear Valued Husqvarna Dealer,<br />
+<br />
+<span style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Myriad Pro',Helvetica,San-s=
+erif; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #ffffff">At midnight on Febr=
+uary 22, 2017 access to Web Warranty will be disabled in order to facilit=
+ate a major upgrade to Web Warranty. The warranty system will become avai=
+lable again on March 8, 2017. Any open claims should be submitted no late=
+r than close of business February 22, 2017. All claims submitted prior to=
+ February 23, 2017 will be processed prior to the completion of the upgra=
+de<br />
+<br />
+<b>Key Dates:</b><br />
+February 23, 2017 - Access to Web Warranty will be shut down for the upgr=
+ade<br />
+March 8, 2017 -Web Warranty 2.0 will be live<br />
+<br />
+<b>Benefits:</b><br />
+New Dashboard - Instantly understand current status of all your claims<br=
+ />
+Modern Platform<br />
+&#160;&#160;&#160;&#160;&#160;&#160;Compatible with all browsers<br />
+&#160;&#160;&#160;&#160;&#160;&#160;Mobile Friendly - adapts to tablets a=
+nd other mobile devices<br />
+&#160;&#160;&#160;&#160;&#160;&#160;Cleaner and more intuitive interface<=
+br />
+Improved recognition and confirmation of serial and model numbers<br />
+Increased space to enter explanation of repair<br />
+Improved and much easier process to add attachments and pictures<br />
+<br />
+<b>Training</b><br />
+Videos have been posted to Power. Click on the Service Tab &gt; Warranty.=
+<br /><br />
+Filing a Claim<br />
+Determining Claims Status - Handheld<br />
+Determining Claims Status - Combined<br />
+Adding Attachments<br /><br />
+Should you have any questions please contact Husqvarna's Warranty Team at=
+<br />1-800-448-7543, option 2.<br />
+<br />
+Sincerely,<br />
+<br />
+Andrew Conville<br />
+After Sales Manager</span><br />
+<br />
+</p></div>
+</td>
+</tr>
+<!-- END MAIN SUBJECT TEXT --><!-- BLUE FOOTER -->
+<tr>
+<td style=3D"FONT-SIZE: 12px; HEIGHT: 100px; COLOR: white; PADDING-BOTTOM=
+: 10px; TEXT-ALIGN: center; PADDING-TOP: 10px; PADDING-LEFT: 40px; PADDIN=
+G-RIGHT: 40px; BACKGROUND-COLOR: #273a60"><a href=3D"http://husqvarna.cus=
+thelp.com/rd?1=3DAvMM~wqfDv8S~xb~Gv8O~yKiockqbov7JiVncj7~Pv_u&amp;2=3D580=
+8"><img alt=3D"Husqvarna, Ready when you are (logo)" border=3D"0" src=3D"=
+http://54.76.127.175/Emails/promos/template-redesign/assets/logo.png " wi=
+dth=3D"150" /></a>
+<p>Please do not respond directly to this e-mail.</p>
+</td>
+</tr>
+<!-- END BLUE FOOTER --></tbody>
+</table>
+<img alt=3D"" height=3D"1" width=3D"1" style=3D"display: none" src=3D"htt=
+p://husqvarna.custhelp.com/rd/AvMM~wqfDv8S~xb~Gv8O~yKiockqbov7JiVncj7~Pv_=
+u.gif"/> </body>
+</html>
+

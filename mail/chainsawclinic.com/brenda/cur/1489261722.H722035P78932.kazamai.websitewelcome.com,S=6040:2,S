@@ -1,0 +1,101 @@
+Return-path: <john.parete@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Sat, 11 Mar 2017 13:48:42 -0600
+Received: from mail-it0-f41.google.com ([209.85.214.41]:37017)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <john.parete@gmail.com>)
+	id 1cmn0M-000KUS-Le
+	for brenda@chainsawclinic.com; Sat, 11 Mar 2017 13:48:42 -0600
+Received: by mail-it0-f41.google.com with SMTP id g138so13353206itb.0
+        for <brenda@chainsawclinic.com>; Sat, 11 Mar 2017 11:48:37 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=9mrb6GC7voJ6ulix+I++Izk/oFdievimOjZa6kSkv7k=;
+        b=UGWT0GbgChJkAryTtfw2qiPrMvoLEM4d3BPt6C+kFXH0dTi9mQRfXgqzmPT9Nn1ilA
+         p+q6cdhmCV84Csz8+5F1cC4Cot5hwPBHrovAZrrdLmA0TFlbxFbLT2Pe7A39a5+nOsdJ
+         YQPzhg4kGuNdthNHY9yVVO0HPhyVJnfCEMh0n6s80kuvGg2+EiBDgQFSFZxtPxZe7J5E
+         OrmXRL2+8ej43p555hWqeGv+RBEuMmhxmVa9jRSzZEb9t+4oiPdGStZLTtbGiOQU6cf1
+         RpKTLQOGhZWwK8RKQLm5CJ58HipnesRGCAta5BC6kltKeakwOX0zUTT3kgAl1L1ukS3C
+         xnIA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=9mrb6GC7voJ6ulix+I++Izk/oFdievimOjZa6kSkv7k=;
+        b=cqrB+bGEhvY40QyKCeE79dfjcfhWqK2nF/aHu3RxwBtBnQ/tKzuPuSi76KJmbyZahl
+         TWLv0/zxYlRH7FD3OhUJbFFz+fL2VLUy8J6LBGfdwMLYD1p7Yyh6EjFyKOxar45V+izM
+         sa0j4+8UGavyo02iTj4pJl+gCreuOVVearm55oXS9P41N9Gkge2RlcJ+gQ1Fjqriyphl
+         mh9rte68GP11/T9FyPhOWuWNk4VMV7MDXMAtv+g0JF6vs69uAhRSTBDnPHuZC04hLeGN
+         H9mcge9FeOxCHdiaSegyvVGR2qzVXz+hpvjF/cIDIJVN+IhZ15q/d0Wg4BRsNUryMyPs
+         GFVw==
+X-Gm-Message-State: AFeK/H0KCOzsy4Y6gJQP8AXlDSWhrU40UvzLKua5bJa33Qt+7ai/Mwawk3O/HEfIrtOgEP/3VKpW/oW7MOUCrg==
+X-Received: by 10.36.37.145 with SMTP id g139mr4805141itg.24.1489261712034;
+ Sat, 11 Mar 2017 11:48:32 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.64.155.20 with HTTP; Sat, 11 Mar 2017 11:48:01 -0800 (PST)
+From: John Parete <john.parete@gmail.com>
+Date: Sat, 11 Mar 2017 14:48:01 -0500
+Message-ID: <CAL7=Tmm96noUsr3qPv9gMw1Ksq8+fNtivO1x6pS-nfmTnUuE4g@mail.gmail.com>
+Subject: Working with the CO and training CO
+To: Adewale Mabayoje <amabayoje@yahoo.com>, Andrew Lommano <andrewlommano@yahoo.ca>, 
+	Angie Parete <angie.parete@gmail.com>, Bernie Marchio <bmarchio@hotmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Carmela Motta <carmela.motta86@gmail.com>, 
+	Catarina Zambri <zamfilcat@hotmail.com>, Chris Ghangas <chris.ghangas@gmail.com>, 
+	Darrin Hollmann <dvhollmann@gmail.com>, David Fowler <uniteddave@aol.com>, 
+	Dennis - Cell Bou <dennis.bou92@gmail.com>, Derrick Smerchansky <smerchansky@hotmail.com>, 
+	Dino Vilardo <dinovilardo@yahoo.com>, Elvira Di Nuzzo <edinuzzo@alumni.uoguelph.ca>, 
+	Filippo Zambri <zamfilippo@hotmail.com>, "Frank & Amanda Stalteri" <amandar_86@hotmail.com>, 
+	Frank Rucchetta <frucchetta@yahoo.ca>, "Gary & Lucy Blunt" <lucyablunt@gmail.com>, 
+	Giulio Pace <gppp_us@yahoo.com>, Grace Lopes <lopes.grace@ymail.com>, 
+	Jade Smerchansky <cocodawson@hotmail.com>, Jennifer Perusini <jlperusini@gmail.com>, 
+	Jessica Mclean <jessicamclean78@gmail.com>, Joe Loggia <joe.loggia@vitran.com>, 
+	Joe Venezia <jvenezia72@rogers.com>, John Lommano <jlommano@yahoo.ca>, 
+	Joseph Yu <josephydw@gmail.com>, Joshua Mclean <joshua.4.mclean@gmail.com>, 
+	Julie Mclean <Julie.mclean05@live.ca>, Karin Teti <karinteti@hotmail.com>, 
+	Laura Casavant <laura.casavant@gmail.com>, Luigi Panigas <sensory5@gmail.com>, 
+	Marilena DiMatteo <marilena@rogers.com>, Marina Lancia <marinalancia@gmail.com>, 
+	Marisa Panaroni <mpanaroni@gmail.com>, Mark Casavant <mark.casavant@gmail.com>, 
+	Mary Varkaris <maryvarkaris@yahoo.com>, Michelle Annarilli <santelicesm@hotmail.com>, 
+	Nick - Cell Zambri <nick_zambri@hotmail.com>, Nick Smith <mossberg303@gmail.com>, 
+	"Omar, Jennifer Perusini" <perusini@gmail.com>, Paul Losacco <plosacco@rogers.com>, 
+	Peter Rothman <rothmanspainting@gmail.com>, "Phil & Anna D'Angelo" <anna.dangelo@rogers.com>, 
+	Phyllis Fenuta <phyllis.fenuta@hotmail.com>, Pierluca Belsito <pierluca.belsito@gmail.com>, 
+	Pina Mobilio <pina.mobilio@gmail.com>, Randall Franske <rfranske@gmail.com>, 
+	Raquel Floro <rlfloro93@gmail.com>, Richard Sherif <richard.sherif@gmail.com>, 
+	Rita Casavant <rita.casavant@gmail.com>, 
+	"Ron & Marjory Robinson" <brenda@chainsawclinic.com>, Sally Franske <sfranske@yahoo.com>, 
+	Samantha McLean <samantha041205@gmail.com>, Sonia Genovese <sonia.genovese@yahoo.com>, 
+	Stephanie - cell Rucchetta <srucchetta@yahoo.com>, Teneson Floro <tenesonfloro@gmail.com>, 
+	Teresa Parejas <tlparejas@hotmail.com>, Tiana Lancia <tianalancia@hotmail.com>, 
+	Tobilola Mabayoje <tobilola.k.mabayoje@live.com>, Tony Alcamo <talcamo@gmail.com>, 
+	Tony Fiorellino <tony@insureitgroup.com>, Vince Teti <vinceteti@gmail.com>, 
+	Walter Panaroni <wpanaroni@gmail.com>, Zenon Varisella <zrvarisella@primus.ca>
+Content-Type: multipart/alternative; boundary=001a11433bee52db1b054a79c3e7
+
+--001a11433bee52db1b054a79c3e7
+Content-Type: text/plain; charset=UTF-8
+
+Is there anybody available for Wed afternoon to work with Brother Yee? This
+is the last time slot available. This is for RV or Bible study, not the
+door-to-door work.
+
+Please let me know by tomorrow.
+
+Thanks
+
+John Parete
+
+--001a11433bee52db1b054a79c3e7
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Is there anybody available for Wed afternoon to work =
+with Brother Yee? This is the last time slot available. This is for RV or B=
+ible study, not the door-to-door work.<br><br></div><div>Please let me know=
+ by tomorrow.<br></div><div><br></div>Thanks<br><br clear=3D"all"><div><div=
+><div><div class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><fo=
+nt face=3D"georgia, serif">John Parete</font></div></div>
+</div></div></div>
+
+--001a11433bee52db1b054a79c3e7--

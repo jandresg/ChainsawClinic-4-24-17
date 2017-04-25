@@ -1,0 +1,261 @@
+Return-path: <bounces+3641920-fdda-brenda=chainsawclinic.com@mail.shiptime.co>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Wed, 01 Mar 2017 18:12:23 -0600
+Received: from o1678978x58.outbound-mail.sendgrid.net ([167.89.78.58]:43917)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+3641920-fdda-brenda=chainsawclinic.com@mail.shiptime.co>)
+	id 1cjEM3-000Srp-2C
+	for brenda@chainsawclinic.com; Wed, 01 Mar 2017 18:12:23 -0600
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=shiptime.co; 
+	h=from:to:subject:mime-version:content-type; s=s1; 
+	bh=evQY0P/Zy1LM9a7nGQ8vgrxK0ac=; b=WZWy3fxro2TsUAMJ1yBYuXim6KG5n
+	Li90pFzjju1sms0dYmd+ylkO4Gw2Ax36HVvee8ncXDNoUUXkGBvYKLnCILZYBJEH
+	rc5Cpb+RRcAYlchqvhpoTMn+T3nkFViw6RoxNiJ71Q5ZWNwDKpJsaC7A1NjVG8Si
+	Auc6wjt/UuyzWM=
+Received: by filter0544p1las1.sendgrid.net with SMTP id filter0544p1las1-16856-58B7635B-2E
+        2017-03-02 00:12:11.89613187 +0000 UTC
+Received: from 10-165-141-17.cloud.opsource.net (207-20-35-70-compute-ag2-ash01.opsourcecloud.net [207.20.35.70])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id oqFlsDCJQ42iweFSD_6qHQ
+	for <brenda@chainsawclinic.com>; Thu, 02 Mar 2017 00:12:11.831 +0000 (UTC)
+Date: Wed, 1 Mar 2017 19:12:11 -0500 (EST)
+From: support@zoomshipr.ca
+To: brenda@chainsawclinic.com
+Message-ID: <609891544.45051488413531828.JavaMail.tomcat7@10-165-141-17.cloud.opsource.net>
+Subject: Shipment Information for ZoomShipR Ship ID #3621359
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_4506_747447125.1488413531767"
+X-SG-EID: IuTw9Apubm5pef66PmGnqST8qtdQoP1y1iVhDOMfGVVhW5k9aKlznKHXkUsk7M2H7WbYJVdMoRil6b
+ cKyKT0DkSThQhWoXR2Sy+HbUVPb1/j/TiOXwtpdUbK9vCm4L5QLs95BDy1ilVEkmZRT5JjgOVr5qG8
+ 3YGYlyDhFYNynvIRq27hO80HxQn2/KqY0NRgsqjzXZorTOg7DQE9XutsrQ==
+
+------=_Part_4506_747447125.1488413531767
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Thanks for Shipping! Your ShipTime Invoice.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<style type="text/css">
+
+		body,.backgroundTable{
+			background-color:#eeeeee;
+			margin-top: 0px;
+		}
+		#contentTable{
+			border:1px ridge #aaaaaa;
+			margin-top: 0px;
+			}
+		.headerTop{
+			background-color:#77859c;
+			border-top:0px none #000000;
+			border-bottom:2px ridge #FFFFFF;
+			text-align:center;
+			padding:2px;
+		}
+		.adminText{
+			font-size:10px;
+			color:#dddddd;
+			line-height:200%;
+			font-family:Helvetica;
+			text-decoration:none;
+		}
+		.headerBar{
+			background-color:#FFFFFF;
+			border-top:0px none #333333;
+			border-bottom:0px none #FFFFFF;
+			padding:0px;
+		}
+		.headerBarText{
+			color:#dddddd;
+			font-size:30px;
+			font-family:Helvetica;
+			font-weight:normal;
+			text-align:left;
+		}
+		.title{
+			font-size:24px;
+			font-weight:normal;
+			color:#d14803;
+			font-family:Georgia;
+			line-height:110%;
+			padding
+		}
+		.subTitle{
+			font-size:20px;
+			font-weight:normal;
+			color:#d14803;
+			font-style:normal;
+			font-family:Georgia;
+		}
+		.defaultText{
+	font-size:13px;
+	color:#111111;
+	line-height:16px;
+	font-family:Georgia;
+	width:410px;
+	background-color:#FFFFFF;
+	padding:10px 10px 10px 20px;
+		}
+		.sideColumn{
+			background-color:#FFFFFF;
+			border-left:1px solid #DDDDDD;
+			text-align:left;
+			width:190px;
+			padding:10px;
+			margin:0px;
+		}
+		.sideColumnText{
+			font-size:11px;
+			font-weight:normal;
+			color:#333333;
+			font-family:Helvetica;
+			line-height:150%;
+		}
+		.sideColumnTitle{
+			font-size:18px;
+			font-weight:normal;
+			color:#d44700;
+			font-family:Georgia;
+			line-height:150%;
+		}
+		.footerRow{
+			background-color:#77859c;
+			border-top:2px ridge #FFFFFF;
+			padding:10px;
+		}
+		.footerText{
+			font-size:10px;
+			color:#ffffff;
+			line-height:100%;
+			font-family:Helvetica;
+		}
+		a,a:link,a:visited{
+			color:#17488a;
+			text-decoration:underline;
+			font-weight:normal;
+		}
+		.headerTop a{
+			color:#ffffff;
+			text-decoration:none;
+			font-weight:normal;
+		}
+		.footerRow a{
+			color:#ffffff;
+			text-decoration:underline;
+			font-weight:normal;
+		}
+		body,.backgroundTable{
+			background-color:#efefef;
+		}
+		#templateHeader{
+			padding:0px;
+			background-color:#000000;
+		}
+</style></head>
+<body leftmargin="0"topmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="background-color: #efefef;margin-top:0px;">
+
+
+<table width="100%" cellpadding="10" cellspacing="0" class="backgroundTable" style="background-color: #efefef;">
+<tr>
+<td valign="top" align="center">
+
+<table id="contentTable" cellspacing="0" cellpadding="0" width="600" style="border: 1px ridge #aaaaaa;margin-top: 0px;"><tr><td>
+
+<table width="600" cellpadding="0" cellspacing="0">
+
+<tr>
+<td align="left" valign="middle" class="headerBar" style="background-color: #FFFFFF;border-top: 0px none #333333;border-bottom: 0px none #FFFFFF;padding: 0px;"><div class="headerBarText" style="color: #dddddd;font-size: 30px;font-family: Helvetica;font-weight: normal;text-align: left;">
+    <div style="text-align: left;"><a href="https://u3641920.ct.sendgrid.net/wf/click?upn=SMC4rTsJcbSOcwov-2Bu040pZkuNmnuZPmdeDjlpBu6WcymPHBX9Lr-2BmzEzxejQx9QTGx13gK6a3pCAE2pqWnSTEy3v9bBreiah6KWervI-2FUFLXzhfqtGhKrHNHo9L55MQ_y52NfNZJFC-2F8HOnfTR8XaHlQ7viajQqfRNizKy5-2BdJDW-2FMczghzn20Sk8XPmXJ8kVAhPVfBE13y-2FWqD2limtoy6WLdb-2BfB-2B-2B7yOX4pMHYsfJiL-2F5pktlUzg5MRCHDSRxOt2OIuiir6OcQcahw7zVXZbGslbEYuCWfQu6n-2Fu2D3ru-2FJar-2FEM90V1XB0nKFkZYfz0WKbE4P1KNL1wYe0K-2BzM9BxWUONwKFjT53BNvvA9A-3D" style="color: #17488a;text-decoration: underline;font-weight: normal;"><img src="http://ship.emergeit.com/resources/images/email/cfib/header-zoomshipr-transaction.jpg" alt="Welcome to ZoomShipR!" border="0" style="margin: 0; padding: 0;display: block; margin-top: 0; margin-bottom: 0;" width="600" height="90"></a></div>
+</div></td>
+</tr>
+
+
+</table>
+
+<table width="600" cellpadding="20" cellspacing="0" class="bodyTable">
+<tr>
+
+<td valign="top" class="defaultText" align="left" style="font-size: 13px;color: #111111;line-height: 16px;font-family: Georgia;width: 410px;background-color: #FFFFFF;padding:10px 10px 10px 20px;">
+    <span class="title" style="font-size: 24px;font-weight: normal;color: #d14803;font-family: Georgia;line-height: 110%;">Shipment Processed!</span><br>
+	<p>Thanks for shipping with <i>ZoomShipR</i>!</p>
+			<p>You have been charged for $ $10.58 for the following shipment:</p>
+	<p><span style="font-family:Arial, Helvetica, sans-serif;font-size:11px;"><strong><strong>Ship ID:</strong> 3621359<br>
+	  Shipment Destination:</strong> GLEN GLEN, Toronto, ON
+	  <br>
+	  <strong>Service Selected: </strong>Purolator Ground<br>
+	<strong>Purolator Tracking Number: </strong>330988834496</span></p>
+	<p>If you have any questions about this shipment, don't hesitate to contact our Heroic Support team at 1-877-309-2710.</p>
+	<p><span class="subTitle" style="font-size: 20px;font-weight: normal;color: #d14803;font-style: normal;font-family: Georgia;"><br>
+	  You  chose to drop-off your package.</span> </p>
+    <p>You did not schedule a pickup  and instead have chosen to drop off your package. 
+    <!-- To find the nearest DHL drop-off location, <a href="#">click here</a>.</p> -->
+    <p><span class="subTitle" style="font-size: 20px;font-weight: normal;color: #d14803;font-style: normal;font-family: Georgia;"><br>
+  Labels and Tracking</span></p>
+<p>If you forgot to print or save your shipping labels at the time of shipping, you can <a href="https://u3641920.ct.sendgrid.net/wf/click?upn=l0-2FHpbvpotGio2cZHDPRiOZFhNAEwuTUubyYSPxpeJ7gd29l51jXZXi2QL9d4oA-2F5fVp5K7ofbqOqTA0M0vWOWyA6GHXXvCcp-2FDz1yLj5spARIZ6KNiVSR4Fj3qee-2FB4_y52NfNZJFC-2F8HOnfTR8XaHlQ7viajQqfRNizKy5-2BdJDW-2FMczghzn20Sk8XPmXJ8kVAhPVfBE13y-2FWqD2limto-2F5-2FR8MBkOFdIgCYjG7DYTALvLO-2FI2Q7UzjvePWQ3vYY5NyOavbNaP0sNoeGD5-2FkTXisUllag8wJCJ1KbZEGWCEgkNUaANsc6pAG1Rk7wIxXof6m80JDyGdh8tZgYHHRwCeeIIvHtv2mvJeRrASSAmo-3D">log back into your  account</a> and find your package using the 'History &amp; Tracking' tool. Clicking on the shipment details will allow you to re-print the label and other documentation, as well as track or review your shipment details.</p>
+<p><span class="subTitle" style="font-size: 20px;font-weight: normal;color: #d14803;font-style: normal;font-family: Georgia;">Heroic  Support</span>.</p>
+<p>Remember that our first priority is world-class support. If at any time you have any questions about using ZoomShipR, call our Heroic Support team at 1-877-309-2710 or email <a href="mailto:support@zoomshipr.ca">support@zoomshipr.ca</a> and we'll help you out.</p>
+<p>Thanks again for choosing <i>ZoomShipR</i>!<br>
+  <br>
+  <br>
+  <br>
+</p></td>
+
+<td valign="top" class="sideColumn" align="left" style="margin: 0px;background-color: #F6F6F6;border-left: 1px solid #DDDDDD; border-top: 1px solid #DDDDDD; text-align: left;width: 190px;padding: 10px;">
+<div class="sideColumnText" style="font-size: 11px;font-weight: normal;color: #333333;font-family: Helvetica;line-height: 150%;">
+    <p><span class="sideColumnTitle" style="font-size: 18px;font-weight: normal;color: #d44700;font-family: Georgia;line-height: 150%;">Total Charges</span></p>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 11px;color: #111111;line-height: 16px;font-family: Arial;">
+     <tr>
+        <td><strong>Base Rate</strong></td>
+        <td align="right">$8.59</td>
+      </tr> 
+		      <tr>
+		        <td><strong>Fuel Surcharge</strong></td>
+		        <td align="right">$0.77</td> 
+		      </tr>
+	      <tr>
+	        <td><strong>Total (w/o taxes)</strong></td>
+	        <td align="right">$9.36</td>
+	      </tr>
+	      <tr>
+	        <td><strong>HST</strong></td>
+	        <td align="right">$1.22</td> 
+	      </tr>
+	      <tr>
+        <td><strong>Total (with taxes)</strong></td>
+        <td align="right"><strong>$10.58</strong></td>
+      </tr>
+    </table> 
+    <p><span class="sideColumnTitle" style="font-size: 18px;font-weight: normal;color: #d44700;font-family: Georgia;line-height: 150%;"><br>
+      Check for Accuracy!</span><br>
+      <strong>Friendly reminder</strong>: Always be sure your dimensions, weight, and package class are accurate to avoid additional carrier charges. Additional carrier charges are also possible in the case of unusual shipments or handling issues. For details, see our terms &amp; conditions, and if you have any questions, call our Heroic Support team at 1-877-309-2710.</p>
+</div>
+</td>
+
+</tr>
+
+<tr>
+<td class="footerRow" valign="top" colspan="2" align="right" style="background-color: #77859c;border-top: 2px ridge #FFFFFF;padding: 10px;">
+<div class="footerText" style="font-size: 10px;color: #ffffff;line-height: 100%;font-family: Helvetica;">
+Copyright &copy;2016 <i>ZoomShipR</i>. All rights reserved.</div>
+ </td>
+</tr>
+
+</table>
+
+</td></tr></table>
+
+</td>
+</tr>
+</table>
+<span style="padding: 0px;"></span>
+
+<img src="https://u3641920.ct.sendgrid.net/wf/open?upn=y52NfNZJFC-2F8HOnfTR8XaHlQ7viajQqfRNizKy5-2BdJDW-2FMczghzn20Sk8XPmXJ8kVAhPVfBE13y-2FWqD2limto8YP32hb0942Bx4o5QUIJNJokFF-2FkiLDj-2FCyLeFUj6wLnZpXwPLHNvW6lFPWiNQAVbEWmiADekr6p-2FdT390pEvhd839OAUT7rioxLgoubhXP5J9CZjVkwfAUQX0mNP2YhS7pVBJRahMWiKfTZuwhXV0-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+------=_Part_4506_747447125.1488413531767--
+

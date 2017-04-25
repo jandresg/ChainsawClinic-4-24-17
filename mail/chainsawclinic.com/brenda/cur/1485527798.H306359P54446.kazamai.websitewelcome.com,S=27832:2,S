@@ -1,0 +1,628 @@
+Return-path: <407etr_98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3@email.407etr.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Fri, 27 Jan 2017 08:36:38 -0600
+Received: from vmta3.response.wiredmessenger.com ([96.31.174.167]:48191)
+	by kazamai.websitewelcome.com with esmtps (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <407etr_98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3@email.407etr.com>)
+	id 1cX7dm-000E7P-4x
+	for brenda@chainsawclinic.com; Fri, 27 Jan 2017 08:36:38 -0600
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=email.407etr.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=407etr@email.407etr.com;
+ bh=RZ2BwK4PkFHaPftzHCbAP7DPFcw=;
+ b=1JZd6pldvSIuoHG154O92jI/iI59JU5GP1htS+TgZ+UCdIMqAiWLsHIdjNEltLiw0UhR+tPesiwb
+   rDtcTSpcRQ==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=email.407etr.com;
+ b=osHWwFSY3C8xKcom8ww4sjYILZNutuX/ShcaFbOYPqG/cixiZu7RuHMVJ/7Ys0+EFPt2zqzfiJ6g
+   l4u34zq6RA==;
+Received: from target.wiredmessenger.com (127.0.0.1) by vmta3.response.wiredmessenger.com id hhddfc1t8bk8 for <brenda@chainsawclinic.com>; Fri, 27 Jan 2017 09:36:27 -0500 (envelope-from <407etr_98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3@email.407etr.com>)
+Date: Fri, 27 Jan 2017 09:36:12 -0500
+From: 407 ETR <407etr@email.407etr.com>
+Reply-To: 
+	407 ETR <407etr_98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3@email.407etr.com>
+To: brenda@chainsawclinic.com
+Message-ID: <98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3-d791a6d0f10a4a73a2665f2784a8d3e0@email.407etr.com>
+Subject: The new toll roads: Tolling begins February 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_4087140_625252120.1485527772434"
+X-Mailer: WiredMessenger.com
+ENVID: WC-1485527772433-98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3-d791a6d0f10a4a73a2665f2784a8d3e0
+Feedback-ID: 2473-2228102:vmta3:wiredm
+List-Unsubscribe: <http://email.407etr.com/u?id=98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3>
+X-Unsubscribe-Web: <http://email.407etr.com/u?id=98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3>
+
+------=_Part_4087140_625252120.1485527772434
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+407 ETR
+
+
+Please click below to view email in a web browser.
+
+http://email.407etr.com/dm?id=98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3
+
+
+Please click below to unsubscribe.
+
+http://email.407etr.com/u?id=98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&global=true
+
+
+407 ETR | 6300 Steeles Avenue West | Woodbridge, ON | L4H 1J1 | 1-888-407-0407
+------=_Part_4087140_625252120.1485527772434
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+
+<title>407 ETR</title>
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                =20
+<style type=3D"text/css">
+=09.ReadMsgBody {width: 100%; background-color: #ffffff;}
+=09.ExternalClass {width: 100%; background-color: #ffffff;}
+=09body=09 {width: 100%; background-color: #ffffff; margin:0; padding:0; -w=
+ebkit-font-smoothing: antialiased;font-family:Arial, sans-serif;}
+=09table {border-collapse: collapse;}
+=09.acctWidth-mid { border-left:2px dotted #006cb7; border-right:2px dotted=
+ #006cb7; }
+=09
+=09
+=09@media only screen and (max-width: 640px)  {
+=09=09=09=09=09body[yahoo] .deviceWidth {width:430px!important; padding-bot=
+tom:10px;}=09
+=09=09=09=09=09body[yahoo] .deviceLine {width:430px!important; padding-bott=
+om:10px;}=09
+=09=09=09=09=09body[yahoo] .center {text-align: center!important;}=09=20
+=09=09=09=09=09table[class=3DdeviceWidth]  {width:430px!important; border: =
+none!important;}=09
+=09=09=09=09=09table[class=3DdeviceLine]  {width:430px!important; !importan=
+t;}=09
+=09=09=09=09=09table[class=3DspecialWidth]  {width:420px!important; border:=
+none!important;}=09
+=09=09=09=09=09table[class=3DheaderWidth] {width:430px!important; border: n=
+one!important;}
+=09=09=09=09=09table[class=3DcontentWidth] {width:430px!important; border: =
+none!important;}
+=09=09=09=09=09table[class=3DcontentWidth-end] {width:440px!important; }
+=09=09=09=09=09img[class=3D"deviceWidth"] {width:50%!important;}
+=09=09=09=09=09img[class=3D"deviceLine"] {width:50%!important;}
+=09=09=09=09=09td[class=3D"objWidth"] {width:200px!important;}
+=09=09=09=09=09td[class=3D"objTxt"]=09{ font-size: 22px!important;padding:0=
+!important;}
+=09=09=09=09=09td[class=3D"imgWidth"] {width:30%!important;}
+=09=09=09=09=09img[class=3D"imgWidth2"] {width:410px!important;margin:auto;=
+}
+=09=09=09=09=09td[class=3D"imgWidth2"] {padding:10px!important;}
+=09=09=09=09=09
+=09=09=09=09=09table[class=3D"alignTxt"] {vertical-align:middle;}
+=09=09=09=09=09table[class=3D"acctWidth"] {width:33%;}
+=09=09=09=09=09div[class=3D"mid-spacer"] {height:20px!important;}
+=09=09=09=09=09td[class=3D"acctTxt"] {font-size:12px!important;line-height:=
+15px;}
+=09=09=09=09=09td[class=3D"acctTxt2"] {height: 45px!important; font-size: 1=
+1px!important;}
+=09=09=09=09=09table[class=3DacctImg] {width:100%;}
+=09=09=09=09=09img[class=3DacctImg] {width:90%;}
+=09=09=09=09=09table[class=3DexpressWidth] {width:49%!important;}
+=09=09=09=09=09img[class=3DexpressWidth] {width:100%!important;}
+=09=09=09=09=09td[class=3Dblank] {display:none!important;}
+=09=09=09=09=09td[class=3Dblock2] {font-size: 18px!important;}
+=09=09=09=09=09table[class=3Dbutton] {width:110px; font-size:10px;}
+=09=09=09=09=09table[class=3DtopRowWidth] {width:430px!important;}
+=09=09=09=09=09td[class=3DtopRowCell] {width:400px!important;display:block!=
+important;}
+=09=09=09=09=09table[class=3DtopRowCell] {width:300px!important;}
+=09=09=09=09=09table[class=3DtwoRowWidth] {width:430px!important;}
+=09=09=09=09=09td[class=3DtwoRowCell] {width:100px!important;display:block!=
+important;}
+=09=09=09=09=09table[class=3DtwoRowCell] {width:300px!important;}
+=09=09=09=09=09div[class=3Dspacer-left] {height:20px!important;}
+=09=09=09=09=09div[class=3Dspacer-right] {height:10px!important;}
+=09=09=09}
+=09=09=09
+=09@media only screen and (max-width: 479px)=20
+=09 {
+=09=09=09=09=09body[yahoo] .deviceWidth {width:300px!important; padding:0; =
+text-align:center;}=09
+=09=09=09=09=09body[yahoo] .deviceLine {width:300px!important; padding:0; t=
+ext-align:center;}=09
+=09=09=09=09=09body[yahoo] .center {text-align: center!important;}=09
+=09=09=09=09=09table[class=3DheaderWidth]  {width:300px!important; border:n=
+one!important;}=09=20
+=09=09=09=09=09table[class=3DdeviceWidth]  {width:280px!important; display:=
+block!important; text-align:center!important;}
+=09=09=09=09=09table[class=3DdeviceLine]  {width:280px!important; display:b=
+lock!important; text-align:center!important;}
+=09=09=09=09=09table[class=3DspecialWidth]  {width:280px!important; border:=
+ none!important; margin-bottom:10px;}
+=09=09=09=09=09table[class=3DcontentWidth] {width:280px!important; /*border=
+-top:5px solid #006cb7; border-left:5px solid #006cb7; border-right:5px sol=
+id #006cb7;*/}
+=09=09=09=09=09table[class=3DcontentWidth-end] {width:280px!important; bord=
+er:5px solid #006cb7;}
+=09=09=09=09=09table[class=3DlogoWidth] {width:29%!important;background:gre=
+en;margin-top:12px!important;}
+=09=09=09=09=09img[class=3DlogoWidth] {width:140px!important;}
+=09=09=09=09
+=09=09=09=09=09table[class=3DexpressWidth] {height:77px!important;width:49%=
+!important;margin-top:5px;}
+=09=09=09=09=09td[class=3DexpressWidth] {font-size:16px!important;}
+=09=09=09=09
+=09=09=09=09=09td[class=3D"objWidth"] {width:70%!important;}
+=09=09=09=09=09td[class=3D"objTxt"]=09{font-size: 18px!important;}
+=09=09=09=09=09td[class=3D"imgWidth"] {width:30%!important;}
+=09=09=09=09=09table[class=3D"alignTxt"] {vertical-align:middle;}
+=09=09=09=09=09td[class=3D"acctWidth"] {width:300px; border:none!important;=
+ line-height:13px!important;display:block!important;}
+=09=09=09=09=09table[class=3D"acctWidth"] {width:80%!important;}
+=09=09=09=09=09td[class=3D"acctWidth-mid"] {width:300px;border-left:none!im=
+portant; border-right:none!important;display:block;padding-top:10px; paddin=
+g-bottom:10px;margin-top:20px; margin-bottom:20px;}
+=09=09=09=09=09td[class=3D"acctWidth-mid2"] {width:300px;border-left:none!i=
+mportant; border-right:none!important;display:block;padding-top:10px; paddi=
+ng-bottom:10px;margin-top:20px; margin-bottom:20px;}
+=09=09=09=09=09td[class=3D"acctTxt"] {font-size:15px!important;text-align:c=
+enter!important; height:30px!important;}
+=09=09=09=09=09td[class=3D"acctTxt2"] { font-size: 13px!important;line-heig=
+ht:20px; text-align:center!important; width:50%!important;}
+=09=09=09=09=09table[class=3DacctImg] {width:100%;}
+=09=09=09=09=09img[class=3DacctImg] {width:70%;}
+=09=09=09=09=09img[class=3D"imgWidth2"] {width:300px!important;padding:0;}
+=09=09=09=09=09.end-spacer {display:none;}
+=09=09=09=09=09img[class=3D"community"] {margin:auto!important;}
+=09=09=09=09=09table[class=3DtopRowWidth] {width:300px!important;}
+=09=09=09=09=09td[class=3DtopRowCell] {width:250px!important;display:block!=
+important;}
+=09=09=09=09=09table[class=3DtopRowCell] {width:230px!important;}
+=09=09=09=09=09
+=09=09=09=09=09table[class=3DtwoRowWidth] {width:300px!important;}
+=09=09=09=09=09td[class=3DtwoRowCell] {width:250px!important;display:block!=
+important;}
+=09=09=09=09=09table[class=3DtwoRowCell] {width:230px!important;}
+=09=09=09=09=09img[class=3D"twoRowImg"] {text-align:center!important;margin=
+:auto!important;margin-top:10px!important; margin-bottom: 10px!important;}
+=09=09=09=09=09table[class=3Dbutton] {width:50%;}
+=09=09=09=09=09div[class=3Dspacer-right] {height:20px!important;}
+=09=09=09=09=09td[class=3Dblank2] {display:none!important;}
+=09=09=09=09=09table[class=3D"acctCell"] {width:70%!important;margin:auto;}
+=09=09=09=09=09td[class=3D"getTheMost"] {text-align:center!important;}
+=09=09=09}
+
+</style>
+</head>
+
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0"=
+ yahoo=3D"fix" style=3D"font-family:Arial, sans-serif; background:#ffffff;"=
+ bgcolor=3D"#ffffff">
+
+<!-- Wrapper -->
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+=09<tr>
+    =09<td width=3D"100%" valign=3D"top" bgcolor=3D"#ffffff" style=3D"paddi=
+ng:10px">        =20
+            <table  width=3D"650" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" align=3D"center" class=3D"deviceWidth">
+                <tr>
+                    <td align=3D"center" valign=3D"middle" style=3D"font-fa=
+mily:Arial, sans-serif; font-size: 11px;color: #333333;text-align:center;" =
+st-content=3D"viewonline">
+                   Important information for 407 ETR customers  |  <a href=
+=3D"http://email.407etr.com/dm?id=3D98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6A=
+F1EB50EB3" target=3D"_blank" style=3D"color:#666666; text-decoration:none;"=
+>View Online</a>
+                    </td>
+                </tr>
+            </table>                            =20
+        </td>
+=09</tr>    =20
+      =20
+</table>      =20
+      =20
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+<tr>
+=09=09<td valign=3D"top" bgcolor=3D"#ffffff">
+=09=09 <table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" align=3D"center" class=3D"headerWidth" bgcolor=3D"#0564b4">
+=09=09=09=09<tr>
+=09=09=09=09=09<td class=3D"center" >
+
+                       <table width=3D"29%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" align=3D"left" class=3D"logoWidth">
+                            <tr>
+                                <td align=3D"left" valign=3D"top">
+                                =09<!-- The paragraph tag is important here=
+ to ensure that this table floats properly in Outlook 2007, 2010, and 2013
+                                    To learn more about this fix check out =
+this link: http://www.emailonacid.com/blog/details/C13/removing_unwanted_sp=
+acing_or_gaps_between_tables_in_outlook_2007_2010
+                                    This fix is used for all floating table=
+s in this responsive template
+                                    The margin set to 0 is for Gmail -->
+                                    <a href=3D"http://email.407etr.com/t?r=
+=3D2473&c=3D2228102&l=3D167255&ctl=3D31CA2C4:98A95CF58AAFECE1D02A5AEF3CE44D=
+1EE0C6B6AF1EB50EB3&"><img width=3D"152" src=3D"https://407etr.s3.amazonaws.=
+com/template/407etr-responsive-logo.jpg" alt=3D"407ETR" border=3D"0" style=
+=3D"width: 152px;display:block;margin:0;padding:0;" class=3D"logoWidth" /><=
+/a>
+                                </td>
+                            </tr>
+                                                 =20
+                        </table>
+                                               =20
+                        <table width=3D"69%" height=3D"77" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" align=3D"right" class=3D"expressWidth">
+                      =20
+                            <tr>
+                                <td valign=3D"middle" height=3D"77" class=
+=3D"expressWidth" align=3D"right" style=3D"mso-table-lspace:0;mso-table-rsp=
+ace:0; margin:0; font-family:arial,helvetica,sans-serif; font-size:24px;col=
+or:#ffffff;padding-right:15px;"><span>Tolling on Hwy 407 (East of Brock Rd)=
+ / Hwy 412 Begins February 1</span>
+                                   =20
+                                </td>
+                            </tr>
+                                         =20
+                        </table>                                       =20
+
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+              =20
+=09=09  </table><!-- End Two Column (Images Stacked over Text) -->=09
+  </td>
+ =20
+  </tr>=09
+</table>
+
+
+
+
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"contentWidth" bgcolor=3D"#ffffff" style=3D"background-=
+color:#ffffff;">
+=09=09=09=09<tr>
+=09=09=09=09=09<td class=3D"center">
+
+                           =20
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" align=3D"left">
+                          =09<tr valign=3D"middle">
+                                <td align=3D"center" valign=3D"middle">
+                                =09
+                                    <a href=3D"http://email.407etr.com/t?r=
+=3D2473&c=3D2228102&l=3D167255&ctl=3D31CA2C5:98A95CF58AAFECE1D02A5AEF3CE44D=
+1EE0C6B6AF1EB50EB3&" target=3D"_blank">
+                                    <img width=3D"100%" src=3D"https://407e=
+tr.s3.amazonaws.com/2016/407etr_dec02_2016_news_01.jpg" alt=3D"407 ETR" bor=
+der=3D"0" style=3D"width:display:block;padding:0;width:100%;margin:auto;" c=
+lass=3D"imgWidth2" />
+                                    </a>
+                                </td>
+                            </tr>
+                          </table>
+                          </td>
+                          </tr>
+                          <tr>
+                          <td align=3D"center">
+                          <table width=3D"95%" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" align=3D"center" >
+                                                            <tr>
+                                 <td style=3D"font-size: 12px; color: #9595=
+95; font-weight: normal; text-align: left; font-family: Gotham, 'Helvetica =
+Neue', Helvetica, Arial, sans-serif; line-height: 24px; vertical-align: top=
+; " align=3D"center">
+
+                                        <table width=3D"100%" class=3D"devi=
+ceWidth" cellpadding=3D"0" cellspacing=3D"0" >
+                                        =09<tr> <td style=3D"font-size:20px=
+; line-height:20px" height=3D"20px">&nbsp;</td> </tr>
+                                            <tr>
+                                                <td valign=3D"middle" style=
+=3D"text-align:left; color: #9eb134;font-size: 24px; font-family:arial,helv=
+etica,sans-serif;" ><span class=3D"heading" style=3D"font-size:24px;font-fa=
+mily: Arial, Helvetica, sans-serif;font-weight:100;color:#0864af;">Importan=
+t news for 407 ETR customers</span></td>
+                                            </tr>
+                                           <tr> <td style=3D"font-size:10px=
+; line-height:10px" height=3D"10px">&nbsp;</td> </tr>
+                                            <tr>
+                                                <td valign=3D"middle" style=
+=3D"padding:10px 0px; text-decoration: none; font-size: 15px; color: #20202=
+0; font-weight: normal; font-family:Arial, sans-serif;text-align:left">
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09<b>On February 1, 2017, tolling will be=
+gin on Ontario=E2=80=99s Highway 407 and Highway 412.</b><br /><br />
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09The Province is responsible for setting an=
+d regulating the toll rates. Since June of 2016, while the tolling infrastr=
+ucture was being installed and calibrated, customers were able to travel fr=
+ee of charge. To view the toll rates for the new highways, visit <a href=3D=
+"http://email.407etr.com/t?r=3D2473&c=3D2228102&l=3D167255&ctl=3D31CA2C6:98=
+A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&" style=3D"color:#202020;">w=
+ww.on407.ca</a>. <br /><br />
+
+The new Highway 407 and Highway 412 are separate from the existing Highway =
+407 ETR (from Pickering to Burlington), but using all toll roads will be se=
+amless:<br /><br />
+<ul>
+<li>You will use one transponder on all three highways.</li>
+<li>Your account will remain the same, you will get one bill with trip deta=
+ils for all three highways and you will make only one payment.</li>
+ <li>Your full account can be easily accessed online at <a href=3D"http://e=
+mail.407etr.com/t?r=3D2473&c=3D2228102&l=3D167255&ctl=3D31CA2C7:98A95CF58AA=
+FECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&" style=3D"color:#202020;">www.407etr=
+.com.</a></li>
+
+<li>Fees such as transponder lease fees, monthly account charges and camera=
+ charges will only be charged once per trip for use of Highways 407 ETR, 40=
+7 and 412.</li></ul>
+
+Highway 407 and Highway 412 will be maintained by East Development Group, u=
+nder contract to the Government of Ontario.
+<br /><br />For more information on the new toll roads, including how to re=
+ad your bill, <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2228102&l=
+=3D167255&ctl=3D31CA2C5:98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&" =
+style=3D"color:#202020;">read the latest 407 ETR newsletter</a>.
+
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+                                            </tr>
+=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09
+                                        </table>
+                                      =20
+                                         =20
+                                </td>
+                            </tr>        =20
+=09=09=09=09=09=09=09</table>
+                         =20
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+               =20
+                </table>
+
+
+
+
+
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tr>
+=09<td height=3D"20"><div class=3D"spacer" style=3D"height:20px"></div></td=
+>
+</tr>
+</table>
+
+
+
+
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceLine" style=3D"border-bottom:2px solid #979797;"=
+>
+  <tr>
+=09<td height=3D"20"><div class=3D"spacer" style=3D"height:20px"></div></td=
+>
+</tr>
+</table>
+
+<table width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+                                            <tr>
+                                                <td valign=3D"middle" style=
+=3D"padding:10px 10px 10px 0; text-decoration: none; font-size: 20px; color=
+: #333333; font-weight: normal; font-family:Arial, sans-serif;padding-left:=
+10px;" align=3D"left" class=3D"getTheMost">Get the most out of your account=
+</td>
+                                            </tr>
+                                        </table> =20
+                                       =20
+
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tr>
+=09<td height=3D"20"><div class=3D"spacer" style=3D"height:20px"></div></td=
+>
+</tr>
+</table>
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+<tr>
+<td>
+<table width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" bgcolor=3D"#ffffff" class=3D"topRowWidth">
+    <tr>
+    <td width=3D"30%" valign=3D"top" align=3D"left" class=3D"acctWidth">
+   =20
+    <table width=3D"90%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" c=
+lass=3D"acctCell" align=3D"center" >
+    =09<tr>
+          <td style=3D"font-size: 12px;">
+          <span>Transponder</span><br/>
+          <span style=3D"color: #777777;font-size: 12px;">Travel More. Spen=
+d Less.</span><br/>
+          <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2228102&l=3D167=
+255&ctl=3D31CA2C8:98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&" style=
+=3D"color: #006cb7;font-size: 12px;text-decoration:none;">Order a Transpond=
+er</a>
+          </td>
+          <td width=3D"30" style=3D"padding-right:5px">
+          <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2228102&l=3D167=
+255&ctl=3D31CA2C8:98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&" style=
+=3D"color: #006cb7;font-size: 12px;text-decoration:none;">
+          <img src=3D"http://img.wiredmessenger.com/images/clients/407/News=
+letter/images/responsive/407etr-responsive-mock-i1-22_03.jpg" alt=3D"407 ET=
+R"/ align=3D"left"></a>
+          </td>
+          </tr>  =20
+    </table>
+   =20
+    </td>
+   =20
+    <td width=3D"30%" valign=3D"top" align=3D"left" class=3D"acctWidth-mid"=
+>
+    <table width=3D"90%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"  =
+class=3D"acctCell" align=3D"center">
+    =09<tr>
+          <td style=3D"font-size: 12px">
+          <span>Pre-authorized Payments</span><br/>
+          <span style=3D"color: #777777;font-size: 12px;">Set It & Forget I=
+t!</span><br/>
+          <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2228102&l=3D167=
+255&ctl=3D31CA2C8:98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&" style=
+=3D"color: #006cb7;font-size: 12px;text-decoration:none;">Sign Up Now</a>
+          </td>
+          <td width=3D"30" style=3D"padding-right:5px">
+          <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2228102&l=3D167=
+255&ctl=3D31CA2C8:98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&" style=
+=3D"color: #006cb7;font-size: 12px;text-decoration:none;">
+          <img src=3D"http://img.wiredmessenger.com/images/clients/407/News=
+letter/images/responsive/407etr-responsive-mock-i1-22_04.jpg" alt=3D"407 ET=
+R"/></a>
+          </td>
+          </tr>  =20
+    </table>
+    </td>
+   =20
+   =20
+    <td width=3D"30%" valign=3D"top" align=3D"left"  class=3D"acctWidth">
+    <table width=3D"90%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"  =
+class=3D"acctCell" align=3D"center">
+    =09<tr>
+          <td style=3D"font-size: 12px">
+          <span>Paperless Billing</span><br/>
+          <span style=3D"color: #777777;font-size: 12px;">Go Green. Save Gr=
+een.</span><br/>
+          <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2228102&l=3D167=
+255&ctl=3D31CA2C8:98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&" style=
+=3D"color: #006cb7;font-size: 12px;text-decoration:none;">Sign Up Now</a>
+          </td>
+          <td width=3D"30">
+          <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2228102&l=3D167=
+255&ctl=3D31CA2C8:98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&" style=
+=3D"color: #006cb7;font-size: 12px;text-decoration:none;">
+          <img src=3D"http://img.wiredmessenger.com/images/clients/407/News=
+letter/images/responsive/407etr-responsive-mock-i1-22_05.jpg" alt=3D"407 ET=
+R"/></a>
+          </td>
+          </tr>  =20
+    </table>
+   =20
+
+    </td>
+=09
+=09</tr>
+
+</table> =20
+</td>
+</tr>
+</table>        =20
+
+
+        =20
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceLine" style=3D"border-bottom:2px solid #eeeeee;"=
+>
+  <tr>
+=09<td height=3D"20"><div class=3D"spacer" style=3D"height:20px"></div></td=
+>
+</tr>
+</table>
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tr>
+=09<td height=3D"20"><div class=3D"spacer" style=3D"height:20px"></div></td=
+>
+</tr>
+</table>
+
+<table width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=
+=3D"deviceWidth" align=3D"center">
+<tr>
+
+<td>
+=09<table width=3D"630" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" al=
+ign=3D"center" class=3D"deviceWidth">
+                            <tr>
+                                <td>                   =20
+                                        <table width=3D"80%" cellpadding=3D=
+"0" cellspacing=3D"0"  border=3D"0" align=3D"left" class=3D"deviceWidth">
+                                             <tr>
+                                                <td valign=3D"top" class=3D=
+"center">
+
+<p style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 11px; fon=
+t-weight:normal; color: #666666; margin:0; padding:0; text-align:left;">
+                           =20
+                                You are currently signed up to receive news=
+ and=20
+                                information from 407 ETR.<br />
+                                If you would prefer not to receive emails f=
+rom 407 ETR,=20
+                                please unsubscribe
+                                <a href=3D"http://email.407etr.com/u?id=3D9=
+8A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&global=3Dtrue">here</a>.<br=
+ />
+                                This email was sent to brenda@chainsawclini=
+c.com by 407 ETR.<br />
+                                Do not reply to this email. To contact 407 =
+ETR Customer=20
+                                Service, please click <a href=3D"http://ema=
+il.407etr.com/t?r=3D2473&c=3D2228102&l=3D167255&ctl=3D31CA2C9:98A95CF58AAFE=
+CE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3&">
+                                here</a>.<br />
+                                <br />
+                                407 ETR | 6300 Steeles Avenue West | Woodbr=
+idge, ON |=20
+                                L4H 1J1 | 1-888-407-0407</p>
+
+                                                </td>
+                                            </tr>
+                                        </table>
+                       =20
+                                       =20
+</td>
+
+</tr>
+<tr>
+<td height=3D"20">
+
+</td>
+</tr>
+<tr>
+<td style=3D"text-align:right" class=3D"wm-logo">           =20
+                                <a href=3D"http://www.wiredmessenger.com/?u=
+tm_source=3DNewsletter&utm_medium=3DEmail&utm_campaign=3D407ETR&email=3Dbre=
+nda@chainsawclinic.com">
+                                <img border=3D"0" src=3D"http://wmcta.s3.am=
+azonaws.com/cta/powered-by-wired-small.png" width=3D"117" height=3D"30" sty=
+le=3D"-webkit-text-size-adjust: none; border: medium none" alt=3D"wiredmess=
+enger.com" ></a>
+                            </td>
+</tr>
+</table>    =20
+=09=20
+</body>
+
+<img src=3D"http://email.407etr.com/t?c=3D2228102&r=3D2473&l=3D167255&t=3D1=
+0&e=3D98A95CF58AAFECE1D02A5AEF3CE44D1EE0C6B6AF1EB50EB3" width=3D1 height=3D=
+1 border=3D0>
+</html>
+
+------=_Part_4087140_625252120.1485527772434--

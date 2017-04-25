@@ -1,0 +1,104 @@
+Return-path: <rfranske@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Fri, 16 Dec 2016 19:17:28 -0600
+Received: from mail-oi0-f42.google.com ([209.85.218.42]:36516)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <rfranske@gmail.com>)
+	id 1cI3cu-000KVB-2X
+	for brenda@chainsawclinic.com; Fri, 16 Dec 2016 19:17:28 -0600
+Received: by mail-oi0-f42.google.com with SMTP id v84so94954116oie.3
+        for <brenda@chainsawclinic.com>; Fri, 16 Dec 2016 17:17:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=7iTUdQQmgwEL+xqBl0ncQYzDR/+GTFTddTn4IQ2qTzU=;
+        b=goMbBRBi1TC3r/dNW/Qm8B0FK7uDTwbbZs7i7WtmODuzrXxo8hXh/BneiwaLfwNeRB
+         aLuryk4xap4ulmxzyYc8FgQaARE6cmE6n0GRTl8g+/q4rOeXUr93o5tUufRolqONBAwX
+         n+E0rn/nlYax9aypcwQTL2u3xU/pGW7eLPKr+bmlwcSM2QKQ4+ZTIl+gbWgzY2OOoDXX
+         pGo+gM7IP6bf2jSQlOouHnOKHokD0w8TDpjUCMkOFBgQchlDbLaEQceTklcpXQ1hGkKX
+         ISARayqgVKermZVKwbhAzKKGEMJv85FiZXEUaidsPgEheEZWbFdWSAkpWf69ef8LZzhY
+         moPQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=7iTUdQQmgwEL+xqBl0ncQYzDR/+GTFTddTn4IQ2qTzU=;
+        b=E+pAJSojS9IRZOsjwQDbdHHLsFbduSFGo9Qsu73hifwP/iIix8ZKqUNsaF8mVfB4eD
+         Z+k5Jhzf6fXm7DNQqxoc9CTy59jRxTfB/QyVtc3BDgbyIVXvvkcii5wwG0Y/vLxGkg+6
+         Ic9E7e2dXXrqTp0om8OT7bCRalLDfMlY/DVaMbyOzdYkrkYY937j6ZHlsD3clpGtbLLt
+         HgPKLK6/htrJAge/XmA7sg4OD5vb2bNQIgXkcKoFgQQA62S09P5BbAHDC4tkcbM5+DNq
+         tfWqMHyGWtc5ycwfy12J2nzS6zm9sS2R58hpD/u3njFFc+s3LQDEJGtfPK7bpMk4jrWq
+         JIXQ==
+X-Gm-Message-State: AIkVDXLEGr/xODV6JnhGnwMthw3lgCKAOk6JuOHmZRKw07EUA3TxVsPUTo1ZOYQ8tczDftCAC6LbNOj4vW6EOA==
+X-Received: by 10.157.45.166 with SMTP id g35mr3566522otb.223.1481937437735;
+ Fri, 16 Dec 2016 17:17:17 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.182.69.41 with HTTP; Fri, 16 Dec 2016 17:17:17 -0800 (PST)
+In-Reply-To: <CAFGvh3LRfjsSmtgDS+UqZuk-2+FL-M_YhXrzDvP1GbJD2HdGCQ@mail.gmail.com>
+References: <CAFGvh3LRfjsSmtgDS+UqZuk-2+FL-M_YhXrzDvP1GbJD2HdGCQ@mail.gmail.com>
+From: Randall Franske <rfranske@gmail.com>
+Date: Fri, 16 Dec 2016 20:17:17 -0500
+Message-ID: <CAFGvh3+SdbNizQvQ9EV=7DigT69pEALsPC1VBn5wpZaYuP+fKQ@mail.gmail.com>
+Subject: Re: Major cleaning of the Kingdom hall Saturday Dec 17, at 12:15 pm
+To: Alex Quiroz <alexsumano@hotmail.com>, Bill Ariko <margaretariko@gmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Dave Fowler <uniteddave@aol.com>, 
+	Denis Bou <dennis.bou92@gmail.com>, Dinuzzo Elvi <edinuzzo@alumni.uoguelph.ca>, 
+	Franske R Gmail <rfranske@gmail.com>, Franske RS <rsfranske@gmail.com>, 
+	Franske S wtbts <SFranske@jw.org>, Grace Lopes <lopes.grace@ymail.com>, 
+	Mary Varkaris <maryvarkaris@yahoo.com>, Nick Smith <mossberg303@gmail.com>, 
+	Paul Losacco <plosacco@rogers.com>, Ron Robinson <brenda@chainsawclinic.com>, 
+	Thavrac Bou <thavracbou@hotmail.com>, Zenon Varisella <zrvarisella@primus.ca>, 
+	Zonius Francis <zonius_francis@yahoo.com>
+Cc: Frank Rucchetta <frucchetta@yahoo.ca>
+Content-Type: multipart/alternative; boundary=94eb2c04e9308e41f20543d0729b
+
+--94eb2c04e9308e41f20543d0729b
+Content-Type: text/plain; charset=UTF-8
+
+Dear Brothers,
+ As a reminder we have our assigned cleaning of the Kingdom hall tomorrow.
+See you then,
+ Randall
+
+On Fri, Dec 9, 2016 at 6:24 PM, Randall Franske <rfranske@gmail.com> wrote:
+
+> Dear Brothers,
+>  Our Service group -the 7440 Kipling group- has the privilege of performing
+> the major cleaning of the Kingdom hall this coming week.  This will
+> include the major cleaning vacuuming of carpets, cleaning the washrooms.
+> Therefore we have decided that we will try to accomplish this on Saturday
+> December 17, at 12:15 pm
+>
+> Thanking you in advance for your willing spirit your brother,
+> Randall
+>
+
+--94eb2c04e9308e41f20543d0729b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div>Dear Brothers,<br>=C2=A0<span>As a reminder we h=
+ave our assigned</span><span><span><span><span><span class=3D"gmail-il"> cl=
+eaning</span></span></span></span></span> of the <span><span>Kingdom</span>=
+</span> <span><span>hall</span></span> tomorrow. <br></div>See you then,<br=
+></div>=C2=A0Randall<br></div><div class=3D"gmail_extra"><br><div class=3D"=
+gmail_quote">On Fri, Dec 9, 2016 at 6:24 PM, Randall Franske <span dir=3D"l=
+tr">&lt;<a href=3D"mailto:rfranske@gmail.com" target=3D"_blank">rfranske@gm=
+ail.com</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" style=3D=
+"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D=
+"ltr"><div><div>Dear Brothers,<br>=C2=A0<span>Our</span> Service <span>grou=
+p</span> -the 7440 Kipling <span>group</span>- has the privilege of <span><=
+span><span><span>performing the major cleaning</span></span></span></span> =
+of the <span><span>Kingdom</span></span> <span><span>hall</span></span> thi=
+s coming week.=C2=A0 This will include the <span>major</span> <span><span><=
+span><span>cleaning</span></span></span></span> vacuuming of carpets, <span=
+><span><span><span>cleaning</span></span></span></span>
+ the washrooms.=C2=A0 Therefore we=20
+have  decided that we will try to accomplish this on Saturday December 17,
+ at 12:15 pm<br><br></div>Thanking you in advance for your willing spirit y=
+our brother,<br></div>Randall </div>
+</blockquote></div><br></div>
+
+--94eb2c04e9308e41f20543d0729b--

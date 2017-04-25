@@ -1,0 +1,2080 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201612 will be lost/reset.
+# Last config file used to build this data file was /home/chainsaw/tmp/awstats/awstats.chainsawclinic.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2698                
+POS_VISITOR 39181               
+POS_DAY 67482               
+POS_DOMAIN 3629                
+POS_LOGIN 4370                
+POS_ROBOT 4525                
+POS_WORMS 5273                
+POS_EMAILSENDER 5404                
+POS_EMAILRECEIVER 5547                
+POS_SESSION 68406               
+POS_SIDER 68615               
+POS_FILETYPES 5682                
+POS_DOWNLOADS 5949                
+POS_OS 5997                
+POS_BROWSER 6493                
+POS_SCREENSIZE 9274                
+POS_UNKNOWNREFERER 9348                
+POS_UNKNOWNREFERERBROWSER 9856                
+POS_ORIGIN 10237               
+POS_SEREFERRALS 10385               
+POS_PAGEREFS 10601               
+POS_SEARCHWORDS 15873               
+POS_KEYWORDS 16111               
+POS_MISC 2360                
+POS_ERRORS 16254               
+POS_CLUSTER 4226                
+POS_SIDER_404 16389               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170101001402 119 26997 4359215302480
+FirstTime 20161201022322
+LastTime 20161231213935
+LastUpdate 20170101062427 119 0 118 0 0
+TotalVisits 1012                
+TotalUnique 678                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 708                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 650 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 59 111 10617255 51 105 1387238
+1 41 82 5423516 46 94 2617915
+2 38 83 7025927 72 138 8102627
+3 50 72 2224768 35 59 526544
+4 62 104 10725790 88 182 8127079
+5 95 153 22303797 142 381 4361311
+6 109 265 39359877 143 321 3579316
+7 145 340 54862674 45 138 2928409
+8 256 617 90291675 102 211 7239276
+9 148 373 67611973 52 125 4479938
+10 185 430 77327886 48 129 2033029
+11 173 433 77111632 62 139 2862547
+12 181 475 88158323 41 122 758977
+13 111 290 57239538 44 118 2447739
+14 118 302 57650291 34 127 4149783
+15 129 315 58191034 52 131 974916
+16 95 212 35602263 42 118 4762128
+17 91 206 40141447 51 105 2751484
+18 93 200 33978062 62 105 1228841
+19 86 186 29011836 49 116 1329753
+20 99 233 39197938 45 110 2265465
+21 72 141 19023408 54 113 4439933
+22 49 96 18445467 34 70 580763
+23 48 95 15203339 52 109 2922148
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 36
+ca 1520 4131 809220679
+ua 479 484 4160169
+us 314 812 90616318
+cn 44 65 3866658
+ru 33 48 1453340
+fr 22 27 1663027
+bb 20 52 8894939
+jp 17 17 88349
+de 10 15 1797771
+gb 10 15 1814890
+nl 7 7 36379
+il 6 21 10986785
+pl 6 6 31182
+ie 6 22 6570039
+ro 4 4 20788
+eg 4 16 5010039
+br 4 9 1766589
+in 3 8 1686397
+pe 3 8 1761392
+sg 3 8 1704624
+qa 2 2 10394
+my 2 7 1681200
+za 2 8 1802400
+kz 2 2 10394
+tw 1 1 5197
+ee 1 1 7309
+au 0 5 10446
+eu 1 1 5197
+lt 1 1 5197
+it 1 1 5197
+ch 1 1 5197
+id 1 1 5197
+hu 1 1 5197
+at 1 1 5197
+se 1 1 5197
+be 0 5 10446
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+googlebot 398 6680367 20161231215035 0
+bot[\s_+:,\.\;\/\\-] 266 15247190 20161231191401 0
+spider 115 401992 20161231195033 0
+bingpreview 57 14111419 20161231094724 0
+crawl 18 1619012 20161227002211 0
+no_user_agent 17 90461 20161229025928 0
+robot 13 496681 20161228125426 0
+checker 11 59279 20161230095601 0
+google[_+\s]web[_+\s]preview 8 1704624 20161206085127 0
+googlebot\-image 7 6105756 20161223235724 0
+slurp 4 17703 20161231201437 0
+curl 3 15591 20161218214034 0
+scanner 2 1531636 20161211042551 0
+php 2 1526439 20161224175744 0
+netcraft 1 5197 20161209121003 0
+[\s_+:,\.\;\/\\-]bot 1 1526439 20161204092935 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+ttf 11 609176 0 0
+jpg 43 186405 0 0
+css 1768 65302226 0 0
+woff 676 16473624 0 0
+png 651 856447175 0 0
+html 1529 7837786 0 0
+woff2 106 1838856 0 0
+js 733 1051682 0 0
+gif 86 28251 0 0
+eot 211 6954535 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 32
+osf 1 1
+winxp 416 356
+java 14 14
+macosx9 43 23
+linux 38 32
+win95 15 15
+win2000 52 51
+macosx 431 147
+win98 31 31
+unix 10 5
+ios_ipad 366 174
+macosx5 10 5
+win8.1 139 53
+wince 2 2
+win8 14 3
+winnt 1036 387
+win7 1915 723
+blackberry 2 1
+winunknown 16 16
+symbian 14 4
+bsdopenbsd 1 1
+winme 15 15
+linuxandroid 470 136
+Unknown 22 11
+win16 3 3
+winlong 67 43
+macosx6 30 9
+macosx7 9 4
+ios_iphone 593 243
+winphone 10 5
+win2003 20 17
+macosx8 9 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 141
+netscape0.6 6 6
+chrome55.0.2883.87 520 152
+chrome41.0.2228.0 5 5
+chrome54.0.2840.99 456 135
+chrome52.0.2743.116 61 27
+safari10.0.1 128 46
+chrome54.0.2840.85 177 50
+chrome51.0.2704.84 8 3
+msie8.0 117 63
+chrome27.0.1453.90 3 3
+opera36.0.2130.32 2 2
+firefox4.0.1 1 1
+safari9.0 201 74
+chrome18.0.1025.166 7 2
+chrome46.0.2508.22 1 1
+blackberry 1 1
+safari9.1.3 19 8
+firefox15.0.1 1 1
+opera11.2.3.102637 7 3
+android 2 2
+chrome54.0.2840.71 21 6
+chrome54.0.2840.87 9 4
+firefox3.0.10 4 4
+safari9.0.3 8 3
+opera9.01 2 2
+firefox3.0.1 4 4
+chrome47.0.2526.111 1 1
+safari5.1.7 9 4
+firefox28.0 5 5
+firefox5.0 1 1
+chrome31.0.1650.63 1 0
+chrome51.0.2704.79 203 77
+opera8.00 10 10
+chrome44.0.2403.133 92 25
+mozilla 83 48
+firefox49.0 15 5
+safari5.1 3 2
+chrome40.0.2214.115 8 8
+msie7.0 29 23
+Unknown 22 20
+safari5.1.9 1 0
+chrome48.0.2564.109 1 1
+chrome22.0.1216.0 8 8
+chrome28.0.1500.71 2 2
+chrome46.0.2486.0 5 0
+firefox43.0 17 7
+firefox40.1 3 3
+safari7.0.3 6 5
+netscape4.61 3 3
+webcapture 6 6
+opera5.0 1 0
+msie6.0 276 276
+safari 153 55
+chrome26.0.1410.63 1 1
+chrome33.0.0.0 8 3
+firefox14.0.1 3 3
+chrome43.0.2357.81 17 7
+chrome45.0.2454.101 7 2
+netscape0.91 3 3
+msie11.0 762 336
+firefox36.0 2 1
+msie11 1 1
+chrome44.0.2403.125 3 3
+iphone 36 12
+opera8.50 4 4
+firefox44.0 11 6
+netscape4.79 8 8
+chrome49.0.2623.75 11 11
+chrome17.0.1025.133 1 1
+opera7.11 8 8
+firefox4.0 1 1
+chrome12.0.742.91 1 1
+chrome10.0.648.204 2 2
+chrome43.0.2357.124 7 2
+safari6.0.1 8 3
+chrome49.0.2623.87 1 1
+netscape2.02 1 1
+chrome56.0.2924.28 7 2
+chrome37.0.2062.120 4 4
+chrome52.0.2743.82 7 2
+chrome36.0.1985.125 15 7
+firefox3.6.3 6 6
+firefox16.0 5 0
+chrome31.0.1650.57 2 2
+firefox38.0 1 1
+chrome54.0.2840.98 86 28
+opera7.54 11 11
+msie10.0 22 16
+chrome35.0.1929.59 1 1
+netscape3.0 5 5
+safari6.1.1 1 0
+wap 1 0
+chrome36.0.1985.143 26 10
+firefox41.0 22 22
+chrome46.0.2490.80 7 2
+chrome10.0.638.0 1 0
+firefox29.0 451 126
+opera41.0.2353.69 14 4
+chrome27.0.1453 8 3
+msie2.0 9 9
+safari10.0 535 259
+chrome35.0.1916.114 2 2
+netscape4.75 1 1
+chrome53.0.2785.124 5 0
+firefox48.0 8 3
+opera11.10 1 1
+firefox34.0 1 1
+chrome52.0.2743.98 7 2
+opera7.0 3 3
+microsoft\sdata\saccess\sinternet\spublishing\sprovider\scache\smanager 1 1
+firefox47.0 16 6
+opera7.60 6 6
+chrome55.0.2883.91 149 43
+bonecho 2 2
+safari6.0 8 3
+opera8.01 25 25
+chrome32.0.1700.72 2 0
+lynx 1 1
+chrome49.0.2623.112 76 21
+opera9.0 11 11
+msie3.02 2 2
+chrome53.0.2785.116 7 2
+opera9.00 22 22
+nokia 14 4
+chrome34.0.1847.132 1 1
+msie5.5 20 19
+safari8.0 35 13
+chrome34.0.1847.137 10 10
+chrome34.0.1847.131 11 8
+firefox26.0 5 3
+firefox7.0.1 5 5
+firefox50.0 243 72
+chrome55.0.2883.95 41 12
+msie5.0 6 6
+safari10.0.2 59 21
+safari7.0 31 13
+msie9.0 69 36
+chrome48.0.2580.47 1 1
+chrome28.0.1500.94 8 3
+chrome38.0.2125.102 7 2
+firefox21.0 3 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+M 20161227002427
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20161226003852
+Sleipnir_Version_1.xx 20161224112722
+WWW-Mechanize/1.73 20161204101856
+bluefish_0.6_HTML_editor 20161224112753
+Mozilla/4.0_(compatible;) 20161217231324
+nutch-1.4/Nutch-1.4 20161204225440
+Shareaza_v1.x.x.xx 20161224112753
+Mozilla/5.0_(compatible;_DomainAppender_/1.0;__http://www.profound.net/domainappender) 20161202001832
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+Shareaza_v1.x.x.xx 20161224112753
+Java/1.8.0_101 20161223110951
+nutch-1.4/Nutch-1.4 20161204225440
+bluefish_0.6_HTML_editor 20161224112753
+python-requests/2.4.3_CPython/3.4.2_Linux/3.16.0-4-amd64 20161208102357
+WWW-Mechanize/1.73 20161204101856
+Sleipnir_Version_1.xx 20161224112722
+M 20161227002427
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 572 597
+From1 5 5
+From2 370 378
+From3 537 537
+From4 1049 4297
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google 332 335
+bing 22 27
+duckduckgo 2 2
+yandex 4 4
+yahoo 6 6
+baidu 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 131
+http://landreferat.ru 17 17
+http://freetangodownload.com/tango-for-pc/ 12 12
+http://j-times.ru 12 12
+http://zebramart.ru 12 12
+http://www.husqvarna.com/ca-en/dealer-locator/ 11 11
+http://videochat.tv.br 11 11
+http://autorn.ru 11 11
+http://www.arenda-yeisk.ru 10 10
+http://gribokstop.com 10 10
+http://womama.ru 9 9
+http://nagdak.ru 9 9
+http://xn--d1abj0abs9d.in.ua 9 9
+http://everflora.ru 9 9
+http://life.biz.ua 9 9
+http://modabutik.ru 8 8
+http://phototravel.pl 8 8
+http://life-instyle.com 8 8
+http://painting-planet.com 8 8
+http://bagcionderlab.com 8 8
+http://parlament.biz 8 8
+http://viberdownload10.com/viber-for-android/ 8 8
+http://bestcurs.org 7 7
+http://elmacho.xyz 6 6
+http://bio-market.kz 6 6
+http://light.ifmo.ru 6 6
+http://turizm.bz 3 3
+http://homeandhealth.ru 3 3
+http://delayreferat.ru 2 2
+http://www.4istoshop.com/dlja-detej/podguzniki/ 3 3
+http://krasivoe-hd.net 2 2
+http://englate.com 1 1
+http://chainsawclinic.ca 1 1
+http://bigbeartools.com/dealers/ 1 1
+http://1-free-share-buttons.com 3 3
+http://www.istmira.ru 3 3
+http://www.yellowpages.ca/search/si/1/Snow%20Blower/toronto 1 1
+http://tmm-kurs.ru 3 3
+http://www.eloxal.ru 5 5
+http://orsonet.ru 3 3
+http://powerequipment.ca 2 2
+http://kursy-ege.ru 1 1
+http://www.musezone.su 2 2
+http://uhod-za-sobakoj.ru 6 6
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./chainsaws.html 2 2
+http://127.0.0.1:2372/blockpage 1 1
+http://alfa-politeh.ru 6 6
+http://torrent-newgames.com 2 2
+http://xn-----7kcabaipgeakzcss7bjdqdwpfnhv.xn--p1ai 6 6
+http://healbio.ru 3 3
+http://musicstock.me 3 3
+http://infowarcraft.ru/0vjw544u.html 3 3
+http://www.edge.ca/stihl-gta-dealers/ 4 4
+http://azbukafree.com 3 3
+http://svarkagid.com 4 4
+http://www.husqvarna.com/ca-en/accessories/axes/splitting-axe---large/576926701/ 1 1
+http://pizza-tycoon.com 3 3
+http://www.yellowpages.ca/search/si/1/Lawn%20Mowers/Bolton%2C%20ON 1 1
+http://www.husqvarna.com/ca-en/products/snow-blowers/compare/ 1 1
+http://idc.com.ua 5 5
+https://wispapp.com/blog/ 3 3
+http://www.yellowpages.ca/bus/Ontario/North-York/Chain-Saw-Clinic-Ltd/3478571.html 4 4
+http://www.husqvarna.com/ca-en/products/chainsaws/550-xp-g/966648407/ 1 1
+http://frivgame250.com 3 3
+http://www.husqvarna.com/ca-en/products/snow-blowers/st-230p/961930101/ 1 1
+http://downloadkakaotalk.com 3 3
+http://guitar-master.org 3 3
+http://xwatt.ru 3 3
+http://telegramdownload10.com 3 3
+http://mobile.yp.ca/bus/Ontario/North-York/Chain-Saw-Clinic-Ltd/3478571.html 2 2
+http://balkanfarma.ru 3 3
+http://www.husqvarna.com/ca-en/products/power-cutters/k-760/967181002/ 2 2
+http://www.husqvarna.com/ca-en/accessories/attachment-front-mounted/48-dozer-and-snow-blade/588181301/ 1 1
+http://www.husqvarna.com/ca-en/products/snow-blowers/st-227p/961930097/ 1 1
+https://konteiner24.com 5 5
+http://tri-slona.org/category/christmas 3 3
+http://www.stihldealers.ca/default.aspx 2 2
+http://prom23.ru 6 6
+http://extremal-blog.com 3 3
+http://burger-imperia.com 1 1
+http://www.amt-k.ru 5 5
+http://brewdom.ru 3 3
+http://www.husqvarna.com/ca-en/products/chainsaws/455-rancher/965030296/ 1 1
+http://apache.ariens.com/cgibin/PNRG0139 2 2
+http://www.meddesk.ru/cosmetology/krasota-i-molodost/kakie-vitaminyi-nuzhnyi-dlya-rosta-volos.html 2 2
+http://flowersbazar.com 3 3
+http://drillsaw.ru 5 5
+http://restorator-msk.ru 3 3
+http://air-edem.ru 3 3
+https://goo.gl/lAs0aJ 4 4
+http://exonline.info 4 4
+http://electricwheelchairsarea.com 6 6
+http://apxeo.info 3 3
+http://hotenergy.ru 6 6
+http://manuscript.su 6 6
+http://canada411.yellowpages.ca/search/si/1/Stihl/York+Toronto+ON 1 1
+http://petrovka-online.com 6 6
+http://helvetia.com.ua 3 3
+http://isoveti.ru 3 3
+http://www.husqvarna.com/ca-en/dealers/chain-saw-clinic-ltd/ 2 2
+http://whatsappdownload10.com/whatsapp-on-ipad/ 3 3
+http://canada411.yellowpages.ca/search/si/1/Toro/Toronto+ON 1 1
+http://daydream-studio.ru 6 6
+http://www.husqvarna.com/ca-en/ 6 6
+http://www.kinotorka.ru 1 1
+http://5elementov.ru 1 1
+http://meduza-consult.ru 6 6
+https://www.gotorussia.com 2 2
+http://lider-zhaluzi.kiev.ua 3 3
+http://stairliftsarea.com 3 3
+http://www.elektir.ru 3 3
+http://www.scottsinfo.com/scottsgoldnew/detail.aspx 1 1
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./accessories.html 1 1
+http://kamen-e.ru 2 2
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./blowers.html 1 1
+http://liky.co.ua 3 3
+http://www.newtechspb.ru 6 6
+http://torrents.cd 2 2
+http://saletool.ru 3 3
+http://confib.ifmo.ru 2 2
+https://www.lflash.ru 6 6
+http://www.husqvarna.com/ca-en/products/snow-blowers/ 1 1
+http://xn--80aaomkdl5amcy.xn--p1ai 2 2
+http://www.husqvarna.com/ca-en/products/snow-blowers/st-324p/961930091/ 1 1
+http://fototravel.eu 3 3
+http://www.husqvarna.com/ca-en/products/snow-blowers/st-151/961830004/ 1 1
+http://larutti.ru 3 3
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./ 2 2
+http://newstraveller.ru 2 2
+http://sluganarodu.ru 5 5
+http://www.husqvarna.com/ca-en/products/chainsaws/135/966761806/ 1 1
+https://cactussoft.biz 5 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 5
+chainsaw+clinic 12
+chainsawclinic 2
+chain+saw+clinic 2
+www.chainsawclinic.com 1
+www 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+clinic 14
+chainsaw 12
+saw 2
+chain 2
+chainsawclinic 2
+www 1
+www.chainsawclinic.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 106 65114
+404 1646 19253560
+406 18 3842
+206 23 6394857
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 701
+/templates/jsn_glass_pro/ext/hikashop/jsn_ext_hikashop.css 1 -
+/mysql.sql.gz 1 chainsawclinic.ca
+/wp-admin 2 -
+/users.bz2 1 chainsawclinic.ca
+/db_backup.sql.sql 1 chainsawclinic.ca
+/base/login/login.php 1 -
+/db_backup.sql.tar 1 chainsawclinic.ca
+/sql.sql.bz2 1 chainsawclinic.ca
+/1.sql 1 chainsawclinic.ca
+/themes/graphics/horde-power1.png 1 -
+/addons/theme/stv1/_static/ts2/layout.css 1 -
+/temp.sql.gz 1 chainsawclinic.ca
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/ks_inc/ajax.js 1 -
+/site.sql.tar.bz2 1 chainsawclinic.ca
+/up.php 6 -
+/images/til2.jpg 1 -
+/CHANGELOG.txt 1 -
+/dbdump.sql.zip 1 chainsawclinic.ca
+/sites/chainsawclinic.com/settings 1 -
+/sql.tar.bz2 1 chainsawclinic.ca
+/dbase.tgz 1 chainsawclinic.ca
+/www.sql.rar 1 chainsawclinic.ca
+/web2/login_template/1.files/Logo1.jpg 1 -
+/datacenter/downloadApp/showDownload.do 1 -
+/aboutus.htm 35 android-app://com.google.android.googlequicksearchbox
+//wp-includes/registration-functions.php 2 -
+/dump.tar.gzip 1 chainsawclinic.ca
+/Images/login/biaoti.jpg 1 -
+/https://fonts.googleapis.com/css 1 -
+/dbadmin.sql.zip 1 chainsawclinic.ca
+/skin/frontend/default/modern/css/styles.css 1 -
+/Template/Default/Skin/user/images/login_back.jpg 1 -
+/sql.sql 1 chainsawclinic.ca
+//license.php 2 -
+/sql.sql.zip 1 chainsawclinic.ca
+/dbase.sql.sql 1 chainsawclinic.ca
+/data.sql.tar 1 chainsawclinic.ca
+/dump.tar.bz2 1 chainsawclinic.ca
+/images/tn.jpg 2 -
+/temp.sql.7z 1 chainsawclinic.ca
+/backup.sql 1 chainsawclinic.ca
+/www.sql 1 chainsawclinic.ca
+/images/hus5.jpg 2 -
+/images/logostihl.gif 3 -
+/images/branding/logo.gif 1 -
+/plus/sitemap.html 1 -
+/dbadmin.sql.gz 1 chainsawclinic.ca
+/plugin.php 1 -
+/themes/default/graphics/horde-power1.png 1 -
+/upload.sql.bz2 1 chainsawclinic.ca
+/data.sql.bz2 1 chainsawclinic.ca
+/sql.sql.tar.bz2 1 chainsawclinic.ca
+/dbase.sql.tar.gz 1 chainsawclinic.ca
+/dbdump.tar.bz2 1 chainsawclinic.ca
+/adminsoft/templates/images/login_bg_top.jpg 1 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+/images/hus2.jpg 1 -
+/dbdump.sql.rar 1 chainsawclinic.ca
+/db_backup.sql.tar.gzip 1 chainsawclinic.ca
+/media/com_hikashop/js/hikashop.js 1 -
+/Images/login/mainlogo.gif 1 -
+/bbs/ 1 -
+/db_backup.tgz 1 chainsawclinic.ca
+/licence.txt 1 -
+/bencandy.php 1 -
+/backup.sql.bz2 1 chainsawclinic.ca
+/console/js/CWCMDialogHead.js 1 -
+/contactus.htm 66 -
+/images/trimmer3.jpg 3 -
+/images/bl_01.jpg 2 -
+/mysql.tar.bz2 1 chainsawclinic.ca
+/sql.sql.7z 1 chainsawclinic.ca
+/images/up_home.gif 1 -
+/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/joomla/administrator/index.php 1 -
+/upload.sql.rar 1 chainsawclinic.ca
+/license.php 10 -
+/upload.sql 1 chainsawclinic.ca
+/dbadmin.sql.rar 1 chainsawclinic.ca
+/dbdump.rar 1 chainsawclinic.ca
+/phpmyadmin/ 1 -
+/search.php 1 http://chainsawclinic.com/assets/modules/evogallery/js/uploadify/uploadify.php
+/custom/SkinTemplate/skin/public/images/sys-logo-1caitong-180.jpg 1 -
+/themes/default/default.css 1 -
+/blog/ 3 http://chainsawclinic.com/blog/
+/www.sql.tar.gz 1 chainsawclinic.ca
+/db_backup.sql.tar.bzip2 1 chainsawclinic.ca
+/index.cgi 1 -
+/images/logo_product-cml.png 1 -
+/app/home/skins/default/style.css 1 -
+/images/image3.png 3 https://www.google.ca/
+/tel:416-244-5678 9 -
+/.bash_profile 2 -
+/dbase.sql.tar.bz2 1 chainsawclinic.ca
+/README.txt 1 -
+/common/help/images/helplogo_zh.gif 1 -
+/sql.sql.tar 1 chainsawclinic.ca
+/images/mm55.jpg 1 -
+/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/upload.sql.zip 1 chainsawclinic.ca
+/dbdump.sql.tgz 1 chainsawclinic.ca
+/inc/playerKinds.xml 1 -
+/main.htm 37 -
+/Admin/Images/LoginImages/admin_text.gif 1 -
+/public/js/ipb.js 1 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/api/api_user.xml 1 -
+/data.sql.7z 1 chainsawclinic.ca
+/archiver/ 1 -
+/pkhnumqx 1 -
+/uc_server/control/admin/db.php 1 -
+/www.sql.zip 1 chainsawclinic.ca
+/temp.sql.tar.bz2 1 chainsawclinic.ca
+/upload.sql.7z 1 chainsawclinic.ca
+/images/up_contactus.gif 2 -
+/eams/static/scripts/grade/course/input.js 1 -
+/images/spacer.gif 1 -
+/default/css/em_css.css 1 -
+/list.php 1 -
+/wp-cron.php 1 -
+/db.rar 1 chainsawclinic.ca
+/www.sql.tar.gzip 1 chainsawclinic.ca
+/forum/ 2 -
+/sites/default/settings 2 -
+/www.sql.sql 1 chainsawclinic.ca
+/dbadmin.sql.tar.gzip 1 chainsawclinic.ca
+/console/js/CTRSRequestParam.js 1 -
+/dbadmin.tgz 1 chainsawclinic.ca
+/Editor.js 1 -
+/1.sql.zip 1 chainsawclinic.ca
+/upload.sql.tar.bzip2 1 chainsawclinic.ca
+/robots.txt 406 -
+/db_backup.sql.tar.gz 1 chainsawclinic.ca
+/web.sql.tar.bzip2 1 chainsawclinic.ca
+/max-templates/classic/styles/app.css 1 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 1 -
+/db.tar.bzip2 1 chainsawclinic.ca
+/extman/default/images/logo.gif 1 -
+/site.sql.tar.gzip 1 chainsawclinic.ca
+/includes/uploadify/uploadify.swf 1 http://www.chainsawclinic.com/includes/uploadify/uploadify.swf
+/console/include/not_login.htm 1 -
+/e/master/login.aspx 1 -
+/mysql.sql.tar.gz 1 chainsawclinic.ca
+/doku.php 1 -
+/system/language/zh-cn.xml 1 -
+/phpmyadmin/themes/original/img/logo_right.png 1 -
+/sql.tar.gz 1 chainsawclinic.ca
+/db_backup.tar 1 chainsawclinic.ca
+/fckeditor/fckeditor.js 1 -
+/admin/login.aspx 1 -
+/images/Default_bg_002.gif 1 -
+/web.sql.rar 1 chainsawclinic.ca
+/images/torotrack2.jpg 2 -
+/db_backup.bz2 1 chainsawclinic.ca
+/home.sql.sql 1 chainsawclinic.ca
+/inc/Templates/rss.xslt 1 -
+/plus/heightsearch.php 1 -
+/images/zh-CN/logo.ico 1 -
+/next/img/logo.gif 1 -
+/backup.sql.7z 1 chainsawclinic.ca
+/dump.sql.gz 1 chainsawclinic.ca
+/images/up_lawnboy.gif 1 -
+/plugins/uploadify/uploadify.swf 1 http://www.chainsawclinic.com/plugins/uploadify/uploadify.swf
+//license.php.suspected 2 -
+/temp.sql.tar 1 chainsawclinic.ca
+/1.sql.tar.gz 1 chainsawclinic.ca
+/plugins/filemanager/filemanager/js 1 -
+/issmall/ 1 -
+/Public/Admin/Images/login_main_bg.jpg 1 -
+/backup.sql.gz 1 chainsawclinic.ca
+/backup.sql.tar.gz 1 chainsawclinic.ca
+/sitemap.xml 30 -
+/www.sql.tar.bzip2 1 chainsawclinic.ca
+/Search.html 1 -
+/home.sql.gz 1 chainsawclinic.ca
+/tools/rss.aspx 1 -
+/udd.php 2 -
+/images/tr_4.jpg 2 -
+/users.gz 1 chainsawclinic.ca
+/db_backup.tar.gzip 1 chainsawclinic.ca
+/dbdump.sql.7z 1 chainsawclinic.ca
+/users.tar.gzip 1 chainsawclinic.ca
+/Help 1 -
+/dbase.rar 1 chainsawclinic.ca
+/admin/js/IdSUtil.js 1 -
+/home.sql.tar.bzip2 1 chainsawclinic.ca
+/.query 2 -
+/sql.tar.bzip2 1 chainsawclinic.ca
+/dbdump.tar.gz 1 chainsawclinic.ca
+/dbdump.7z 1 chainsawclinic.ca
+/inc/rsd.php 1 -
+/mysql.bz2 1 chainsawclinic.ca
+/ckeditor/ckfinder/install.txt 1 -
+/include/dedeajax2.js 1 -
+/Ntalker/lawfirm.aspx 1 -
+/script/login.js 1 -
+/plus/download.php 1 -
+/dbase.sql.tgz 1 chainsawclinic.ca
+/home.sql.zip 1 chainsawclinic.ca
+/static/hgicon.png 1 -
+/dbadmin.7z 1 chainsawclinic.ca
+/sitemap_index.xml 1 -
+/plugins/anchor/anchor.js 1 -
+/db.sql.tar 1 chainsawclinic.ca
+/system/skins/default/system.login.htm 1 -
+/dbase.tar.bzip2 1 chainsawclinic.ca
+/blog/administrator/index.php 1 -
+/mysql.sql.tar.bz2 1 chainsawclinic.ca
+/auth/login 1 -
+/images/torotrack1.jpg 1 -
+/Scripts/jquery/maticsoft.jquery.min.js 1 -
+/m 1 -
+/db.bz2 1 chainsawclinic.ca
+/db.sql.7z 1 chainsawclinic.ca
+/assets/modules/evogallery/js/uploadify/uploadify.php 3 http://chainsawclinic.com/assets/modules/evogallery/js/uploadify/uploadify.php
+/images/image2.jpeg 2 -
+/backup.sql.tar.bz2 1 chainsawclinic.ca
+/mysql.rar 1 chainsawclinic.ca
+/dump.sql.bz2 1 chainsawclinic.ca
+/FCK/editor/js/fckeditorcode_ie.js 1 -
+/users.zip 1 chainsawclinic.ca
+/data/images/wap_logo.gif 1 -
+/kindeditor-min.js 1 -
+/images/image1.jpeg 2 -
+/images/image4.jpeg 2 -
+/site.sql 1 chainsawclinic.ca
+/test_404_page/ 1 -
+/dbase.zip 1 chainsawclinic.ca
+/site.sql.7z 1 chainsawclinic.ca
+/phpinfo.php 2 -
+/data.sql.tar.bzip2 1 chainsawclinic.ca
+/admin/SouthidcEditor/ewebeditor.asp 1 -
+/mysql.sql.tar.gzip 1 chainsawclinic.ca
+/wordpress/wp-admin/setup-config.php 1 -
+/feed.asp 1 -
+/customdir/images/english_logo.jpg 1 -
+/db_backup.7z 1 chainsawclinic.ca
+/data.sql.tgz 1 chainsawclinic.ca
+/backup.sql.tar 1 chainsawclinic.ca
+/mysql.tar.gz 1 chainsawclinic.ca
+/sql.sql.tar.gzip 1 chainsawclinic.ca
+/include/install_ocx.aspx 1 -
+/cgi/index.cgi 1 -
+/.nksdjs 2 -
+//admin/index.asp 1 -
+/users.sql.tar.gz 1 chainsawclinic.ca
+/upload.sql.tgz 1 chainsawclinic.ca
+/dump.tar.bzip2 1 chainsawclinic.ca
+/mysql.tar.bzip2 1 chainsawclinic.ca
+/admin/index.php 1 -
+/dump.sql.tar.bz2 1 chainsawclinic.ca
+/history.txt 1 -
+/blog/wp-login.php 1 http://chainsawclinic.com/blog/wp-login.php
+/lib/elfinder/build/elfinder.html 1 -
+/ckfinder/ckfinder.html 1 -
+/db_backup.sql.tgz 1 chainsawclinic.ca
+/https://www.google.com/maps 1 -
+/sql.rar 1 chainsawclinic.ca
+/docs/ 1 -
+/dbdump.tgz 1 chainsawclinic.ca
+/dbdump.sql.tar.bz2 1 chainsawclinic.ca
+/dbase.gz 1 chainsawclinic.ca
+/dump.tar 1 chainsawclinic.ca
+/images/default/post_bt.gif 1 -
+/archiver 1 -
+/examples/index.html 1 -
+/users.sql.bz2 1 chainsawclinic.ca
+/License.txt 1 -
+/advfile/ad12.js 1 -
+/dbadmin.tar.gz 1 chainsawclinic.ca
+/ids/admin/login.jsp 1 -
+/apps/admin/_static/image/login_box_bg.png 1 -
+/admin/inc/xml.xslt 1 -
+/sql.sql.tar.bzip2 1 chainsawclinic.ca
+/forums/list.page 1 -
+/forums/ 1 -
+//admin/imgs/version.js 1 -
+/images/2_11.gif 1 -
+/1.sql.tar.gzip 1 chainsawclinic.ca
+/images/logoecho.jpg 1 -
+/fckeditor/editor/js/fckeditorcode_ie.js 1 -
+/images/shilchain.jpg 3 -
+/dbdump.bz2 1 chainsawclinic.ca
+/site.sql.bz2 1 chainsawclinic.ca
+/mysql.sql 1 chainsawclinic.ca
+/rss.aspx 1 -
+/home.sql 1 chainsawclinic.ca
+/dbdump.tar.bzip2 1 chainsawclinic.ca
+/1.sql.7z 1 chainsawclinic.ca
+/images/hedgehon.jpg 2 -
+/common/common.js 1 -
+/dump.sql.7z 1 chainsawclinic.ca
+/fckeditor.js 1 -
+/was/help.jsp 1 -
+/.git/HEAD 2 -
+/dbadmin.gz 1 chainsawclinic.ca
+/dump.sql.tar.gz 1 chainsawclinic.ca
+/dbadmin.tar.bzip2 1 chainsawclinic.ca
+/images/up_honda.gif 1 -
+/Admin/Common/HelpLinks.xml 1 -
+/db.sql.tar.gzip 1 chainsawclinic.ca
+/home.sql.rar 1 chainsawclinic.ca
+/dbase.sql.7z 1 chainsawclinic.ca
+/images/logo_88x31.gif 1 -
+/Prompt/images/P_Wrong.gif 1 -
+/index.php 6 -
+/Admin/Login.aspx 1 -
+/dbase.sql.zip 1 chainsawclinic.ca
+/dbdump.sql.gz 1 chainsawclinic.ca
+/N0WaY/N0WaY1bb2/N0WaY123.php 4 -
+/db.sql.tar.bz2 1 chainsawclinic.ca
+/site.sql.gz 1 chainsawclinic.ca
+/dbadmin.zip 1 chainsawclinic.ca
+/dbdump.sql.tar.gz 1 chainsawclinic.ca
+/1.sql.tgz 1 chainsawclinic.ca
+/db_backup.zip 1 chainsawclinic.ca
+/data.sql.zip 1 chainsawclinic.ca
+/web.sql.tar.gzip 1 chainsawclinic.ca
+/users.sql.tar.gzip 1 chainsawclinic.ca
+/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/users.sql.zip 1 chainsawclinic.ca
+/login/Jeecms.do 1 -
+/mysql.zip 1 chainsawclinic.ca
+/sql.tar 1 chainsawclinic.ca
+/site.sql.rar 1 chainsawclinic.ca
+/1.sql.rar 1 chainsawclinic.ca
+/whir_system/login.aspx 1 -
+/tpl/user/tpl1/css/skins/blue.css 1 -
+/users.tar 1 chainsawclinic.ca
+/stihl.htm 36 -
+/dbase.tar.gz 1 chainsawclinic.ca
+/dbdump.zip 1 chainsawclinic.ca
+/inc/uploadify/uploadify.swf 1 http://www.chainsawclinic.com/inc/uploadify/uploadify.swf
+/web.sql.tar 1 chainsawclinic.ca
+/husqvarna.htm 24 -
+/img/pic/login/top-left.jpg 1 -
+/jcms/index_jcms.jsp 1 -
+/images/til1.jpg 1 -
+/forum.php 1 -
+/tpl/login/user/images/login_bg_1.jpg 1 -
+/wp-content/upgrade/theme-compat/popup-pomo.php 7 -
+/configuration.php 2 -
+/pub/guiedit/guiedit.js 1 -
+/dbase.tar.gzip 1 chainsawclinic.ca
+/market/elfinder.html 1 -
+/dump.sql.rar 1 chainsawclinic.ca
+/db_backup.tar.gz 1 chainsawclinic.ca
+/system/Login.aspx 1 -
+/public_html.sql 1 chainsawclinic.ca
+/data.sql.gz 1 chainsawclinic.ca
+/pb-750.gif 1 -
+/plus/rssmap.html 1 -
+/images/hus4.jpg 4 -
+/dbase.sql.tar.gzip 1 chainsawclinic.ca
+/uploadify/uploadify.swf 1 http://www.chainsawclinic.com/uploadify/uploadify.swf
+/images/huslogo.jpg 2 -
+/dump.zip 1 chainsawclinic.ca
+/images/hus1.jpg 1 -
+/phpmyadmin/docs.css 1 -
+/rss.php 1 -
+/.bashrc 2 -
+/mysql.sql.tar.bzip2 1 chainsawclinic.ca
+/elfinder1/elfinder.html 1 -
+/sql.bz2 1 chainsawclinic.ca
+/dbdump.gz 1 chainsawclinic.ca
+/db.zip 1 chainsawclinic.ca
+/admin/ 1 -
+/dbase.sql.tar 1 chainsawclinic.ca
+/images/huschain.jpg 2 -
+/images/login9/login_33.jpg 1 -
+/users.tar.bz2 1 chainsawclinic.ca
+/site.sql.tar 1 chainsawclinic.ca
+/Wq_StranJF.js 1 -
+/images/gen_02.jpg 1 -
+/addons/theme/stv2/_static/ts2/layout.css 1 -
+/admin/template/article_more/config.htm 1 -
+/Admin/Images/LoginImages/admin_top.gif 1 -
+/dbadmin.sql.7z 1 chainsawclinic.ca
+/backup.sql.tar.bzip2 1 chainsawclinic.ca
+/db.sql.rar 1 chainsawclinic.ca
+/common/help/images/helplogo.gif 1 -
+/temp.sql.tgz 1 chainsawclinic.ca
+/app/images/login/toplogo.gif 1 -
+/ckeditor/ckfinder/ckfinder.html 1 -
+/.db_config 2 -
+/kindeditor.js 1 -
+/db_backup.rar 1 chainsawclinic.ca
+/images/logotoro.gif 2 -
+/dump.sql.tar 1 chainsawclinic.ca
+/backup.sql.zip 1 chainsawclinic.ca
+/news/elfinder.html 1 -
+/mysql.sql.bz2 1 chainsawclinic.ca
+/Error.aspx 1 -
+/blog/wp-admin/setup-config.php 1 -
+/nobody/mobile.htm 1 -
+/template/home.htm 1 -
+/dbdump.sql 1 chainsawclinic.ca
+/sites/powerequipment.ca/settings 1 -
+/users.rar 1 chainsawclinic.ca
+/system/Update.aspx 1 -
+/member/space/company/info.txt 1 -
+/app/js/source/wcmlib/WCMConstants.js 1 -
+/administrator/manifests/files/joomla.xml 1 -
+/script/valid_formdata.js 1 -
+/administrator 4 -
+/fckeditor/license.txt 1 -
+/upload.php 5 -
+/cfg.php 11 -
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/db_backup.sql 1 chainsawclinic.ca
+/coremail/common/help/images/helplogo_zh.gif 1 -
+/toro.htm 28 -
+/includes/general.js 1 -
+/mysql.sql.tgz 1 chainsawclinic.ca
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/admin/login.asp 1 -
+/upload.sql.tar 1 chainsawclinic.ca
+/images/up_toro.gif 1 -
+/dbadmin.tar.gzip 1 chainsawclinic.ca
+/contents.htm 52 -
+/web.sql.tgz 1 chainsawclinic.ca
+/dbdump.tar.gzip 1 chainsawclinic.ca
+/db.tgz 1 chainsawclinic.ca
+/wordpress/wp-login.php 1 http://chainsawclinic.com/wordpress/wp-login.php
+/home.sql.tgz 1 chainsawclinic.ca
+/data.sql 1 chainsawclinic.ca
+/changelog.txt 1 -
+/xmlrpc.php 1 -
+/db.sql.tar.bzip2 1 chainsawclinic.ca
+/editor/fckeditor.js 1 -
+/help/ch_gb/images/help-title.gif 1 -
+/examples/file-manager.html 1 -
+/db_backup.sql.zip 1 chainsawclinic.ca
+/db.sql.bz2 1 chainsawclinic.ca
+/db.sql.gz 1 chainsawclinic.ca
+/dump.gz 1 chainsawclinic.ca
+/db.tar.gz 1 chainsawclinic.ca
+/dump.bz2 1 chainsawclinic.ca
+/dbadmin.tar 1 chainsawclinic.ca
+/docs.css 1 -
+/www.sql.tgz 1 chainsawclinic.ca
+/upload.sql.tar.bz2 1 chainsawclinic.ca
+/echo.htm 25 -
+/static/images/logo/webserver_small.gif 1 -
+/db_backup.sql.gz 1 chainsawclinic.ca
+/mysql.gz 1 chainsawclinic.ca
+/console/auth/reg_newuser.jsp 1 -
+/fckeditor/fckconfig.js 1 -
+/web.sql 1 chainsawclinic.ca
+/dbadmin.sql.tgz 1 chainsawclinic.ca
+/images/login/logo.gif 1 -
+/help/user/index.html 1 -
+/images/login/eyoumail.gif 1 -
+/backup.sql.sql 1 chainsawclinic.ca
+/db.tar 1 chainsawclinic.ca
+/dump.sql 1 chainsawclinic.ca
+/images/trimmer2.jpg 2 -
+/images/TOROBLOWER.jpg 2 -
+/dbadmin.sql.tar.bzip2 1 chainsawclinic.ca
+/temp.sql.rar 1 chainsawclinic.ca
+/dbdump.sql.bz2 1 chainsawclinic.ca
+/images/logo-white.png 1 -
+/mysql.sql.tar 1 chainsawclinic.ca
+/.private 2 -
+/web.sql.bz2 1 chainsawclinic.ca
+/dbadmin.rar 1 chainsawclinic.ca
+/dbase.tar.bz2 1 chainsawclinic.ca
+/users.7z 1 chainsawclinic.ca
+/images/logohonda.gif 3 -
+/test-for-404-page 1 -
+/dbadmin.sql.tar.gz 1 chainsawclinic.ca
+/siteserver/upgrade/default.aspx 1 -
+/readme.html 1 -
+/dbadmin.sql.bz2 1 chainsawclinic.ca
+/images/trimer1.jpg 2 -
+/dbdump.sql.tar.gzip 1 chainsawclinic.ca
+/dbase.bz2 1 chainsawclinic.ca
+/dump.sql.tar.bzip2 1 chainsawclinic.ca
+/images/login/icon-up.gif 1 -
+/db_backup.gz 1 chainsawclinic.ca
+/www.sql.tar 1 chainsawclinic.ca
+/home.sql.tar 1 chainsawclinic.ca
+/images/logolawnboy.jpg 4 -
+/data.sql.tar.bz2 1 chainsawclinic.ca
+/mysql.sql.zip 1 chainsawclinic.ca
+/web.sql.zip 1 chainsawclinic.ca
+/mysql.sql.7z 1 chainsawclinic.ca
+/dbdump.sql.tar.bzip2 1 chainsawclinic.ca
+/dbdump.sql.sql 1 chainsawclinic.ca
+/dbase.7z 1 chainsawclinic.ca
+/N0Wccvvd333.php 4 -
+/db.sql.tar.gz 1 chainsawclinic.ca
+/vmskdl44rededd 4 -
+/images/image7.jpeg 6 https://www.google.it/
+/wp-content 1 -
+/images/home_logo_countonit.gif 1 -
+/pub/skins/pmwiki/pmwiki.css 1 -
+/dbase.sql.tar.bzip2 1 chainsawclinic.ca
+/backup.sql.tgz 1 chainsawclinic.ca
+/install 1 -
+/dbdump.sql.tar 1 chainsawclinic.ca
+/dump.tgz 1 chainsawclinic.ca
+/www.sql.gz 1 chainsawclinic.ca
+/Site/Pages/WebResources.ashx/PoweredByKodakImage 1 -
+/db_backup.sql.tar.bz2 1 chainsawclinic.ca
+/.logs 2 -
+/.sql 2 -
+/digg.php 1 -
+/images/HT131.jpg 3 -
+/include/dialog/config.php 1 -
+/home.sql.tar.gz 1 chainsawclinic.ca
+/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/db_backup.sql.rar 1 chainsawclinic.ca
+/ycportal/js/wbTextBox/showimg.jsp 1 -
+/dump.tar.gz 1 chainsawclinic.ca
+/honda.htm 34 https://www.google.ca/
+/admin/start/index.php 1 -
+/ymail/images/index_r1_c4.jpg 1 -
+/public/about.html 1 -
+/app/login.jsp 1 -
+/admin/editor/ 1 -
+/whir_system/module/security/login.aspx 1 -
+/dump.sql.zip 1 chainsawclinic.ca
+/dbdump.tar 1 chainsawclinic.ca
+/images/login_Name.jpg 1 -
+/wordpress/ 1 -
+/dbase.sql.gz 1 chainsawclinic.ca
+/sql.sql.rar 1 chainsawclinic.ca
+/extern.php 1 -
+/db.7z 1 chainsawclinic.ca
+/web.sql.tar.bz2 1 chainsawclinic.ca
+/home.sql.tar.bz2 1 chainsawclinic.ca
+/images/hus3.jpg 2 -
+/db.sql 1 chainsawclinic.ca
+/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/joomla/robots.txt 1 -
+/images/hwem.css 1 -
+/admin.php 2 -
+/1.sql.tar 1 chainsawclinic.ca
+/wcm/ 1 -
+/plug/publish 1 -
+/temp.sql 1 chainsawclinic.ca
+/asp.net/README.txt 1 -
+/users.sql.7z 1 chainsawclinic.ca
+/template/1/bluewise/_files/jspxcms.css 1 -
+/users.sql.tar.bz2 1 chainsawclinic.ca
+/temp.sql.tar.gzip 1 chainsawclinic.ca
+/data.sql.tar.gz 1 chainsawclinic.ca
+/temp.sql.bz2 1 chainsawclinic.ca
+/web.sql.gz 1 chainsawclinic.ca
+/images/sw_01.jpg 2 -
+/logo/logo_jw.png 1 -
+/users.sql.tar.bzip2 1 chainsawclinic.ca
+/images/SNB_01.JPG 1 -
+/wp-config.php 2 -
+/modules/attributewizardpro/file_upload.php 1 http://www.chainsawclinic.com/modules/attributewizardpro/file_upload.php
+/upload.sql.gz 1 chainsawclinic.ca
+/images/toro%20powermax.gif 1 -
+/mysql.tgz 1 chainsawclinic.ca
+/user 2 -
+/site.sql.zip 1 chainsawclinic.ca
+/404.jpg 1 -
+/images/logohusqvarna.gif 2 -
+/data/admin/ver.txt 1 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/ckfinder/install.txt 1 -
+/.queries 2 -
+/sql.tgz 1 chainsawclinic.ca
+/docs/DOCUMENTATION.txt 1 -
+/sql.zip 1 chainsawclinic.ca
+/license.txt 1 -
+/FCK/fckeditor.js 1 -
+/1.sql.gz 1 chainsawclinic.ca
+/new_gb/help/images/usage/3.3.gif 1 -
+/admin/uploadify/uploadify.swf 1 http://www.chainsawclinic.com/admin/uploadify/uploadify.swf
+/career/elfinder.html 1 -
+/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/coremail/common/help/images/helplogo.gif 1 -
+/wp/ 1 -
+/admin 4 -
+/backup.sql.rar 1 chainsawclinic.ca
+/cms/uploadify/uploadify.swf 1 http://www.chainsawclinic.com/cms/uploadify/uploadify.swf
+/blog/robots.txt 2 -
+/siteserver/login.aspx 1 -
+/dbadmin.sql.tar 1 chainsawclinic.ca
+/mysql.7z 1 chainsawclinic.ca
+/dbadmin.bz2 1 chainsawclinic.ca
+/dbadmin.sql.tar.bz2 1 chainsawclinic.ca
+/admin/login.php 1 -
+/www.sql.7z 1 chainsawclinic.ca
+/jcms/index.jsp 1 -
+//wp-content/plugins/ubh/up.php 7 -
+/Site/SystemThemes/7917A0869761B5458281E407AE0090F5/Images/ISBanner58px.jpg 1 -
+/temp.sql.tar.gz 1 chainsawclinic.ca
+/stylesheet.css 1 -
+/www.sql.tar.bz2 1 chainsawclinic.ca
+/style/default/hdwiki.css 1 -
+/lawnboy.htm 24 -
+/db.tar.gzip 1 chainsawclinic.ca
+/.temp 2 -
+/users.tar.bzip2 1 chainsawclinic.ca
+/dbadmin.sql 1 chainsawclinic.ca
+/app/images/login/logo.png 1 -
+/temp.sql.tar.bzip2 1 chainsawclinic.ca
+/sql.sql.tgz 1 chainsawclinic.ca
+/data.sql.sql 1 chainsawclinic.ca
+/mailto:sales@chainsawclinic.com 4 -
+/examples/readonly.html 1 -
+/site.sql.tar.bzip2 1 chainsawclinic.ca
+/images/logochainsaw.gif 4 http://www.chainsawclinic.com/main.htm
+/js/ajax_x.js 1 -
+/echo%20header.gif 1 -
+/users.sql.tar 1 chainsawclinic.ca
+/dbase.sql.bz2 1 chainsawclinic.ca
+/users.tar.gz 1 chainsawclinic.ca
+/Images/login/lefttu.jpg 1 -
+/site.sql.tar.gz 1 chainsawclinic.ca
+/help/en/h_authenticate.html 1 -
+/_file-manager/php/connector.php 1 http://www.chainsawclinic.com/_file-manager/php/connector.php
+/sql.sql.tar.gz 1 chainsawclinic.ca
+/db_backup.tar.bzip2 1 chainsawclinic.ca
+/.git/ 1 http://chainsawclinic.com/.git/
+/backup.sql.tar.gzip 1 chainsawclinic.ca
+/dbadmin.sql.sql 1 chainsawclinic.ca
+/db.tar.bz2 1 chainsawclinic.ca
+/dump.7z 1 chainsawclinic.ca
+/wp/wp-admin/setup-config.php 1 -
+/temp.sql.zip 1 chainsawclinic.ca
+/dump.sql.tgz 1 chainsawclinic.ca
+/dump.sql.tar.gzip 1 chainsawclinic.ca
+/db_backup.sql.bz2 1 chainsawclinic.ca
+/lib/uploadify/uploadify.swf 1 http://www.chainsawclinic.com/lib/uploadify/uploadify.swf
+/images/up_stihl.gif 1 -
+/imagesschool/style1/flash2.jpg 1 -
+/1.sql.bz2 1 chainsawclinic.ca
+/archive/archive.css 1 -
+/db.sql.tgz 1 chainsawclinic.ca
+/master/login.aspx 1 -
+/weblog/ 1 -
+/was/main.html 1 -
+/user/register 1 -
+/User/Login.aspx 1 -
+/back/scripts/jspxcms_choose.js 1 -
+/app/Tpl/fanwe_1/js/DD_belatedPNG_0.0.8a-min.js 1 -
+/mysql.tar 1 chainsawclinic.ca
+/images/map.jpg 6 -
+/home.sql.tar.gzip 1 chainsawclinic.ca
+/mysql.tar.gzip 1 chainsawclinic.ca
+/lokndztv 1 -
+/dump.rar 1 chainsawclinic.ca
+/was5/web/index.jsp 1 -
+/home.sql.7z 1 chainsawclinic.ca
+/.default 2 -
+/webbuilder/script/locale/wb-lang-zh_CN.js 1 -
+/default/images/logo.gif 1 -
+/.secret 2 -
+/ckeditor/ckeditor.js 1 -
+/db.sql.zip 1 chainsawclinic.ca
+/home.sql.bz2 1 chainsawclinic.ca
+/deptWebsiteAction.do 1 -
+/info.php 2 -
+/business/images/index-gg1.jpg 1 -
+/editor/js/fckeditorcode_ie.js 1 -
+/Install/logo.gif 1 -
+/images/up_aboutus.gif 1 -
+/wp-includes/class-comments.php 1 -
+/js/uploadify/uploadify.swf 1 http://www.chainsawclinic.com/js/uploadify/uploadify.swf
+/administrator/index.php 1 -
+/ids/admin/userhome/forgetPwd.jsp 1 -
+/dbase.sql.rar 1 chainsawclinic.ca
+/sql.7z 1 chainsawclinic.ca
+/users.sql 1 chainsawclinic.ca
+/db.gz 1 chainsawclinic.ca
+/wp-login.php 8 -
+/sql.gz 1 chainsawclinic.ca
+/db.sql.sql 1 chainsawclinic.ca
+/Include/EcsServerApi.js 1 -
+/dbase.tar 1 chainsawclinic.ca
+/dialog/dialog.js 1 -
+/web.sql.7z 1 chainsawclinic.ca
+/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/1.sql.tar.bz2 1 chainsawclinic.ca
+/sql.sql.gz 1 chainsawclinic.ca
+/data.sql.tar.gzip 1 chainsawclinic.ca
+/pinfo.php 2 -
+/js/buttons.js 1 -
+/admin/admin_login.php 1 -
+/db_backup.tar.bz2 1 chainsawclinic.ca
+/db_backup.sql.7z 1 chainsawclinic.ca
+/1.sql.tar.bzip2 1 chainsawclinic.ca
+/maintlogin.jsp 1 -
+/sql.tar.gzip 1 chainsawclinic.ca
+/mysql.sql.rar 1 chainsawclinic.ca
+/upload.sql.tar.gz 1 chainsawclinic.ca
+/lang/en.js 1 -
+/images/up_husqvarna.gif 1 -
+/upload.sql.tar.gzip 1 chainsawclinic.ca
+/web.sql.tar.gz 1 chainsawclinic.ca
+/site.sql.tgz 1 chainsawclinic.ca
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 708
+99.242.224.195 123 283 22685684 20161229083604
+46.118.154.190 109 109 566473 20161219134841
+178.137.92.36 49 49 254653 20161214221236
+178.137.163.110 41 41 213077 20161207032617
+99.236.9.100 40 40 207880 20161231143351
+99.253.106.184 38 38 197486 20161231213935
+134.249.51.255 37 37 192289 20161206073323
+108.63.189.139 36 82 1526439 20161229112550
+178.137.161.77 33 33 171501 20161206155637
+46.118.118.15 31 31 161107 20161213224311
+178.137.90.14 31 31 161107 20161214112439
+178.137.18.127 29 29 150713 20161219065904
+5.248.196.220 27 27 140319 20161219052435
+178.137.93.117 24 24 124728 20161219032926
+46.118.230.189 24 24 124728 20161209184648
+8.28.16.254 24 24 527640 20161213161333
+46.119.116.116 22 22 114334 20161218233548
+198.245.51.150 22 22 114334 20161211084717
+76.66.112.199 14 30 3742830 20161218070015
+209.29.240.16 14 14 72758 20161223110951
+64.119.200.159 12 28 3730294 20161229113759
+5.248.253.186 12 12 62364 20161203100340
+99.233.60.114 10 31 8287295 20161225231402
+207.236.219.30 10 22 1992615 20161212140949
+108.174.19.242 9 24 5097684 20161220082730
+99.227.144.61 4 9 1762613 20161218061318
+24.114.59.90 1 3 126798 20161211113640
+99.226.85.39 2 7 1681200 20161207175209
+150.70.173.48 1 1 5197 20161223091947
+76.65.23.170 4 12 1728716 20161230080753
+72.141.200.142 3 8 1699228 20161215231343
+69.42.187.98 2 7 0 20161230123539
+35.160.16.195 5 18 1744359 20161216201446
+174.91.75.224 2 7 1681200 20161231200940
+67.71.131.33 5 15 3380428 20161223095013
+104.247.229.244 4 12 1728716 20161230081715
+69.58.178.57 4 4 22900 20161212022929
+208.101.104.215 2 7 1681200 20161205144725
+78.18.233.227 2 7 1681200 20161201110116
+209.197.170.59 4 12 1728716 20161212162522
+24.150.187.209 2 7 1681200 20161215155606
+174.93.71.181 1 1 5197 20161209190740
+99.233.176.157 3 8 1704624 20161221202613
+65.93.22.5 2 7 1681200 20161205170901
+69.165.142.40 2 7 1681200 20161214123705
+74.14.77.79 3 8 1704624 20161213051244
+209.195.70.251 2 7 1681200 20161228134827
+69.157.13.92 6 16 3409248 20161228134322
+173.208.169.42 1 1 5197 20161211214409
+204.79.180.140 1 1 5197 20161222030112
+142.19.97.2 2 7 1681200 20161219080041
+24.57.113.78 3 8 1704624 20161228171220
+70.31.126.148 3 8 1704624 20161206052522
+111.206.36.135 0 1 401 
+104.236.120.134 2 2 12506 20161227142923
+99.229.221.84 2 2 10394 20161221125752
+174.112.12.153 2 7 1681200 20161226190621
+159.206.80.20 2 7 1681200 20161212073210
+193.70.86.142 1 1 5197 20161219002723
+66.249.83.75 1 1 5197 20161220095559
+167.92.67.10 2 7 1681200 20161205130942
+45.58.198.29 4 9 1762613 20161225151016
+209.171.133.10 2 7 1681200 20161203113625
+74.15.33.25 2 7 1681200 20161211193838
+95.211.138.129 1 1 5197 20161222124048
+108.162.163.253 2 7 1681200 20161214065745
+24.114.64.90 1 1 5197 20161206231305
+184.94.61.186 2 7 1681200 20161228142342
+219.134.84.73 3 3 17703 20161201210825
+198.27.85.233 1 1 5197 20161201102613
+204.79.180.194 0 1 401 
+99.254.92.71 4 12 1728716 20161227122006
+35.160.214.146 5 18 1744359 20161216084324
+66.249.83.73 1 1 5197 20161219131407
+69.158.124.44 2 7 1681200 20161217205717
+185.75.243.187 1 1 5197 20161207031444
+206.130.173.29 2 7 0 20161206080457
+99.236.23.27 3 9 3225667 20161205111648
+99.225.221.206 2 7 1681200 20161207212119
+24.114.39.122 1 1 5197 20161218131649
+70.48.106.204 3 8 1704624 20161217102616
+24.137.209.66 4 9 1762613 20161216040827
+99.244.41.136 3 8 1704624 20161210210749
+24.226.190.229 2 7 1681200 20161223091821
+99.237.28.27 2 7 1681200 20161210123546
+142.4.218.201 1 1 5197 20161211045018
+65.93.141.216 2 8 3207639 20161211225800
+185.29.9.246 1 1 5197 20161220144123
+66.102.6.209 5 10 1717886 20161223205429
+101.199.112.53 3 7 178185 20161222194956
+70.52.181.14 6 21 1681200 20161220115347
+70.24.168.84 8 18 3525226 20161214085330
+35.165.172.91 5 18 1744359 20161206155657
+116.23.12.133 1 1 5197 20161220005515
+76.65.20.218 2 7 1681200 20161217070002
+99.239.203.195 3 8 1699228 20161217202208
+142.245.193.2 1 4 28364 20161206143721
+192.81.26.125 4 9 1762613 20161216173823
+212.86.111.219 1 1 5197 20161227173114
+184.146.140.156 2 7 0 20161201130338
+49.197.196.196 0 5 10446 
+67.71.97.79 3 9 3225667 20161217221611
+99.224.28.46 2 7 1681200 20161218074408
+36.72.103.94 1 1 5197 20161206014109
+99.224.161.159 3 8 1704624 20161212152120
+45.58.197.204 4 9 1762613 20161217153156
+95.56.220.69 2 2 10394 20161203043123
+74.14.104.112 2 7 1681200 20161216144618
+91.202.215.53 2 2 10394 20161207085319
+192.75.121.46 2 7 1681200 20161207083700
+208.85.220.77 2 7 1681200 20161220113632
+192.0.215.215 3 9 3225667 20161215051230
+76.64.117.254 3 8 1699228 20161219165236
+99.254.228.48 2 7 1681200 20161213153504
+99.243.91.178 2 7 1681200 20161215150917
+204.40.130.132 2 7 1681200 20161212094450
+212.86.114.2 1 1 5197 20161227190157
+167.114.228.206 1 1 5197 20161218231556
+99.237.5.60 3 8 1699228 20161201113820
+99.233.243.23 3 8 1699228 20161218112759
+99.242.224.188 2 7 1681200 20161201134342
+204.101.221.34 4 9 1762613 20161228154701
+209.162.246.149 2 7 1681200 20161201092453
+24.114.74.230 1 1 5197 20161225200453
+41.41.172.234 1 4 28364 20161212070610
+184.151.36.196 3 8 1704624 20161205082759
+99.237.29.93 2 7 1681200 20161202012110
+176.15.61.194 4 8 338708 20161203111346
+79.178.223.122 2 9 4734078 20161205141008
+45.34.143.4 1 1 5197 20161213102825
+80.79.112.62 1 1 7309 20161207042540
+208.114.155.81 5 11 3337547 20161212183407
+38.100.21.61 3 6 140574 20161205044046
+37.59.184.177 5 9 46127 20161224112753
+71.28.109.79 2 7 1681200 20161220120514
+104.204.24.246 2 7 1681200 20161226070830
+99.254.81.249 3 8 1699228 20161217094741
+50.101.12.123 4 9 1762613 20161202163006
+142.162.221.194 2 12 1691646 20161211115835
+209.82.111.212 3 8 1704624 20161220223750
+65.95.235.138 2 7 1681200 20161223173315
+66.240.192.138 1 1 5197 20161210114331
+198.91.149.103 2 7 1681200 20161217204613
+50.100.195.119 3 8 1699228 20161204160737
+69.158.22.119 5 13 1752140 20161216065520
+96.81.74.225 1 1 5197 20161215021030
+123.126.113.163 0 3 122871 
+142.205.241.254 1 6 1654908 20161222104339
+198.168.255.186 2 7 1681200 20161213081711
+63.92.230.41 3 9 3225667 20161229105734
+66.102.8.213 1 3 127577 20161218214035
+66.102.8.211 2 2 49716 20161218214035
+174.117.149.236 2 7 1681200 20161228145433
+24.114.63.229 2 12 1691646 20161201154410
+174.115.244.80 3 11 3226649 20161217103330
+45.55.206.213 2 2 12506 20161201203320
+35.164.186.37 2 2 12506 20161202001832
+45.55.190.208 2 4 11196 20161230013421
+27.219.28.28 8 10 25012 20161226000741
+93.92.217.228 2 2 12506 20161228113526
+138.197.2.75 2 2 12506 20161217234822
+99.242.67.3 2 7 1681200 20161223002422
+107.179.153.24 2 7 1681200 20161228070012
+119.129.110.72 1 1 5197 20161222105319
+173.206.29.213 2 7 1681200 20161223170238
+166.102.14.38 0 5 10446 
+74.213.187.11 2 7 1681200 20161209115409
+113.35.251.98 1 1 5197 20161207041907
+66.102.6.207 3 6 258482 20161230134945
+24.114.53.6 0 5 10446 
+4.16.68.22 2 7 1681200 20161214065317
+91.39.210.169 3 8 1761392 20161208121249
+204.79.180.162 0 1 491 
+207.164.79.87 3 8 1699228 20161216114746
+150.70.173.55 1 1 5197 20161203043330
+76.66.115.59 4 13 3255155 20161217104133
+38.116.192.74 7 17 3449010 20161222120626
+199.119.233.162 2 7 1681200 20161211193955
+99.225.210.106 3 8 1699228 20161223110351
+35.164.249.121 5 18 1744359 20161204084400
+99.241.128.84 3 8 1699228 20161211214631
+99.254.161.160 3 10 1820829 20161220184607
+85.25.103.119 4 4 20788 20161215115222
+99.229.192.27 3 9 3225667 20161218082518
+116.23.13.236 1 1 5197 20161230041538
+209.171.88.59 3 11 3334527 20161212094722
+150.70.188.177 1 1 5197 20161211193810
+74.15.77.66 3 8 1699228 20161217062917
+45.55.80.29 2 2 12506 20161205073132
+111.206.36.10 0 1 1526439 
+193.110.157.151 1 1 5197 20161228055118
+35.164.92.200 5 18 1744359 20161212091703
+35.165.31.42 5 18 1744359 20161207204919
+45.55.72.134 2 2 12506 20161211113808
+38.112.16.158 2 7 1681200 20161215120832
+46.229.170.197 2 2 10394 20161226013347
+64.228.139.170 1 6 1654908 20161213082000
+61.221.75.211 1 1 5197 20161213011925
+173.35.36.132 3 8 1699228 20161216135036
+45.55.81.26 2 2 12506 20161208152412
+207.182.140.210 0 1 1526439 
+173.246.71.58 2 7 1681200 20161216080913
+174.91.148.150 5 17 7834472 20161214125700
+173.34.229.233 7 21 4954383 20161217124350
+35.166.48.252 5 18 1744359 20161216065401
+47.202.90.143 5 5 25985 20161202170903
+24.114.71.210 2 8 3207639 20161214163742
+191.97.102.222 3 8 1761392 20161206073250
+70.52.229.165 4 9 1762613 20161217100443
+70.26.165.247 2 7 1681200 20161211102029
+173.35.42.13 8 21 1887058 20161216073939
+99.235.111.97 2 7 1681200 20161215233353
+69.159.61.49 2 7 1681200 20161218122352
+173.231.41.210 2 2 10394 20161213040317
+209.171.88.2 0 2 1581 
+99.241.222.94 3 8 1704624 20161213195713
+35.163.155.175 5 18 1744359 20161228022706
+72.139.21.110 4 9 1762613 20161219054311
+80.82.78.92 1 1 5197 20161214160614
+35.164.144.148 5 18 1744359 20161210083310
+104.131.85.150 1 2 5598 20161214071552
+174.113.181.234 2 8 3207639 20161217083410
+99.227.170.87 3 8 1704624 20161205100341
+70.52.127.29 3 8 1699228 20161212073843
+24.52.197.168 4 14 1681200 20161211093926
+76.64.53.139 2 7 1681200 20161216134915
+99.224.162.242 2 7 1681200 20161207210404
+24.212.135.50 3 8 1704624 20161230070853
+99.253.212.157 3 8 1704624 20161210181951
+99.224.154.32 2 5 47516 20161217110907
+76.66.95.241 3 8 1742280 20161208104535
+173.230.185.155 3 8 1704624 20161207101806
+199.7.157.44 2 7 1681200 20161215130323
+216.208.32.66 2 7 1681200 20161220115719
+70.26.167.214 3 10 4752106 20161212075649
+188.143.232.24 2 2 12506 20161215080253
+213.167.208.143 1 1 5197 20161229080447
+199.198.223.107 5 10 1767810 20161219101734
+70.50.239.245 3 8 1699228 20161214090112
+35.166.240.4 5 18 1744359 20161228210354
+108.162.153.66 3 8 1699228 20161201184030
+76.69.40.46 2 7 1681200 20161219150615
+99.233.216.226 6 16 3403852 20161221062850
+76.67.75.1 3 8 1704624 20161212100847
+174.117.132.212 8 16 1751616 20161215134905
+157.55.39.214 0 1 11730 
+99.245.75.171 3 8 1681200 20161217120109
+24.137.223.20 8 19 5051665 20161216100030
+209.226.201.241 1 1 5197 20161217075313
+99.236.10.107 2 7 1681200 20161212141524
+35.165.68.135 5 18 1744359 20161210021424
+76.64.55.161 2 7 1681200 20161230101926
+209.171.88.251 3 8 1704624 20161201114545
+209.171.88.211 3 8 1699228 20161221153205
+24.114.55.202 3 8 1699228 20161213160647
+70.48.237.148 2 7 1681200 20161225195440
+27.199.54.155 2 2 10394 20161222065115
+138.201.222.203 1 1 5197 20161208102357
+188.143.232.26 2 2 12506 20161210043001
+24.114.76.101 3 9 3212836 20161228064104
+24.114.54.116 5 13 1746744 20161217120446
+204.79.180.30 0 1 0 
+70.49.111.241 4 9 1762613 20161205083656
+195.154.181.168 3 3 15591 20161227155748
+99.225.174.9 3 8 1704624 20161231094903
+62.212.73.49 2 2 10394 20161226205359
+206.130.174.27 6 16 1762613 20161213161333
+24.212.192.194 6 17 4924895 20161216165517
+99.227.172.113 3 8 1704624 20161216184635
+184.146.147.144 4 10 3289052 20161212115733
+76.69.44.197 2 12 1691646 20161207113721
+173.34.173.66 2 7 1681200 20161207125146
+64.231.20.127 2 8 3207639 20161206124508
+209.171.88.36 0 5 10446 
+84.10.163.43 3 3 15591 20161201173240
+142.245.59.15 2 7 1681200 20161215103056
+99.248.91.204 3 8 1699228 20161219121616
+99.250.17.143 3 8 1704624 20161203064343
+174.114.229.32 3 9 3225667 20161227160616
+24.114.45.194 1 1 5197 20161219085912
+174.138.221.51 5 13 1746744 20161217135434
+72.143.232.252 1 1 5197 20161220134620
+24.114.81.35 1 1 5197 20161218192758
+178.140.28.169 4 7 338307 20161228051947
+99.225.175.197 3 8 1699228 20161221074601
+24.114.65.62 2 7 1681200 20161216155929
+76.69.90.79 2 7 1681200 20161223180138
+35.166.201.18 5 18 1744359 20161221121233
+70.50.116.162 4 12 1728716 20161212201732
+212.86.113.7 1 1 5197 20161210112139
+50.100.53.16 2 7 1681200 20161208160155
+67.70.150.34 5 13 1746744 20161220125013
+113.77.86.96 2 2 10394 20161206195805
+104.222.113.65 2 7 1681200 20161231151005
+78.158.11.226 1 1 5197 20161226003852
+209.171.197.126 4 9 1762613 20161222073311
+188.165.29.82 1 1 5197 20161209091618
+173.48.207.177 2 7 1681200 20161207151728
+187.126.71.206 3 8 1761392 20161205100717
+60.187.123.240 1 1 5197 20161213221216
+142.245.59.9 4 13 1681200 20161213083229
+24.114.49.86 3 8 1699228 20161214085323
+65.92.15.13 2 7 1681200 20161214093915
+184.151.179.103 2 7 1681200 20161229120413
+99.233.219.118 2 7 1681200 20161207115023
+209.239.26.212 2 7 1681200 20161227211516
+76.68.108.45 2 7 1681200 20161220065630
+176.31.149.121 1 1 5197 20161227054608
+204.79.180.84 0 1 1180 
+209.171.88.220 2 7 1681200 20161226132950
+173.34.232.23 2 7 1681200 20161217185751
+70.51.164.174 2 7 1681200 20161216083517
+65.94.236.234 2 7 1681200 20161227142507
+50.100.30.199 3 9 3225667 20161217132932
+99.234.73.10 3 8 1699228 20161210185603
+64.228.94.152 2 7 1681200 20161213185751
+76.69.36.130 4 10 3289052 20161220111032
+45.78.53.109 2 7 1681200 20161222194737
+76.64.218.47 2 7 1681200 20161219090429
+173.34.238.229 2 7 1681200 20161213192956
+79.172.193.32 1 1 5197 20161208103043
+99.229.201.246 2 7 1681200 20161216023009
+195.154.146.225 5 5 25985 20161218131240
+174.142.214.198 0 5 10446 
+45.32.131.61 1 1 5197 20161203004904
+174.91.15.112 3 8 1699228 20161212174811
+200.155.127.64 1 1 5197 20161206221724
+67.224.93.110 3 8 1704624 20161213091543
+45.55.133.240 1 2 5598 20161227023137
+70.52.228.191 5 11 3280779 20161212091531
+99.227.184.141 3 8 1699228 20161216070950
+76.68.129.15 3 8 1699228 20161227153511
+119.139.243.198 3 3 17703 20161205130115
+99.233.34.83 4 9 1704425 20161224200757
+83.217.27.128 1 1 5197 20161204204813
+174.114.78.207 2 7 1681200 20161209161244
+70.54.76.110 6 16 3398456 20161226190535
+66.102.6.153 1 3 6868 20161230135132
+24.114.57.69 1 2 6377 20161228092745
+45.72.201.220 2 7 1681200 20161220075934
+185.2.196.196 4 4 112902 20161219101734
+38.117.101.53 2 7 1681200 20161225121554
+99.242.226.46 5 16 4906867 20161227185844
+204.13.201.137 1 5 128469 20161214002259
+99.237.8.55 2 8 3207639 20161228162822
+70.51.170.238 2 7 1681200 20161216081702
+24.114.78.246 1 1 5197 20161212124720
+204.40.194.137 4 12 1728716 20161219143439
+207.219.108.51 2 7 1681200 20161201080324
+99.224.55.210 3 8 1704624 20161217125138
+99.225.212.213 4 9 1762613 20161218113816
+70.24.145.78 4 9 1762613 20161229153349
+208.184.112.74 1 1 5197 20161213204254
+108.63.186.143 8 18 0 20161202095629
+155.94.172.220 1 1 5197 20161225203652
+99.229.203.54 2 7 1681200 20161210110155
+70.31.170.30 2 8 3207639 20161223092835
+208.82.90.202 2 7 1681200 20161201093737
+208.72.5.1 2 7 1681200 20161212141123
+99.243.62.96 6 16 1821608 20161209083841
+157.55.39.16 0 1 401 
+74.15.35.138 6 16 3348939 20161223170050
+76.65.208.106 2 7 1681200 20161213111416
+109.86.71.234 1 1 5197 20161213040116
+150.70.173.50 1 1 5197 20161207084057
+69.17.140.6 4 9 1762613 20161228121858
+204.79.180.119 0 1 121200 
+185.101.159.150 1 1 5197 20161211084446
+216.191.72.153 2 7 1681200 20161219083915
+216.58.85.82 2 7 1681200 20161212091905
+142.150.123.121 2 7 1681200 20161205134823
+76.65.194.188 2 7 1681200 20161205112250
+173.230.188.71 3 8 1699228 20161211193633
+112.235.250.135 3 3 17703 20161222224227
+70.24.143.117 5 10 1786037 20161231143233
+198.103.184.76 4 9 1762613 20161201102644
+207.58.204.82 2 2 10394 20161210162638
+174.117.145.176 2 7 1681200 20161216071320
+65.93.101.17 2 7 1681200 20161202040735
+174.88.141.42 2 7 1681200 20161224204814
+111.93.182.59 2 7 1681200 20161215132711
+66.199.36.250 4 14 3362400 20161213134703
+135.23.253.227 3 8 1704624 20161212210722
+209.171.88.187 2 7 1681200 20161203114908
+41.32.142.51 2 8 1802400 20161219092445
+207.46.13.131 0 1 1005 
+45.32.130.87 1 1 5197 20161230211955
+173.35.45.180 3 7 1704133 20161212145429
+41.196.138.250 1 4 3179275 20161212070607
+174.91.112.195 2 7 1681200 20161226063811
+184.151.178.250 3 9 3231063 20161219080356
+206.47.209.196 4 9 1762613 20161217090251
+182.74.0.102 1 1 5197 20161223210420
+99.239.187.218 2 7 1681200 20161227194001
+45.55.78.114 2 2 12506 20161214045846
+24.114.65.137 3 8 1704624 20161222200141
+99.241.137.8 2 8 3207639 20161210204737
+163.172.217.50 1 1 5197 20161225200338
+216.229.20.57 6 20 3517161 20161215152426
+61.135.190.223 1 2 5598 20161206125329
+72.52.75.27 1 1 5197 20161201125803
+185.146.171.197 2 2 10394 20161223145843
+54.146.204.248 1 1 5197 20161225090610
+209.171.88.136 3 8 1699228 20161212084908
+74.118.27.133 6 21 1681200 20161219080457
+70.54.122.210 2 7 1681200 20161223074554
+75.119.248.209 2 7 1681200 20161217111742
+78.143.173.30 2 7 1681200 20161203145348
+173.230.60.14 1 1 5197 20161218134509
+188.165.28.233 2 2 10394 20161220155524
+192.40.241.73 2 7 1681200 20161205040835
+104.156.231.254 1 1 5197 20161211182602
+184.147.6.238 3 8 1699228 20161210104941
+165.154.50.69 2 7 1681200 20161213130900
+72.143.32.158 4 9 1762613 20161215122059
+35.166.139.202 5 18 1744359 20161219062757
+99.236.11.249 2 7 1681200 20161217092000
+150.70.173.58 1 1 5197 20161228191201
+76.64.53.109 3 8 1704624 20161211232400
+192.198.207.146 2 2 5197 20161220043648
+31.28.202.240 1 1 5197 20161227153844
+70.28.65.233 4 14 1875593 20161201125924
+192.252.131.10 4 9 1762613 20161219140234
+91.179.239.37 0 5 10446 
+125.64.94.206 3 3 15591 20161216060041
+99.241.156.82 3 8 1704624 20161223151133
+104.207.150.177 2 2 10394 20161222030302
+99.238.204.173 2 7 1681200 20161231083530
+209.171.88.183 6 16 3398456 20161224155033
+209.90.153.170 4 9 1762613 20161205160502
+35.164.3.140 5 18 1744359 20161206000540
+74.14.81.171 2 7 1681200 20161212081839
+70.24.90.19 5 13 3271658 20161203050326
+173.35.1.237 3 8 1699228 20161217082834
+99.254.85.82 2 7 1681200 20161215172926
+70.52.125.31 2 7 1681200 20161207093339
+70.24.143.95 2 7 1681200 20161215131149
+99.226.205.4 3 8 1699228 20161210042151
+24.114.71.56 3 8 1704624 20161221123056
+76.70.31.19 4 12 1728716 20161216095112
+99.239.89.221 2 7 1681200 20161226131158
+150.70.173.21 8 8 41576 20161228193903
+45.55.134.5 1 2 5598 20161206031311
+76.66.164.166 0 5 10446 
+113.77.86.134 3 3 17703 20161214191752
+50.100.65.114 3 8 1699228 20161229100226
+142.245.193.4 4 9 1762613 20161212104611
+173.35.233.168 3 8 1699228 20161209184958
+24.114.70.19 1 1 5197 20161229104554
+23.254.204.241 1 1 5197 20161223123102
+68.201.22.93 0 5 10446 
+193.111.136.162 1 1 5197 20161223025241
+65.95.207.220 2 7 1681200 20161228190933
+184.151.178.42 3 9 3225667 20161207104957
+70.27.145.162 2 7 1681200 20161221144802
+24.114.71.160 4 9 1762613 20161212163047
+104.245.39.128 1 1 5197 20161220015750
+192.0.141.135 2 7 1681200 20161220133222
+207.164.79.102 3 8 1699228 20161202100030
+173.206.77.187 5 15 3380428 20161228104250
+176.126.252.12 1 1 5197 20161225040828
+192.0.251.227 2 7 1681200 20161226063000
+76.64.54.9 2 7 1681200 20161229095633
+69.158.165.24 6 17 4935687 20161225084542
+64.40.250.196 4 9 1762613 20161212114713
+72.35.21.58 1 1 5197 20161217231324
+184.151.190.38 3 8 1704624 20161216063511
+70.50.80.14 3 6 172388 20161217124717
+178.153.22.174 2 2 10394 20161207093200
+35.162.225.137 5 18 1744359 20161219104216
+174.112.68.21 4 15 4888839 20161215115316
+192.0.156.196 2 7 1681200 20161229181012
+35.164.109.55 5 18 1744359 20161208012236
+188.143.232.37 2 2 12506 20161206061811
+66.102.6.154 0 1 1526439 
+174.118.65.234 2 7 1681200 20161209151300
+208.184.112.75 0 4 123272 
+176.62.76.157 1 1 5197 20161202020504
+67.226.152.201 2 7 1681200 20161212141703
+174.88.143.45 3 8 1704624 20161217111503
+24.114.79.194 3 8 1699228 20161207083334
+24.114.71.177 3 8 1699228 20161225101628
+135.23.229.2 2 7 1681200 20161206145135
+174.114.91.177 2 7 1681200 20161203083306
+69.30.234.74 1 1 5197 20161212023627
+158.69.225.36 1 1 5197 20161212231359
+64.229.181.217 3 8 1699228 20161213222731
+38.110.68.53 2 7 1681200 20161205095421
+58.182.152.168 3 8 1704624 20161210220637
+70.48.184.71 2 7 1681200 20161214084716
+99.229.236.57 2 7 1681200 20161215201403
+37.229.236.22 2 7 1681200 20161212080117
+24.114.255.88 4 9 1762613 20161202141915
+104.204.235.182 2 7 1681200 20161220173105
+91.210.144.223 1 1 5197 20161229130013
+24.114.66.115 1 1 5197 20161215141802
+74.12.94.32 2 7 1681200 20161221155526
+35.165.128.70 5 18 1744359 20161225041200
+192.99.147.201 1 1 5197 20161231134307
+69.157.46.111 3 8 1699228 20161217120857
+69.77.173.148 4 9 1762613 20161215124701
+72.0.212.30 4 9 1762613 20161214151806
+149.202.72.198 1 1 5197 20161204121123
+70.26.167.47 4 9 1762613 20161221114147
+174.94.131.13 0 5 10446 
+108.175.228.201 2 7 1681200 20161207083054
+64.74.215.113 2 2 0 20161202101728
+104.131.32.83 1 2 5598 20161221080518
+66.102.6.205 5 12 3103611 20161230134946
+173.34.99.57 3 8 1704624 20161201055029
+99.229.211.3 3 8 1699228 20161214100924
+99.236.27.210 4 14 3362400 20161227211518
+104.222.113.224 2 7 1681200 20161214181558
+99.229.220.158 3 8 1699228 20161224160038
+31.49.117.71 2 7 1681200 20161221151932
+72.38.197.230 0 5 10446 
+199.116.169.254 6 6 94467 20161216111242
+72.139.1.122 4 10 1831021 20161214122312
+99.255.18.150 2 7 1681200 20161212142818
+174.113.65.161 3 8 1699228 20161218124011
+117.78.13.29 1 1 5197 20161204225440
+24.114.91.112 1 1 5197 20161219182823
+87.206.243.123 2 2 10394 20161206201938
+82.80.230.228 0 2 3052878 
+99.230.213.200 2 7 1681200 20161214201301
+99.230.196.91 2 7 1681200 20161210055002
+104.236.65.117 1 2 5598 20161217210449
+174.116.72.211 3 8 1699228 20161226172440
+174.116.126.208 3 8 1704624 20161201201259
+185.22.172.183 1 1 5197 20161223060633
+168.244.11.48 2 7 1681200 20161213100944
+207.245.247.254 2 7 1681200 20161220134519
+99.224.160.113 7 18 3465333 20161208202454
+173.35.79.72 3 8 1704624 20161217112551
+35.166.47.216 5 18 1744359 20161220121747
+35.163.64.92 5 18 1744359 20161209072334
+93.115.95.216 1 1 5197 20161207153055
+99.237.9.86 3 8 1699228 20161217130101
+216.59.45.45 4 14 3362400 20161214054733
+35.162.99.24 5 18 1744359 20161218015314
+205.189.47.238 2 7 1681200 20161215101551
+35.164.165.101 5 18 1744359 20161218034647
+35.161.215.48 5 18 1744359 20161205061227
+99.225.222.214 2 7 1681200 20161218155030
+207.154.207.47 1 1 5197 20161209055648
+82.80.249.214 1 1 5197 20161202174113
+130.185.159.132 1 1 5197 20161206223829
+45.32.129.200 1 1 5197 20161201113628
+111.206.36.7 1 2 23915 20161210220641
+134.226.148.129 2 8 3207639 20161206090200
+66.102.6.152 3 6 1684726 20161230135133
+54.226.152.88 1 1 5197 20161219082921
+24.114.69.121 3 8 1699228 20161222102336
+76.64.217.158 2 7 1681200 20161202183135
+24.114.52.139 5 13 1746744 20161229111453
+70.29.28.62 8 18 3525226 20161222110319
+74.14.104.164 2 7 1681200 20161230084051
+111.206.36.15 0 1 1180 
+165.154.120.29 2 7 1681200 20161213145035
+69.159.51.31 2 7 1681200 20161222203536
+82.80.249.159 3 9 3194632 20161202174128
+99.233.189.208 2 7 1681200 20161207150825
+174.95.70.6 5 10 1715018 20161217064424
+216.19.213.235 1 1 5197 20161203164941
+24.114.55.82 3 8 1704624 20161213153443
+195.22.127.196 1 1 5197 20161207050004
+150.70.173.57 1 1 5197 20161213210208
+35.164.192.81 1 1 5197 20161202220217
+209.171.9.73 2 7 1681200 20161217065755
+174.91.22.56 3 8 1704624 20161229170429
+64.40.248.166 2 7 1681200 20161209080058
+149.202.74.124 2 3 1538945 20161223184257
+99.237.39.174 6 21 5043600 20161221111733
+61.135.190.102 1 2 5598 20161206124532
+99.227.137.68 4 9 1762613 20161212083530
+99.237.14.103 4 19 3372846 20161203121304
+113.210.60.73 2 7 1681200 20161228200720
+111.206.36.9 2 3 152689 20161210220641
+50.100.47.162 2 5 47516 20161212153351
+99.236.25.77 2 7 1681200 20161219202354
+35.165.68.110 5 18 1744359 20161211064248
+174.117.144.109 2 7 1681200 20161210120658
+36.63.247.133 2 7 1681200 20161201204645
+64.40.251.56 2 7 1681200 20161219130914
+192.154.104.106 1 1 5197 20161206221900
+99.237.67.25 2 7 1681200 20161201100835
+184.146.204.50 7 15 1871415 20161217110159
+54.213.208.218 1 1 5197 20161215041321
+54.166.225.44 1 1 5197 20161205083909
+208.94.230.164 1 1 5197 20161206064431
+65.19.167.130 1 1 5197 20161210193259
+99.224.28.88 3 8 1704624 20161227083245
+192.82.150.107 2 7 1681200 20161215075018
+206.186.1.178 2 7 1681200 20161213090337
+99.227.237.134 2 7 1681200 20161215175152
+76.67.104.175 5 13 1746744 20161211184628
+99.228.192.252 5 13 1752140 20161218081434
+184.144.20.51 3 8 1699228 20161209190328
+173.35.232.39 4 14 3362400 20161217065208
+150.70.173.46 1 1 5197 20161228154825
+208.67.144.129 4 14 3362400 20161220112826
+24.114.52.60 1 1 5197 20161231170459
+144.76.65.235 1 1 5197 20161210000522
+158.106.92.122 4 9 1762613 20161202105834
+99.232.176.207 3 8 1699228 20161217150013
+76.64.117.252 2 7 1681200 20161211124410
+173.35.3.164 2 7 1681200 20161220081723
+218.76.254.228 1 1 5197 20161207110648
+192.75.158.166 3 8 1699228 20161212090704
+71.19.175.114 2 7 1681200 20161217212404
+108.168.91.10 3 8 1699228 20161205172611
+76.65.29.60 2 7 1681200 20161217230410
+63.92.228.57 1 1 5197 20161223091754
+99.242.250.124 2 7 1681200 20161222082343
+104.236.211.213 2 2 12506 20161230134316
+188.143.232.35 2 2 12506 20161203163920
+50.100.188.9 2 7 1681200 20161228143815
+24.114.56.64 0 5 10446 
+99.250.232.66 2 7 1681200 20161220174542
+208.97.108.235 2 7 1681200 20161207143240
+206.130.173.25 4 14 1681200 20161216120415
+104.238.180.234 1 1 5197 20161201022322
+24.114.69.79 3 8 1699228 20161202143114
+64.119.200.182 4 9 1865147 20161223213244
+198.204.240.42 1 1 5197 20161207095619
+38.117.100.46 2 7 1681200 20161219124406
+66.102.8.209 0 3 1527331 
+99.227.190.246 2 7 1681200 20161213150118
+24.212.133.231 2 7 1681200 20161221202000
+24.37.130.14 2 7 1681200 20161219090703
+38.111.106.50 1 1 5197 20161230213843
+220.181.132.220 1 1 5197 20161222194932
+104.236.244.32 2 2 12506 20161224183836
+104.251.96.178 5 16 3426262 20161216103206
+209.171.88.37 3 8 1704624 20161201182458
+91.210.146.172 1 1 5197 20161205175141
+89.144.7.232 1 1 5197 20161207041355
+99.241.138.218 2 7 1681200 20161230103504
+99.237.80.44 3 8 1704624 20161217132120
+149.202.98.161 1 1 5197 20161222105251
+70.53.48.47 3 8 128469 20161205195327
+169.0.51.16 2 8 1802400 20161209043333
+24.114.53.68 3 8 1699228 20161216005936
+99.237.59.204 2 7 1681200 20161217083735
+150.70.173.53 1 1 5197 20161217071436
+109.173.59.141 4 8 338708 20161228104245
+99.252.152.42 3 8 1699228 20161211065755
+199.91.135.163 2 2 52584 20161216111243
+35.165.35.40 1 1 5197 20161204101856
+24.114.66.50 3 8 1704624 20161216063913
+99.248.43.166 2 7 1681200 20161211224605
+70.52.230.19 5 13 1733913 20161220095637
+35.164.111.124 5 18 1744359 20161203020519
+69.159.38.58 2 7 1681200 20161220140453
+99.226.150.42 2 7 1681200 20161226070437
+35.164.251.22 5 18 1744359 20161224000122
+64.40.241.43 1 3 127577 20161214110019
+178.140.107.250 4 8 338708 20161204004123
+209.82.20.102 2 7 1681200 20161219122945
+65.95.200.79 3 8 1699228 20161221125958
+216.118.213.91 4 9 1762613 20161213080615
+67.226.152.185 2 7 1681200 20161208130942
+99.234.255.11 3 9 3225667 20161216054610
+99.237.9.187 2 7 1681200 20161217112554
+45.55.38.228 2 2 12506 20161221174951
+99.253.210.155 4 14 3362400 20161217091813
+54.196.242.202 1 1 5197 20161212084339
+70.49.188.81 4 12 1728716 20161211093605
+69.158.23.186 2 7 1681200 20161213081734
+24.114.68.235 2 7 1681200 20161209182353
+99.251.27.163 4 9 1704425 20161230163455
+64.119.200.220 4 15 3299498 20161212153750
+99.255.22.235 3 8 1699228 20161213104259
+163.172.142.39 1 1 5197 20161208211348
+70.31.3.238 2 7 1681200 20161218142238
+93.115.95.202 1 1 5197 20161225102040
+76.69.88.126 2 7 1681200 20161226115216
+38.111.106.2 1 1 5197 20161230213844
+76.67.75.203 3 8 1704624 20161220105256
+198.96.180.245 2 7 1681200 20161213104651
+69.165.173.159 2 7 1681200 20161205201655
+184.151.63.135 3 8 1699228 20161213153733
+70.55.238.139 2 7 1681200 20161209093650
+99.226.149.184 4 12 1728716 20161212172025
+107.179.148.205 2 7 1681200 20161219192837
+104.247.40.5 2 2 10394 20161221065536
+99.227.34.167 2 7 1681200 20161222110458
+69.58.102.156 2 8 3207639 20161211140040
+207.164.171.2 2 7 1681200 20161216111242
+67.55.30.86 0 1 491 
+99.253.214.37 2 7 1681200 20161216104113
+99.241.179.209 2 7 1681200 20161211232538
+198.200.71.115 2 8 1802400 20161218080648
+188.165.206.188 1 1 5197 20161218225652
+99.225.203.98 2 7 1681200 20161218095618
+185.103.99.60 1 1 5197 20161224084230
+99.241.136.151 5 14 3260352 20161216172452
+93.115.95.204 1 1 5197 20161231102438
+54.214.217.76 1 1 5197 20161215031252
+24.114.53.42 1 1 5197 20161229094017
+99.239.190.174 3 8 1704624 20161217224603
+70.26.78.85 5 15 3380428 20161215225705
+199.7.157.122 4 9 1691594 20161211192940
+99.226.162.109 3 8 1699228 20161214121915
+209.171.44.8 2 2 10394 20161225170940
+184.149.31.25 4 9 1762613 20161214160359
+99.224.3.74 2 7 1681200 20161219062540
+147.194.25.29 4 9 1762613 20161217071254
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20161201 104 229 29473232 41
+20161202 109 212 30517336 36
+20161203 87 172 15704190 30
+20161204 51 92 7485970 22
+20161205 115 239 34071521 41
+20161206 91 177 23953815 43
+20161207 99 234 35679665 47
+20161208 64 114 10603351 29
+20161209 61 130 18997102 26
+20161210 83 181 30438605 32
+20161211 117 240 34029775 41
+20161212 168 411 82983797 57
+20161213 107 258 42892036 50
+20161214 84 195 40494671 33
+20161215 92 210 39115708 41
+20161216 148 393 64721600 50
+20161217 181 429 83186186 59
+20161218 89 204 34294972 34
+20161219 106 247 41110814 37
+20161220 79 219 40627997 33
+20161221 63 164 30976513 24
+20161222 60 139 22619189 27
+20161223 67 161 28609237 30
+20161224 27 60 6919428 14
+20161225 35 85 13485229 17
+20161226 33 84 16896941 18
+20161227 39 97 23112854 21
+20161228 69 185 31059215 30
+20161229 49 119 18938755 17
+20161230 35 88 15159372 21
+20161231 21 46 8570640 11
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 8
+0s-30s 931
+30mn-1h 10
+15mn-30mn 6
+5mn-15mn 9
+30s-2mn 47
+1h+ 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 1442 7223830 993 470
+/assets/fonts/SofachromeRg-Regular.woff 617 15091608 10 380
+/assets/fonts/glyphicons-halflings-regular.woff2 106 1838856 2 76
+/assets/fonts/SofachromeRg-Regular.eot 104 4535164 0 8
+/assets/fonts/glyphicons-halflings-regular.eot 98 1388763 0 0
+/assets/contact.html 81 584720 5 19
+/assets/fonts/glyphicons-halflings-regular.woff 59 1382016 2 50
+/assets/fonts/HqSansProTT-Bold.eot 9 1030608 0 0
+/assets/fonts/SofachromeRg-Regular.ttf 7 427560 0 2
+/./assets/contact.html 6 29236 0 4
+/assets/fonts/glyphicons-halflings-regular.ttf 4 181616 0 3
+END_SIDER

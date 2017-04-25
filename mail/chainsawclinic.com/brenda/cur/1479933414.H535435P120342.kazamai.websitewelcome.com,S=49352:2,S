@@ -1,0 +1,1081 @@
+Return-path: <Arnaud.Couturier@husqvarnagroup.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Wed, 23 Nov 2016 14:36:54 -0600
+Received: from mail1.bemta6.messagelabs.com ([193.109.254.111]:33636)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <Arnaud.Couturier@husqvarnagroup.com>)
+	id 1c9eHm-000VFY-6V
+	for brenda@chainsawclinic.com; Wed, 23 Nov 2016 14:36:54 -0600
+Received: from [85.158.143.35] by server-7.bemta-6.messagelabs.com id 08/9E-29519-ADDF5385; Wed, 23 Nov 2016 20:36:42 +0000
+X-Brightmail-Tracker: H4sIAAAAAAAAA2WTeUzTYBjG/dp1K4aSOkBeFoxhxmjEEZFoNCF
+  GoyYaQcUreFuwbtMdpJ049Z/FGIE5lEOMDHQgZBqvRaN4hYhGjcyDCIviFSUgCk7ihVdEbNcV
+  Mfav3/c+z/O+b7+0JK6+ptKQrN3GchbGpFUOV6zrsy/TPemfkjWp+tHYaR53i2ImmufbfUy1G
+  K0ijJZsq30DYfA9akK5fbcwe+vjXsKBCn2YEw0n1fRBDFyV5UonihAOdxA4XEtFVtJpcP5lIx
+  I5hp4O3pKekCeangYudxCX63vq9yuciBR4Ieyr2yKWFfRYCLbUhywUvQG6Bn6qpFltGLS/DxC
+  iEEHPguMF30KM6JHwzX8KExmn4+BppyfEQMdA+8O7Soljobvjd9jPQrC+OFxPBFfZR0IcAPRR
+  HDpO1yBJyAB3W03YtAi+dz5QSWyFl/dv41LgCAJf6RmFdOhHUHfJGU4kwOHGQJgLlPBw1wrpi
+  jZDc2c9Jl2FBl4ECpHECfD2eUNoDZwuRND/1IOkCxgBTRWdCqnRGPC8fovLKzmr/EQxGuMe8t
+  ruoXn3kLxkskDRh0Yk8USovvpJKXESeGve4TLfa+zA/q/rYKC/OexPhGBrEEnDahFc+bVXKTe
+  92JtPyKYDe9tVcri0wTFY77rgJQbDp2t9uBzuKL+sGhquRuoTaDzPcnksp0tJTc7mjHqDzcwY
+  TbqUSVOTzSzPM3rWxGTzyTlW8zkkfMzDhOcS+uJdfAPFk5g2ljr5eUqWOirbunG7geEN67mtJ
+  pa/gRJIUgvUkl+CNoJj9ax9k9Ek/BGyDGSkNobiRJnicxkzb9RLkh/pyDp3zytMrbBYLawmjt
+  otmmjRZNhqGWwh/1ctaJQmmkLCUurIXJYzG23/6j0ojkTaaMohdok0WmyDk3qEJTBhifivqeI
+  SNuavpHGgyjkWTt8d9GQm5+wc/fExtaO6yGbW7Tt1aPbas5qqi5crXIU/tq06XPki42bZyHOx
+  gWElXTvc6QN3xlV0t0zenBRxnVia1PTGNDc2PTPKujpYMyN+bkSvvzZnPrYk7ef6VOeCgH/bm
+  mVrvMStTQ1xfVey2loz8+fkFS1v3vhsZaLzUKJWwRuYlAk4xzN/AGzFAIRSBAAA
+X-Env-Sender: Arnaud.Couturier@husqvarnagroup.com
+X-Msg-Ref: server-10.tower-21.messagelabs.com!1479933401!38218136!1
+X-Originating-IP: [94.245.120.84]
+X-StarScan-Received:
+X-StarScan-Version: 9.0.16; banners=husqvarnagroup.com,-,-
+X-VirusChecked: Checked
+Received: (qmail 3845 invoked from network); 23 Nov 2016 20:36:41 -0000
+Received: from mail-db5eur03lp0084.outbound.protection.outlook.com (HELO EUR03-DB5-obe.outbound.protection.outlook.com) (94.245.120.84)
+  by server-10.tower-21.messagelabs.com with AES256-SHA256 encrypted SMTP; 23 Nov 2016 20:36:41 -0000
+Received: from VI1PR0401MB2477.eurprd04.prod.outlook.com (10.168.64.148) by
+ VI1PR0401MB2478.eurprd04.prod.outlook.com (10.168.64.149) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.707.6; Wed, 23 Nov 2016 20:36:38 +0000
+Received: from VI1PR0401MB2477.eurprd04.prod.outlook.com ([10.168.64.148]) by
+ VI1PR0401MB2477.eurprd04.prod.outlook.com ([10.168.64.148]) with mapi id
+ 15.01.0707.006; Wed, 23 Nov 2016 20:36:38 +0000
+From: Arnaud Couturier <Arnaud.Couturier@husqvarnagroup.com>
+To: Chain Saw Clinic - Brenda <brenda@chainsawclinic.com>
+Subject: RE: 05217 dEALER NUMBER  - CASE # 161123-001428
+Thread-Topic: 05217 dEALER NUMBER  - CASE # 161123-001428
+Thread-Index: AdJFu3Me2EAu8ehAR6S/5oLgDhuoBQAAiidQAAF3foAAAPBqsAAAfKqAAAAARoA=
+Date: Wed, 23 Nov 2016 20:36:38 +0000
+Message-ID: <VI1PR0401MB247783BCCDFD2A4ACD23A55AE8B70@VI1PR0401MB2477.eurprd04.prod.outlook.com>
+References: <000601d245bb$73b77710$5b266530$@chainsawclinic.com>
+ <VI1PR0401MB247720A75F5E6AD9DEE7CCE9E8B70@VI1PR0401MB2477.eurprd04.prod.outlook.com>
+ <001b01d245c3$7a7fc9a0$6f7f5ce0$@chainsawclinic.com>
+ <VI1PR0401MB2477BB2288CE02C83C3156BEE8B70@VI1PR0401MB2477.eurprd04.prod.outlook.com>
+ <002d01d245c9$2ee8d6c0$8cba8440$@chainsawclinic.com>
+In-Reply-To: <002d01d245c9$2ee8d6c0$8cba8440$@chainsawclinic.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [66.162.194.46]
+x-microsoft-exchange-diagnostics: 1;VI1PR0401MB2478;7:0rtA8b+wNlUJ9KqvoQeUfD3DxmleQ1vdQp5XoiiNOahlIb6T61/1tJwFVmwe3oMVhjJu+/UjFNbPYOXp2idpJbQf6VwuGY58M16VKB76tyEDjCaMUVK+XOWbGNpe1pqNSysj40v7b50VArqQEYJjfM0OhChDE5yeNiXL4qDCLZqcDfi/K5xnoeDFPoig8IPbcSNNSpvcTg1KcWwnPKIMLBM0MgawFjnL8azCOg611iDZ43TlCU2swVPHotMCSIO6+ml161MI9220mmcu3S8AADpY7QJpeNghlGZ+YiuzRjFHyU5JNZ16LwIF+/av93Kg8ZTNbT039VlebA1YUsoHup1x5/tS3Svx53v8hHYRy3Q=
+x-ms-office365-filtering-correlation-id: 28d87d65-3a95-4096-5bb7-08d413e06d08
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001);SRVR:VI1PR0401MB2478;
+x-microsoft-antispam-prvs: <VI1PR0401MB247867523E9679CD539E2C1EE8B70@VI1PR0401MB2478.eurprd04.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(88903418857955)(199626845377013)(149096252536123)(21748063052155)(81085839075944)(190475717308636)(117680590617077);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415395)(6040307)(6060326)(6045199)(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046)(6055026)(6061324)(6041248)(6046074);SRVR:VI1PR0401MB2478;BCL:0;PCL:0;RULEID:;SRVR:VI1PR0401MB2478;
+x-forefront-prvs: 013568035E
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(7916002)(199003)(189002)(377454003)(36304003)(50084003)(6116002)(7846002)(19618635001)(8676002)(102836003)(99936001)(97736004)(450100001)(54356999)(107886002)(68736007)(122556002)(7736002)(33656002)(76176999)(105586002)(606004)(5660300001)(189998001)(1680700002)(50986999)(38730400001)(790700001)(2950100002)(3660700001)(106356001)(66066001)(3280700002)(110136003)(2906002)(101416001)(6916009)(74316002)(7906003)(9686002)(76576001)(81156014)(93886004)(77096005)(92566002)(86362001)(6506003)(229853002)(81166006)(18950595002)(7696004)(3846002)(8936002)(2900100001)(7099028)(16866105001);DIR:OUT;SFP:1101;SCL:1;SRVR:VI1PR0401MB2478;H:VI1PR0401MB2477.eurprd04.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+received-spf: None (protection.outlook.com: husqvarnagroup.com does not
+ designate permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/related;
+	boundary="_005_VI1PR0401MB247783BCCDFD2A4ACD23A55AE8B70VI1PR0401MB2477_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-OriginatorOrg: husqvarnagroup.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 23 Nov 2016 20:36:38.6356
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2a1c169e-715a-412b-b526-05da3f8412fa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: VI1PR0401MB2478
+
+--_005_VI1PR0401MB247783BCCDFD2A4ACD23A55AE8B70VI1PR0401MB2477_
+Content-Type: multipart/alternative;
+	boundary="_000_VI1PR0401MB247783BCCDFD2A4ACD23A55AE8B70VI1PR0401MB2477_"
+
+--_000_VI1PR0401MB247783BCCDFD2A4ACD23A55AE8B70VI1PR0401MB2477_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+I will be here with the CDA team not no one else.
+
+Arnaud Couturier
+Husqvarna Canadian Tech Support
+9335, Harris Corner Pwy
+Charlotte NC 28269
+1-800-363-3664 (option 2)
+
+[http://tse1.mm.bing.net/th?&id=3DJN.nw8dIrReaYK6wY7cUmKqRA&w=3D300&h=3D30=
+0&c=3D0&pid=3D1.9&rs=3D0&p=3D0&r=3D0]<http://www.bing.com/images/search?q=3D=
+logo+husqvarna&view=3Ddetailv2&&id=3D6769BC2B437572A5731503189E6474AF4E94B=
+63B&selectedIndex=3D23&ccid=3D6DF5E%2bMm&simid=3D608004611981836394&thid=3D=
+JN.nw8dIrReaYK6wY7cUmKqRA>
+
+From: Chain Saw Clinic - Brenda [mailto:brenda@chainsawclinic.com]
+Sent: Wednesday, November 23, 2016 3:36 PM
+To: Arnaud Couturier <Arnaud.Couturier@husqvarnagroup.com>
+Subject: RE: 05217 dEALER NUMBER - CASE # 161123-001428
+
+Thanks, no problem, Have a good long weekend
+Brenda
+
+From: Arnaud Couturier [mailto:Arnaud.Couturier@husqvarnagroup.com]
+Sent: November 23, 2016 3:24 PM
+To: Chain Saw Clinic - Brenda
+Subject: RE: 05217 dEALER NUMBER - CASE # 161123-001428
+
+Brenda,
+I am blocked by the system as well saying units are already registered.
+I am going to try to get assistance but be aware that it won't be before n=
+ext week.
+Thanksgiving here in the US.
+Sorry about that
+Best regards
+Arnaud
+
+Arnaud Couturier
+Husqvarna Canadian Tech Support
+9335, Harris Corner Pwy
+Charlotte NC 28269
+1-800-363-3664 (option 2)
+
+[http://tse1.mm.bing.net/th?&id=3DJN.nw8dIrReaYK6wY7cUmKqRA&w=3D300&h=3D30=
+0&c=3D0&pid=3D1.9&rs=3D0&p=3D0&r=3D0]<http://www.bing.com/images/search?q=3D=
+logo+husqvarna&view=3Ddetailv2&&id=3D6769BC2B437572A5731503189E6474AF4E94B=
+63B&selectedIndex=3D23&ccid=3D6DF5E%2bMm&simid=3D608004611981836394&thid=3D=
+JN.nw8dIrReaYK6wY7cUmKqRA>
+
+From: Chain Saw Clinic - Brenda [mailto:brenda@chainsawclinic.com]
+Sent: Wednesday, November 23, 2016 2:55 PM
+To: Arnaud Couturier <Arnaud.Couturier@husqvarnagroup.com<mailto:Arnaud.Co=
+uturier@husqvarnagroup.com>>
+Subject: RE: 05217 dEALER NUMBER - CASE # 161123-001428
+
+332 ST. Clements Ave.
+Toronto, Ontario
+M4R 1H5
+
+Thanks Brenda
+
+From: Arnaud Couturier [mailto:Arnaud.Couturier@husqvarnagroup.com]
+Sent: November 23, 2016 2:15 PM
+To: Chain Saw Clinic - Brenda
+Subject: RE: 05217 dEALER NUMBER - CASE # 161123-001428
+
+Brenda,
+Sorry to ask that, could you please give me customer's city, province is O=
+ntario right? Postal code is M4R1HS, right?
+Thanks
+Arnaud
+
+Arnaud Couturier
+Husqvarna Canadian Tech Support
+9335, Harris Corner Pwy
+Charlotte NC 28269
+1-800-363-3664 (option 2)
+
+[http://tse1.mm.bing.net/th?&id=3DJN.nw8dIrReaYK6wY7cUmKqRA&w=3D300&h=3D30=
+0&c=3D0&pid=3D1.9&rs=3D0&p=3D0&r=3D0]<http://www.bing.com/images/search?q=3D=
+logo+husqvarna&view=3Ddetailv2&&id=3D6769BC2B437572A5731503189E6474AF4E94B=
+63B&selectedIndex=3D23&ccid=3D6DF5E%2bMm&simid=3D608004611981836394&thid=3D=
+JN.nw8dIrReaYK6wY7cUmKqRA>
+
+From: Chain Saw Clinic - Brenda [mailto:brenda@chainsawclinic.com]
+Sent: Wednesday, November 23, 2016 1:58 PM
+To: Arnaud Couturier <Arnaud.Couturier@husqvarnagroup.com<mailto:Arnaud.Co=
+uturier@husqvarnagroup.com>>
+Subject: 05217 dEALER NUMBER - CASE # 161123-001428
+
+THANKS FOR HELPING ME GET THIS CORRECT.
+MY REGISTRATION GOES DIRECTLY TO ALBERTA IF I FORGET TO CHANGE IT., SO THA=
+T IS WHY IT MAY BE SHOWING
+ALBERTA.
+BRENDA
+
+Husqvarna Group
+
+
+Husqvarna Consumer Outdoor Products N.A.
+
+
+Husqvarna Canada Corp.
+
+
+Husqvarna Construction Products North America Inc.
+
+
+9335 Harris Corners Parkway, Suite 500
+Charlotte, NC 28269 USA
+www.husqvarna.com<http://www.husqvarna.com/>
+
+
+850 Matheson Blvd. West, Unit 1
+Mississauga, ON L5V 0B4 Canada
+www.husqvarna.ca<http://www.husqvarna.ca/>
+
+
+17400 W 119th Street
+Olathe, KS 66061 USA
+www.husqvarnacp.com<http://www.husqvarnacp.com/>
+
+
+2077 Bond Street,
+North Bay,
+ON P1B 4V7 Canada
+www.husqvarnacp.ca<http://www.husqvarnacp.ca/>
+
+
+Husqvarna respects your privacy and does not share or sell email addresses=
+. If you no longer wish to receive emails from Husqvarna, please send a ma=
+il to unsubscribe@husqvarnagroup.com<mailto:unsubscribe@husqvarnagroup.com=
+?subject=3Dunsubscribe>
+
+
+The information in this email may be confidential and/or legally privilege=
+d. It has been sent for the sole use of the intended recipient(s). If you =
+are not an intended recipient, you are strictly prohibited from reading, d=
+isclosing, distributing, copying or using this email or any of its content=
+s, in any way whatsoever. If you have received this email in error, please=
+ contact the sender by reply email and destroy all copies of the original =
+message. Please also be advised that emails are not a secure form for comm=
+unication, and may contain errors.
+Husqvarna Group
+
+
+Husqvarna Consumer Outdoor Products N.A.
+
+
+Husqvarna Canada Corp.
+
+
+Husqvarna Construction Products North America Inc.
+
+
+9335 Harris Corners Parkway, Suite 500
+Charlotte, NC 28269 USA
+www.husqvarna.com<http://www.husqvarna.com/>
+
+
+850 Matheson Blvd. West, Unit 1
+Mississauga, ON L5V 0B4 Canada
+www.husqvarna.ca<http://www.husqvarna.ca/>
+
+
+17400 W 119th Street
+Olathe, KS 66061 USA
+www.husqvarnacp.com<http://www.husqvarnacp.com/>
+
+
+2077 Bond Street,
+North Bay,
+ON P1B 4V7 Canada
+www.husqvarnacp.ca<http://www.husqvarnacp.ca/>
+
+
+Husqvarna respects your privacy and does not share or sell email addresses=
+. If you no longer wish to receive emails from Husqvarna, please send a ma=
+il to unsubscribe@husqvarnagroup.com<mailto:unsubscribe@husqvarnagroup.com=
+?subject=3Dunsubscribe>
+
+
+The information in this email may be confidential and/or legally privilege=
+d. It has been sent for the sole use of the intended recipient(s). If you =
+are not an intended recipient, you are strictly prohibited from reading, d=
+isclosing, distributing, copying or using this email or any of its content=
+s, in any way whatsoever. If you have received this email in error, please=
+ contact the sender by reply email and destroy all copies of the original =
+message. Please also be advised that emails are not a secure form for comm=
+unication, and may contain errors.
+
+Husqvarna Group
+
+
+Husqvarna Consumer Outdoor Products N.A.
+
+
+Husqvarna Canada Corp.
+
+
+Husqvarna Construction Products North America Inc.
+
+
+9335 Harris Corners Parkway, Suite 500
+Charlotte, NC 28269 USA
+www.husqvarna.com<http://www.husqvarna.com/>
+
+
+850 Matheson Blvd. West, Unit 1
+Mississauga, ON L5V 0B4 Canada
+www.husqvarna.ca<http://www.husqvarna.ca/>
+
+
+17400 W 119th Street
+Olathe, KS 66061 USA
+www.husqvarnacp.com<http://www.husqvarnacp.com/>
+
+
+2077 Bond Street,
+North Bay,
+ON P1B 4V7 Canada
+www.husqvarnacp.ca<http://www.husqvarnacp.ca/>
+
+
+Husqvarna respects your privacy and does not share or sell email addresses=
+. If you no longer wish to receive emails from Husqvarna, please send a ma=
+il to unsubscribe@husqvarnagroup.com<mailto:unsubscribe@husqvarnagroup.com=
+?subject=3Dunsubscribe>
+
+
+The information in this email may be confidential and/or legally privilege=
+d. It has been sent for the sole use of the intended recipient(s). If you =
+are not an intended recipient, you are strictly prohibited from reading, d=
+isclosing, distributing, copying or using this email or any of its content=
+s, in any way whatsoever. If you have received this email in error, please=
+ contact the sender by reply email and destroy all copies of the original =
+message. Please also be advised that emails are not a secure form for comm=
+unication, and may contain errors.
+--_000_VI1PR0401MB247783BCCDFD2A4ACD23A55AE8B70VI1PR0401MB2477_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-mic=
+rosoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word=
+" xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"ht=
+tp://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii=
+">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+=09{font-family:SimSun;
+=09panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+=09{font-family:"Cambria Math";
+=09panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+=09{font-family:Calibri;
+=09panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+=09{font-family:"\@SimSun";
+=09panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+=09{font-family:Tahoma;
+=09panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+=09{margin:0in;
+=09margin-bottom:.0001pt;
+=09font-size:11.0pt;
+=09font-family:"Calibri",sans-serif;
+=09mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+=09{mso-style-priority:99;
+=09color:blue;
+=09text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+=09{mso-style-priority:99;
+=09color:purple;
+=09text-decoration:underline;}
+p
+=09{mso-style-priority:99;
+=09mso-margin-top-alt:auto;
+=09margin-right:0in;
+=09mso-margin-bottom-alt:auto;
+=09margin-left:0in;
+=09font-size:12.0pt;
+=09font-family:"Times New Roman",serif;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+=09{mso-style-priority:99;
+=09mso-style-link:"Balloon Text Char";
+=09margin:0in;
+=09margin-bottom:.0001pt;
+=09font-size:8.0pt;
+=09font-family:"Tahoma",sans-serif;
+=09mso-fareast-language:EN-US;}
+span.BalloonTextChar
+=09{mso-style-name:"Balloon Text Char";
+=09mso-style-priority:99;
+=09mso-style-link:"Balloon Text";
+=09font-family:"Tahoma",sans-serif;
+=09mso-fareast-language:EN-US;}
+span.EmailStyle20
+=09{mso-style-type:personal;
+=09font-family:"Calibri",sans-serif;
+=09color:windowtext;}
+span.EmailStyle21
+=09{mso-style-type:personal;
+=09font-family:"Calibri",sans-serif;
+=09color:#1F497D;}
+span.EmailStyle22
+=09{mso-style-type:personal;
+=09font-family:"Calibri",sans-serif;
+=09color:#1F497D;}
+span.EmailStyle23
+=09{mso-style-type:personal;
+=09font-family:"Calibri",sans-serif;
+=09color:#1F497D;}
+span.EmailStyle24
+=09{mso-style-type:personal;
+=09font-family:"Calibri",sans-serif;
+=09color:#1F497D;}
+span.EmailStyle25
+=09{mso-style-type:personal-reply;
+=09font-family:"Calibri",sans-serif;
+=09color:#1F497D;}
+.MsoChpDefault
+=09{mso-style-type:export-only;
+=09font-size:10.0pt;}
+@page WordSection1
+=09{size:8.5in 11.0in;
+=09margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+=09{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">I will be here with the CDA team not no one else.<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN"><o:p>&nbsp;</o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;A=
+rial&quot;,sans-serif;color:#1F497D;mso-fareast-language:ZH-CN">Arnaud Cou=
+turier<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;A=
+rial&quot;,sans-serif;color:#1F497D;mso-fareast-language:ZH-CN">Husqvarna =
+Canadian Tech Support</span><span style=3D"color:#1F497D;mso-fareast-langu=
+age:ZH-CN"><br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-=
+serif;color:#1F497D;mso-fareast-language:ZH-CN">9335, Harris Corner Pwy
+</span><span style=3D"color:#1F497D;mso-fareast-language:ZH-CN"><br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-=
+serif;color:#1F497D;mso-fareast-language:ZH-CN">Charlotte NC 28269
+</span><span style=3D"color:#1F497D;mso-fareast-language:ZH-CN"><br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-=
+serif;color:#1F497D;mso-fareast-language:ZH-CN">1-800-363-3664 (option 2)<=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;A=
+rial&quot;,sans-serif;color:#1F497D;mso-fareast-language:ZH-CN"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><a href=3D"http://www.bing.com/images/search?q=3Dlo=
+go&#43;husqvarna&amp;view=3Ddetailv2&amp;&amp;id=3D6769BC2B437572A57315031=
+89E6474AF4E94B63B&amp;selectedIndex=3D23&amp;ccid=3D6DF5E%2bMm&amp;simid=3D=
+608004611981836394&amp;thid=3DJN.nw8dIrReaYK6wY7cUmKqRA"><span style=3D"co=
+lor:#1F497D;mso-fareast-language:ZH-CN;text-decoration:none"><img border=3D=
+"0" width=3D"115" height=3D"110" id=3D"_x0000_i1027" src=3D"cid:image002.j=
+pg@01D2459F.4EF59680" alt=3D"http://tse1.mm.bing.net/th?&amp;id=3DJN.nw8dI=
+rReaYK6wY7cUmKqRA&amp;w=3D300&amp;h=3D300&amp;c=3D0&amp;pid=3D1.9&amp;rs=3D=
+0&amp;p=3D0&amp;r=3D0"></span></a><span style=3D"font-size:10.0pt;font-fam=
+ily:&quot;Arial&quot;,sans-serif;color:#1020D0;mso-fareast-language:ZH-CN"=
+>
+</span><span style=3D"color:#1F497D;mso-fareast-language:ZH-CN"><o:p></o:p=
+></span></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in=
+ 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"mso-fareast-language:ZH-CN">From:=
+</span></b><span style=3D"mso-fareast-language:ZH-CN"> Chain Saw Clinic - =
+Brenda [mailto:brenda@chainsawclinic.com]
+<br>
+<b>Sent:</b> Wednesday, November 23, 2016 3:36 PM<br>
+<b>To:</b> Arnaud Couturier &lt;Arnaud.Couturier@husqvarnagroup.com&gt;<br=
+>
+<b>Subject:</b> RE: 05217 dEALER NUMBER - CASE # 161123-001428<o:p></o:p><=
+/span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA" style=3D"color:#1F497D">Thanks=
+, no problem, Have a good long weekend<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA" style=3D"color:#1F497D">Brenda=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA" style=3D"color:#1F497D"><o:p>&=
+nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in=
+ 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quo=
+t;Tahoma&quot;,sans-serif;mso-fareast-language:EN-CA">From:</span></b><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;mso-=
+fareast-language:EN-CA"> Arnaud Couturier [<a href=3D"mailto:Arnaud.Coutur=
+ier@husqvarnagroup.com">mailto:Arnaud.Couturier@husqvarnagroup.com</a>]
+<br>
+<b>Sent:</b> November 23, 2016 3:24 PM<br>
+<b>To:</b> Chain Saw Clinic - Brenda<br>
+<b>Subject:</b> RE: 05217 dEALER NUMBER - CASE # 161123-001428<o:p></o:p><=
+/span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">Brenda,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">I am blocked by the system as well saying units are already register=
+ed.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">I am going to try to get assistance but be aware that it won&#8217;t=
+ be before next week.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">Thanksgiving here in the US.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">Sorry about that<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">Best regards<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">Arnaud<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN"><o:p>&nbsp;</o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;A=
+rial&quot;,sans-serif;color:#1F497D;mso-fareast-language:ZH-CN">Arnaud Cou=
+turier<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;A=
+rial&quot;,sans-serif;color:#1F497D;mso-fareast-language:ZH-CN">Husqvarna =
+Canadian Tech Support</span><span style=3D"color:#1F497D;mso-fareast-langu=
+age:ZH-CN"><br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-=
+serif;color:#1F497D;mso-fareast-language:ZH-CN">9335, Harris Corner Pwy
+</span><span style=3D"color:#1F497D;mso-fareast-language:ZH-CN"><br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-=
+serif;color:#1F497D;mso-fareast-language:ZH-CN">Charlotte NC 28269
+</span><span style=3D"color:#1F497D;mso-fareast-language:ZH-CN"><br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-=
+serif;color:#1F497D;mso-fareast-language:ZH-CN">1-800-363-3664 (option 2)<=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;A=
+rial&quot;,sans-serif;color:#1F497D;mso-fareast-language:ZH-CN"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><a href=3D"http://www.bing.com/images/search?q=3Dlo=
+go&#43;husqvarna&amp;view=3Ddetailv2&amp;&amp;id=3D6769BC2B437572A57315031=
+89E6474AF4E94B63B&amp;selectedIndex=3D23&amp;ccid=3D6DF5E%2bMm&amp;simid=3D=
+608004611981836394&amp;thid=3DJN.nw8dIrReaYK6wY7cUmKqRA"><span style=3D"co=
+lor:#1F497D;mso-fareast-language:ZH-CN;text-decoration:none"><img border=3D=
+"0" width=3D"115" height=3D"110" id=3D"_x0000_i1025" src=3D"cid:image003.j=
+pg@01D2459F.4EF59680" alt=3D"http://tse1.mm.bing.net/th?&amp;id=3DJN.nw8dI=
+rReaYK6wY7cUmKqRA&amp;w=3D300&amp;h=3D300&amp;c=3D0&amp;pid=3D1.9&amp;rs=3D=
+0&amp;p=3D0&amp;r=3D0"></span></a><span style=3D"color:#1F497D;mso-fareast=
+-language:ZH-CN"><o:p></o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in=
+ 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"mso-fareast-language:ZH-CN">From:=
+</span></b><span style=3D"mso-fareast-language:ZH-CN"> Chain Saw Clinic - =
+Brenda [<a href=3D"mailto:brenda@chainsawclinic.com">mailto:brenda@chainsa=
+wclinic.com</a>]
+<br>
+<b>Sent:</b> Wednesday, November 23, 2016 2:55 PM<br>
+<b>To:</b> Arnaud Couturier &lt;<a href=3D"mailto:Arnaud.Couturier@husqvar=
+nagroup.com">Arnaud.Couturier@husqvarnagroup.com</a>&gt;<br>
+<b>Subject:</b> RE: 05217 dEALER NUMBER - CASE # 161123-001428<o:p></o:p><=
+/span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA" style=3D"color:#1F497D">332 ST=
+. Clements Ave.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA" style=3D"color:#1F497D">Toront=
+o, Ontario<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA" style=3D"color:#1F497D">M4R 1H=
+5<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA" style=3D"color:#1F497D"><o:p>&=
+nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA" style=3D"color:#1F497D">Thanks=
+ Brenda<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA" style=3D"color:#1F497D"><o:p>&=
+nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in=
+ 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quo=
+t;Tahoma&quot;,sans-serif;mso-fareast-language:EN-CA">From:</span></b><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;mso-=
+fareast-language:EN-CA"> Arnaud Couturier [<a href=3D"mailto:Arnaud.Coutur=
+ier@husqvarnagroup.com">mailto:Arnaud.Couturier@husqvarnagroup.com</a>]
+<br>
+<b>Sent:</b> November 23, 2016 2:15 PM<br>
+<b>To:</b> Chain Saw Clinic - Brenda<br>
+<b>Subject:</b> RE: 05217 dEALER NUMBER - CASE # 161123-001428<o:p></o:p><=
+/span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">Brenda,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">Sorry to ask that, could you please give me customer&#8217;s city, p=
+rovince is Ontario right? Postal code is M4R1HS, right?<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">Thanks<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN">Arnaud<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN"><o:p>&nbsp;</o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;A=
+rial&quot;,sans-serif;color:#1F497D;mso-fareast-language:ZH-CN">Arnaud Cou=
+turier<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;A=
+rial&quot;,sans-serif;color:#1F497D;mso-fareast-language:ZH-CN">Husqvarna =
+Canadian Tech Support</span><span style=3D"color:#1F497D;mso-fareast-langu=
+age:ZH-CN"><br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-=
+serif;color:#1F497D;mso-fareast-language:ZH-CN">9335, Harris Corner Pwy
+</span><span style=3D"color:#1F497D;mso-fareast-language:ZH-CN"><br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-=
+serif;color:#1F497D;mso-fareast-language:ZH-CN">Charlotte NC 28269
+</span><span style=3D"color:#1F497D;mso-fareast-language:ZH-CN"><br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-=
+serif;color:#1F497D;mso-fareast-language:ZH-CN">1-800-363-3664 (option 2)<=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;A=
+rial&quot;,sans-serif;color:#1F497D;mso-fareast-language:ZH-CN"><o:p>&nbsp=
+;</o:p></span></p>
+<p class=3D"MsoNormal"><a href=3D"http://www.bing.com/images/search?q=3Dlo=
+go&#43;husqvarna&amp;view=3Ddetailv2&amp;&amp;id=3D6769BC2B437572A57315031=
+89E6474AF4E94B63B&amp;selectedIndex=3D23&amp;ccid=3D6DF5E%2bMm&amp;simid=3D=
+608004611981836394&amp;thid=3DJN.nw8dIrReaYK6wY7cUmKqRA"><span style=3D"co=
+lor:#1F497D;mso-fareast-language:ZH-CN;text-decoration:none"><img border=3D=
+"0" width=3D"115" height=3D"110" id=3D"Picture_x0020_1" src=3D"cid:image00=
+3.jpg@01D2459F.4EF59680" alt=3D"http://tse1.mm.bing.net/th?&amp;id=3DJN.nw=
+8dIrReaYK6wY7cUmKqRA&amp;w=3D300&amp;h=3D300&amp;c=3D0&amp;pid=3D1.9&amp;r=
+s=3D0&amp;p=3D0&amp;r=3D0"></span></a><span style=3D"color:#1F497D;mso-far=
+east-language:ZH-CN"><o:p></o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D;mso-fareast-language:Z=
+H-CN"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in=
+ 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"mso-fareast-language:ZH-CN">From:=
+</span></b><span style=3D"mso-fareast-language:ZH-CN"> Chain Saw Clinic - =
+Brenda [<a href=3D"mailto:brenda@chainsawclinic.com">mailto:brenda@chainsa=
+wclinic.com</a>]
+<br>
+<b>Sent:</b> Wednesday, November 23, 2016 1:58 PM<br>
+<b>To:</b> Arnaud Couturier &lt;<a href=3D"mailto:Arnaud.Couturier@husqvar=
+nagroup.com">Arnaud.Couturier@husqvarnagroup.com</a>&gt;<br>
+<b>Subject:</b> 05217 dEALER NUMBER - CASE # 161123-001428<o:p></o:p></spa=
+n></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA">THANKS FOR HELPING ME GET THIS=
+ CORRECT.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA">MY REGISTRATION GOES DIRECTLY =
+TO ALBERTA IF I FORGET TO CHANGE IT., SO THAT IS WHY IT MAY BE SHOWING<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA">ALBERTA.<o:p></o:p></span></p>=
+
+<p class=3D"MsoNormal"><span lang=3D"EN-CA">BRENDA<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-CA"><o:p>&nbsp;</o:p></span></p>
+<div align=3D"center">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr>
+<td width=3D"627" colspan=3D"4" style=3D"width:470.3pt;padding:0in 2.25pt =
+0in 2.25pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><sp=
+an style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-f=
+areast-language:EN-CA">Husqvarna Group<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td width=3D"163" style=3D"width:122.25pt;padding:0in 2.25pt 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Hu=
+sqvarna Consumer Outdoor Products N.A.</span>
+<o:p></o:p></p>
+</td>
+<td width=3D"144" style=3D"width:107.75pt;padding:0in 2.25pt 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Hu=
+sqvarna Canada Corp.</span>
+<o:p></o:p></p>
+</td>
+<td width=3D"320" colspan=3D"2" style=3D"width:240.3pt;padding:0in 2.25pt =
+0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Hu=
+sqvarna Construction Products North America Inc.</span>
+<o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td width=3D"163" valign=3D"top" style=3D"width:122.25pt;padding:0in 2.25p=
+t 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">93=
+35 Harris Corners Parkway, Suite 500<br>
+Charlotte, NC 28269 USA<br>
+<a href=3D"http://www.husqvarna.com/">www.husqvarna.com</a> </span><o:p></=
+o:p></p>
+</td>
+<td width=3D"144" valign=3D"top" style=3D"width:107.75pt;padding:0in 2.25p=
+t 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">85=
+0 Matheson Blvd.=20West, Unit 1<br>
+Mississauga, ON L5V 0B4 Canada<br>
+<a href=3D"http://www.husqvarna.ca/">www.husqvarna.ca</a> </span><o:p></o:=
+p></p>
+</td>
+<td width=3D"169" valign=3D"top" style=3D"width:126.85pt;padding:0in 2.25p=
+t 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">17=
+400 W 119th Street<br>
+Olathe, KS 66061 USA<br>
+<a href=3D"http://www.husqvarnacp.com/">www.husqvarnacp.com</a> </span><o:=
+p></o:p></p>
+</td>
+<td width=3D"151" valign=3D"top" style=3D"width:113.45pt;padding:0in 2.25p=
+t 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">20=
+77 Bond Street,<br>
+North Bay,<br>
+ON P1B 4V7 Canada<br>
+<a href=3D"http://www.husqvarnacp.ca/">www.husqvarnacp.ca</a> </span><o:p>=
+</o:p></p>
+</td>
+</tr>
+<tr>
+<td width=3D"627" colspan=3D"4" style=3D"width:470.3pt;padding:0in 2.25pt =
+0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif"><b=
+r>
+Husqvarna respects your privacy and does not share or sell email addresses=
+. If you no longer wish to receive emails from Husqvarna, please send a ma=
+il to
+<a href=3D"mailto:unsubscribe@husqvarnagroup.com?subject=3Dunsubscribe">un=
+subscribe@husqvarnagroup.com</a>
+</span><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;T=
+imes New Roman&quot;,serif;mso-fareast-language:EN-CA"><br>
+The information in this email may be confidential and/or legally privilege=
+d. It has been sent for the sole use of the intended recipient(s). If you =
+are not an intended recipient, you are strictly prohibited from reading, d=
+isclosing, distributing, copying or
+ using this email or any of its contents, in any way whatsoever. If you ha=
+ve received this email in error, please contact the sender by reply email =
+and destroy all copies of the original message. Please also be advised tha=
+t emails are not a secure form for
+ communication, and may contain errors.<o:p></o:p></span></p>
+<div align=3D"center">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr>
+<td width=3D"627" colspan=3D"4" style=3D"width:470.3pt;padding:0in 2.25pt =
+0in 2.25pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><sp=
+an style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-f=
+areast-language:EN-CA">Husqvarna Group<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td width=3D"163" style=3D"width:122.25pt;padding:0in 2.25pt 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Hu=
+sqvarna Consumer Outdoor Products N.A.</span>
+<o:p></o:p></p>
+</td>
+<td width=3D"144" style=3D"width:107.75pt;padding:0in 2.25pt 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Hu=
+sqvarna Canada Corp.</span>
+<o:p></o:p></p>
+</td>
+<td width=3D"320" colspan=3D"2" style=3D"width:240.3pt;padding:0in 2.25pt =
+0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Hu=
+sqvarna Construction Products North America Inc.</span>
+<o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td width=3D"163" valign=3D"top" style=3D"width:122.25pt;padding:0in 2.25p=
+t 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">93=
+35 Harris Corners Parkway, Suite 500<br>
+Charlotte, NC 28269 USA<br>
+<a href=3D"http://www.husqvarna.com/">www.husqvarna.com</a> </span><o:p></=
+o:p></p>
+</td>
+<td width=3D"144" valign=3D"top" style=3D"width:107.75pt;padding:0in 2.25p=
+t 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">85=
+0 Matheson Blvd. West, Unit 1<br>
+Mississauga, ON L5V 0B4 Canada<br>
+<a href=3D"http://www.husqvarna.ca/">www.husqvarna.ca</a> </span><o:p></o:=
+p></p>
+</td>
+<td width=3D"169" valign=3D"top" style=3D"width:126.85pt;padding:0in 2.25p=
+t 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">17=
+400 W 119th Street<br>
+Olathe, KS 66061 USA<br>
+<a href=3D"http://www.husqvarnacp.com/">www.husqvarnacp.com</a> </span><o:=
+p></o:p></p>
+</td>
+<td width=3D"151" valign=3D"top" style=3D"width:113.45pt;padding:0in 2.25p=
+t 0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">20=
+77 Bond Street,<br>
+North Bay,<br>
+ON P1B 4V7 Canada<br>
+<a href=3D"http://www.husqvarnacp.ca/">www.husqvarnacp.ca</a> </span><o:p>=
+</o:p></p>
+</td>
+</tr>
+<tr>
+<td width=3D"627" colspan=3D"4" style=3D"width:470.3pt;padding:0in 2.25pt =
+0in 2.25pt">
+<p style=3D"margin-bottom:0in;margin-bottom:.0001pt;text-autospace:none"><=
+span=20style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">=
+<br>
+Husqvarna respects your privacy and does not share or sell email addresses=
+. If you no longer wish to receive emails from Husqvarna, please send a ma=
+il to
+<a href=3D"mailto:unsubscribe@husqvarnagroup.com?subject=3Dunsubscribe">un=
+subscribe@husqvarnagroup.com</a>
+</span><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;T=
+imes New Roman&quot;,serif;mso-fareast-language:EN-CA"><br>
+The information in this email may be confidential and/or legally privilege=
+d. It has been sent for the sole use of the intended recipient(s). If you =
+are not an intended recipient, you are strictly prohibited from reading, d=
+isclosing, distributing, copying or
+ using this email or any of its contents, in any way whatsoever. If you ha=
+ve received this email in error, please contact the sender by reply email =
+and destroy all copies of the original message. Please also be advised tha=
+t emails are not a secure=20form for
+ communication, and may contain errors.<o:p></o:p></span></p>
+</div>
+<table order=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-col=
+lapse:collapse" align=3D"center">
+<tbody>
+<tr>
+<td width=3D"941" colspan=3D"4" style=3D"width:470.3pt;padding:0cm 2.25pt =
+0cm 2.25pt">
+<p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;tex=
+t-autospace:none">
+<b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans=
+-serif&quot;"></p>
+<center><b>Husqvarna Group</b></center>
+</span></b>
+<p></p>
+</td>
+</tr>
+<tr>
+<td width=3D"245" style=3D"width:122.25pt;padding:0cm 2.25pt 0cm 2.25pt">
+<p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;tex=
+t-autospace:none">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt;font-family:&quot;Arial&quot=
+;,&quot;sans-serif&quot;">Husqvarna Consumer Outdoor Products N.A.</span>
+</p>
+</td>
+<td width=3D"216" style=3D"width:107.75pt;padding:0cm 2.25pt 0cm 2.25pt">
+<p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;tex=
+t-autospace:none">
+<span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-se=
+rif&quot;">Husqvarna Canada Corp.</span>
+</p>
+</td>
+<td width=3D"481" colspan=3D"2" style=3D"width:240.3pt;padding:0cm 2.25pt =
+0cm 2.25pt">
+<p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;tex=
+t-autospace:none">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt;font-family:&quot;Arial&quot=
+;,&quot;sans-serif&quot;">Husqvarna Construction Products North America In=
+c.</span>
+</p>
+</td>
+</tr>
+<tr>
+<td width=3D"245" valign=3D"top" style=3D"width:122.25pt;padding:0cm 2.25p=
+t 0cm 2.25pt">
+<p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;tex=
+t-autospace:none">
+<span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-se=
+rif&quot;">9335 Harris Corners Parkway, Suite 500<br>
+Charlotte, NC 28269 USA<br>
+<a href=3D"http://www.husqvarna.com/">www.husqvarna.com</a> </span></p>
+</td>
+<td width=3D"216" valign=3D"top" style=3D"width:107.75pt;padding:0cm 2.25p=
+t 0cm 2.25pt">
+<p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;tex=
+t-autospace:none">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt;font-family:&quot;Arial&quot=
+;,&quot;sans-serif&quot;">850 Matheson Blvd. West, Unit 1<br>
+Mississauga, ON L5V 0B4 Canada<br>
+<a href=3D"http://www.husqvarna.ca/">www.husqvarna.ca</a> </span></p>
+</td>
+<td width=3D"254" valign=3D"top" style=3D"width:126.85pt;padding:0cm 2.25p=
+t 0cm 2.25pt">
+<p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;tex=
+t-autospace:none">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt;font-family:&quot;Arial&quot=
+;,&quot;sans-serif&quot;">17400 W 119th Street<br>
+Olathe, KS 66061 USA<br>
+<a href=3D"http://www.husqvarnacp.com/">www.husqvarnacp.com</a> </span></p=
+>
+</td>
+<td width=3D"227" valign=3D"top" style=3D"width:113.45pt;padding:0cm 2.25p=
+t 0cm 2.25pt">
+<p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;tex=
+t-autospace:none">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt;font-family:&quot;Arial&quot=
+;,&quot;sans-serif&quot;">2077 Bond Street,<br>
+North Bay,<br>
+ON P1B 4V7 Canada<br>
+<a href=3D"http://www.husqvarnacp.ca/">www.husqvarnacp.ca</a> </span></p>
+</td>
+</tr>
+<tr>
+<td width=3D"941" colspan=3D"4" style=3D"width:470.3pt;padding:0cm 2.25pt =
+0cm 2.25pt">
+<p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;tex=
+t-autospace:none">
+<span lang=3D"EN-US" style=3D"font-size:9.0pt;font-family:&quot;Arial&quot=
+;,&quot;sans-serif&quot;"><br>
+Husqvarna respects your privacy and does not share or sell email addresses=
+. If you no longer wish to receive emails from Husqvarna, please send a ma=
+il to
+<a href=3D"mailto:unsubscribe@husqvarnagroup.com?subject=3Dunsubscribe">un=
+subscribe@husqvarnagroup.com</a>
+</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<br clear=3D"both">
+The information in this email may be confidential and/or legally privilege=
+d. It has been sent for the sole use of the intended recipient(s). If you =
+are not an intended recipient, you are strictly prohibited from reading, d=
+isclosing, distributing, copying or using this email or any of its content=
+s, in any way whatsoever. If you have received this email in error, please=
+ contact the sender by reply email and destroy all copies of the original =
+message. Please also be advised that emails are not a secure form for comm=
+unication, and may contain errors.<BR>
+</body>
+</html>
+
+--_000_VI1PR0401MB247783BCCDFD2A4ACD23A55AE8B70VI1PR0401MB2477_--
+
+--_005_VI1PR0401MB247783BCCDFD2A4ACD23A55AE8B70VI1PR0401MB2477_
+Content-Type: image/jpeg; name="image002.jpg"
+Content-Description: image002.jpg
+Content-Disposition: inline; filename="image002.jpg"; size=1868;
+	creation-date="Wed, 23 Nov 2016 20:36:38 GMT";
+	modification-date="Wed, 23 Nov 2016 20:36:38 GMT"
+Content-ID: <image002.jpg@01D2459F.4EF59680>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCABuAHMDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAopGIUEngCuJb4o6VceIrPSdLjk
+u2uJ1ha4Hyxrk9Rnlv5U1Fy2E2ludvRXN+PdXvND8IXd/p0ix3MZQKzKGAywB4P1rj/hl401zxD4
+ims9Tu0mgW3aQDylUhgyjqB71aptxciXNKXKeqUVzHjDxpD4Pawa5tZJ4bpmVjGwDJgDnB69fWtX
+RNdsPEWnre6ZOJYSdp4wVbuCOxqOV2v0Kur2NKiiikMKKKKACiiigAooooAKKKKAGSLvjZM43Aiv
+mBTdeHtfBKFLuwuM4YfxK38jivp+R1jQuxwqjJPtXz3p9vL8Q/iGwuHZY7qVpHZeqQr0A/AAfjXT
+h3bmvsYVle1tyx4u+JV94p00WBtYrO2LBpArlmcjkc8YGeawfDfiK68MawmoWJRnClGjf7rqeoP5
+CvV/D1/4Iutd/sHT9CUXKl03z2ysCUznLEk9q2fE6eF/DGlrealolq8LyCLENohOSCfb0q/aRj7i
+iTyN+9c8h8aeNbjxjPatNbJbRWysFRX3ZJxkk4HoK9P+EFjLaeC/NmUr9quHlQEdVwFB/HBrg/GW
+jaNe+HrbxP4btpLazlmME0DjAB5AYDJxyMfiK9G+F2svrHgyATNums2NsxPUgY2/+OkflSqteyXK
+hwXv6nZUUUVyHQFFFFABRRRQAUUUUAFFFFAGT4quTZ+FNVnHVLWQj67TXlPwUgU+Jr2QjJjtMD2y
+w/wr07xyM+B9Z/69H/lXm3wS/wCQ/qf/AF6r/wChV0U/4UjGX8RGX4Qv7XTfirNc308dvAs9yDJI
+21QTuA5rqvix4g0nVPCkVvYaja3M32pG2RShjgBsnj6157Dodz4j8bXmm2bRLNLczkNISFADMT0q
+54m+HmqeFNNW+vZrSSJpBFiJiSCQT3A9K3cY86bepmpSUWrHUafAs/wCvMjlJHkH1EoNWPgfc/ut
+YtewaOUfiGB/kKZpHHwE1D6S/wDoyofgeD/aGsHsIoh+rVnL4J+pS+KPoewUUUVyHQFFFFABRRRQ
+AUUUUAFFFFAGZ4jtTe+GtTtlGWltZFUe+04rx/4M3Yh8YSwtwbi0YD6gqf5Zr3IjIr588Q2F74A8
+dfaLQbVWU3FoxHyuh6qfpkqa6KPvRlDuY1NGpGh4CYf8Lfk5/wCW11/7NXZ/GcgeC4c/8/if+gtW
+fYfGLRdqvd6RcQXH8RhVHGe+DwatT/GTw7LGQ1hfS45CtEmM/i1VJTc1Ll2EnHlauYMF4tt8A5VJ
+GZ7gwr9TLn+QNaXwQtWWy1a6I+V5I41P+6CT/wChCuN8Z+NZfF0lvbWtn9lsoXzHAvLSOeMnHGew
+A9a9i8CaA/hzwnaWc64uWBlnHo7ckfgMD8KdT3Ya7thDWWnQ6OiiiuQ3CiiigAooooAKKKKACiii
+gBKzdc8P6d4jsja6pbLNGDlT0ZD6qeoNadFCdtgPLbr4IWjSE2mr3ESE8LLCHx+IIqFPgcoYbtcY
+r3xbD/4qvWKK19vU7mfsodjj/DPw10bw3cJdASXl4n3JZ8YQ+qqOAffk114paKzlJyd2Wklogooo
+pDCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/9k=
+
+--_005_VI1PR0401MB247783BCCDFD2A4ACD23A55AE8B70VI1PR0401MB2477_
+Content-Type: image/jpeg; name="image003.jpg"
+Content-Description: image003.jpg
+Content-Disposition: inline; filename="image003.jpg"; size=1868;
+	creation-date="Wed, 23 Nov 2016 20:36:38 GMT";
+	modification-date="Wed, 23 Nov 2016 20:36:38 GMT"
+Content-ID: <image003.jpg@01D2459F.4EF59680>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCABuAHMDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAopGIUEngCuJb4o6VceIrPSdLjk
+u2uJ1ha4Hyxrk9Rnlv5U1Fy2E2ludvRXN+PdXvND8IXd/p0ix3MZQKzKGAywB4P1rj/hl401zxD4
+ims9Tu0mgW3aQDylUhgyjqB71aptxciXNKXKeqUVzHjDxpD4Pawa5tZJ4bpmVjGwDJgDnB69fWtX
+RNdsPEWnre6ZOJYSdp4wVbuCOxqOV2v0Kur2NKiiikMKKKKACiiigAooooAKKKKAGSLvjZM43Aiv
+mBTdeHtfBKFLuwuM4YfxK38jivp+R1jQuxwqjJPtXz3p9vL8Q/iGwuHZY7qVpHZeqQr0A/AAfjXT
+h3bmvsYVle1tyx4u+JV94p00WBtYrO2LBpArlmcjkc8YGeawfDfiK68MawmoWJRnClGjf7rqeoP5
+CvV/D1/4Iutd/sHT9CUXKl03z2ysCUznLEk9q2fE6eF/DGlrealolq8LyCLENohOSCfb0q/aRj7i
+iTyN+9c8h8aeNbjxjPatNbJbRWysFRX3ZJxkk4HoK9P+EFjLaeC/NmUr9quHlQEdVwFB/HBrg/GW
+jaNe+HrbxP4btpLazlmME0DjAB5AYDJxyMfiK9G+F2svrHgyATNums2NsxPUgY2/+OkflSqteyXK
+hwXv6nZUUUVyHQFFFFABRRRQAUUUUAFFFFAGT4quTZ+FNVnHVLWQj67TXlPwUgU+Jr2QjJjtMD2y
+w/wr07xyM+B9Z/69H/lXm3wS/wCQ/qf/AF6r/wChV0U/4UjGX8RGX4Qv7XTfirNc308dvAs9yDJI
+21QTuA5rqvix4g0nVPCkVvYaja3M32pG2RShjgBsnj6157Dodz4j8bXmm2bRLNLczkNISFADMT0q
+54m+HmqeFNNW+vZrSSJpBFiJiSCQT3A9K3cY86bepmpSUWrHUafAs/wCvMjlJHkH1EoNWPgfc/ut
+YtewaOUfiGB/kKZpHHwE1D6S/wDoyofgeD/aGsHsIoh+rVnL4J+pS+KPoewUUUVyHQFFFFABRRRQ
+AUUUUAFFFFAGZ4jtTe+GtTtlGWltZFUe+04rx/4M3Yh8YSwtwbi0YD6gqf5Zr3IjIr588Q2F74A8
+dfaLQbVWU3FoxHyuh6qfpkqa6KPvRlDuY1NGpGh4CYf8Lfk5/wCW11/7NXZ/GcgeC4c/8/if+gtW
+fYfGLRdqvd6RcQXH8RhVHGe+DwatT/GTw7LGQ1hfS45CtEmM/i1VJTc1Ll2EnHlauYMF4tt8A5VJ
+GZ7gwr9TLn+QNaXwQtWWy1a6I+V5I41P+6CT/wChCuN8Z+NZfF0lvbWtn9lsoXzHAvLSOeMnHGew
+A9a9i8CaA/hzwnaWc64uWBlnHo7ckfgMD8KdT3Ya7thDWWnQ6OiiiuQ3CiiigAooooAKKKKACiii
+gBKzdc8P6d4jsja6pbLNGDlT0ZD6qeoNadFCdtgPLbr4IWjSE2mr3ESE8LLCHx+IIqFPgcoYbtcY
+r3xbD/4qvWKK19vU7mfsodjj/DPw10bw3cJdASXl4n3JZ8YQ+qqOAffk114paKzlJyd2Wklogooo
+pDCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/9k=
+
+--_005_VI1PR0401MB247783BCCDFD2A4ACD23A55AE8B70VI1PR0401MB2477_--

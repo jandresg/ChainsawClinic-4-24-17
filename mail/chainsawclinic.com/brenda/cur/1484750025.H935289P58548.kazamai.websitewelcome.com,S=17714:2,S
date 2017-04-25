@@ -1,0 +1,290 @@
+Return-path: <407etr_98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F@email.407etr.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Wed, 18 Jan 2017 08:33:45 -0600
+Received: from vmta3.response.wiredmessenger.com ([96.31.174.167]:58521)
+	by kazamai.websitewelcome.com with esmtps (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <407etr_98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F@email.407etr.com>)
+	id 1cTrJ3-000FBU-PD
+	for brenda@chainsawclinic.com; Wed, 18 Jan 2017 08:33:45 -0600
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=email.407etr.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=407etr@email.407etr.com;
+ bh=8VPG+54m/7Wlne8qhum8uooB9pM=;
+ b=TIZWi8pm45gcZyy/wpBogvsKCvEuOHdI7bbdFUG06KsxrSvDYaNWYQyx/5iYalExaDPy7GQxEnk1
+   qE5H+TPVfw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=email.407etr.com;
+ b=y/gBgZ7yPfpYr3amCmnApMQeK/DqtSVSj0IpvWz587XhrWLnPoXQXwsZ5PrkJodKzUeE0cFwq+YX
+   WQBDupxTwg==;
+Received: from target.wiredmessenger.com (127.0.0.1) by vmta3.response.wiredmessenger.com id hftuci1t8bk8 for <brenda@chainsawclinic.com>; Wed, 18 Jan 2017 09:33:05 -0500 (envelope-from <407etr_98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F@email.407etr.com>)
+Date: Wed, 18 Jan 2017 09:32:49 -0500
+From: 407 ETR <407etr@email.407etr.com>
+Reply-To: 
+	407 ETR <407etr_98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F@email.407etr.com>
+To: brenda@chainsawclinic.com
+Message-ID: <98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F-e8e16e4a7ecf4e348177c1eadc8a61b3@email.407etr.com>
+Subject: Last Chance to Log in to Win!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2135323_93809853.1484749969292"
+X-Mailer: WiredMessenger.com
+ENVID: WC-1484749969291-98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F-e8e16e4a7ecf4e348177c1eadc8a61b3
+Feedback-ID: 2473-2227810:vmta3:wiredm
+List-Unsubscribe: <http://email.407etr.com/u?id=98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F>
+X-Unsubscribe-Web: <http://email.407etr.com/u?id=98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F>
+
+------=_Part_2135323_93809853.1484749969292
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+407 ETR
+
+
+Please click below to view email in a web browser.
+
+http://email.407etr.com/dm?id=98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F
+
+
+Please click below to unsubscribe.
+
+http://email.407etr.com/u?id=98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F&global=true
+
+
+407 ETR | 6300 Steeles Avenue West | Woodbridge, ON | L4H 1J1 | 1-888-407-0407
+------=_Part_2135323_93809853.1484749969292
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>407 ETR</title>
+      <style type="text/css" >
+         .ReadMsgBody { width: 100%; background-color: #ffffff; }
+         .ExternalClass { width: 100%; background-color: #ffffff; }
+         body { width: 100%; background-color: #ffffff; margin: 0; padding: 0; -webkit-font-smoothing: antialiased; font-family: Arial, sans-serif; }
+         table { border-collapse: collapse; }
+         @media only screen and (max-width: 640px) {
+         body[yahoo] .deviceWidth { width: 430px !important; padding-bottom: 10px; }
+         body[yahoo] .center { text-align: center !important; }
+         table[class=deviceWidth] { width: 430px !important; border: none !important; }
+         table[class=specialWidth] { width: 420px !important; border: none !important; }
+         table[class=headerWidth] { width: 430px !important; border: none !important; }
+         table[class=logoWidth] { width: 29% !important; }
+         table[class=expressWidth] { height: 77px !important; width: 63% !important; }
+         td[class=expressWidth] { font-size: 20px !important; }
+         td[class=spacer] { height: 10px !important; }
+         table[class=contentWidth] { width: 430px !important; }
+         img[class="deviceWidth"] { width: 50% !important; }
+         img[class="imgWidth2"] { width: 430px !important; margin: auto; }
+         img[class="imgWidth3"] { width: 380px !important; margin: auto; }
+         td[class="imgWidth2"] { padding: 10px !important; }
+         td[class=blank] { display: none !important; }
+         img[class="imgButton3"] { width: 332px !important; margin: auto; }
+         .mobileButtonTextLarger{font-size:14px!important;}
+         }
+         @media only screen and (max-width: 479px) {
+         body[yahoo] .deviceWidth { width: 300px !important; padding: 0; text-align: center; }
+         body[yahoo] .center { text-align: center !important; }
+         table[class=headerWidth] { width: 300px !important; border: none !important; }
+         table[class=deviceWidth] { width: 300px !important; display: block !important; text-align: center !important; }
+         table[class=specialWidth] { width: 300px !important; border: none !important; margin-bottom: 10px; }
+         table[class=contentWidth] { width: 300px !important; }
+         table[class=logoWidth] { width: 29% !important; background: green; margin-top: 12px !important; }
+         img[class=logoWidth] { width: 120px !important; }
+         table[class=expressWidth] { height: 77px !important; width: 59% !important; margin-top: 5px; }
+         td[class=expressWidth] { font-size: 12px !important; }
+         img[class="imgWidth2"] { width: 300px !important; padding: 0; }
+         img[class="imgWidth3"] { width: 300px !important; margin: auto; }
+         td[class="wm-logo"] {  }
+         img[class="imgButton3"] { width: 100% !important; max-width: 300px !important; margin: auto; }
+         }
+         /* 3 equal-width columns Layout Pattern CSS */
+         @media only screen and (max-width: 640px) {
+         td[class="pattern"] table { width: 100%; }
+         td[class="pattern"] .col { width: 33%; }
+         }
+         @media only screen and (max-width: 640px) {
+         td[class="pattern"] .col { width: 100%; display: block; }
+         td[class="pattern"] .col-left, td[class="pattern"] .col-mid { margin-bottom: 20px; }
+         }
+         @media only screen and (max-width: 768px) {
+         .mobileButtonTextLarger{letter-spacing:-0.03em;}
+         }
+      </style>
+   </head>
+   <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" yahoo="fix" style="font-family:Arial, sans-serif; background:#ffffff;" bgcolor="#ffffff">
+      <!-- Wrapper -->
+      <table width="650" border="0" cellpadding="0" cellspacing="0" align="center" class="deviceWidth">
+         <tr>
+            <td width="100%" valign="top" bgcolor="#ffffff" style="padding:10px">
+               <table  width="650" border="0" cellpadding="0" cellspacing="0" align="center" class="deviceWidth">
+                  <tr>
+                     <td style="font-family:Arial, sans-serif; font-size: 11px;color: #333333;text-align:center;" st-content="viewonline" align="center" valign="middle">Win a year of free 407 ETR | <a target="_blank" style="color:#666666; text-decoration:none;" href="http://email.407etr.com/dm?id=98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F">View Online.</a></td>
+                  </tr>
+               </table>
+            </td>
+         </tr>
+      </table>
+      <table width="650" border="0" cellpadding="0" cellspacing="0" align="center" class="contentWidth" bgcolor="#ffffff" style="background-color:#ffffff;">
+         <tr>
+            <td class="center">
+               <table width="100%" cellpadding="0" cellspacing="0" border="0" align="left">
+                  <tr valign="middle">
+                     <td align="center" valign="middle">
+                        <!-- The paragraph tag is important here to ensure that this table floats properly in Outlook 2007, 2010, and 2013
+                           To learn more about this fix check out this link: http://www.emailonacid.com/blog/details/C13/removing_unwanted_spacing_or_gaps_between_tables_in_outlook_2007_2010
+                           This fix is used for all floating tables in this responsive template
+                           The margin set to 0 is for Gmail -->
+                        <a href="http://email.407etr.com/t?r=2473&c=2227810&l=167236&ctl=31C96B9:98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F&" target="_blank">
+                        <img src="https://407etr.s3.amazonaws.com/2017/407etr_jan10_2017_2.jpg" alt="407 ETR" border="0" style="width:display:block;padding:0;width:100%;margin:auto;" class="imgWidth2" /></a>
+                     </td>
+                  </tr>
+                  <tr valign="middle">
+                     <td>
+                        <a href="http://email.407etr.com/t?r=2473&c=2227810&l=167236&ctl=31C96B9:98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F&" target="_blank">
+                        <img src="https://407etr.s3.amazonaws.com/2017/407etr-jan10-2017_3.jpg" alt="407 ETR" border="0" style="width:display:block;padding:0;width:100%;margin:auto;" class="imgWidth2" />
+                        </a>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+	
+
+
+	 <table cellpadding="0" cellspacing="0" border="0">
+  
+   <tr>
+                <td height="10"></td>
+              </tr>
+  
+        <tr>
+          <td class="pattern" width="650" align="center">
+          
+          <table cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td class="col col-left" width="190" align="left" valign="top"><table cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td align="left" style="padding: 0 10px;"><table cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td align="left"><table width="190" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                  <td align="center" style="font-family: arial, helvetica, sans-serif;color:#016bb7;font-weight:bold;padding-bottom:5px;font-size:14px; height:18px;" class="mobileButtonTextLarger">Get in the draw</td>
+                                </tr>
+                                <tr>
+                                  <td align="center"><a href="http://email.407etr.com/t?r=2473&c=2227810&l=167236&ctl=31C96B9:98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F&" target="_blank"> <img class="imgButton3" src="https://407etr.s3.amazonaws.com/2017/407etr-jan_2017_btn-login-to-win.jpg" style="display:block;margin:0;padding:0;" width="190" border="0" alt="407 ETR"/> </a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+                <td class="col col-mid" width="190" align="center" valign="top"><table cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td align="left" style="padding: 0 10px;"><table cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="left" ><table width="190" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                  <td align="center" style="font-family: arial, helvetica, sans-serif;color:#016bb7;font-weight:bold;padding-bottom:5px;font-size:14px; height:18px;">Get your bonus entries!</td>
+                                </tr>
+                                <tr>
+                                  <td align="center"><a href="http://email.407etr.com/t?r=2473&c=2227810&l=167236&ctl=31C96BA:98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F&" target="_blank"> <img class="imgButton3" src="https://407etr.s3.amazonaws.com/2017/407etr-jan_2017_btn-pap.jpg" style="display:block;margin:0;padding:0;" width="190" border="0" alt="407 ETR"/> </a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+                <td class="col" width="190" align="center" valign="top"><table cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td align="left" style="padding: 0 10px;"><table cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td align="left" ><table width="190" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                  <td align="center" style="font-family: arial, helvetica, sans-serif;color:#016bb7;font-weight:bold;padding-bottom:5px;font-size:14px; height:18px;">Don't have an account?</td>
+                                </tr>
+                                <tr>
+                                  <td align="center"><a href="http://email.407etr.com/t?r=2473&c=2227810&l=167236&ctl=31C96BB:98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F&" target="_blank"> <img class="imgButton3" src="https://407etr.s3.amazonaws.com/2017/407etr-jan_2017_btn-setup.jpg" style="display:block;margin:0;padding:0;" width="190" border="0" alt="407 ETR"/> </a></td>
+                                </tr>
+								<tr>
+                                       <td align="center" style="font-family: arial, helvetica, sans-serif;color:#2b2b2b;font-size:12px;height:60px;" height="60">
+                                          You need your account number <br/>or licence plate to begin.
+                                       </td>
+                                    </tr>
+                               
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          
+          
+          
+          
+          </td>
+        </tr>
+      </table>
+					 
+					 
+		
+						
+						
+						
+                     </td>
+                  </tr>
+               </table>
+            </td>
+         </tr>
+         <tr>
+            <td height="15" style="height:15px; border-bottom:1px solid #cccccc;">
+               <div style="height:15px;border-bottom:1px solid #cccccc;"></div>
+            </td>
+         </tr>
+         <tr>
+            <td style="font-size:20px; line-height:20px" height="20px">&nbsp;</td>
+         </tr>
+      </table>
+      <table width="650" cellpadding="0" cellspacing="0" border="0" class="deviceWidth" align="center">
+         <tr>
+            <td>
+               <table width="650" border="0" cellpadding="0" cellspacing="0" align="center" class="deviceWidth">
+                  <tr>
+                     <td>
+                        <table width="85%" cellpadding="0" cellspacing="0"  border="0" align="left" class="deviceWidth">
+                           <tr>
+                              <td valign="top" class="center">
+                                 <p style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight:normal; color: #666666; margin:0; padding:0; text-align:left; line-height:16px;">
+                                    Log in to Win contest closes January 31, 2017. One entry per month per account from logging into a web account. For full contest details, visit <a href="http://email.407etr.com/t?r=2473&c=2227810&l=167236&ctl=31C96BC:98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F&" style="color:#666666;">www.407etr.com</a>.<br/>
+                                    You are currently signed up to receive news and 
+                                    information from 407 ETR.<br />
+                                    If you would prefer not to receive emails from 407 ETR, 
+                                    please unsubscribe <a href="http://email.407etr.com/u?id=98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F&global=true" style="color:#666666;">here</a>.<br />
+                                    This email was sent to brenda@chainsawclinic.com by 407 ETR.<br />
+                                    Do not reply to this email. To contact 407 ETR Customer 
+                                    Service, please click <a href="http://email.407etr.com/t?r=2473&c=2227810&l=167236&ctl=31C96BD:98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F&" style="color:#666666;"> here</a>.<br />
+                                    <br />
+                                    407 ETR | 6300 Steeles Avenue West | Woodbridge, ON | 
+                                    L4H 1J1 | 1-888-407-0407
+                                 </p>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td style="font-size:10px; line-height:10px" height="10px">&nbsp;</td>
+                  </tr>
+                  <tr>
+                     <td style="text-align:right;" class="wm-logo"><a href="http://www.wiredmessenger.com/?utm_source=Newsletter&utm_medium=Email&utm_campaign=407ETR&email=brenda@chainsawclinic.com"> <img border="0" src="http://wmcta.s3.amazonaws.com/cta/powered-by-wired-small.png" width="117" height="30" style="-webkit-text-size-adjust: none; border: medium none" alt="wiredmessenger.com" ></a></td>
+                  </tr>
+               </table>
+            </td>
+         </tr>
+      </table>
+   </body>
+
+<img src="http://email.407etr.com/t?c=2227810&r=2473&l=167236&t=10&e=98A95CF58AAFECE107FBFECB257FCFE15997EE3E07C81A4F" width=1 height=1 border=0>
+</html>
+------=_Part_2135323_93809853.1484749969292--

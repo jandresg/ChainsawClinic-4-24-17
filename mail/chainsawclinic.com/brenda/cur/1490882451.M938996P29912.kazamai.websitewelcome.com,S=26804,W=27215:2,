@@ -1,0 +1,411 @@
+Return-Path: <v-kdibje_cjadplfpao_ecoffbgh_ecoffbgh_a@bounce.emails.nebs.ca>
+Delivered-To: brenda@chainsawclinic.com
+Received: from kazamai.websitewelcome.com
+	by kazamai.websitewelcome.com (Dovecot) with LMTP id UeXON5MP3VjYdAAAaocpPg
+	for <brenda@chainsawclinic.com>; Thu, 30 Mar 2017 09:00:51 -0500
+Return-path: <v-kdibje_cjadplfpao_ecoffbgh_ecoffbgh_a@bounce.emails.nebs.ca>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Thu, 30 Mar 2017 09:00:51 -0500
+Received: from mail7122.deluxecorporation.mkt7721.com ([129.33.239.79]:60709)
+	by kazamai.websitewelcome.com with esmtp (Exim 4.87)
+	(envelope-from <v-kdibje_cjadplfpao_ecoffbgh_ecoffbgh_a@bounce.emails.nebs.ca>)
+	id 1ctad9-00084Y-QH
+	for brenda@chainsawclinic.com; Thu, 30 Mar 2017 09:00:51 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=spop1024; d=emails.nebs.ca;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=NEBS@emails.nebs.ca;
+ bh=vP5hgliQjuYMuVnM3RihhebeZLQ=;
+ b=Wg5tPJqh+78cOPlzlDFjL4N9fSc516jmZJkFMf4gB98IZ4jHpk2V6f7xwV9ej10E3YPMNCcK09d1
+   uff9kXQhxT6DkjK9UxICBKxQwqMVqfn7AVDbjZenAzU6Xa2RzA5zQ2RAG7wxpbeop0NEcgdS/nyR
+   7ZabWe3La8pERjR/628=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=spop1024; d=emails.nebs.ca;
+ b=jLCtfO8uM9AET6aIIIHd6piujBwjvvUu9r7x0bieu6tqwceYSVUVtUDLnUtfHFUA8rGqYR8Dzhzv
+   crg4aaLmkN3hvYizR9OAyNyi250Bme/5jwsQ8v5BCD0bp4/oFzHa638DTZV5IVHQ6w9TTbWQC83A
+   W1RZmooa7OZ1QxRCmho=;
+Received: by mail7122.deluxecorporation.mkt7721.com id hrk7p619if4n for <brenda@chainsawclinic.com>; Thu, 30 Mar 2017 14:00:40 +0000 (envelope-from <v-kdibje_cjadplfpao_ecoffbgh_ecoffbgh_a@bounce.emails.nebs.ca>)
+Date: Thu, 30 Mar 2017 14:00:40 +0000 (GMT)
+From: "NEBS.ca" <NEBS@emails.nebs.ca>
+Reply-To: NEBS@emails.nebs.ca
+To: brenda@chainsawclinic.com
+Message-ID: <919416593.980233991490882440515.JavaMail.app@rbg23.atlis1>
+Subject: Want to Reach More Customers? Our Webinars Will Show You How.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_287125_1370665179.1490882406132"
+x-mid: 10715540
+X-CSA-Complaints: whitelist-complaints@eco.de
+x-rpcampaign: sp10715540
+Feedback-ID: pod2_26548_10715540_1122324839:pod2_26548:ibmsilverpop
+x-job: 10715540
+x-orgId: 26548
+List-Unsubscribe: <mailto:v-kdibje_cjadplfpao_ecoffbgh_ecoffbgh_a@bounce.emails.nebs.ca?subject=Unsubscribe>
+
+------=_Part_287125_1370665179.1490882406132
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+View this email as a web page:
+ http://links.emails.nebs.ca/servlet/MailView?ms=3DMTA3MTU1NDAS1&r=3DMTc2MT=
+YwNDY0NjU0S0&j=3DMTEyMjMyNDgzOQS2&mt=3D1&rt=3D0=20
+___________________________________________________________________=20
+Deluxe(R) NEBS(R)
+emails.nebs.ca
+
+Get insider tips to attract more customers this season!
+ http://links.emails.nebs.ca/ctt?kn=3D3&ms=3DMTA3MTU1NDAS1&r=3DMTc2MTYwNDY0=
+NjU0S0&b=3D2&j=3DMTEyMjMyNDgzOQS2&mt=3D1&rt=3D0=20
+
+Register for upcoming webinars today!
+ http://links.emails.nebs.ca/ctt?kn=3D15&ms=3DMTA3MTU1NDAS1&r=3DMTc2MTYwNDY=
+0NjU0S0&b=3D2&j=3DMTEyMjMyNDgzOQS2&mt=3D1&rt=3D0=20
+
+Small business webinar series
+ http://links.emails.nebs.ca/ctt?kn=3D14&ms=3DMTA3MTU1NDAS1&r=3DMTc2MTYwNDY=
+0NjU0S0&b=3D2&j=3DMTEyMjMyNDgzOQS2&mt=3D1&rt=3D0=20
+
+April Webinar=20
+Don't Let Marketing Bite You: 4 Ways to Reach More Customers
+April 25, 10:00 - 11:00 am PST
+
+Finding new customers is a top priority for small business owners,=20
+but it is often costly and time-consuming. In this session, you'll=20
+learn how Deluxe helped Robert Herjavec's Shark Tank investments=20
+solve their biggest marketing challenges.
+LEARN MORE AND REGISTER
+ http://links.emails.nebs.ca/ctt?kn=3D17&ms=3DMTA3MTU1NDAS1&r=3DMTc2MTYwNDY=
+0NjU0S0&b=3D2&j=3DMTEyMjMyNDgzOQS2&mt=3D1&rt=3D0=20
+
+May Webinar
+The Secrets to Great Logo Design
+May 16, 10:30 - 11:30 am PST
+
+A logo anchors a brand =E2=80=94 it's shorthand for your business, telling=
+=20
+customers who you are and unifying all of your marketing efforts.=20
+In an instant, the best logos are able to attract customers and engender=20
+goodwill. So how do you create a logo that works for your business?=20
+In this webinar we will look at what makes a good logo and how to=20
+start the logo design process.
+LEARN MORE AND REGISTER
+ http://links.emails.nebs.ca/ctt?kn=3D5&ms=3DMTA3MTU1NDAS1&r=3DMTc2MTYwNDY0=
+NjU0S0&b=3D2&j=3DMTEyMjMyNDgzOQS2&mt=3D1&rt=3D0=20
+
+June Webinar
+Improve Your Email Marketing with Automation
+June 21, 10:30 - 11:30 am PST
+
+While newsletters and one-off campaigns are an important part=20
+of your email marketing strategy, to get the most out of your=20
+email marketing you should be taking advantage of automated=20
+email campaigns. Automated emails that are triggered from a user's=20
+actions are timely, personalized and relevant.=20
+LEARN MORE AND REGISTER
+ http://links.emails.nebs.ca/ctt?kn=3D6&ms=3DMTA3MTU1NDAS1&r=3DMTc2MTYwNDY0=
+NjU0S0&b=3D2&j=3DMTEyMjMyNDgzOQS2&mt=3D1&rt=3D0=20
+
+All webinar dates/times, presenters and content are subject to change.
+
+Deluxe sincerely respects your right to online privacy. If you wish=20
+to be removed from our email list, you can unsubscribe now. =20
+ http://links.emails.nebs.ca/ctt?kn=3D1&ms=3DMTA3MTU1NDAS1&r=3DMTc2MTYwNDY0=
+NjU0S0&b=3D2&j=3DMTEyMjMyNDgzOQS2&mt=3D1&rt=3D0=20
+
+Deluxe NEBS
+330 Cranston Crescent, Midland ON L4R 4V9=20
+800.461.7572
+
+(C)2017 Deluxe Enterprise Operations, LLC
+CX3730Q2WEBINAR=20
+____________________________________________________________________=20
+DELUXE Logo Design
+Stand out with a professional logo design. LEARN MORE!
+
+
+------=_Part_287125_1370665179.1490882406132
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<title>Want to Reach More Customers? Our Webinars Will Show You How.</title>
+	<!--
+        APPLE IOS 1024 CHARACTER HACK FOR MOBILE PHONE RENDERING            
+        
+        
+            ########################
+            ############################
+            ##############################
+            ################################
+                                   ###########
+            #################        ##########
+            ####################      #########
+            #####################      ########
+            ######################     ########
+            #######################    ########
+            ######################     #######
+            #####################     #######
+            ####################     ######
+            #################       #####        
+        
+        
+        --><!-- Styling For Supported Email Clients -->
+	<style type="text/css">/* Based on The MailChimp Reset INLINE: Yes. */  
+			/* Client-specific Styles */
+			#outlook a {padding:0;} /* Force Outlook to provide a "view in browser" menu link. */
+			body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;} 
+			/* Prevent Webkit and Windows Mobile platforms from changing default font sizes.*/ 
+			.ExternalClass {width:100%;} /* Force Hotmail to display emails at full width */  
+			.ExternalClass, .ExternalClass a, .ExternalClass br, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+			/* Forces Hotmail to display normal line spacing.  More on that: http://www.emailonacid.com/forum/viewthread/43/ */ 
+			#wrapper {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
+			.wrapper {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
+			
+			/* End reset */
+			/* Some sensible defaults for images
+			Bring inline: Yes. */
+			img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;} 
+			a img {border:none;} 
+			.image_fix {display:block;}
+			/* Yahoo paragraph fix
+			Bring inline: Yes. */
+			p {margin: 1em 0;}
+			/* Outlook 07, 10 Padding issue fix
+			Bring inline: No.*/
+			table td {border-collapse: collapse;}
+			/* Remove spacing around Outlook 07, 10 tables
+			Bring inline: Yes */
+			table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; mso-cellspacing: 0px; mso-padding-alt: 0px 0px 0px 0px; }
+			.branding-link:hover{	color:#DA291C !important; }
+	</style>
+	<!--[if gte mso 9]>
+            <style>
+                .outlook-fix
+                {
+                    font-size:8pt !important;
+                }                
+            </style>
+            
+            <xml>
+             <o:OfficeDocumentSettings>
+              <o:AllowPNG/>
+              <o:PixelsPerInch>96</o:PixelsPerInch>
+             </o:OfficeDocumentSettings>
+            </xml>
+        <![endif]-->
+</head>
+<body bgcolor="#FFFFFF" style="background-color:#FFFFFF; margin:0px; padding:0px;"><!-- WRAPPER -->
+<table border="0" cellpadding="0" cellspacing="0" class="wrapper" style="background-color:#FFFFFF;" width="100%">
+	
+		<tr>
+			<td><!-- INNER CONTENT -->
+			<table align="center" border="0" cellpadding="0" cellspacing="0" style=" width:600px;" width="600"><!-- TOP -->
+				
+					<tr class="top">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr><!-- SNIPPET -->
+									<td class="snippet" style="color:#00AABF; font-size:10px; font-family:Arial, Helvetica, sans-serif; padding-top:10px; padding-bottom:10px; padding-left:20px; text-align:left;"><span style="text-decoration: underline;"><a class="branding-link" href="http://links.emails.nebs.ca/ctt?kn=9&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="www_deluxe_com_blog_resources_webin" style="color:#00AABF; font-size:10px; font-family:Arial, Helvetica, sans-serif;" target="_blank" >Get insider tips to attract more customers this season!</a></span></td>
+									<!-- END SNIPPET --><!-- NOT SEEING IMAGES -->
+									<td class="not-seeing-images" style="padding-top:10px; padding-bottom:10px;padding-right:20px;text-align:right; font-size:10px; font-family:Arial, Helvetica, sans-serif;"><span style="color:#999999;">Not Seeing Images?</span> <span style="text-decoration: underline;"><a class="branding-link" href="http://links.emails.nebs.ca/servlet/MailView?ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="link_CCTVhtml" style="color:#00AABF" target="_blank" xt="SPCLICKTOVIEW">Click here</a></span><span>.</span></td>
+									<!-- END NOT SEEING IMAGES -->
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END TOP --><!-- DIVIDER -->
+					<tr class="divider">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr>
+									<td style="width:600px; height:1px; font-size: 1px; line-height: 1px;" width="600"><img alt="" class="image_fix"  height="1"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10715540/DX3730WEBINARQ2_images_600px-divider.jpg' style="display:block;" width="600"  /></td>
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END DIVIDER --><!-- HEADER -->
+					<tr class="header">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr><!-- LOGO -->
+									<td class="logo" style="padding-top:20px; padding-bottom:20px;padding-left:20px; text-align:left; font-size:8.5pt; font-family:Helvetica, Arial, sans-serif;" width="20%"><a href="http://links.emails.nebs.ca/ctt?kn=18&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="www_nebs_ca" style="color:#DA291C;" target="_blank" title="Deluxe" ><img alt="Deluxe | NEBS" border="0" class="image_fix"  height="29" img=""   src='http://contentz.mkt7721.com/ra/2017/26548/03/10715540/DX3730WEBINARQ2_images_Deluxe-NEBS-logo.jpg' style="font-family:Helvetica, Arial, sans-serif; font-size:8.5pt; text-align:center; display:block; color:#666666;" width="212"  /> </a></td>
+									<!-- END LOGO --><!-- UPPER RIGHT MESSAGE -->
+									<td class="upper-right-message" style="padding-top:10px; padding-bottom:10px;padding-right:20px;text-align:right;" width="80%"><a class="branding-link" href="http://links.emails.nebs.ca/ctt?kn=4&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="www_deluxe_com_blog_resources_webin_2" style="color:#00AABF; text-decoration:none; font-size:18px; font-family:Helvetica, Arial,sans-serif; font-weight:bold;" target="_blank" >Register for upcoming<br />
+									webinars today!</a></td>
+									<!-- END UPPER RIGHT MESSAGE -->
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END HEADER --><!-- DIVIDER -->
+					<tr class="divider">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr>
+									<td style="width:600px; height:1px; font-size: 1px; line-height: 1px;" width="600"><img alt="" class="image_fix"  height="1"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10715540/DX3730WEBINARQ2_images_600px-divider.jpg' style="display:block;" width="600"  /></td>
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END DIVIDER --><!-- AD SPACE -->
+					<tr class="hero">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr>
+									<td width="600"><a href="http://links.emails.nebs.ca/ctt?kn=8&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="www_deluxe_com_blog_resources_webin_3" ><img alt="Small business webinar series" border="0" class="image_fix"  height="318"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10715540/DX3730WEBINARQ2_images_Webinar_hero.jpg' style="display:block;" width="600"  /></a></td>
+								</tr>
+								<tr><!-- AD CONTENT -->
+									<td style="width:600px; vertical-align:top;" valign="top" width="600"><!--
+                                            ############################################################################
+                                            ############################################################################
+                                            ###############################CONTENT GOES HERE############################
+                                            ############################################################################
+                                            ############################################################################
+                                            -->
+									<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF; border-width: 0px; font-size: 12px; width:600px;" width="600">
+										
+											<tr>
+												<td style="color: #FFFFFF; font-family: Arial,Helvetica, sans-serif; font-size: 14px;  border-width: 0px; background-color: #666666; text-align: left; width:600px; padding-left:15px; padding-top:10px; padding-bottom:10px;" width="600"><strong>April Webinar</strong></td>
+											</tr>
+											<tr>
+												<td style="font-family: Arial,Helvetica, sans-serif; font-size: 14px; line-height:16px; font-weight: normal; padding: 15px;" valign="top"><strong><a class="branding-link" href="http://links.emails.nebs.ca/ctt?kn=17&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="cc_readytalk_com_r_9weu7dx0o2dq_eom" style="color:#333333; text-decoration:none;" target="_blank" >Don&#39;t Let Marketing Bite You: 4 Ways to Reach More Customers</a></strong><br />
+												April 25, 10:00 - 11:00 am PST<br />
+												<br />
+												Finding new customers is a top priority for small business owners, but it is often costly and time-consuming. In this session, you&#39;ll learn how Deluxe helped Robert Herjavec&#39;s Shark Tank investments solve their biggest marketing challenges.<br />
+												<br />
+												<a href="http://links.emails.nebs.ca/ctt?kn=13&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="cc_readytalk_com_r_9weu7dx0o2dq_eom_2" target="_blank" ><img alt="Learn More and Register" border="0"  height="53"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10715540/DX3730WEBINARQ2_images_Learn_btn.jpg' style="display: block;" width="239"  /></a></td>
+											</tr>
+											<tr>
+												<td style="color: #FFFFFF; font-family: Arial,Helvetica, sans-serif; font-size: 14px;  border-width: 0px; background-color: #666666; text-align: left; width:600px; padding-left:15px; padding-top:10px; padding-bottom:10px; "><strong>May Webinar</strong></td>
+											</tr>
+											<tr>
+												<td style="font-family: Arial,Helvetica, sans-serif; font-size: 14px; line-height:16px; font-weight: normal; padding: 15px;" valign="top"><strong> <a class="branding-link" href="http://links.emails.nebs.ca/ctt?kn=5&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="attendee_gotowebinar_com_register_1" style="color:#333333; text-decoration:none;" target="_blank" >The Secrets to Great Logo Design</a></strong><br />
+												May 16, 10:30 - 11:30 am PST<br />
+												<br />
+												A logo anchors a brand &mdash; it&#39;s shorthand for your business, telling customers who you are and unifying all of your marketing efforts. In an instant, the best logos are able to attract customers and engender goodwill. So how do you create a logo that works for your business? In this webinar we will look at what makes a good logo and how to start the logo design process.<br />
+												<br />
+												<a href="http://links.emails.nebs.ca/ctt?kn=12&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="attendee_gotowebinar_com_register_1_2" target="_blank" ><img alt="Learn More and Register" border="0"  height="53"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10715540/DX3730WEBINARQ2_images_Learn_btn.jpg' style="display: block;" width="239"  /></a></td>
+											</tr>
+											<tr>
+												<td style="color: #FFFFFF; font-family: Arial,Helvetica, sans-serif; font-size: 14px;  border-width: 0px; background-color: #666666; text-align: left; width:600px; padding-left:15px; padding-top:10px; padding-bottom:10px; "><strong>June Webinar</strong></td>
+											</tr>
+											<tr>
+												<td style="font-family: Arial,Helvetica, sans-serif; font-size: 14px; line-height:16px; font-weight: normal; padding: 15px;" valign="top"><strong> <a class="branding-link" href="http://links.emails.nebs.ca/ctt?kn=6&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="attendee_gotowebinar_com_register_8" style="color:#333333; text-decoration:none;" target="_blank" >Improve Your Email Marketing with Automation</a></strong><br />
+												June 21, 10:30 - 11:30 am PST<br />
+												<br />
+												While newsletters and one-off campaigns are an important part of your email marketing strategy, to get the most out of your email marketing you should be taking advantage of automated email campaigns. Automated emails that are triggered from a user&#39;s actions are timely, personalized and relevant.<br />
+												<br />
+												<a href="http://links.emails.nebs.ca/ctt?kn=16&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="attendee_gotowebinar_com_register_8_2" target="_blank" ><img alt="Learn More and Register" border="0"  height="53"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10715540/DX3730WEBINARQ2_images_Learn_btn.jpg' style="display: block;" width="239"  /></a></td>
+											</tr>
+										
+									</table>
+									</td>
+									<!--END AD CONTENT -->
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END AD SPACE --><!-- DIVIDER -->
+					<tr class="divider">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px; height:1px;" width="600">
+							
+								<tr>
+									<td style="width:600px; height:1px; font-size: 1px; line-height: 1px;" width="600"><img alt="" class="image_fix"  height="1"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10715540/DX3730WEBINARQ2_images_600px-divider.jpg' style="display:block;" width="600"  /></td>
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END DIVIDER --><!-- FOOTER  -->
+					<tr class="footer">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px" width="600">
+							
+								<tr><!-- LEGAL CONTENT -->
+									<td class="legal" style="width:450px; padding:0; padding-top:20px; padding-left:20px; padding-bottom:20px; padding-right:20px;" width="450">
+									<table border="0" cellpadding="0" cellspacing="0">
+										
+											<tr>
+												<td style="font-family:Helvetica, Arial, sans-serif; font-size:8.5pt; color:#666666; line-height: 10pt; height: 10pt;">All webinar dates/times, presenters and content are subject to change.<br />
+												<br />
+												NEBS, a Deluxe company, sincerely respects your right to online privacy. To unsubscribe or change your email preferences, click <a href="http://links.emails.nebs.ca/ctt?kn=1&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="deluxecorporation_mkt7721_com_NEBSC" style="color:#666666; line-height: 10pt; height: 10pt;" >here</a>.</td>
+											</tr>
+											<tr>
+												<td style="font-family:Helvetica, Arial, sans-serif; font-size:8.5pt; color:#666666; padding-top: 20px; line-height: 10pt; height: 10pt;">Deluxe | NEBS&nbsp;&nbsp;|&nbsp;&nbsp;330 Cranston Crescent, Midland ON L4R 4V9&nbsp;&nbsp;|&nbsp;&nbsp;800.461.7572<br />
+												&copy; 2017 Deluxe Enterprise Operations, LLC&nbsp;&nbsp;|&nbsp;&nbsp;CX3730Q2WEBINAR</td>
+											</tr>
+										
+									</table>
+									</td>
+									<!-- END LEGAL CONTENT -->
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END FOOTER --><!-- DIVIDER -->
+					<tr class="divider">
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" style="width:600px;" width="600">
+							
+								<tr>
+									<td style="width:600px; height:1px; font-size: 1px; line-height: 1px;" width="600"><img alt=""  height="1"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10715540/DX3730WEBINARQ2_images_600px-divider.jpg' style="display:block;" width="600"  /></td>
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END DIVIDER --><!-- SERVICES FOOTER -->
+					<tr>
+						<td style="padding-top: 20px; padding-bottom: 20px;">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:520px; margin-left:auto; margin-right:auto;" width="520">
+							
+								<tr>
+									<td style="width: 114px;"><a href="http://links.emails.nebs.ca/ctt?kn=11&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="ww_deluxe_com_logo_design__em_cid_L" target="_blank" ><img alt="DELUXE | Logo Design" border="0" class="image_fix"  height="57" img=""   src='http://contentz.mkt7721.com/ra/2017/26548/03/10715540/DX3730WEBINARQ2_images_deluxe-logo-design-logo.jpg' style="display:block; font-size:0pt;" width="148"  /> </a></td>
+									<td style="font-family:Helvetica, Arial, sans-serif; font-size:12px; color:#666666; line-height: 10pt; height: 10pt; text-align: right;">Stand out with a professional logo design. <a href="http://links.emails.nebs.ca/ctt?kn=10&ms=MTA3MTU1NDAS1&r=MTc2MTYwNDY0NjU0S0&b=0&j=MTEyMjMyNDgzOQS2&mt=1&rt=0" name="ww_deluxe_com_logo_design__em_cid_L_2" style="color: #DA291C; text-decoration: none; font-size: 12px; font-weight: bold;" target="_blank" >LEARN MORE! <img alt="" border="0" class="image_fix"  height="9"   src='http://contentz.mkt7721.com/ra/2017/26548/03/10715540/DX3730WEBINARQ2_images_arrow.jpg' style="display:inline; font-size:0pt;" width="5"  /></a></td>
+								</tr>
+							
+						</table>
+						</td>
+					</tr>
+					<!-- END SERVICES FOOTER -->
+				
+			</table>
+			<!-- END INNER CONTENT --></td>
+		</tr>
+	
+</table>
+<!-- END WRAPPER --><!--    TITLE:          Shop Deluxe Template                      --><!--    AUTHOR:         Michael Lewis                             --><!--    VERSION:        2.8                                       --><!--    DATE:           02/18/2016                                --><!--    ORGANIZATION:   DELUXE ENTERPRISE OPERATIONS, LLC         --><!-- Change log : 
+            1.3	Fixed image labeled Promotional-Products-And-Apparel-Sub-Nav.jpg, Removed spaces in filename 
+            1.4 Edited By Daniel Cheung: Removed <span> tags and moved associated styles into nested tables/added line-height and height properties @ disclaimer and below.
+            1.5 Edited By Daniel Cheung: Adjusted Contact/PSC/Social area to help prevent text wrapping (Stacked social icons and added line-heights). Inserted MAILCODE and D_PHONE tokens into template as default. 
+            1.6 Edited by Daniel Cheung: Removed the percent symbols from the tokens in the above comment so they do not get recognized as tokens.
+            1.7 Edited By Michael Lewis: Updated blog url in social media links.
+            1.8 Edited By Daniel Cheung: Updated HTML formatting.
+            1.9 Edited By Daniel Cheung: Added verticalresponse footer. Removed "title" for upper right message.
+            2.0 Edited By Dawn Santo: Changed copy right line to "Deluxe Enterprise Operations, LLC" 
+            2.1 Edited By Daniel Cheung: Changed copy right to 2015, and changed an align property on the social icons 
+            2.2 Edited By Dawn Santo: Updated Deluxe logo to new 2015 horizonal logo
+            2.3 Edited By Daniel Cheung: Added .ExternalClass a and .ExternalClass br to the header CSS. (Fixes line height issue in Outlook/Office)
+            2.4 Edited By Daniel Cheung: Added code snippets into header that fix Outlook dpi scaling issue.
+            2.5 Edited By Daniel Cheung: Added CSS so snippet underline styles will show up in Office and 365.
+            2.6 Edited By Daniel Cheung: Changed copyright year to "2016".
+            2.7 Edited By Daniel Cheung: Blue dotted bar removed, Nav removed, Background color changed to white, Font colors updated to new guidelines (blue and red), D_PHONE token replaced with 800.328.0304, Vertical Response footer replaced with Logo Design footer, PSC Arrow updated with brand red.
+            2.8 Edited By Daniel Cheung: Swapped all dotted dividers for solid dividers, changed color of main content placeholder image.
+
+        --><IMG src="http://links.emails.nebs.ca/open/log/10715540/MTc2MTYwNDY0NjU0S0/0/MTEyMjMyNDgzOQS2/1/0"></body>
+</html>
+
+
+
+------=_Part_287125_1370665179.1490882406132--
+

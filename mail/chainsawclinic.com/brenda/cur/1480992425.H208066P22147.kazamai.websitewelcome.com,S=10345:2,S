@@ -1,0 +1,197 @@
+Return-path: <john.parete@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Mon, 05 Dec 2016 20:47:05 -0600
+Received: from mail-io0-f193.google.com ([209.85.223.193]:33130)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <john.parete@gmail.com>)
+	id 1cE5mb-0005gs-54
+	for brenda@chainsawclinic.com; Mon, 05 Dec 2016 20:47:05 -0600
+Received: by mail-io0-f193.google.com with SMTP id j92so4089558ioi.0
+        for <brenda@chainsawclinic.com>; Mon, 05 Dec 2016 18:47:00 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=content-transfer-encoding:from:mime-version:date:subject:message-id
+         :references:in-reply-to:to;
+        bh=86k1irfmgjU/YC1KiuCXoFvd+zaIC96Q5W7hvVeD1o8=;
+        b=JsEWYr7qs9jCq+TLJBOBCsr69esePbhEiyimE9tWN0f96lTESHrvJY7RLaBW8rpj28
+         anixVMbunVTMgFnY+TDdt1Fk4CxZGuufML6mJg5FA3lgf1ByfhV23x2W1m3SOpJ4be1I
+         5l+5966OFcgXpAMudXPmXwHFhf8Om5DZJEP2CxEfROFxlnANJPEWV9o4B1fYQgZFWq7n
+         uHRnPhPo/uHyyTYcRWhlSTry9lCS+TSkvFlLXGlpRI9lp+0pB3fRt6Yza0ESUtZGzMLY
+         hswbOz86U0UF/1LUwwZf7T7hxvhKJ6k+XW+3Wv3Hje8lSNSeqry4vvCNs2KO8deJ8ulx
+         FvbQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:content-transfer-encoding:from:mime-version:date
+         :subject:message-id:references:in-reply-to:to;
+        bh=86k1irfmgjU/YC1KiuCXoFvd+zaIC96Q5W7hvVeD1o8=;
+        b=ZgPCCL9LdS+pgz1Ov/IvNFZTlkm72yqGUI6LXqaqDs3bszDk6Lpjoil5Zzvk5LAM19
+         xBEO1JpVmOQVbcjFK1kivyCG+8LwUhtuSlKx2aphX18aguDCg3UmH9e4CeRi49ddQocE
+         X3PxTRvAqY1L52xCN8pj4dnHOg6tvpg+1gj8eVHpbqckOnHjZn3VG5DcdtNNfDSuAsUj
+         kjTZe53xUFe49apxXeN23ml31WGmKnSa2FKLmBNkYI/FN2nwUrE0CBsxYGE4OkZDCwaa
+         drf+szdNY8YoePSdXdN9A0peCA+FFLJSuficTYx58e2VeeVWfVdhAotvtmkVQrbcPx0B
+         mszg==
+X-Gm-Message-State: AKaTC01W7/0RkBrUptfE3BkG670gQ1iUOGBBUYrQ2xvXwp/a1564x+2SzYD3x1Q1OrQ86g==
+X-Received: by 10.36.8.5 with SMTP id 5mr714380itc.40.1480992414533;
+        Mon, 05 Dec 2016 18:46:54 -0800 (PST)
+Received: from ?IPv6:2607:fea8:4220:7b0:857c:70f7:2d05:f3b7? ([2607:fea8:4220:7b0:857c:70f7:2d05:f3b7])
+        by smtp.gmail.com with ESMTPSA id 23sm8280661iok.24.2016.12.05.18.46.53
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 05 Dec 2016 18:46:53 -0800 (PST)
+Content-Type: multipart/alternative; boundary=Apple-Mail-C950DD43-E640-4428-9F60-5684438BC17E
+Content-Transfer-Encoding: 7bit
+From: John Parete <john.parete@gmail.com>
+Mime-Version: 1.0 (1.0)
+Date: Sun, 4 Dec 2016 22:51:13 -0500
+Subject: Re: 2017 Toronto Special Convention
+Message-Id: <E4F8145F-3254-4830-9475-38E727B11415@gmail.com>
+References: <CAL7=TmnKzf24M=AERZqdPkB204Wop6KmXJWWh8+3frptZ+Ap+w@mail.gmail.com>
+In-Reply-To: <CAL7=TmnKzf24M=AERZqdPkB204Wop6KmXJWWh8+3frptZ+Ap+w@mail.gmail.com>
+To: Adewale Mabayoje <amabayoje@yahoo.com>,
+ Andrew Lommano <andrewlommano@yahoo.ca>,
+ Angie Parete <angie.parete@gmail.com>,
+ Bernie Marchio <bmarchio@hotmail.com>,
+ Billy Varkaris <billyvarkaris@gmail.com>,
+ Carmela Motta <carmela.motta86@gmail.com>,
+ Chris Ghangas <chris.ghangas@gmail.com>,
+ Darrin Hollmann <dvhollmann@gmail.com>, David Fowler <uniteddave@aol.com>,
+ David Junnola <junnolahomes@gmail.com>,
+ Dennis - Cell Bou <dennis.bou92@gmail.com>,
+ Derrick Smerchansky <smerchansky@hotmail.com>,
+ Dino Vilardo <dinovilardo@yahoo.com>,
+ Elvira Dinuzzo <edinuzzo@alumni.uoguelph.ca>,
+ Filipo & Catarina Zambri <zamfilcat@hotmail.com>,
+ Frank & Amanda Stalteri <amandar_86@hotmail.com>,
+ Frank Rucchetta <frucchetta@yahoo.ca>,
+ Gary & Lucy Blunt <lucyablunt@gmail.com>, Giulio Pace <gppp_us@yahoo.com>,
+ Grace Lopes <lopes.grace@ymail.com>,
+ Jade Smerchansky <cocodawson@hotmail.com>,
+ Jennifer Perusini <jlperusini@gmail.com>,
+ Jessica Mclean <jessicamclean78@gmail.com>,
+ Joe Loggia <joe.loggia@vitran.com>, Joe Venezia <jvenezia72@rogers.com>,
+ John Lommano <jlommano@yahoo.ca>, Joseph Yu <josephydw@gmail.com>,
+ Joshua Mclean <joshua.4.mclean@gmail.com>,
+ Julie Mclean <Julie.mclean05@live.ca>, Karin Teti <karinteti@hotmail.com>,
+ Laura Casavant <laura.casavant@gmail.com>,
+ Luigi Panigas <sensory5@gmail.com>,
+ Marilena DiMatteo <marilena@rogers.com>,
+ Marina Lancia <marinalancia@gmail.com>,
+ Marisa Panaroni <mpanaroni@gmail.com>,
+ Mark Casavant <mark.casavant@gmail.com>,
+ Mary Varkaris <maryvarkaris@yahoo.com>,
+ Michelle Annarilli <santelicesm@hotmail.com>,
+ Nick - Cell Zambri <nick_zambri@hotmail.com>,
+ Nick Smith <mossberg303@gmail.com>, Nina Junnola <njunnola@gmail.com>,
+ "Omar, Jennifer Perusini" <perusini@gmail.com>,
+ Paul Losacco <plosacco@rogers.com>,
+ Peter Rothman <rothmanspainting@gmail.com>,
+ Phil & Anna D'Angelo <anna.dangelo@rogers.com>,
+ Phyllis Fenuta <phyllis.fenuta@hotmail.com>,
+ Pierluca Belsito <pierluca.belsito@gmail.com>,
+ Pina Mobilio <pina.mobilio@gmail.com>,
+ Randall Franske <rfranske@gmail.com>, Raquel Floro <rlfloro93@gmail.com>,
+ Richard Sherif <richard.sherif@gmail.com>,
+ Rita Casavant <rita.casavant@gmail.com>,
+ Ron & Marjory Robinson <brenda@chainsawclinic.com>,
+ Sally Franske <sfranske@yahoo.com>,
+ Samantha McLean <samantha041205@gmail.com>,
+ Sonia Genovese <sonia.genovese@yahoo.com>,
+ Stephanie - cell Rucchetta <srucchetta@yahoo.com>,
+ Teneson Floro <tenesonfloro@gmail.com>,
+ Teresa Parejas <tlparejas@hotmail.com>,
+ Tiana Lancia <tianalancia@hotmail.com>,
+ Tobilola Mabayoje <tobilola.k.mabayoje@live.com>,
+ Tony Alcamo <talcamo@gmail.com>, Tony Fiorellino <tony@insureitgroup.com>,
+ Vince Teti <vinceteti@gmail.com>, Walter Panaroni <wpanaroni@gmail.com>,
+ Zenon Varisella <zrvarisella@primus.ca>
+X-Mailer: iPad Mail (14A456)
+
+
+--Apple-Mail-C950DD43-E640-4428-9F60-5684438BC17E
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Dear Brothers, just a further reminder if you desire to volunteer for any as=
+pect of the Special Convention, please see the previous information sent bel=
+ow. If you have any trouble logging on to fill out an application, please se=
+e me.=20
+
+John Parete
+
+> On Nov 12, 2016, at 1:10 PM, John Parete <john.parete@gmail.com> wrote:
+>=20
+>=20
+> Dear Brothers - please see the attached information on how to fill out the=
+ online application to volunteer for the convention. Any baptized brother or=
+ sister in good standing may apply (you do not have to be an elder, minister=
+ial servant or pioneer or baptized for more than 20 years - that is for dele=
+gate applying to attend the convention)
+>=20
+> Please note some of the following details.
+> You must have an email address - it is best to use Gmail or any MSN type a=
+ddress like Hotmail or Live
+> If you have multiple email addresses, please be sure that you always use t=
+he same one to log on with
+> if you have a spouse, name them in the "comments" section
+> if you have any ideas, list them in the comments section. This should be s=
+omething bigger than what your local congregation can do on its own like sou=
+venirs, etc
+> once you have submitted your application, you can go back and add to it, f=
+or example what days your available
+> In addition, there is an urgent need to locate specific skills, even if yo=
+u feel you are not professionals. We are not necessarily looking for profess=
+ionals.=20
+>=20
+> singers, musicians, musical composers, and orchestra/choir conductors=20
+> choreographers and dancers=20
+> graphic designers, artists, and programmers=20
+> photographers and video producers
+> doctors, nurses, and paramedics
+> If you have any questions or need help to fill out, please come to see me.=
+
+>=20
+>=20
+> John Parete
+> <Volunteer Information Sheet.pdf>
+
+--Apple-Mail-C950DD43-E640-4428-9F60-5684438BC17E
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>Dear Brothers, just a further reminder=
+ if you desire to volunteer for any aspect of the Special Convention, please=
+ see the previous information sent below. If you have any trouble logging on=
+ to fill out an application, please see me.&nbsp;<br><br>John Parete</div><d=
+iv><br>On Nov 12, 2016, at 1:10 PM, John Parete &lt;<a href=3D"mailto:john.p=
+arete@gmail.com">john.parete@gmail.com</a>&gt; wrote:<br><br></div><blockquo=
+te type=3D"cite"><div><div dir=3D"ltr"><div><br></div>Dear Brothers - please=
+ see the attached information on how to fill out the online application to v=
+olunteer for the convention. Any baptized brother or sister in good standing=
+ may apply (you do <b><u>not</u></b> have to be an elder, ministerial servan=
+t or pioneer or baptized for more than 20 years - that is for delegate apply=
+ing to attend the convention)<div><br></div><div>Please note some of the fol=
+lowing details.</div><div><ul><li>You must have an email address - it is bes=
+t to use Gmail or any MSN type address like Hotmail or Live</li><li>If you h=
+ave multiple email addresses, please be sure that you always use the same on=
+e to log on with</li><li>if you have a spouse, name them in the "comments" s=
+ection</li><li>if you have any ideas, list them in the comments section. Thi=
+s should be something bigger than what your local congregation can do on its=
+ own like souvenirs, etc</li><li>once you have submitted your application, y=
+ou can go back and add to it, for example what days your available</li></ul>=
+<div>In addition, there is an urgent need to locate specific skills, even if=
+ you feel you are not professionals. We are not necessarily looking for prof=
+essionals.&nbsp;<br><br><ul><li>singers, musicians, musical composers, and o=
+rchestra/choir conductors&nbsp;</li><li>choreographers and dancers&nbsp;</li=
+><li>graphic designers, artists, and programmers&nbsp;</li><li>photographers=
+ and video producers<br></li><li>doctors, nurses, and paramedics<br></li></u=
+l><div>If you have any questions or need help to fill out, please come to se=
+e me.</div></div><div><br></div><div><br></div><div><div class=3D"gmail_sign=
+ature"><font face=3D"georgia, serif">John Parete</font></div></div>
+</div></div>
+</div></blockquote><blockquote type=3D"cite"><div>&lt;Volunteer Information S=
+heet.pdf&gt;</div></blockquote></body></html>=
+
+--Apple-Mail-C950DD43-E640-4428-9F60-5684438BC17E--

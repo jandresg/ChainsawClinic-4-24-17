@@ -1,0 +1,135 @@
+Return-path: <frucchetta@yahoo.ca>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Sun, 27 Nov 2016 09:36:04 -0600
+Received: from nm48-vm4.bullet.mail.bf1.yahoo.com ([216.109.115.159]:59489)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <frucchetta@yahoo.ca>)
+	id 1cB1Uq-000MFO-Fb
+	for brenda@chainsawclinic.com; Sun, 27 Nov 2016 09:36:04 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.ca; s=s2048; t=1480260953; bh=cm+Ms4+MGfAwAJDdwrlrW17eoMqlT+/gqmDcDboHHXA=; h=Date:From:Reply-To:To:In-Reply-To:References:Subject:From:Subject; b=MLx/YzjZ87ZuMljhj8M5FzRHOuQQ1PBzvl0KAXBrbuQs530fO4nS0vkUJAry2t9SFe/3UHlUw1ng707b6gCzQz6NCIWfU0EYVzsN4K1tWWmjBZFNbjN3wsm/Rgo4WIbGmlOj6wmU5h/assUpy5JpybWmoYpHrPsgEts2ZVFngNlXOiZvek2qo7/Cyi4zWeLMobQ0DdGw1H7hd5PtYQH7/mYkKLIuur6jtjqaG3ygz2qkEeuO1ZaJVr10IvDNfAiqi5heqbLkvgIQH/ubOs25YMZ/mEPdumsI7ys7X8s5OHbhAIAKWdJpd+6PujPJFGkuqVC7v/pHDW9blQCG49cZiA==
+Received: from [98.139.214.32] by nm48.bullet.mail.bf1.yahoo.com with NNFMP; 27 Nov 2016 15:35:53 -0000
+Received: from [98.139.212.250] by tm15.bullet.mail.bf1.yahoo.com with NNFMP; 27 Nov 2016 15:35:53 -0000
+Received: from [127.0.0.1] by omp1059.mail.bf1.yahoo.com with NNFMP; 27 Nov 2016 15:35:53 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 764799.45675.bm@omp1059.mail.bf1.yahoo.com
+X-YMail-OSG: YAMiMOgVM1lthZkXqKPp8pEEdq24NI2HOgi_pY4yjMv_33jx_ItrkZk8RZhv6dH
+ Cvs668nhpgS9eOBpyE4CZua46S_ev7pFMXsDE05YaLv6otAtokkwqXk776cY8f5SE.mcpAjpEnr_
+ DcMQzTm2ygteZq1zioHkVYNW1PH2jW_2JDI1buAgBewQNxOSVOxUKlT9Jpyan6SK6dLU8IHegSVw
+ o89gU2NVn1J5iJoKRyO.1.m_liWgIeXX1Por._QDZNWXGzw2eSpXY3Dxeg05CJbBWHYf_Acto39s
+ SoUbTLsRJwJm.fwWDGGJmkfUqJdLHgMDmM0zBMl.UW.sl9snYdtFvf6I6hbmlSQ7wO8y6YemQAUE
+ ypmx9C7dikt4y.6kCvXkkiFZhMzPI3woi3js47J3HONhRf3I8onYJ5f.Gt_OxE_1PKCT7n43tVy1
+ JJQmnb_1Ino.by2_u9R0epZE38Al_FcovgLc9NxhrizbWKr.HVu2OTH2MoWPonqkigbxj2ZZAkge
+ 9Mqte7RoRE2iaIfyHmw--
+Received: from jws400034.mail.bf2.yahoo.com by sendmailws107.mail.bf1.yahoo.com; Sun, 27 Nov 2016 15:35:53 +0000; 1480260953.358
+Date: Sun, 27 Nov 2016 15:35:11 +0000 (UTC)
+From: Frank Rucchetta <frucchetta@yahoo.ca>
+Reply-To: Frank Rucchetta <frucchetta@yahoo.ca>
+To: John Parete <john.parete@gmail.com>, 
+	Adewale Mabayoje <amabayoje@yahoo.com>, 
+	Andrew Lommano <andrewlommano@yahoo.ca>, 
+	Angie Parete <angie.parete@gmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, 
+	Carmela Motta <carmela.motta86@gmail.com>, 
+	Chris Ghangas <chris.ghangas@gmail.com>, 
+	Darrin Hollmann <dvhollmann@gmail.com>, 
+	David Fowler <uniteddave@aol.com>, 
+	David Junnola <junnolahomes@gmail.com>, 
+	Dennis - Cell Bou <dennis.bou92@gmail.com>, 
+	Derrick Smerchansky <smerchansky@hotmail.com>, 
+	Dino Vilardo <dinovilardo@yahoo.com>, 
+	Elvira Dinuzzo <edinuzzo@alumni.uoguelph.ca>, 
+	Filipo & Catarina Zambri <zamfilcat@hotmail.com>, 
+	Frank & Amanda Stalteri <amandar_86@hotmail.com>, 
+	Frank Fiorellino <frankfiorellino@hotmail.com>, 
+	Gary & Lucy Blunt <lucyablunt@gmail.com>, 
+	Giulio Pace <gppp_us@yahoo.com>, Grace Lopes <lopes.grace@ymail.com>, 
+	Jade Smerchansky <cocodawson@hotmail.com>, 
+	Jennifer Perusini <jlperusini@gmail.com>, 
+	Jessica Mclean <jessicamclean78@gmail.com>, 
+	Joe Loggia <joe.loggia@vitran.com>, 
+	Joe Venezia <jvenezia72@rogers.com>, 
+	John Lommano <jlommano@yahoo.ca>, Joseph Yu <josephydw@gmail.com>, 
+	Joshua Mclean <joshua.4.mclean@gmail.com>, 
+	Julie Mclean <Julie.mclean05@live.ca>, 
+	Karin Teti <karinteti@hotmail.com>, 
+	Laura Casavant <laura.casavant@gmail.com>, 
+	Luigi Panigas <sensory5@gmail.com>, 
+	Marilena DiMatteo <marilena@rogers.com>, 
+	Marina Lancia <marinalancia@gmail.com>, 
+	Marisa Panaroni <mpanaroni@gmail.com>, 
+	Mark Casavant <mark.casavant@gmail.com>, 
+	Michelle Annarilli <santelicesm@hotmail.com>, 
+	Nick - Cell Zambri <nick_zambri@hotmail.com>, 
+	Nick Smith <mossberg303@gmail.com>, 
+	Nina Junnola <njunnola@gmail.com>, 
+	"Omar, Jennifer Perusini" <perusini@gmail.com>, 
+	Paul Losacco <plosacco@rogers.com>, 
+	Peter Rothman <rothmanspainting@gmail.com>, 
+	Phil & Anna D'Angelo <anna.dangelo@rogers.com>, 
+	Phyllis Fenuta <phyllis.fenuta@hotmail.com>, 
+	Pierluca Belsito <pierluca.belsito@gmail.com>, 
+	Pina Mobilio <pina.mobilio@gmail.com>, 
+	Randall Franske <rfranske@gmail.com>, 
+	Raquel Floro <rlfloro93@gmail.com>, 
+	Richard Sherif <richard.sherif@gmail.com>, 
+	Rita Casavant <rita.casavant@gmail.com>, 
+	Ron & Marjory Robinson <brenda@chainsawclinic.com>, 
+	Sally Franske <sfranske@yahoo.com>, 
+	Samantha McLean <samantha041205@gmail.com>, 
+	Sonia Genovese <sonia.genovese@yahoo.com>, 
+	Stephanie - cell Rucchetta <srucchetta@yahoo.com>, 
+	Teneson Floro <tenesonfloro@gmail.com>, 
+	Teresa Parejas <tlparejas@hotmail.com>, 
+	Tiana Lancia <tianalancia@hotmail.com>, 
+	Tobilola Mabayoje <tobilola.k.mabayoje@live.com>, 
+	Tony Alcamo <talcamo@gmail.com>, 
+	Tony Fiorellino <tony@insureitgroup.com>, 
+	Vince Teti <vinceteti@gmail.com>, 
+	Walter Panaroni <wpanaroni@gmail.com>, 
+	Zenon Varisella <zrvarisella@primus.ca>, 
+	Livia Rucchetta <lrucchetta@gmail.com>
+Message-ID: <607088985.1126379.1480260911289@mail.yahoo.com>
+In-Reply-To: <660853244.914595.1480203396207@mail.yahoo.com>
+References: <CAL7=TmkYj3TCjKb_G=_aercKDJFZzJrSnDF3Z-HVep7jHASdBA@mail.gmail.com> <1539075252.907457.1480202075266@mail.yahoo.com> <660853244.914595.1480203396207@mail.yahoo.com>
+Subject: Re: Br. Bernie Marchio mother passed away
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1126378_430330286.1480260911287"
+Content-Length: 1826
+
+------=_Part_1126378_430330286.1480260911287
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear friends,=C2=A0These are the funeral arrangements for Brother Bernie=C2=
+=A0Marchio's mother, 'Drusolina Marchio':=C2=A0=C2=A0=C2=A0=C2=A0Ward Funer=
+al Home on Hwy 7. =C2=A0Viewing:Monday night 6 to 9Tuesday 2 to 4 and 6 to =
+9.
+
+
+Thank you,Frank Rucchetta
+
+=20
+------=_Part_1126378_430330286.1480260911287
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:times new roman, new york, times, serif;font-size:16px"><div id=
+=3D"yui_3_16_0_1_1480260393303_4446"><span id=3D"yui_3_16_0_1_1480260393303=
+_4460">Dear friends,</span></div><div id=3D"yui_3_16_0_1_1480260393303_4459=
+">&nbsp;</div><div id=3D"yui_3_16_0_1_1480260393303_4470">These are the fun=
+eral arrangements for Brother Bernie&nbsp;Marchio's mother, 'Drusolina Marc=
+hio':</div><div id=3D"yui_3_16_0_1_1480260393303_5295">&nbsp;</div><div id=
+=3D"yui_3_16_0_1_1480260393303_4437">&nbsp;&nbsp;&nbsp;</div><div id=3D"yui=
+_3_16_0_1_1480260393303_4440">Ward Funeral Home on Hwy 7.</div><div id=3D"y=
+ui_3_16_0_1_1480260393303_4441"> &nbsp;</div><div id=3D"yui_3_16_0_1_148026=
+0393303_4442">Viewing:</div><div id=3D"yui_3_16_0_1_1480260393303_4443">Mon=
+day night 6 to 9</div><div id=3D"yui_3_16_0_1_1480260393303_4551" dir=3D"lt=
+r">Tuesday 2 to 4 and 6 to 9.<br><br><font id=3D"yui_3_16_0_1_1480260393303=
+_4522" face=3D"Arial" size=3D"2"><br>Thank you,</font></div><div id=3D"yui_=
+3_16_0_1_1480260393303_4550" dir=3D"ltr"><font id=3D"yui_3_16_0_1_148026039=
+3303_5280" face=3D"Arial" size=3D"2">Frank Rucchetta</font><br><br></div>  =
+  </div></body></html>
+------=_Part_1126378_430330286.1480260911287--

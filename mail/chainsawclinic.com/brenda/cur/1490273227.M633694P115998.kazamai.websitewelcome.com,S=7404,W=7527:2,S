@@ -1,0 +1,123 @@
+Return-Path: <john.parete@gmail.com>
+Delivered-To: brenda@chainsawclinic.com
+Received: from kazamai.websitewelcome.com
+	by kazamai.websitewelcome.com (Dovecot) with LMTP id WSVEJcvD01gexQEAaocpPg
+	for <brenda@chainsawclinic.com>; Thu, 23 Mar 2017 07:47:07 -0500
+Return-path: <john.parete@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Thu, 23 Mar 2017 07:47:07 -0500
+Received: from mail-yw0-f193.google.com ([209.85.161.193]:36452)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <john.parete@gmail.com>)
+	id 1cr28x-000XZ9-2G
+	for brenda@chainsawclinic.com; Thu, 23 Mar 2017 07:47:07 -0500
+Received: by mail-yw0-f193.google.com with SMTP id i203so13988811ywc.3
+        for <brenda@chainsawclinic.com>; Thu, 23 Mar 2017 05:47:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=EGblnRFZIrvSUm5T2SHGx21zF5N1FZvM8HF8A3G/ZeY=;
+        b=fQ0LWEJiZg/biGrxNgZwtZSTo4DKXbnyTcMpvF3ydSMpjtmwzdb+tYBQu5CBtBjDUj
+         de3ZmbhXEB5+sdjtiZfl+NFK6Kf+Y0lSr33LOgf1l5wIrEIhw/fWAAnb4YIUqt4U4Ouc
+         AEC4LzVvZco1ZJ5aJzp1XpWOzM7lHMyRrvmryB2WC5bHV3gM/LhJt+sxWkJ/vl5KBflw
+         rTFNAi0M2AqyDG/PAUQVwUOgkWOuU+VAEuAqfzAkUNLl+AtAWr9Be34rCUdeV9BH6yL4
+         okUti45RG/8n+k3oGvu5FvmRU+v0EcnX0a93JfDMNNNWVsxSQKPKwa6bTUrpHoe+oXwA
+         Jt3w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=EGblnRFZIrvSUm5T2SHGx21zF5N1FZvM8HF8A3G/ZeY=;
+        b=TVt7Pzv2GiV5exmtM4UtGLwjRqdRq3pmyXCp9K9BEL0RBhMVs+Zsd/b/i2pPAqUg5V
+         GWVo1OXOgNHAxvLv/09kfDwsRMtjcIqYpXfyQG8R2FH29VCXAFgeM0uFDZm4unfY+40v
+         9EpHbtAlyLYPbtUPQXX1VZu7oE1F2TurC6vCsV7vhgnDB/Uq0v03ZuPbEXivYWqDKyrl
+         +zff/JmTDQa6IxljlrcGX4+QEB+lpMHfZGI2lIDz+QJba11H+IhSmu4ZafUvIymHUITG
+         hxxMtz/SJ3V+HqSDiW8hM9HNFGsJwhdE1dam7Dmk2NvxNEbF+X2aR4KRjf15Td817ZtB
+         3r+g==
+X-Gm-Message-State: AFeK/H1PaL+jAP2pa03uaHR+fAHpFAUudA+ciaOs19oqm5yztXAtr74fFZIRMZJ/77QYwx8FKneyfUyjkuDcnQ==
+X-Received: by 10.13.234.204 with SMTP id t195mr1712451ywe.58.1490273216454;
+ Thu, 23 Mar 2017 05:46:56 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.129.53.200 with HTTP; Thu, 23 Mar 2017 05:46:26 -0700 (PDT)
+In-Reply-To: <CAL7=Tmn+Goyjqp=pVTboAWSajc3ecUVNhfvpherCViHUsMzkcQ@mail.gmail.com>
+References: <CAL7=Tmn+Goyjqp=pVTboAWSajc3ecUVNhfvpherCViHUsMzkcQ@mail.gmail.com>
+From: John Parete <john.parete@gmail.com>
+Date: Thu, 23 Mar 2017 08:46:26 -0400
+Message-ID: <CAL7=Tmnm2dJS1tHveu1VytXCJxY5ohtB9xbtSA+=3xy=Te-Brw@mail.gmail.com>
+Subject: Re: Saturday Service - 1pm from Kingdom Hall
+To: Adewale Mabayoje <amabayoje@yahoo.com>, Andrew Lommano <andrewlommano@yahoo.ca>, 
+	Angie Parete <angie.parete@gmail.com>, Bernie Marchio <bmarchio@hotmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Carmela Motta <carmela.motta86@gmail.com>, 
+	Catarina Zambri <zamfilcat@hotmail.com>, Chris Ghangas <chris.ghangas@gmail.com>, 
+	Darrin Hollmann <dvhollmann@gmail.com>, David Fowler <uniteddave@aol.com>, 
+	Dennis - Cell Bou <dennis.bou92@gmail.com>, Derrick Smerchansky <smerchansky@hotmail.com>, 
+	Dino Vilardo <dinovilardo@yahoo.com>, Elvira Di Nuzzo <edinuzzo@alumni.uoguelph.ca>, 
+	Filippo Zambri <zamfilippo@hotmail.com>, "Frank & Amanda Stalteri" <amandar_86@hotmail.com>, 
+	Frank Rucchetta <frucchetta@yahoo.ca>, "Gary & Lucy Blunt" <lucyablunt@gmail.com>, 
+	Giulio Pace <gppp_us@yahoo.com>, Grace Lopes <lopes.grace@ymail.com>, 
+	Jade Smerchansky <cocodawson@hotmail.com>, Jennifer Perusini <jlperusini@gmail.com>, 
+	Jessica Mclean <jessicamclean78@gmail.com>, Joe Loggia <joe.loggia@vitran.com>, 
+	Joe Venezia <jvenezia72@rogers.com>, John Lommano <jlommano@yahoo.ca>, 
+	Joseph Yu <josephydw@gmail.com>, Joshua Mclean <joshua.4.mclean@gmail.com>, 
+	Julie Mclean <Julie.mclean05@live.ca>, Karin Teti <karinteti@hotmail.com>, 
+	Laura Casavant <laura.casavant@gmail.com>, Luigi Panigas <sensory5@gmail.com>, 
+	Marilena DiMatteo <marilena@rogers.com>, Marina Lancia <marinalancia@gmail.com>, 
+	Marisa Panaroni <mpanaroni@gmail.com>, Mark Casavant <mark.casavant@gmail.com>, 
+	Mary Varkaris <maryvarkaris@yahoo.com>, Michelle Annarilli <santelicesm@hotmail.com>, 
+	Nick - Cell Zambri <nick_zambri@hotmail.com>, Nick Smith <mossberg303@gmail.com>, 
+	"Omar, Jennifer Perusini" <perusini@gmail.com>, Paul Losacco <plosacco@rogers.com>, 
+	Peter Rothman <rothmanspainting@gmail.com>, "Phil & Anna D'Angelo" <anna.dangelo@rogers.com>, 
+	Phyllis Fenuta <phyllis.fenuta@hotmail.com>, Pierluca Belsito <pierluca.belsito@gmail.com>, 
+	Pina Mobilio <pina.mobilio@gmail.com>, Randall Franske <rfranske@gmail.com>, 
+	Raquel Floro <rlfloro93@gmail.com>, Richard Sherif <richard.sherif@gmail.com>, 
+	Rita Casavant <rita.casavant@gmail.com>, 
+	"Ron & Marjory Robinson" <brenda@chainsawclinic.com>, Sally Franske <sfranske@yahoo.com>, 
+	Samantha McLean <samantha041205@gmail.com>, Sonia Genovese <sonia.genovese@yahoo.com>, 
+	Stephanie - cell Rucchetta <srucchetta@yahoo.com>, Teneson Floro <tenesonfloro@gmail.com>, 
+	Teresa Parejas <tlparejas@hotmail.com>, Tiana Lancia <tianalancia@hotmail.com>, 
+	Tobilola Mabayoje <tobilola.k.mabayoje@live.com>, Tony Alcamo <talcamo@gmail.com>, 
+	Tony Fiorellino <tony@insureitgroup.com>, Vince Teti <vinceteti@gmail.com>, 
+	Walter Panaroni <wpanaroni@gmail.com>, Zenon Varisella <zrvarisella@primus.ca>
+Content-Type: multipart/alternative; boundary=94eb2c08791eaf69f7054b65450e
+
+--94eb2c08791eaf69f7054b65450e
+Content-Type: text/plain; charset=UTF-8
+
+There is a wedding at the Kingdom Hall this Saturday, March 25. Therefore
+we won't be able to have a regroup there. Perhaps you could make afternoon
+arrangements when the congregation meets Saturday morning at the KH.
+
+John Parete
+
+On Thu, Mar 23, 2017 at 8:31 AM, John Parete <john.parete@gmail.com> wrote:
+
+> For the rest of the March and April, we will have a Saturday 1pm regroup
+> at the KH.
+>
+> John Parete
+>
+
+--94eb2c08791eaf69f7054b65450e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">There is a wedding at the Kingdom Hall this Saturday, Marc=
+h 25. Therefore we won&#39;t be able to have a regroup there. Perhaps you c=
+ould make afternoon arrangements when the congregation meets Saturday morni=
+ng at the KH.</div><div class=3D"gmail_extra"><br clear=3D"all"><div><div c=
+lass=3D"gmail_signature" data-smartmail=3D"gmail_signature"><font face=3D"g=
+eorgia, serif">John Parete</font></div></div>
+<br><div class=3D"gmail_quote">On Thu, Mar 23, 2017 at 8:31 AM, John Parete=
+ <span dir=3D"ltr">&lt;<a href=3D"mailto:john.parete@gmail.com" target=3D"_=
+blank">john.parete@gmail.com</a>&gt;</span> wrote:<br><blockquote class=3D"=
+gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-=
+left:1ex"><div dir=3D"ltr">For the rest of the March and April, we will hav=
+e a Saturday 1pm regroup at the KH.<span class=3D"HOEnZb"><font color=3D"#8=
+88888"><div><br clear=3D"all"><div><div class=3D"m_2006105847227020998gmail=
+_signature" data-smartmail=3D"gmail_signature"><font face=3D"georgia, serif=
+">John Parete</font></div></div>
+</div></font></span></div>
+</blockquote></div><br></div>
+
+--94eb2c08791eaf69f7054b65450e--

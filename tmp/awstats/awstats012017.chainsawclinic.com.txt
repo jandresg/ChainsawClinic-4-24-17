@@ -1,0 +1,1409 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201701 will be lost/reset.
+# Last config file used to build this data file was /home/chainsaw/tmp/awstats/awstats.chainsawclinic.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2699                
+POS_VISITOR 29580               
+POS_DAY 47096               
+POS_DOMAIN 3604                
+POS_LOGIN 4261                
+POS_ROBOT 4416                
+POS_WORMS 5044                
+POS_EMAILSENDER 5175                
+POS_EMAILRECEIVER 5318                
+POS_SESSION 48008               
+POS_SIDER 48217               
+POS_FILETYPES 5453                
+POS_DOWNLOADS 5715                
+POS_OS 5763                
+POS_BROWSER 6097                
+POS_SCREENSIZE 8061                
+POS_UNKNOWNREFERER 8135                
+POS_UNKNOWNREFERERBROWSER 8820                
+POS_ORIGIN 9253                
+POS_SEREFERRALS 9400                
+POS_PAGEREFS 9622                
+POS_SEARCHWORDS 11387               
+POS_KEYWORDS 11628               
+POS_MISC 2361                
+POS_ERRORS 11784               
+POS_CLUSTER 4117                
+POS_SIDER_404 11920               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170201003641 159 35943 11293987145430
+FirstTime 20170101001402
+LastTime 20170131163505
+LastUpdate 20170201062502 159 0 158 0 0
+TotalVisits 639                 
+TotalUnique 426                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 438                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 452 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 33 67 9969496 34 65 648416
+1 28 54 8141227 40 73 3736886
+2 12 27 5093009 57 103 4450035
+3 38 63 3900403 46 93 865998
+4 15 38 5168999 36 65 611180
+5 22 45 3601545 42 82 679477
+6 33 74 10396813 33 78 2356125
+7 120 282 34867374 46 95 1004968
+8 151 352 36370099 65 198 5098694
+9 136 337 46329253 55 188 2327536
+10 55 140 23631836 68 189 3479212
+11 139 379 72279820 55 159 1439897
+12 143 325 52683400 60 129 2360258
+13 87 201 26277333 27 93 849268
+14 84 204 43460854 45 120 4403928
+15 76 186 38792192 49 102 2463493
+16 85 206 33362701 41 103 3933714
+17 59 149 20772061 32 87 2339953
+18 57 125 25349630 62 126 1150135
+19 50 117 20377256 51 113 3123282
+20 43 93 14109301 45 115 1421662
+21 63 134 24842840 49 120 6051613
+22 25 64 10261179 44 79 3803906
+23 44 71 10266137 38 69 740561
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 30
+ca 1107 2797 472400382
+us 275 586 64369832
+ru 65 93 3660934
+my 28 60 15516878
+cn 16 26 636556
+nl 11 11 57167
+fr 10 10 51970
+mx 9 9 46773
+il 7 13 3233624
+ua 7 12 1707185
+ro 7 7 36379
+de 6 6 20788
+gh 6 14 1733913
+jp 6 6 31182
+in 5 10 1691594
+gb 5 10 1675696
+bb 4 9 1865147
+am 4 12 1728716
+it 4 9 1691594
+sa 2 2 10394
+bn 2 8 3207639
+nz 2 8 3207639
+br 2 2 10394
+ph 2 7 1681200
+bg 1 1 5197
+pl 1 1 5197
+md 1 1 5197
+hu 1 1 5197
+cz 1 1 5197
+rs 1 1 5197
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bot[\s_+:,\.\;\/\\-] 282 15036777 20170131221507 0
+googlebot 234 3325307 20170131220512 0
+spider 86 1870529 20170131195202 0
+bingpreview 76 17765399 20170131215047 0
+no_user_agent 13 67561 20170131043225 0
+robot 11 258248 20170121212537 0
+crawl 11 61391 20170129112804 0
+checker 11 59279 20170129200824 0
+google[_+\s]web[_+\s]preview 8 1704624 20170113065644 0
+slurp 7 17703 20170131143842 0
+netcraft 1 5197 20170110140409 0
+php 1 0 20170101214301 0
+[\s_+:,\.\;\/\\-]bot 1 5197 20170101182032 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+jpg 16 69360 0 0
+ttf 11 624852 0 0
+gif 32 10512 0 0
+png 421 520558451 0 0
+woff 427 9487116 0 0
+js 496 675918 0 0
+css 1170 38135143 0 0
+woff2 64 1081680 0 0
+eot 234 5366989 0 0
+html 862 4294737 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+blackberry 1 1
+winlong 21 11
+macosx5 5 5
+Unknown 24 19
+win7 1116 443
+winnt 1106 443
+linuxandroid 207 63
+macosx8 10 5
+linux 91 66
+win2003 6 3
+win8.1 110 51
+ios_ipad 198 116
+ios_iphone 442 185
+macosx9 59 28
+linuxubuntu 1 1
+macosx 143 53
+winxp 83 36
+java 97 65
+win8 13 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 96
+chrome44.0.2403.133 16 5
+chrome48.0.2564.82 1 1
+chrome25.0.1364.172 2 2
+chrome26.0.1410.65 2 2
+firefox29.0 261 78
+msie11.0 876 394
+firefox14.0.1 3 3
+msie8.0 49 29
+chrome34.0.1847.116 1 1
+firefox3.6 1 1
+safari7.0.3 5 4
+chrome50.0.2661.75 4 4
+firefox26.0 1 1
+msie10.0 58 27
+firefox3.0.10 5 5
+chrome43.0.2357.130 7 2
+chrome39.0.0.0 1 0
+msie6.0 3 3
+chrome50.0.2661.104 1 1
+chrome34.0.1847.137 3 2
+android 16 6
+chrome52.0.2743.116 13 13
+chrome39.0.2171.95 8 2
+firefox11.0 4 4
+chrome48.0.2564.116 1 1
+chrome44.0.2403.119 7 2
+firefox27.0 1 1
+chrome57.0.2971.0 7 2
+chrome40.0.2214.115 10 10
+chrome38.0.2125.102 7 2
+chrome43.0.2357.93 7 2
+chrome44.0.2416.43 1 1
+safari7.0 9 4
+safari9.1.3 2 1
+firefox50.0 231 69
+chrome55.0.2883.87 573 168
+chrome54.0.2840.99 19 8
+safari5.1 10 4
+safari10.0.2 48 19
+safari 56 19
+iphone 8 3
+chrome22.0.1216.0 3 3
+mozilla 36 20
+safari6.0 8 3
+chrome51.0.2704.84 12 4
+chrome54.0.2840.71 7 2
+chrome49.0.2623.75 2 2
+safari10.0.1 18 7
+chrome51.0.2704.79 109 42
+chrome39.0.2171.71 7 2
+firefox3.0.4 2 2
+firefox51.0 7 2
+chrome23.0.1271.97 1 1
+chrome41.0.2228.0 2 2
+opera12.16 6 1
+chrome54.0.2840.85 7 2
+chrome36.0.1985.143 2 1
+firefox7.0.1 3 3
+safari9.0 83 32
+chrome45.0.2454.94 8 3
+msie9.0 55 36
+chrome12.0.742.112 1 1
+chrome53.0.2785.124 7 2
+chrome49.0.2623.112 43 12
+chrome46.0.2490.80 36 36
+safari6.2.8 8 3
+firefox22.0 5 5
+chrome10.0.648.204 2 2
+firefox31.0 12 12
+chrome51.0.2704.103 1 1
+chrome55.0.2883.91 131 39
+firefox40.1 4 4
+firefox45.0 9 4
+chrome37.0.2062.120 8 8
+chrome35.0.1916.153 1 1
+firefox28.0 7 6
+blackberry 1 1
+chrome55.0.2883.95 57 22
+firefox43.0 3 3
+chrome27.0.1453.90 3 3
+chrome35.0.1916.114 2 1
+firefox44.0 1 1
+firefox47.0 2 2
+firefox21.0 4 2
+chrome21.0.1180.89 1 1
+safari10.0 447 225
+chrome57.0.2986.0 15 4
+firefox38.0 7 2
+firefox4.0 3 3
+chrome29.0.1547.62 8 3
+safari8.0 24 11
+chrome44.0.2403.125 3 3
+chrome34.0.1847.131 11 9
+msie7.0 17 7
+Unknown 105 73
+chrome56.0.2924.76 28 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko)_Chrome/55.0.2883.95_Safari/537.36 20170126235848
+Opera/9.80_(Android;_Opera_Mini/7.5.33135/37.9339;_U;_en)_Presto/2.12.423_Version/12.16 20170131085332
+Ruby 20170106071830
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20170128212525
+Magic_Browser 20170128065842
+Jakarta_Commons-HttpClient/3.1 20170122031951
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170112141047
+Mozilla/5.0_(compatible;_DomainAppender_/1.0;__http://www.profound.net/domainappender) 20170113123331
+nutch-1.4/Nutch-1.4 20170121213800
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+Magic_Browser 20170128065842
+Java/1.8.0_101 20170131134209
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20170128212525
+Ruby 20170106071830
+Java/1.4.1_04 20170122015902
+Java/1.8.0_65 20170106012040
+nutch-1.4/Nutch-1.4 20170121213800
+Java/1.7.0_80 20170118010011
+Jakarta_Commons-HttpClient/3.1 20170122031951
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 543 581
+From1 11 11
+From2 197 197
+From3 40 40
+From4 807 2904
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 7
+bing 8 8
+duckduckgo 2 2
+google 169 169
+yandex 7 7
+yahoo 8 8
+baidu 2 2
+ask 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 26
+http://pizza-tycoon.com 7 7
+http://www.husqvarna.com/ca-en/dealer-locator/ 4 4
+http://www.yellowpages.ca/bus/Ontario/North-York/Chain-Saw-Clinic-Ltd/3478571.html 3 3
+http://www.edge.ca/stihl-gta-dealers/ 2 2
+http://www.husqvarna.com/ca-en/ 2 2
+http://www.husqvarna.com/ca-en/products/snow-blowers/st-151/961830004/ 2 2
+http://powerequipment.ca 1 1
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./blowers.html 1 1
+http://www.husqvarna.com/ca-en/accessories/attachments/pim9267042/531308201/ 1 1
+http://www.yellowpages.ca/search/si/1/Blower/Aurora%2C%20ON 1 1
+http://www.husqvarna.com/ca-en/dealers/chain-saw-clinic-ltd/ 1 1
+http://chainsawclinic.ca 1 1
+http://www.husqvarna.com/ca-en/products/snow-blowers/st-330t/961930095/ 1 1
+http://www.yellowpages.ca/search/si/1/STIHL/Ontario 1 1
+http://www.husqvarna.com/ca-en/products/chainsaws/372-xp-w-x-torq/965968707/ 1 1
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./ 1 1
+http://www.husqvarna.com/ca-en/products/hedge-trimmers/ 1 1
+http://adguard.com/referrer.html 1 1
+http://www.husqvarna.com/ca-en/accessories/axes/carpenters-axe/576926501/ 1 1
+http://www.husqvarna.com/ca-en/products/chainsaws/460-rancher/966048320/ 1 1
+http://bigbeartools.com/dealers/ 1 1
+http://hvd-store.com 1 1
+http://www.husqvarna.com/ca-en/accessories/axes/splitting-axe---small/576926801/ 1 1
+http://www.husqvarna.com/ca-fr/localisation-revendeur/ 1 1
+http://www.husqvarna.com/ca-en/products/zero-turn-mowers/ 1 1
+http://www.thomasnet.com/profile/30703821/chain-saw-clinic-ltd.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 4
+chainsaw+clinic 3
+chainsawclinic 2
+http+%2f%2fchainsawclinic.com%2f 1
+chain+saw+climic 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 8
+chainsaw 3
+clinic 3
+chainsawclinic 2
+%2f%2fchainsawclinic.com%2f 1
+climic 1
+http 1
+chain 1
+saw 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+406 50 11300
+206 25 4593045
+404 1228 14505136
+403 147 53504
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 461
+/sql.sql.rar 1 powerequipment.ca
+/www.sql.gz 1 powerequipment.ca
+/site.sql.gz 1 powerequipment.ca
+/db_backup.sql.bz2 1 powerequipment.ca
+/dbdump.zip 1 powerequipment.ca
+/db_backup.sql.tgz 1 powerequipment.ca
+/users.sql.tar 1 powerequipment.ca
+/dbadmin.tar.gzip 1 powerequipment.ca
+/images/spacer.gif 1 http://chainsawclinic.com/contents.htm
+/users.tgz 1 powerequipment.ca
+/db_backup.sql.tar.gz 1 powerequipment.ca
+/data.sql.gz 1 powerequipment.ca
+/sql.tar 1 powerequipment.ca
+/sql.sql 1 powerequipment.ca
+/web.sql.bz2 1 powerequipment.ca
+/temp.sql.tar.bz2 1 powerequipment.ca
+/db_backup.sql.tar.bz2 1 powerequipment.ca
+/backup.sql.tgz 1 powerequipment.ca
+/wp-admin/admin-ajax.php 1 -
+/manager/ 6 -
+/logo_img.php 1 http://www.chainsawclinic.com/logo_img.php
+/images/home_logo_countonit.gif 2 http://chainsawclinic.com/toro.htm
+/images/map.jpg 6 -
+/dbadmin.zip 1 powerequipment.ca
+/./././tel:416-244-5678 4 -
+/db.tar.bz2 1 powerequipment.ca
+/dbdump.bz2 1 powerequipment.ca
+/home.sql.tar 1 powerequipment.ca
+/images/toro%20powermax.gif 3 http://chainsawclinic.com/toro.htm
+/sql.7z 1 powerequipment.ca
+/mysql.tar.gzip 1 powerequipment.ca
+/wp-config-sample.php 1 -
+/assets/modules/evogallery/js/uploadify/uploadify.php 3 http://chainsawclinic.com/assets/modules/evogallery/js/uploadify/uploadify.php
+/index.php 2 chainsawclinic.ca
+/site.sql.tar.gzip 1 powerequipment.ca
+/images/trimmer2.jpg 1 http://chainsawclinic.com/stihl.htm
+/1.sql.tgz 1 powerequipment.ca
+/dbase.sql.tar.gz 1 powerequipment.ca
+/sql.tar.gzip 1 powerequipment.ca
+/upload.sql.tar.gzip 1 powerequipment.ca
+/dbase.tar 1 powerequipment.ca
+/assets/elfinder1/elfinder.html 1 -
+/users.zip 1 powerequipment.ca
+/users.sql.tar.gzip 1 powerequipment.ca
+/users.sql.tar.bz2 1 powerequipment.ca
+/dump.tgz 1 powerequipment.ca
+/mysql.sql.rar 1 powerequipment.ca
+/images/SNB_01.JPG 2 http://chainsawclinic.com/honda.htm
+/backup.sql 1 powerequipment.ca
+/backup/preview_2/admin/elfinder/elfinder.html 1 -
+/db.sql.rar 1 powerequipment.ca
+/mysql.bz2 1 powerequipment.ca
+/backup.sql.rar 1 powerequipment.ca
+/users.sql.zip 1 powerequipment.ca
+/home.sql.sql 1 powerequipment.ca
+/db_backup.rar 1 powerequipment.ca
+/home.sql.tar.gz 1 powerequipment.ca
+/wordpress/wp-admin/setup-config.php 1 -
+/web.sql.rar 1 powerequipment.ca
+/dbase.rar 1 powerequipment.ca
+/sitemap.xml 15 -
+/mysql.sql.tar.bzip2 1 powerequipment.ca
+/gotha/gotha/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/backup/elfinder/elfinder.html 1 -
+/dump.tar.bz2 1 powerequipment.ca
+/home.sql.zip 1 powerequipment.ca
+/db.sql.tar.gzip 1 powerequipment.ca
+/site.sql.zip 1 powerequipment.ca
+/data.sql.tgz 1 powerequipment.ca
+/1.sql.tar 1 powerequipment.ca
+/images/logohonda.gif 5 -
+/users.tar.gz 1 powerequipment.ca
+/upload.sql.7z 1 powerequipment.ca
+/gotha/erfurt/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/dump.sql.bz2 1 powerequipment.ca
+/data.sql.tar.bz2 1 powerequipment.ca
+/users.sql.7z 1 powerequipment.ca
+/1.sql.tar.gz 1 powerequipment.ca
+/dump.sql.tar.gz 1 powerequipment.ca
+/dbase.sql.tar.bzip2 1 powerequipment.ca
+/mysql.sql.gz 1 powerequipment.ca
+/1.sql.tar.gzip 1 powerequipment.ca
+/sql.zip 1 powerequipment.ca
+/images/gen_01.jpg 2 -
+/search.php 1 http://chainsawclinic.com/assets/modules/evogallery/js/uploadify/uploadify.php
+/dbdump.sql.tar.bz2 1 powerequipment.ca
+/db_backup.tar.bz2 1 powerequipment.ca
+/site.sql.tar.gz 1 powerequipment.ca
+/dump.sql.tgz 1 powerequipment.ca
+/dump.sql.rar 1 powerequipment.ca
+/https://www.google.com/maps 4 -
+/site.sql.tar.bz2 1 powerequipment.ca
+/db.sql.tgz 1 powerequipment.ca
+/users.tar.gzip 1 powerequipment.ca
+/www.sql.zip 1 powerequipment.ca
+/dump.sql.zip 1 powerequipment.ca
+/sql.tar.bz2 1 powerequipment.ca
+/images/hus3.jpg 2 http://chainsawclinic.com/husqvarna.htm
+/temp.sql.7z 1 powerequipment.ca
+/includes/logo_img.php 1 http://www.chainsawclinic.com/includes/logo_img.php
+/public_html.sql 1 powerequipment.ca
+/upload.sql.rar 1 powerequipment.ca
+/wp-login.php 1 -
+/backup.sql.bz2 1 powerequipment.ca
+/site.sql.tar.bzip2 1 powerequipment.ca
+/images/bl_01.jpg 1 http://chainsawclinic.com/stihl.htm
+/images/tn.jpg 1 http://chainsawclinic.com/contactus.htm
+/images/image3.png 1 http://chainsawclinic.com/stihl.htm
+/dbdump.sql.tar.gzip 1 powerequipment.ca
+/dbase.7z 1 powerequipment.ca
+/images/torotrack2.jpg 2 http://chainsawclinic.com/toro.htm
+/db.tar.gz 1 powerequipment.ca
+/site.sql.bz2 1 powerequipment.ca
+/web.sql.tar.bz2 1 powerequipment.ca
+/images/up_husqvarna.gif 1 http://chainsawclinic.com/contents.htm
+/tel:416-244-5678 10 -
+/dbase.sql.tar 1 powerequipment.ca
+/web.sql.tar.gzip 1 powerequipment.ca
+/db_backup.sql.tar.bzip2 1 powerequipment.ca
+/db.gz 1 powerequipment.ca
+/sql.sql.tar.bzip2 1 powerequipment.ca
+/dump.7z 1 powerequipment.ca
+/db_backup.sql.tar 1 powerequipment.ca
+/www.sql.tar.bz2 1 powerequipment.ca
+/dbdump.sql.tar.bzip2 1 powerequipment.ca
+/toro.htm 15 -
+/www.sql.bz2 1 powerequipment.ca
+/web.sql.tar 1 powerequipment.ca
+/images/up_aboutus.gif 1 http://chainsawclinic.com/contents.htm
+/sql.tar.bzip2 1 powerequipment.ca
+/backoffice/js/texteditor/elfinder/elfinder.html 1 -
+/images/HT131.jpg 1 http://chainsawclinic.com/stihl.htm
+/apple-touch-icon-precomposed.png 2 -
+/dump.tar.bzip2 1 powerequipment.ca
+/images/up_stihl.gif 1 http://chainsawclinic.com/contents.htm
+/backup.sql.gz 1 powerequipment.ca
+/db.zip 1 powerequipment.ca
+/db_backup.tar.gzip 1 powerequipment.ca
+/db.sql.tar.gz 1 powerequipment.ca
+/home.sql.gz 1 powerequipment.ca
+/dbase.gz 1 powerequipment.ca
+/mysql.sql.tar.gz 1 powerequipment.ca
+/dbase.zip 1 powerequipment.ca
+/www.sql.tar.gz 1 powerequipment.ca
+/images/image2.jpeg 1 http://chainsawclinic.com/stihl.htm
+/https://fonts.googleapis.com/css 4 -
+/dump.sql.tar.bz2 1 powerequipment.ca
+/dump.sql.7z 1 powerequipment.ca
+/images/logolawnboy.jpg 7 -
+/sql.sql.tar.gz 1 powerequipment.ca
+/sql.tar.gz 1 powerequipment.ca
+/images/en_button_small_b.png 6 http://chainsawclinic.com/contents.htm
+/admin.php 1 -
+/dump.sql.gz 1 powerequipment.ca
+/dbadmin.sql.rar 1 powerequipment.ca
+/sql.sql.7z 1 powerequipment.ca
+/sql.bz2 1 powerequipment.ca
+/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/upload.sql.tar 1 powerequipment.ca
+/home.sql.bz2 1 powerequipment.ca
+/users.rar 1 powerequipment.ca
+/db_backup.tar.gz 1 powerequipment.ca
+/aboutus.htm 29 -
+/engine/engine.php 1 -
+/dump.sql 1 powerequipment.ca
+/temp.sql.zip 1 powerequipment.ca
+/mysql.sql.zip 1 powerequipment.ca
+/wp/wp-admin/setup-config.php 1 -
+/images/mm55.jpg 2 -
+/images/image1.jpeg 1 http://chainsawclinic.com/stihl.htm
+/db.bz2 1 powerequipment.ca
+/images/til2.jpg 2 -
+/dbdump.sql.7z 1 powerequipment.ca
+/dbase.sql.7z 1 powerequipment.ca
+/stihl.htm 25 -
+/images/up_toro.gif 1 http://chainsawclinic.com/contents.htm
+/users.sql.tar.gz 1 powerequipment.ca
+/././tel:416-244-5678 4 -
+/images/trimer1.jpg 1 http://chainsawclinic.com/stihl.htm
+/site.sql.tar 1 powerequipment.ca
+/husqvarna.htm 16 -
+/backup.sql.tar.gz 1 powerequipment.ca
+/db.sql.tar.bzip2 1 powerequipment.ca
+/db_backup.gz 1 powerequipment.ca
+/dbase.tgz 1 powerequipment.ca
+/users.sql.tgz 1 powerequipment.ca
+/db_backup.sql.tar.gzip 1 powerequipment.ca
+/images/Hlawn1.jpg 3 -
+/site.sql.tgz 1 powerequipment.ca
+/dbadmin.sql.7z 1 powerequipment.ca
+/site.sql.7z 1 powerequipment.ca
+/./tel:416-244-5678 4 -
+/dbdump.gz 1 powerequipment.ca
+/dump.tar.gzip 1 powerequipment.ca
+/backup/preview_Jan9/admin/elfinder/elfinder.html 1 -
+/temp.sql.tgz 1 powerequipment.ca
+/dbdump.sql.sql 1 powerequipment.ca
+/images/TOROBLOWER.jpg 3 -
+/web.sql.zip 1 powerequipment.ca
+/images/up_contactus.gif 1 http://chainsawclinic.com/contents.htm
+/home.sql.tar.bzip2 1 powerequipment.ca
+/www.sql.tar.gzip 1 powerequipment.ca
+/images/trimmer3.jpg 4 http://chainsawclinic.com/stihl.htm
+/Style.css 1 http://chainsawclinic.com/honda.htm
+//images/logo_img.php 6 -
+/home.sql.7z 1 powerequipment.ca
+/users.tar.bzip2 1 powerequipment.ca
+/dbadmin.sql 1 powerequipment.ca
+/db_backup.bz2 1 powerequipment.ca
+/images/up_home.gif 1 http://chainsawclinic.com/contents.htm
+/dbdump.sql.zip 1 powerequipment.ca
+/add.php 1 -
+/sql.sql.gz 1 powerequipment.ca
+/./assets/.././assets/../tel:416-244-5678 2 -
+/dump.zip 1 powerequipment.ca
+/dbase.sql 1 powerequipment.ca
+/db_backup.tgz 1 powerequipment.ca
+/./https://fonts.googleapis.com/css 4 -
+/upload.sql.tar.bz2 1 powerequipment.ca
+/db.rar 1 powerequipment.ca
+/dbdump.tar 1 powerequipment.ca
+/images/logo_img.php 1 http://www.chainsawclinic.com/images/logo_img.php
+/db.sql.7z 1 powerequipment.ca
+/erpfilemanager/elfinder.html 1 -
+/users.sql.tar.bzip2 1 powerequipment.ca
+/dbadmin.sql.bz2 1 powerequipment.ca
+/erfurt/erfurt/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/images/up_lawnboy.gif 1 http://chainsawclinic.com/contents.htm
+/echo%20header.gif 1 http://chainsawclinic.com/echo.htm
+/dbadmin.sql.zip 1 powerequipment.ca
+/db_backup.sql.rar 1 powerequipment.ca
+/sql.rar 1 powerequipment.ca
+/dbadmin.tar.bz2 1 powerequipment.ca
+/backup/preview_Jan27/admin/elfinder/elfinder.html 1 -
+/sql.tgz 1 powerequipment.ca
+/images/image7.jpeg 1 http://chainsawclinic.com/stihl.htm
+/temp.sql 1 powerequipment.ca
+//wp-includes/registration-functions.php 2 -
+/images/hus4.jpg 1 http://chainsawclinic.com/husqvarna.htm
+/data.sql.7z 1 powerequipment.ca
+/dbase.sql.sql 1 powerequipment.ca
+/backup.sql.tar.gzip 1 powerequipment.ca
+/upload.sql.zip 1 powerequipment.ca
+/mysql.7z 1 powerequipment.ca
+/images/til1.jpg 1 http://chainsawclinic.com/honda.htm
+/db.7z 1 powerequipment.ca
+/backup/preview_problem/admin/elfinder/elfinder.html 1 -
+/links/add.php 1 -
+/sql.gz 1 powerequipment.ca
+/dbdump.sql.tar 1 powerequipment.ca
+/dbase.tar.bzip2 1 powerequipment.ca
+/dbase.sql.tar.bz2 1 powerequipment.ca
+/1.sql.tar.bz2 1 powerequipment.ca
+/main.htm 26 -
+//templates/beez3/index.php 1 -
+/images/HTrim_01.jpg 3 -
+/www.sql.tar.bzip2 1 powerequipment.ca
+/1.sql.rar 1 powerequipment.ca
+/db.tar 1 powerequipment.ca
+/1.sql 1 powerequipment.ca
+/backup/preview_1/admin/elfinder/elfinder.html 1 -
+/db_backup.sql.gz 1 powerequipment.ca
+/images/hus1.jpg 2 http://chainsawclinic.com/husqvarna.htm
+/sql.sql.bz2 1 powerequipment.ca
+/dbadmin.tar 1 powerequipment.ca
+//admin/imgs/version.js 1 -
+/mysql.sql.tgz 1 powerequipment.ca
+/www.sql.tar 1 powerequipment.ca
+/dbadmin.sql.sql 1 powerequipment.ca
+/contactus.htm 29 -
+/site.sql 1 powerequipment.ca
+/users.bz2 1 powerequipment.ca
+/www.sql.tgz 1 powerequipment.ca
+/1.sql.gz 1 powerequipment.ca
+/1.sql.tar.bzip2 1 powerequipment.ca
+/https://code.jquery.com/jquery-3.1.1.min.js 4 -
+/web.sql 1 powerequipment.ca
+/images/hus5.jpg 2 http://chainsawclinic.com/husqvarna.htm
+/web.sql.7z 1 powerequipment.ca
+/sql.sql.tgz 1 powerequipment.ca
+/db.sql.zip 1 powerequipment.ca
+/mysql.tar.bzip2 1 powerequipment.ca
+/administrator/components/com_jvframework/libraries/elfinder-2.0-rc1/elfinder.html 1 -
+/upload.sql.gz 1 powerequipment.ca
+/dbase.sql.zip 1 powerequipment.ca
+/web.sql.tar.gz 1 powerequipment.ca
+/mysql.sql.tar 1 powerequipment.ca
+/adodb.class.php 1 chainsawclinic.ca
+/mysql.sql.tar.bz2 1 powerequipment.ca
+/db.sql.sql 1 powerequipment.ca
+/users.sql.gz 1 powerequipment.ca
+/images/HTrim_02.jpg 3 -
+/dbase.sql.tgz 1 powerequipment.ca
+/contents.htm 16 -
+/dbase.tar.bz2 1 powerequipment.ca
+/administrator/index.php 1 -
+/mysql.zip 1 powerequipment.ca
+/db.sql.bz2 1 powerequipment.ca
+/web.sql.tgz 1 powerequipment.ca
+/dbdump.sql 1 powerequipment.ca
+/db_backup.tar 1 powerequipment.ca
+/images/logotoro.gif 5 -
+/dbdump.tar.gz 1 powerequipment.ca
+/db_backup.sql.7z 1 powerequipment.ca
+/data.sql.sql 1 powerequipment.ca
+/dbase.sql.rar 1 powerequipment.ca
+/data.sql.tar.bzip2 1 powerequipment.ca
+/users.tar 1 powerequipment.ca
+/db_backup.sql.zip 1 powerequipment.ca
+/home.sql.tgz 1 powerequipment.ca
+/mysql.sql 1 powerequipment.ca
+/dbadmin.sql.tar.gzip 1 powerequipment.ca
+/dbdump.rar 1 powerequipment.ca
+/dbadmin.sql.tar.bz2 1 powerequipment.ca
+/data.sql.tar.gz 1 powerequipment.ca
+/backup.sql.sql 1 powerequipment.ca
+/www.sql.7z 1 powerequipment.ca
+/mysql.tgz 1 powerequipment.ca
+/images/hedgehon.jpg 1 http://chainsawclinic.com/stihl.htm
+/dbdump.tar.bzip2 1 powerequipment.ca
+/dbadmin.sql.tar 1 powerequipment.ca
+/temp.sql.gz 1 powerequipment.ca
+/db.tar.gzip 1 powerequipment.ca
+/xmlrpc.php 1 -
+/dbdump.7z 1 powerequipment.ca
+/www.sql.sql 1 powerequipment.ca
+/./assets/../tel:416-244-5678 2 -
+/web.sql.tar.bzip2 1 powerequipment.ca
+/backup.sql.tar 1 powerequipment.ca
+/upload.sql.tar.bzip2 1 powerequipment.ca
+/images/pump1.jpg 3 http://chainsawclinic.com/honda.htm
+/images/torotrack1.jpg 2 -
+/temp.sql.tar 1 powerequipment.ca
+/./https://code.jquery.com/jquery-3.1.1.min.js 4 -
+/web.sql.gz 1 powerequipment.ca
+/dbadmin.bz2 1 powerequipment.ca
+/site.sql.rar 1 powerequipment.ca
+/dbase.sql.tar.gzip 1 powerequipment.ca
+/www.sql 1 powerequipment.ca
+/backup.sql.tar.bz2 1 powerequipment.ca
+/dbdump.sql.tgz 1 powerequipment.ca
+/data.sql.rar 1 powerequipment.ca
+/db.tar.bzip2 1 powerequipment.ca
+/dump.sql.tar 1 powerequipment.ca
+/images/torolawn.jpg 2 http://chainsawclinic.com/toro.htm
+/images/up_honda.gif 1 http://chainsawclinic.com/contents.htm
+/mysql.gz 1 powerequipment.ca
+/erfurt/gotha/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/temp.sql.tar.gz 1 powerequipment.ca
+/data.sql.tar.gzip 1 powerequipment.ca
+/dbdump.tar.bz2 1 powerequipment.ca
+/./assets/https://code.jquery.com/jquery-1.12.0.min.js 4 -
+/images/huslogo.jpg 2 http://chainsawclinic.com/husqvarna.htm
+/db_backup.sql 1 powerequipment.ca
+/backup.sql.zip 1 powerequipment.ca
+/dbdump.tar.gzip 1 powerequipment.ca
+/upload.sql.bz2 1 powerequipment.ca
+/assets/contact.php 20 http://chainsawclinic.com/assets/contact.html
+/robots.txt 408 -
+/blog/wp-admin/setup-config.php 1 -
+/readme.html 1 -
+/contact.html 1 -
+/tiny_mce/plugins/elfinder/elfinder.html 1 -
+/dbadmin.7z 1 powerequipment.ca
+/upload.sql 1 powerequipment.ca
+/dbadmin.tgz 1 powerequipment.ca
+/home.sql.tar.bz2 1 powerequipment.ca
+/home.sql 1 powerequipment.ca
+/dbase.sql.bz2 1 powerequipment.ca
+/dump.tar 1 powerequipment.ca
+/images/sw_01.jpg 2 -
+/mysql.tar 1 powerequipment.ca
+/echo.htm 14 -
+/dbadmin.sql.tgz 1 powerequipment.ca
+/images/huschain.jpg 2 http://chainsawclinic.com/husqvarna.htm
+/db.sql 1 powerequipment.ca
+/sql.sql.tar 1 powerequipment.ca
+/gotha/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/mailto:sales@chainsawclinic.com 2 -
+/1.sql.zip 1 powerequipment.ca
+/dbadmin.rar 1 powerequipment.ca
+/mysql.sql.bz2 1 powerequipment.ca
+/honda.htm 18 -
+/dbase.sql.gz 1 powerequipment.ca
+/temp.sql.tar.gzip 1 powerequipment.ca
+/temp.sql.bz2 1 powerequipment.ca
+/1.sql.7z 1 powerequipment.ca
+/dump.sql.tar.bzip2 1 powerequipment.ca
+/db.sql.tar.bz2 1 powerequipment.ca
+/temp.sql.tar.bzip2 1 powerequipment.ca
+/dbdump.sql.bz2 1 powerequipment.ca
+/images/shilchain.jpg 1 http://chainsawclinic.com/stihl.htm
+/dump.gz 1 powerequipment.ca
+/dbdump.tgz 1 powerequipment.ca
+/images/SNB_02.jpg 2 -
+/db.sql.gz 1 powerequipment.ca
+/images/pump2.jpg 3 -
+/images/tr_4.jpg 1 http://chainsawclinic.com/stihl.htm
+/dbase.tar.gz 1 powerequipment.ca
+/db_backup.sql.sql 1 powerequipment.ca
+/dbdump.sql.gz 1 powerequipment.ca
+/bin/logo_img.php 1 http://www.chainsawclinic.com/bin/logo_img.php
+/users.7z 1 powerequipment.ca
+/mysql.sql.7z 1 powerequipment.ca
+/dbadmin.tar.gz 1 powerequipment.ca
+/users.sql 1 powerequipment.ca
+/users.sql.rar 1 powerequipment.ca
+/sql.sql.tar.gzip 1 powerequipment.ca
+/images/lawnboy2.JPG 3 -
+/users.sql.bz2 1 powerequipment.ca
+/images/image4.jpeg 1 http://chainsawclinic.com/stihl.htm
+/dump.sql.tar.gzip 1 powerequipment.ca
+/dbdump.sql.tar.gz 1 powerequipment.ca
+/dbadmin.sql.gz 1 powerequipment.ca
+/images/Hlawn2.jpg 2 -
+/mysql.sql.tar.gzip 1 powerequipment.ca
+/preview/admin/elfinder/elfinder.html 1 -
+/dbadmin.sql.tar.gz 1 powerequipment.ca
+/data.sql.bz2 1 powerequipment.ca
+/dbadmin.sql.tar.bzip2 1 powerequipment.ca
+/www.sql.rar 1 powerequipment.ca
+/place1/elfinder/elfinder.html 1 -
+/home.sql.rar 1 powerequipment.ca
+/dump.bz2 1 powerequipment.ca
+/erfurt/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/sql.sql.zip 1 powerequipment.ca
+/sql.sql.tar.bz2 1 powerequipment.ca
+/dbdump.sql.rar 1 powerequipment.ca
+/users.gz 1 powerequipment.ca
+/db.sql.tar 1 powerequipment.ca
+/pb-750.gif 2 http://chainsawclinic.com/echo.htm
+/home.sql.tar.gzip 1 powerequipment.ca
+/users.tar.bz2 1 powerequipment.ca
+/apple-touch-icon.png 2 -
+/db.tgz 1 powerequipment.ca
+/1.sql.bz2 1 powerequipment.ca
+/mysql.tar.gz 1 powerequipment.ca
+/dump.tar.gz 1 powerequipment.ca
+/images/logochainsaw.gif 7 -
+/images/hus2.jpg 2 http://chainsawclinic.com/husqvarna.htm
+/data.sql 1 powerequipment.ca
+/data.sql.zip 1 powerequipment.ca
+/./https://www.google.com/maps 4 -
+/upload.sql.tgz 1 powerequipment.ca
+/dump.rar 1 powerequipment.ca
+/mysql.rar 1 powerequipment.ca
+//wp-content/plugins/ubh/up.php 2 -
+/db_backup.7z 1 powerequipment.ca
+/dbadmin.gz 1 powerequipment.ca
+/temp.sql.rar 1 powerequipment.ca
+/dbadmin.tar.bzip2 1 powerequipment.ca
+/backup.sql.7z 1 powerequipment.ca
+/images/gen_02.jpg 1 http://chainsawclinic.com/honda.htm
+/data.sql.tar 1 powerequipment.ca
+/backup.sql.tar.bzip2 1 powerequipment.ca
+/db_backup.tar.bzip2 1 powerequipment.ca
+/upload.sql.tar.gz 1 powerequipment.ca
+/mysql.tar.bz2 1 powerequipment.ca
+/lawnboy.htm 23 -
+/db_backup.zip 1 powerequipment.ca
+/dbase.tar.gzip 1 powerequipment.ca
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 438
+99.242.224.195 311 708 39803441 20170131151347
+99.236.9.100 50 50 259850 20170131111142
+185.174.137.215 36 36 212436 20170115214745
+209.29.240.16 35 35 181895 20170131134209
+99.253.106.184 26 26 135122 20170130233508
+108.63.189.139 21 47 4918023 20170129115415
+115.132.167.70 14 30 7758439 20170106001610
+210.195.130.184 14 30 7758439 20170122015859
+208.90.57.196 12 12 75036 20170119081215
+8.28.16.254 11 11 264602 20170130111851
+192.206.151.130 10 28 5172529 20170111111658
+206.130.173.28 9 22 3552615 20170130111851
+199.116.169.254 9 9 183189 20170126082259
+189.149.115.199 9 9 46773 20170106084256
+174.115.188.104 9 26 6624614 20170119162556
+99.241.94.157 9 24 5113872 20170118174725
+198.168.255.185 8 23 5138968 20170131061928
+173.206.74.243 8 22 6463399 20170131132222
+76.64.14.189 8 26 5091116 20170130095851
+69.159.202.29 7 15 1871415 20170116075632
+174.88.79.90 7 18 1754053 20170103191151
+204.187.67.26 7 15 1871415 20170123125510
+99.230.206.28 7 22 4935231 20170121135536
+99.233.32.43 7 23 6588067 20170116163916
+70.31.68.221 6 22 6570039 20170122083309
+192.80.80.1 5 13 1733913 20170105144636
+104.131.115.133 1 2 5598 20170107091828
+174.115.67.233 3 8 1699228 20170114220655
+95.65.30.156 1 1 5197 20170106000030
+66.23.194.53 2 2 12506 20170116102932
+76.66.110.68 2 7 1681200 20170128120426
+93.115.95.207 1 1 5197 20170110221827
+138.197.36.116 2 2 12506 20170116111516
+46.105.214.137 1 1 5197 20170106062209
+70.48.38.28 3 8 1699228 20170108193158
+76.67.30.42 1 2 126397 20170103185958
+108.168.68.151 4 14 3362400 20170128091126
+116.23.14.11 3 3 17703 20170102033602
+99.227.176.66 2 7 1681200 20170129200036
+65.93.98.128 3 8 1704624 20170130171616
+93.174.93.133 1 1 5197 20170107051003
+104.131.172.31 1 2 5598 20170101192111
+64.4.90.120 4 9 1762613 20170117132549
+134.249.159.113 1 1 5197 20170109135419
+64.136.117.206 2 7 1681200 20170131163157
+108.63.111.45 3 8 1699228 20170108121952
+138.197.68.123 2 2 12506 20170128184622
+54.83.83.239 1 1 5197 20170115085123
+68.179.34.1 4 14 3362400 20170131082126
+54.171.251.197 1 1 5197 20170126184603
+184.94.21.70 1 4 1653327 20170131111251
+74.85.210.119 1 1 5197 20170112180459
+62.212.73.49 1 1 5197 20170111161242
+104.236.31.232 1 2 5598 20170117145443
+144.217.80.113 2 2 10394 20170124055331
+72.39.17.210 3 8 1699228 20170110072124
+216.191.72.138 2 7 1681200 20170125140636
+220.181.51.110 0 1 121200 
+35.167.38.148 5 18 1744359 20170115045859
+93.115.95.201 2 2 10394 20170109163831
+198.50.200.157 1 1 5197 20170111211837
+35.166.48.95 5 18 1744359 20170101081823
+99.241.138.117 2 7 1681200 20170125144817
+96.39.85.86 3 10 1700899 20170116132710
+52.204.248.150 1 1 5197 20170123182408
+198.72.30.41 1 1 5197 20170106203412
+91.107.105.132 1 1 5197 20170113122307
+150.70.173.6 1 1 5197 20170125213332
+76.67.77.243 2 7 1681200 20170112140824
+99.226.195.122 4 14 3362400 20170119162728
+52.70.48.63 1 1 5197 20170104160547
+188.68.49.205 1 1 5197 20170106071830
+35.162.214.175 1 1 5197 20170128065842
+23.106.132.10 1 1 5197 20170118010011
+163.172.136.101 1 1 5197 20170116194005
+184.151.190.183 3 8 1699228 20170129225816
+201.19.112.27 1 1 5197 20170102132720
+120.28.18.64 2 7 1681200 20170102104110
+24.114.52.83 2 7 1681200 20170112081504
+219.88.177.199 2 8 3207639 20170111215855
+138.197.71.180 1 2 5598 20170127053618
+208.69.13.134 2 7 1681200 20170105074933
+65.95.205.165 2 7 1681200 20170101191509
+70.25.1.56 2 7 1681200 20170125071101
+61.135.190.222 1 2 5598 20170117140948
+70.31.8.112 2 7 1681200 20170115172037
+82.80.249.211 1 1 5197 20170125184946
+216.19.219.135 1 1 5197 20170102081128
+206.130.173.29 2 7 1681200 20170123144647
+45.63.115.46 2 2 10394 20170128212525
+165.154.33.105 3 8 1704624 20170115085901
+174.93.80.121 5 10 1783732 20170128083208
+167.92.67.10 4 9 1762613 20170106092618
+178.140.116.198 1 6 1654908 20170112071637
+35.163.167.99 5 18 1744359 20170115091846
+45.32.130.173 2 2 10394 20170118100537
+99.229.221.84 3 3 15591 20170128183855
+24.114.79.47 2 7 1681200 20170110113735
+220.181.108.75 1 1 45404 20170103155735
+99.239.216.198 3 8 1699228 20170116122218
+64.141.22.36 3 10 1700899 20170127215949
+220.181.108.151 0 1 491 
+79.124.59.202 1 1 5197 20170102235540
+52.4.244.57 1 1 5197 20170104160609
+167.114.89.195 1 1 5197 20170124045657
+35.167.69.236 2 2 12506 20170112184118
+188.143.232.62 1 1 7309 20170103050837
+184.151.37.74 3 8 1699228 20170112114031
+174.142.214.198 0 5 10446 
+204.237.57.132 1 2 126397 20170129115940
+109.86.71.185 2 2 10394 20170129083055
+192.81.26.125 4 9 1762613 20170123110028
+35.167.106.185 5 18 1744359 20170109032359
+66.102.6.209 1 1 5197 20170113065411
+119.160.174.61 2 8 3207639 20170102120601
+95.211.216.24 1 1 5197 20170126210000
+70.48.228.9 4 9 1762613 20170103085814
+65.19.167.132 1 1 5197 20170115084806
+99.250.82.254 4 9 1762613 20170106145557
+24.226.71.164 2 7 1681200 20170103193829
+192.0.189.152 2 7 1681200 20170117112056
+66.102.6.95 4 8 1711599 20170128094209
+128.71.39.72 1 1 5197 20170109032615
+35.166.172.211 3 8 1704624 20170103212529
+35.167.16.47 5 18 1744359 20170105095703
+54.144.247.35 2 2 10394 20170129134458
+188.163.76.16 1 1 5197 20170111035819
+162.223.51.22 2 7 1681200 20170129191402
+72.142.9.254 2 7 1681200 20170116154743
+66.11.92.50 4 9 1762613 20170118123048
+35.167.12.118 3 8 1704624 20170105201921
+151.1.182.128 1 1 5197 20170116001707
+46.71.148.32 4 12 1728716 20170128123215
+70.30.55.115 6 18 1601596 20170117181712
+172.98.67.100 4 14 3362400 20170108172345
+99.250.254.194 2 7 1681200 20170112205404
+174.89.67.16 1 1 5197 20170124201552
+67.23.235.226 1 1 5197 20170116102925
+76.64.52.88 4 12 1728716 20170105085614
+184.151.179.153 6 19 3409916 20170102142207
+159.18.26.96 6 16 3443813 20170116092831
+45.32.129.200 2 2 10394 20170131061241
+206.248.190.226 1 1 5197 20170123152950
+220.181.108.78 0 1 491 
+99.241.132.123 3 8 1699228 20170111153527
+41.218.248.110 4 12 1728716 20170106033718
+69.46.97.207 4 10 3289052 20170124091451
+174.91.112.176 6 16 1854936 20170106201415
+212.86.111.219 1 1 5197 20170101133323
+184.145.50.154 3 8 1699228 20170106085819
+64.111.94.83 3 9 3225667 20170113212723
+99.243.89.104 4 10 3289052 20170109154757
+135.23.155.190 4 9 1762613 20170103163231
+74.15.167.121 2 7 1681200 20170104125029
+185.38.14.171 1 1 5197 20170114053133
+123.125.71.52 0 1 401 
+64.229.37.55 2 7 1681200 20170110145229
+142.214.241.28 2 7 1681200 20170112063643
+138.197.96.236 1 2 5598 20170125174203
+37.204.39.162 4 8 338708 20170111092640
+69.157.80.170 4 14 3362400 20170116195928
+220.181.108.82 0 1 401 
+45.55.133.230 1 2 5598 20170119174750
+184.94.60.246 4 14 3362400 20170124190319
+24.114.54.126 3 8 1699228 20170103170438
+45.72.164.163 2 7 1681200 20170119095126
+45.32.131.61 2 2 10394 20170107083927
+104.236.46.63 2 2 12506 20170124013244
+64.74.215.113 4 4 0 20170123101446
+199.91.135.163 2 2 68595 20170123125510
+188.128.123.6 1 1 5197 20170116025931
+66.249.83.88 1 1 5197 20170102143217
+24.114.55.190 3 8 1699228 20170110165508
+138.197.47.209 2 2 12506 20170108010412
+104.204.24.246 2 7 1681200 20170106115224
+66.185.200.198 2 7 1681200 20170113114904
+174.119.16.91 3 8 1699228 20170102204831
+99.247.148.91 3 8 1699228 20170103175158
+174.95.62.238 2 8 3207639 20170128161432
+174.92.72.50 6 16 3398456 20170123112251
+104.158.245.140 2 7 1681200 20170101134248
+220.181.108.183 1 1 61080 20170130073941
+134.249.217.158 2 7 1681200 20170131024132
+168.61.184.157 3 8 1761392 20170119220713
+128.68.220.110 4 8 236174 20170109132043
+108.63.186.187 1 1 5197 20170117222843
+76.69.44.197 2 7 1681200 20170119163955
+70.30.97.120 2 8 3207639 20170110115548
+35.163.106.0 3 8 1704624 20170111235455
+24.114.79.89 3 8 1699228 20170131121259
+104.247.40.5 3 3 15591 20170118010057
+38.104.192.234 2 8 3207639 20170124111207
+176.195.142.141 4 8 338708 20170122080401
+184.146.143.174 2 7 1681200 20170110121134
+52.10.105.88 1 1 5197 20170116203151
+52.215.38.183 2 2 12506 20170113123331
+206.130.173.25 2 7 1681200 20170124122410
+99.245.196.239 1 15 497393 20170114132116
+167.114.209.38 5 5 28097 20170112141048
+109.163.234.2 3 3 15591 20170122105143
+46.166.148.152 1 1 5197 20170108150825
+35.167.183.17 5 18 1744359 20170111103251
+5.196.1.129 1 1 5197 20170111193059
+138.197.96.201 1 2 5598 20170131055657
+65.94.107.98 4 14 3362400 20170117151049
+123.125.71.114 1 1 5197 20170130073934
+24.52.228.251 2 7 1681200 20170117004305
+35.167.57.110 5 18 1744359 20170110120355
+199.166.15.233 2 11 1804472 20170127111423
+70.67.220.222 2 7 1681200 20170128213346
+47.89.193.18 1 1 5197 20170105091625
+198.96.85.103 2 7 1681200 20170119140929
+24.114.55.100 4 12 1728716 20170128151806
+52.205.219.245 3 3 15591 20170123160925
+38.100.21.78 3 6 140574 20170105000429
+99.248.67.108 4 9 1762613 20170101131208
+68.148.1.37 2 7 1681200 20170130211252
+117.78.13.17 1 1 5197 20170102004456
+83.217.27.244 1 1 5197 20170110133444
+76.65.207.247 2 7 1681200 20170109155152
+184.147.227.71 3 8 1699228 20170101002432
+46.229.170.197 4 4 20788 20170121230203
+35.167.181.223 5 18 1744359 20170115170404
+50.100.38.218 3 8 1699228 20170105183838
+89.31.57.5 1 1 5197 20170115045520
+204.40.130.136 2 7 1681200 20170103121323
+142.214.241.7 5 11 3310171 20170118114554
+24.114.76.115 3 8 1704624 20170109120104
+220.181.108.79 0 1 1180 
+38.130.125.12 2 7 1681200 20170120095825
+192.81.26.77 2 7 1681200 20170130161318
+99.226.146.223 5 15 4809290 20170102100557
+207.164.79.127 3 8 1699228 20170110161849
+70.27.98.97 5 13 1733913 20170110120922
+220.181.51.107 0 1 121200 
+188.255.22.69 4 8 338708 20170125201043
+188.15.6.242 2 7 1681200 20170105111128
+172.164.30.184 2 7 1681200 20170103130742
+142.19.97.2 2 7 1681200 20170104090608
+46.182.18.214 1 1 5197 20170112034854
+62.77.94.15 1 1 5197 20170112111735
+198.136.255.252 1 6 1654908 20170118072655
+138.197.111.246 2 2 12506 20170130201910
+72.39.29.130 2 7 1681200 20170103190534
+104.131.31.176 1 2 5598 20170115100423
+174.91.149.134 4 9 1762613 20170112120640
+99.235.211.3 2 7 1681200 20170118110517
+99.237.66.243 2 8 3207639 20170131163505
+184.151.63.241 3 8 1699228 20170113123940
+24.114.53.191 5 13 1746744 20170121112521
+64.40.242.176 4 9 1762613 20170103132057
+172.97.149.164 2 7 1681200 20170127103502
+172.164.33.159 3 8 1704624 20170103143338
+99.241.136.131 3 8 1699228 20170115183153
+104.145.8.194 2 7 1681200 20170131144905
+174.91.68.132 4 9 1762613 20170125213128
+151.51.146.53 1 1 5197 20170123001722
+72.169.96.181 4 10 115905 20170102061852
+70.27.138.6 2 7 1681200 20170101145626
+220.181.108.179 1 1 61080 20170103155735
+24.114.71.53 3 8 1699228 20170103210044
+45.55.238.190 1 2 5598 20170121165152
+184.149.39.109 4 4 25012 20170123181053
+162.251.17.4 2 7 1681200 20170115194333
+150.70.173.47 1 1 5197 20170101191627
+23.91.152.17 2 7 1681200 20170125022523
+195.154.181.168 6 6 31182 20170126132239
+99.245.199.176 2 7 1681200 20170120131612
+50.101.254.86 3 8 1699228 20170116075939
+99.227.190.237 2 7 1681200 20170130153143
+184.151.179.237 3 8 1699228 20170105124419
+220.181.108.118 0 1 1180 
+108.63.19.178 4 14 3362400 20170126154415
+65.94.194.50 4 17 1739162 20170127104018
+64.228.215.227 4 12 3244875 20170124162135
+91.219.236.232 1 1 5197 20170117092358
+54.221.51.221 1 1 5197 20170129130648
+104.236.244.32 2 2 12506 20170119011217
+36.110.147.68 1 1 5197 20170115201219
+138.197.111.89 1 2 5598 20170129233534
+54.221.81.154 1 1 5197 20170122142953
+204.40.194.132 2 7 1681200 20170116085834
+173.206.135.121 4 9 1704425 20170109154150
+74.12.28.165 2 7 1681200 20170103180856
+104.193.9.167 4 4 20788 20170123150823
+176.31.180.157 1 1 5197 20170124083318
+141.226.162.86 1 1 5197 20170113174930
+138.197.111.98 1 2 5598 20170128161228
+70.24.7.153 6 16 3443813 20170104200157
+207.164.79.92 3 8 1704624 20170121072026
+24.114.221.132 2 7 1681200 20170116102432
+50.100.188.9 3 8 0 20170110214141
+65.93.173.2 4 9 1762613 20170112112908
+35.160.211.111 3 8 1704624 20170104180227
+72.38.21.85 3 8 1704624 20170130185649
+174.92.51.170 2 2 10394 20170123161315
+35.163.191.82 5 18 1744359 20170104011652
+174.114.139.251 2 11 3209711 20170126215750
+76.71.56.52 2 7 1681200 20170116091748
+184.151.37.56 0 1 1526439 
+82.80.249.243 2 2 10394 20170125154521
+54.221.25.70 1 1 5197 20170108194731
+109.67.231.75 2 8 3207639 20170108102455
+209.171.88.208 3 8 1699228 20170127115850
+69.171.107.200 4 10 3289052 20170105235307
+49.34.178.137 4 9 1686397 20170108080000
+174.116.76.45 2 7 1681200 20170112113421
+35.167.53.31 3 8 1704624 20170103162948
+96.44.42.83 2 7 1681200 20170128181927
+54.90.41.238 1 1 5197 20170116235846
+199.235.192.96 2 3 131594 20170111140602
+162.243.185.90 1 2 5598 20170112203518
+66.102.6.65 0 3 1648819 
+45.55.229.101 2 2 12506 20170121122003
+173.239.174.62 2 7 1681200 20170122111728
+24.114.59.146 1 1 0 20170117140236
+50.100.56.11 3 8 1699228 20170113124138
+104.131.62.190 2 2 12506 20170110200713
+99.226.96.88 2 7 1681200 20170109080041
+54.211.45.105 1 1 7309 20170126101013
+206.210.119.64 2 7 1681200 20170117153204
+216.123.190.94 2 7 1681200 20170103013857
+54.226.84.195 1 1 5197 20170101152433
+35.166.5.79 5 18 1744359 20170108001428
+104.238.180.234 1 1 5197 20170108193640
+174.94.133.12 2 7 1681200 20170125173831
+62.212.68.156 1 1 5197 20170111144645
+199.212.7.70 1 1 5197 20170130102821
+45.55.229.167 2 2 12506 20170102100621
+64.119.200.188 4 9 1865147 20170103085226
+99.231.59.12 2 7 1681200 20170128131004
+24.114.70.226 1 1 5197 20170122141453
+174.118.191.97 2 7 1681200 20170107100320
+82.145.221.8 1 6 1654908 20170131085331
+76.65.27.34 2 7 1681200 20170120090856
+66.206.247.200 2 7 1681200 20170115072635
+67.58.220.200 2 7 1681200 20170128184050
+54.197.210.109 1 1 5197 20170111072441
+66.102.6.94 0 3 1982 
+99.227.152.113 4 9 1709821 20170105224046
+69.58.96.82 4 9 1762613 20170112105621
+207.112.107.194 3 8 1699228 20170104151008
+35.167.56.230 3 8 1704624 20170106042310
+205.210.222.150 2 2 10394 20170116091628
+104.207.150.177 1 1 5197 20170118010504
+108.160.254.246 4 14 3362400 20170110100230
+70.30.54.195 5 15 3274363 20170107083233
+24.114.64.193 1 1 5197 20170130144701
+46.105.31.30 1 1 5197 20170120234137
+66.199.36.250 4 9 1762613 20170119092719
+41.210.4.161 2 2 5197 20170117062455
+62.75.188.155 1 1 5197 20170112064923
+174.113.180.99 3 8 1704624 20170108233143
+70.26.167.212 2 7 1681200 20170105093414
+40.122.170.235 3 4 1544142 20170122025434
+217.160.140.59 2 2 0 20170111144331
+199.166.14.244 2 6 1573955 20170127133826
+97.115.176.189 2 7 1681200 20170113100228
+138.197.2.72 2 2 12506 20170105055342
+72.143.197.102 2 8 3207639 20170131092825
+65.93.175.24 2 7 1681200 20170104141819
+185.100.85.192 1 1 5197 20170116094108
+99.226.219.164 1 1 23424 20170103233156
+209.151.136.197 2 7 1681200 20170123152912
+150.70.173.48 1 1 5197 20170116125057
+173.254.216.66 1 1 5197 20170110091000
+82.80.249.137 1 1 5197 20170125184948
+186.202.189.118 1 1 5197 20170112065504
+178.217.187.39 1 1 5197 20170124045808
+54.235.48.12 1 1 5197 20170126150449
+192.0.150.215 2 7 1681200 20170102112431
+35.163.12.6 5 18 1744359 20170112111517
+70.24.105.119 2 7 1681200 20170121082200
+209.195.126.139 3 8 1704624 20170116153818
+176.193.233.103 3 6 277021 20170111030145
+45.41.60.74 1 1 5197 20170125174346
+54.237.243.249 1 1 5197 20170126091343
+74.112.136.91 2 7 1681200 20170129231901
+176.193.97.71 4 8 236174 20170101171600
+178.79.14.170 1 1 5197 20170101154126
+99.239.188.195 6 16 3398456 20170109205834
+24.114.55.14 3 8 1699228 20170125113644
+88.99.132.125 1 1 5197 20170106122557
+138.197.36.150 2 2 12506 20170113151443
+65.95.200.79 2 7 1681200 20170109134917
+35.163.157.66 5 18 1744359 20170106225259
+70.30.64.7 2 7 1681200 20170127151657
+104.236.211.136 1 2 5598 20170123132337
+123.125.71.34 1 1 61080 20170103155734
+54.212.64.17 1 1 5197 20170112112432
+209.171.88.249 1 1 5197 20170106120838
+220.181.108.185 1 1 5197 20170103155728
+65.92.119.36 3 8 1704624 20170128070647
+70.27.155.252 2 7 1681200 20170121141110
+99.224.8.222 3 8 1704624 20170118111704
+45.55.229.151 1 2 5598 20170104124047
+99.227.177.225 5 12 3258336 20170112131424
+67.205.146.164 1 1 5197 20170108001123
+117.78.13.18 1 1 5197 20170121213800
+199.7.157.70 2 7 1681200 20170121151800
+70.24.119.1 2 7 1681200 20170105115356
+67.69.23.220 4 9 1762613 20170111065153
+173.206.226.89 2 7 1681200 20170130093941
+40.143.1.4 2 2 10394 20170122031951
+61.135.190.102 1 2 5598 20170117141804
+76.71.58.8 2 8 3207639 20170124143357
+99.254.231.4 3 8 1704624 20170108024919
+192.171.47.90 3 8 1699228 20170117194300
+69.42.188.50 4 9 1762613 20170106124917
+209.146.245.161 2 7 1681200 20170103134703
+69.58.97.4 2 7 1681200 20170110094951
+184.146.147.144 4 10 3289052 20170104180716
+150.70.173.21 3 3 15591 20170125214846
+138.197.73.162 2 2 12506 20170126154911
+174.129.129.190 2 2 10394 20170128075055
+209.202.106.130 2 7 1681200 20170116091119
+74.12.37.153 2 7 1681200 20170124110415
+37.105.238.192 2 2 10394 20170113123853
+35.164.180.128 5 18 1744359 20170106055207
+51.15.59.54 2 2 10394 20170126235848
+85.93.31.146 1 1 5197 20170127150322
+69.157.33.213 3 8 1699228 20170103163852
+104.156.230.231 2 2 10394 20170126162702
+99.253.173.109 2 7 1681200 20170102203931
+104.236.68.137 1 2 5598 20170110035734
+99.254.81.249 3 9 3225667 20170114090621
+192.222.217.95 2 7 1681200 20170123153945
+174.88.141.42 4 14 3362400 20170117053308
+184.94.46.50 2 8 3207639 20170116124855
+69.158.105.121 3 8 1704624 20170126164655
+103.204.179.151 1 1 5197 20170104070925
+123.125.67.150 1 1 61080 20170130073941
+220.181.108.180 1 1 45404 20170130073941
+69.58.178.58 4 4 22900 20170112033444
+209.171.88.199 2 7 1681200 20170118115600
+35.165.149.193 5 18 1744359 20170113064028
+174.112.99.43 2 8 3207639 20170105181911
+99.242.224.239 3 10 3355131 20170126165922
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170101 44 103 17176020 20
+20170102 39 93 16825528 20
+20170103 94 236 38043257 34
+20170104 52 135 21764521 20
+20170105 72 181 27186355 25
+20170106 76 178 20439575 24
+20170107 16 37 6686374 10
+20170108 38 92 16862581 19
+20170109 50 129 22201152 20
+20170110 76 189 25415541 28
+20170111 62 140 22649490 28
+20170112 78 174 23730561 31
+20170113 70 133 18883793 19
+20170114 21 53 5658540 11
+20170115 60 136 18695844 19
+20170116 83 197 32381136 35
+20170117 57 129 17012611 25
+20170118 59 136 23838130 18
+20170119 47 109 16905018 17
+20170120 45 94 11458693 13
+20170121 30 75 15067237 16
+20170122 26 48 8394849 12
+20170123 65 119 14090850 25
+20170124 44 105 18039744 16
+20170125 51 121 19146546 22
+20170126 40 86 13444762 20
+20170127 38 103 15445677 15
+20170128 43 111 21981507 21
+20170129 23 50 6916399 13
+20170130 50 121 17292047 24
+20170131 49 120 26670420 19
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 580
+30s-2mn 27
+5mn-15mn 4
+2mn-5mn 3
+1h+ 3
+30mn-1h 14
+15mn-30mn 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 754 3539157 620 283
+/assets/fonts/SofachromeRg-Regular.woff 398 8807820 3 237
+/assets/fonts/SofachromeRg-Regular.eot 116 3615874 1 4
+/assets/fonts/glyphicons-halflings-regular.eot 113 1106985 0 0
+/assets/contact.html 72 526248 5 22
+/assets/fonts/glyphicons-halflings-regular.woff2 64 1081680 2 48
+/assets/fonts/glyphicons-halflings-regular.woff 29 679296 1 27
+/assets/fonts/SofachromeRg-Regular.ttf 8 488640 4 6
+/./assets/contact.html 8 58472 1 2
+/assets/fonts/HqSansProTT-Bold.eot 5 644130 0 1
+/./ 4 20788 0 0
+/././ 4 20788 0 0
+/././assets/contact.html 4 29236 0 0
+/./././ 4 20788 0 4
+/./././assets/contact.html 4 29236 0 0
+/assets/fonts/glyphicons-halflings-regular.ttf 3 136212 2 3
+/./assets/.././assets/.././assets/contact.html 2 14618 0 2
+/./assets/.././assets/../ 2 10394 0 0
+/./assets/../ 2 10394 0 0
+/./assets/.././assets/contact.html 2 14618 0 0
+END_SIDER

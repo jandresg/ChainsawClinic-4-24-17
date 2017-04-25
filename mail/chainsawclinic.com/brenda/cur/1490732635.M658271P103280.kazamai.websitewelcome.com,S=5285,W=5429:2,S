@@ -1,0 +1,144 @@
+Return-Path: <>
+Delivered-To: brenda@chainsawclinic.com
+Received: from kazamai.websitewelcome.com
+	by kazamai.websitewelcome.com (Dovecot) with LMTP id mTklJ1vG2lhwkwEAaocpPg
+	for <brenda@chainsawclinic.com>; Tue, 28 Mar 2017 15:23:55 -0500
+Return-path: <>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 28 Mar 2017 15:23:55 -0500
+Received: from mailnull by kazamai.websitewelcome.com with local (Exim 4.87)
+	id 1csxel-000UkG-H7
+	for brenda@chainsawclinic.com; Tue, 28 Mar 2017 15:23:55 -0500
+X-Failed-Recipients: ashley_vandenbrink@ch.honda.ca
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@kazamai.websitewelcome.com>
+To: brenda@chainsawclinic.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1490732635-eximdsn-1251408276
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1csxel-000UkG-H7@kazamai.websitewelcome.com>
+Date: Tue, 28 Mar 2017 15:23:55 -0500
+
+--1490732635-eximdsn-1251408276
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  ashley_vandenbrink@ch.honda.ca
+    host cm.websitewelcome.com [108.167.139.22]
+    SMTP error from remote mail server after RCPT TO:<ashley_vandenbrink@ch.honda.ca>:
+    550 5.1.1 <ashley_vandenbrink@ch.honda.ca> recipient rejected
+
+--1490732635-eximdsn-1251408276
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; kazamai.websitewelcome.com
+
+Action: failed
+Final-Recipient: rfc822;ashley_vandenbrink@ch.honda.ca
+Status: 5.0.0
+Remote-MTA: dns; cm.websitewelcome.com
+Diagnostic-Code: smtp; 550 5.1.1 <ashley_vandenbrink@ch.honda.ca> recipient rejected
+
+--1490732635-eximdsn-1251408276
+Content-type: message/rfc822
+
+Return-path: <brenda@chainsawclinic.com>
+Received: from cpef8bc1285d6bb-cm602ad086d896.cpe.net.cable.rogers.com ([99.242.224.195]:54910 helo=LAPTOPO4AKUVG6)
+	by kazamai.websitewelcome.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <brenda@chainsawclinic.com>)
+	id 1csxee-000UhP-CY
+	for ashley_vandenbrink@ch.honda.ca; Tue, 28 Mar 2017 15:23:48 -0500
+From: "Chain Saw Clinic - Brenda" <brenda@chainsawclinic.com>
+To: <ashley_vandenbrink@ch.honda.ca>
+Subject: hydro one CLASIFICATION COMMERCIAL OR GOVERNMENT
+Date: Tue, 28 Mar 2017 16:23:48 -0400
+Message-ID: <000001d2a801$35c4f6a0$a14ee3e0$@chainsawclinic.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_01D2A7DF.AEB356A0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdKoAO/VQin7vxOCQFSZi4oQD8ZhQg==
+Content-Language: en-ca
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0001_01D2A7DF.AEB356A0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Good afternoon Ashley,
+
+I have a quiery, about HYDRO ONE, I know the Province has interest in Hydro
+One, so would they be government or commercial and how would I understand
+this for future quotes
+
+Thanks Brenda
+
+
+------=_NextPart_000_0001_01D2A7DF.AEB356A0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-CA link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Good =
+afternoon Ashley,<o:p></o:p></p><p class=3DMsoNormal>I have a quiery, =
+about HYDRO ONE, I know the Province has interest in Hydro One, so would =
+they be government or commercial and how would I understand this for =
+future quotes<o:p></o:p></p><p class=3DMsoNormal> <o:p></o:p></p><p =
+class=3DMsoNormal>Thanks Brenda<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0001_01D2A7DF.AEB356A0--
+
+
+--1490732635-eximdsn-1251408276--

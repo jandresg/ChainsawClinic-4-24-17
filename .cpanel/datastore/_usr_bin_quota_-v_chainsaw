@@ -1,0 +1,4 @@
+Disk quotas for user chainsaw (uid 1115): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+      /dev/sda3       0  256000  256000               0       0       0        
+      /dev/sdb1   13764  256000  256000             600       0       0        

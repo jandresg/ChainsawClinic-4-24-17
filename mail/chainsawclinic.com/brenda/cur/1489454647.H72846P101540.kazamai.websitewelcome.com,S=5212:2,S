@@ -1,0 +1,91 @@
+Return-path: <rfranske@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Mon, 13 Mar 2017 20:24:07 -0500
+Received: from mail-pg0-f53.google.com ([74.125.83.53]:34243)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <rfranske@gmail.com>)
+	id 1cnbC2-000QJ2-TE
+	for brenda@chainsawclinic.com; Mon, 13 Mar 2017 20:24:06 -0500
+Received: by mail-pg0-f53.google.com with SMTP id 77so74352944pgc.1
+        for <brenda@chainsawclinic.com>; Mon, 13 Mar 2017 18:24:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=G2gTrOS6B6duNJ2gASaOCQ+Q2SuqvJNXvFj7wuAKNgs=;
+        b=U1A9BzX2b9JzCBWn5pq/2heQmVemZAejnXFz25BGODemqsBcdVxDDVfgbzDnxV+76G
+         9THJgQhg/LqQi5n22iw8rL9XH+s4tqR6nM29zSo0wsPzYhSBXmqgB7c9BB+N4uRSjod9
+         /tjoJEHO8a8s0xoBHNHqMNZiAeeu30/0Bnl+7pQsyUE7chxcyaOi2eyaLeBIZIsx98rv
+         yiZVOzRfF9B1Q/iJONJSNgttkM3VjC0jAR+1QBZjF/jWUed0H7tjbJg8zobtJigdEjz2
+         /cSe3rVvaLzmje6wjKZvKq6deaoHltld1+ohc4MPTvqOqQuTXPAGdeAwqj4kZcyQUD2O
+         d4tA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=G2gTrOS6B6duNJ2gASaOCQ+Q2SuqvJNXvFj7wuAKNgs=;
+        b=PQfcnZ5kRhdpBu8ZLFmctD2tHb4GyvLq6VgSaFilU38FZn1v3Z7vTFuYp+cshCJtzn
+         vvt2Lg+R9ufKZMU7PT+74hzGnr2fgFmZxEKO6AAj9GnGDtonTJyeqiaVGWjD7yU9HEPm
+         /S3U09FgnZYR+uKCJA066DWpVnkLFeRNaEcQUHysnrqjl1d8+snOmuRw9ikMJgBXeziN
+         cfphfNWoFB8o/GWO46k2EYXuikN3zF2XmNzcchQ5OZs8ASuNy7xgyGpq1K/k4OW5qj0e
+         VIvtN/frakUz2UGpSGdcKdiRR6S862OtTVjgwhvJtzb4jY6K8T4ovUqr43tbTePnQ/pw
+         CcLw==
+X-Gm-Message-State: AMke39nVzeJkwOzbLQEGz2jGYgrkgOU54yxQTAn4km3RHMfj4NBxk0q9w8TQU7JFm75rDuAnwk6oQmUy7UZwRQ==
+X-Received: by 10.84.129.67 with SMTP id 61mr52137593plb.16.1489454635685;
+ Mon, 13 Mar 2017 18:23:55 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.100.183.166 with HTTP; Mon, 13 Mar 2017 18:23:55 -0700 (PDT)
+From: Randall Franske <rfranske@gmail.com>
+Date: Mon, 13 Mar 2017 21:23:55 -0400
+Message-ID: <CAFGvh3LVMTv91V9JZj9Tx92=9eu2S+KYm_mJRkQw=1cBQ7pq6Q@mail.gmail.com>
+Subject: Major cleaning of the Kingdom hall Saturday March 18, at 11:30 pm
+To: Alex Quiroz <alexsumano@hotmail.com>, Bill Ariko <margaretariko@gmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Dave Fowler <uniteddave@aol.com>, 
+	Denis Bou <dennis.bou92@gmail.com>, Dinuzzo Elvi <edinuzzo@alumni.uoguelph.ca>, 
+	Franske R Gmail <rfranske@gmail.com>, Franske RS <rsfranske@gmail.com>, 
+	Franske S wtbts <SFranske@jw.org>, Grace Lopes <lopes.grace@ymail.com>, 
+	Nick Smith <mossberg303@gmail.com>, Paul Losacco <plosacco@rogers.com>, 
+	Ron Robinson <brenda@chainsawclinic.com>, Thavrac Bou <thavracbou@hotmail.com>, 
+	Zenon Varisella <zrvarisella@primus.ca>, Zonius Francis <zonius_francis@yahoo.com>
+Content-Type: multipart/alternative; boundary=94eb2c124fcc781dd1054aa6ae8a
+
+--94eb2c124fcc781dd1054aa6ae8a
+Content-Type: text/plain; charset=UTF-8
+
+Dear Brothers,
+ Our Service group -the 7440 Kipling group- has the privilege of performing
+the major cleaning of the Kingdom hall this coming week.  This will include
+the major cleaning vacuuming of carpets, cleaning the washrooms.  Therefore
+we have decided that we will try to accomplish this on *Saturday March 18,
+at 11:30 pm.  *
+We would normally have it latter, but due to time constraints -Pioneer
+meeting and Elders meeting- we just have to fit it in.  If we start with
+the Main auditorium shortly after 11;30 we shall be free to do the basement
+level cleaning after the Pioneer meeting starts at 12:15
+
+Thanking you in advance for your willing spirit your brother,
+Randall
+
+--94eb2c124fcc781dd1054aa6ae8a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div>Dear Brothers,<br>=C2=A0<span>Our</span> Service=
+ <span><span class=3D"gmail-il">group</span></span> -the 7440 Kipling <span=
+><span class=3D"gmail-il">group</span></span>- has the privilege of <span><=
+span><span><span>performing the major <span class=3D"gmail-il">cleaning</sp=
+an></span></span></span></span> of the <span><span>Kingdom</span></span> <s=
+pan><span><span class=3D"gmail-il">hall</span></span></span> this coming we=
+ek.=C2=A0 This will include the <span>major</span> <span><span><span><span>=
+<span class=3D"gmail-il">cleaning</span></span></span></span></span> vacuum=
+ing of carpets, <span><span><span><span><span class=3D"gmail-il">cleaning</=
+span></span></span></span></span>
+ the washrooms.=C2=A0 Therefore we=20
+have  decided that we will try to accomplish this on <b>Saturday March 18, =
+at 11:30 pm.=C2=A0 </b><br>We would normally have it latter, but due to tim=
+e constraints -Pioneer meeting and Elders meeting- we just have to fit it i=
+n.=C2=A0 If we start with the Main auditorium shortly after 11;30 we shall =
+be free to do the basement level cleaning after the Pioneer meeting starts =
+at 12:15<br><br></div>Thanking you in advance for your willing spirit your =
+brother,<br></div>Randall </div>
+
+--94eb2c124fcc781dd1054aa6ae8a--

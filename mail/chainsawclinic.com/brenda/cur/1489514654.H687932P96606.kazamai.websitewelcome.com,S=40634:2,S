@@ -1,0 +1,926 @@
+Return-path: <407etr_98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E@email.407etr.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 14 Mar 2017 13:04:14 -0500
+Received: from vmta3.response.wiredmessenger.com ([96.31.174.167]:47993)
+	by kazamai.websitewelcome.com with esmtps (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <407etr_98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E@email.407etr.com>)
+	id 1cnqnt-000P4e-Te
+	for brenda@chainsawclinic.com; Tue, 14 Mar 2017 13:04:14 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=email.407etr.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=407etr@email.407etr.com;
+ bh=0yoj6w3ywNgrKxX4+MeF/aXC/4w=;
+ b=zE+ul9rkzaZoiK7yJSQn8Pjm4hwq+kXhq9fN7Ju3cU9zocliDnQaLU6J79idFf6R2k2MDMzVOfwa
+   8bIHwBHoTA==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=email.407etr.com;
+ b=JxCampzGGqUnjDXH8RWrS3IEadyksaOwIluijIWk7D8NVrDQ6tgTNciXGCds2Pt5tH5gx4CfT1bZ
+   pSmbJtE1nQ==;
+Received: from target.wiredmessenger.com (127.0.0.1) by vmta3.response.wiredmessenger.com id hp0o9q1t8bk8 for <brenda@chainsawclinic.com>; Tue, 14 Mar 2017 14:04:02 -0400 (envelope-from <407etr_98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E@email.407etr.com>)
+Date: Tue, 14 Mar 2017 14:03:45 -0400
+From: 407 ETR <407etr@email.407etr.com>
+Reply-To: 
+	407 ETR <407etr_98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E@email.407etr.com>
+To: brenda@chainsawclinic.com
+Message-ID: <98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E-5963778cbb024879a1329e06fc392a57@email.407etr.com>
+Subject: Spring newsletter: win a year of free travel!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_15686392_1398347296.1489514625531"
+X-Mailer: WiredMessenger.com
+ENVID: WC-1489514625530-98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E-5963778cbb024879a1329e06fc392a57
+Feedback-ID: 2473-2229667:vmta3:wiredm
+List-Unsubscribe: <http://email.407etr.com/u?id=98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E>
+X-Unsubscribe-Web: <http://email.407etr.com/u?id=98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E>
+
+------=_Part_15686392_1398347296.1489514625531
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+407 ETR
+
+
+Please click below to view email in a web browser.
+
+http://email.407etr.com/dm?id=98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E
+
+
+Please click below to unsubscribe.
+
+http://email.407etr.com/u?id=98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E&global=true
+
+
+407 ETR | 6300 Steeles Avenue West | Woodbridge, ON | L4H 1J1 | 1-888-407-0407
+------=_Part_15686392_1398347296.1489514625531
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<title>407 ETR</title>
+<style type=3D"text/css">
+
+
+.ReadMsgBody { width: 100%; background-color: #ffffff; }
+.ExternalClass { width: 100%; background-color: #ffffff; }
+body { width: 100%; background-color: #ffffff; margin: 0; padding: 0; -webk=
+it-font-smoothing: antialiased; font-family: Arial, sans-serif; }
+table { border-collapse: collapse; }
+/*.acctWidth-mid { border-left:2px dotted #006cb7; border-right:2px dotted =
+#006cb7; }*/
+
+@media only screen and (max-width: 640px) {
+    body[yahoo] .deviceWidth { width: 430px!important; padding-bottom: 10px=
+; }
+    body[yahoo] .center { text-align: center!important; }
+    table[class=3DdeviceWidth] { width: 430px!important; border: none!impor=
+tant; }
+    table[class=3DspecialWidth] { width: 420px!important; border: none!impo=
+rtant; margin-bottom: 10px!important; }
+    table[class=3DheaderWidth] { width: 430px!important; border: none!impor=
+tant; }
+    table[class=3DcontentWidth] { width: 430px!important; border: none!impo=
+rtant; }
+    table[class=3DcontentWidth-end] { width: 440px!important; }
+    img[class=3D"deviceWidth"] { width: 50%!important; }
+    td[class=3D"objWidth"] { width: 200px!important; }
+    td[class=3D"objTxt"] { font-size: 22px!important; padding: 0!important;=
+ }
+    td[class=3D"imgWidth"] { width: 30%!important; }
+    img[class=3D"imgWidth2"] { width: 410px!important; margin: auto; }
+    td[class=3D"imgWidth2"] { padding: 10px!important; }
+    table[class=3D"alignTxt"] { vertical-align: middle; }
+    table[class=3D"acctWidth"] { width: 33%; }
+    div[class=3D"mid-spacer"] { height: 20px!important; }
+    td[class=3D"acctTxt"] { font-size: 12px!important; }
+    td[class=3D"acctTxt2"] { height: 45px!important; font-size: 11px!import=
+ant; }
+    table[class=3DacctImg] { width: 100%; }
+    img[class=3DacctImg] { width: 90%; }
+=09
+    table[class=3DexpressWidth] {height:77px!important;width:63%!important;=
+}
+=09td[class=3DexpressWidth] {font-size:24px!important;}
+=09
+=09
+    td[class=3Dblank] { display: none!important; }
+    td[class=3Dblock2] { font-size: 18px!important; }
+    table[class=3Dbutton] { width: 110px; font-size: 10px; }
+    table[class=3DtopRowWidth] { width: 430px!important; }
+    td[class=3DtopRowCell] { width: 400px!important; display: block!importa=
+nt; }
+    table[class=3DtopRowCell] { width: 300px!important; }
+    table[class=3DtwoRowWidth] { width: 430px!important; }
+    td[class=3DtwoRowCell] { width: 100px!important; display: block!importa=
+nt; }
+    table[class=3DtwoRowCell] { width: 300px!important; }
+    div[class=3Dspacer-left] { height: 20px!important; }
+    div[class=3Dspacer-right] { height: 10px!important; }
+}
+
+@media only screen and (max-width: 479px) {
+    body[yahoo] .deviceWidth { width: 300px!important; padding: 0; text-ali=
+gn: center; }
+    body[yahoo] .center { text-align: center!important; }
+    table[class=3DheaderWidth] { width: 300px!important; border: none!impor=
+tant; }
+    table[class=3DdeviceWidth] { width: 280px!important; ; text-align: cent=
+er!important; }
+    table[class=3DspecialWidth] { width: 280px!important; border: none!impo=
+rtant; margin-bottom: 10px;
+
+=09 }
+=09
+=09
+    table[class=3DcontentWidth] { width: 280px!important; }
+    table[class=3DcontentWidth-end] { width: 280px!important; }
+    table[class=3DlogoWidth] { width: 50%!important; }
+    img[class=3DlogoWidth] { width: 152px!important; }
+=09
+    table[class=3DexpressWidth] {height:40px!important;width:49%!important;=
+margin-top:20px;}
+=09td[class=3DexpressWidth] {font-size:18px!important; height:40px!importan=
+t;}
+=09
+    td[class=3D"objWidth"] { width: 70%!important; }
+    td[class=3D"objTxt"] { font-size: 16px!important; }
+    td[class=3D"imgWidth"] { width: 30%!important; }
+    table[class=3D"alignTxt"] { vertical-align: middle; }
+    td[class=3D"acctWidth"] { width: 300px; border: none!important; line-he=
+ight: 13px!important; display: block!important; }
+    table[class=3D"acctWidth"] { width: 80%!important; }
+    td[class=3D"acctWidth-mid"] { width: 300px; border-left: none!important=
+; border-right: none!important; display: block; padding-top: 10px; padding-=
+bottom: 10px; margin-top: 20px; margin-bottom: 20px; }
+    td[class=3D"acctTxt"] { font-size: 15px!important; text-align: center!i=
+mportant; height: 30px!important; }
+    td[class=3D"acctTxt2"] { font-size: 13px!important; line-height: 16px!i=
+mportant; text-align: center!important; width: 50%!important; }
+    table[class=3DacctImg] { width: 100%; }
+    img[class=3DacctImg] { width: 70%; }
+    img[class=3D"imgWidth2"] { width: 280px!important; padding: 0; }
+    .end-spacer { display: none; }
+    img[class=3D"community"] { margin: auto!important; }
+    table[class=3DtopRowWidth] { width: 300px!important; }
+    td[class=3DtopRowCell] { width: 250px!important; display: block!importa=
+nt; }
+    table[class=3DtopRowCell] { width: 230px!important; }
+    table[class=3DtwoRowWidth] { width: 300px!important; }
+    td[class=3DtwoRowCell] { width: 250px!important; display: block!importa=
+nt; }
+    table[class=3DtwoRowCell] { width: 230px!important; }
+    img[class=3D"twoRowImg"] { text-align: center!important; margin: auto!i=
+mportant; margin-top: 5px!important; margin-bottom: 5px!important; }
+    table[class=3Dbutton] { width: 50%; }
+    div[class=3Dspacer-right] { height: 20px!important; }
+    td[class=3Dblank2] { display: none!important; }
+    table[class=3D"acctCell"] { width: 70%!important; margin: auto; }
+    td[class=3D"getTheMost"] { text-align: center!important; }
+}
+
+
+
+</style>
+</head>
+
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0"=
+ yahoo=3D"fix" style=3D"font-family:Arial, sans-serif; background:#ffffff;"=
+ bgcolor=3D"#ffffff">
+
+<!-- Wrapper -->
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tr>
+    <td width=3D"100%" valign=3D"top" bgcolor=3D"#ffffff" style=3D"padding:=
+10px"><table  width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" align=3D"center" class=3D"deviceWidth">
+        <tr>
+          <td align=3D"center" valign=3D"middle" style=3D"font-family:Arial=
+, sans-serif; font-size: 11px;color: #333333;text-align:center;" st-content=
+=3D"viewonline">Get 2 bonus entries in Log in to Win&nbsp;&nbsp;| &nbsp;&nb=
+sp;<a href=3D"http://email.407etr.com/dm?id=3D98A95CF58AAFECE158CCEE36F9774=
+4FE20226B78F617D71E" target=3D"_blank" style=3D"color:#666666; text-decorat=
+ion:none;">View online.</a>
+
+</td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tr>
+    <td valign=3D"top" bgcolor=3D"#ffffff"><table width=3D"650" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" class=3D"headerWidth=
+" bgcolor=3D"#0564b4">
+        <tr>
+          <td class=3D"center" ><table width=3D"29%" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" align=3D"left" class=3D"logoWidth">
+              <tr>
+                <td align=3D"left" valign=3D"top">
+=09=09=09=09
+                  <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2229667=
+&l=3D167338&ctl=3D31CDD5F:98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E&=
+"><img width=3D"152" src=3D"http://407etr.s3.amazonaws.com/template/407etr-=
+responsive-mock_01.jpg" alt=3D"407 ETR" border=3D"0" style=3D"width: 152px;=
+display:block;margin:0;padding:0;" class=3D"logoWidth" /></a></td>
+              </tr>
+            </table>
+            <table width=3D"69%" height=3D"77" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" align=3D"right" class=3D"expressWidth">
+              <tr>
+                <td valign=3D"middle" height=3D"77" class=3D"expressWidth" =
+align=3D"right" style=3D"mso-table-lspace:0;mso-table-rspace:0; margin:0; f=
+ont-family:arial,sans-serif; font-size:28px;color:#ffffff;padding-right:15p=
+x;font-weight:bold; font-style:italic;">EXPRESS NEWSLETTER</td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      <!-- End Two Column (Images Stacked over Text) --></td>
+  </tr>
+</table>
+
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth" style=3D"border-bottom:2px solid #eeeeee;=
+">
+  <tr>
+    <td height=3D"10" bgcolor=3D"#ffffff"><div class=3D"spacer" style=3D"he=
+ight:10px"></div></td>
+  </tr>
+  <tr>
+    <td><table width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" align=3D"center" bgcolor=3D"#ffffff" class=3D"topRowWidth">
+        <tr>
+          <td width=3D"33%" valign=3D"top" align=3D"left" class=3D"topRowCe=
+ll"><table width=3D"100%" align=3D"left" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"specialWidth">
+              <tr>
+                <td width=3D"50%" valign=3D"top" align=3D"center" class=3D"=
+imgWidth"><img src=3D"https://407etr.s3.amazonaws.com/2017/407etr-express-b=
+ox1.jpg" style=3D"display:block;margin:0;padding:0;width:91px;" width=3D"91=
+" alt=3D"407 ETR"/></td>
+                <td width=3D"50%" valign=3D"bottom" align=3D"left" style=3D=
+"padding-left:5px;padding-right:5px;" class=3D"objWidth"><table width=3D"10=
+0%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                    <tr>
+                      <td style=3D"color:#000000;font-family: arial; text-t=
+ransform:uppercase;font-weight:bold;font-size:12px;" class=3D"objTxt">FROM =
+THE PRESIDENT'S DESK </td>
+                    </tr>
+                    <tr>
+                      <td style=3D"height:5px;"><div class=3D"spacer" style=
+=3D"height:5px;"></div></td>
+                    </tr>
+                    <tr>
+                      <td >
+=09=09=09=09=09  <table width=3D"90" height=3D"30" align=3D"left" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0">
+=09=09=09=09=09 =20
+=09=09=09=09=09  <tr>
+                         <td class=3D"paint-area" align=3D"center" valign=
+=3D"middle" width=3D"90" height=3D"30" bgcolor=3D"#0564b4" style=3D"font-fa=
+mily:Arial, Helvetica, sans-serif; font-size:12px; mso-line-height-rule:exa=
+ctly; line-height:18px; color:#ffffff; ">    <font face=3D"Arial, sans-seri=
+f, Helvetica">
+                           <a class=3D"paint-area paint-area--text" target=
+=3D"_blank" href=3D"http://email.407etr.com/t?r=3D2473&c=3D2229667&l=3D1673=
+38&ctl=3D31CDD60:98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E&" style=
+=3D"color:#ffffff; text-decoration:none; display:block; padding:7px 10px 7p=
+x 10px;"><b>GO</b></a>
+                               </font>
+                             </td>
+                           </tr>
+=09=09=09=09=09                          =20
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            <!-- End Image 1 --></td>
+          <td width=3D"34%" valign=3D"top" align=3D"left" class=3D"topRowCe=
+ll"><table width=3D"100%" align=3D"left" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"specialWidth">
+              <tr>
+                <td width=3D"50%" valign=3D"bottom" align=3D"center" class=
+=3D"imgWidth"><img src=3D"https://407etr.s3.amazonaws.com/2017/407etr-expre=
+ss-box2.jpg" style=3D"display:block;margin:0;padding:0;width:91px;" width=
+=3D"91" alt=3D"407 ETR"/></td>
+                <td width=3D"50%" valign=3D"bottom" align=3D"left" style=3D=
+"padding-left:5px;padding-right:10px;" class=3D"objWidth"><table width=3D"1=
+00%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                    <tr>
+                      <td style=3D"color:#000000;font-family: arial; text-t=
+ransform:uppercase;font-weight:bold;font-size:12px;" class=3D"objTxt">LOG I=
+N TO WIN!</td>
+                    </tr>
+                    <tr>
+                      <td style=3D"height:5px;"><div class=3D"spacer" style=
+=3D"height:5px;"></div></td>
+                    </tr>
+                    <tr>
+                      <td ><table width=3D"90" height=3D"30" align=3D"left"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                           <tr>
+                         <td class=3D"paint-area" align=3D"center" valign=
+=3D"middle" width=3D"90" height=3D"30" bgcolor=3D"#0564b4" style=3D"font-fa=
+mily:Arial, Helvetica, sans-serif; font-size:12px; mso-line-height-rule:exa=
+ctly; line-height:18px; color:#ffffff;">    <font face=3D"Arial, sans-serif=
+, Helvetica">
+                           <a class=3D"paint-area paint-area--text" target=
+=3D"_blank" href=3D"http://email.407etr.com/t?r=3D2473&c=3D2229667&l=3D1673=
+38&ctl=3D31CDD61:98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E&" style=
+=3D"color:#ffffff; text-decoration:none; display:block; padding:7px 10px 7p=
+x 10px;"><b>GO</b></a>
+                               </font>
+                             </td>
+                           </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            <!-- End Image 1 --></td>
+          <td width=3D"33%" valign=3D"top" align=3D"left" class=3D"topRowCe=
+ll" ><table width=3D"100%" align=3D"left" cellpadding=3D"0" cellspacing=3D"=
+0" class=3D"specialWidth">
+              <tr>
+                <td width=3D"50%" valign=3D"bottom" align=3D"center" class=
+=3D"imgWidth"><img src=3D"https://407etr.s3.amazonaws.com/2017/407etr-expre=
+ss-box3.jpg" style=3D"display:block;margin:0;padding:0;width:91px;" width=
+=3D"91" alt=3D"407 ETR"/></td>
+                <td width=3D"50%" valign=3D"bottom" align=3D"left" style=3D=
+"padding-left:5px;padding-right:5px;" class=3D"objWidth"><table width=3D"10=
+0%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                    <tr>
+                      <td style=3D"color:#000000;font-family: arial; text-t=
+ransform:uppercase;font-weight:bold;font-size:12px;" class=3D"objTxt">GET T=
+O KNOW 407 ETR SERVICES
+                     </td>
+                    </tr>
+                    <tr>
+                      <td style=3D"height:5px;"><div class=3D"spacer" style=
+=3D"height:5px;"></div></td>
+                    </tr>
+                    <tr>
+                      <td ><table width=3D"90" height=3D"30" align=3D"left"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                           <tr>
+                         <td class=3D"paint-area" align=3D"center" valign=
+=3D"middle" width=3D"90" height=3D"30" bgcolor=3D"#0564b4" style=3D"font-fa=
+mily:Arial, Helvetica, sans-serif; font-size:12px; mso-line-height-rule:exa=
+ctly; line-height:18px; color:#ffffff; padding:0 0 0 0; ">    <font face=3D=
+"Arial, sans-serif, Helvetica">
+                           <a class=3D"paint-area paint-area--text" target=
+=3D"_blank" href=3D"http://email.407etr.com/t?r=3D2473&c=3D2229667&l=3D1673=
+38&ctl=3D31CDD62:98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E&" style=
+=3D"color:#ffffff; text-decoration:none; display:block; padding:7px 10px 7p=
+x 10px;"><strong>GO</strong></a>
+                               </font>
+                             </td>
+                           </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            <!-- End Image 1 --></td>
+        </tr>
+      </table>
+      <!-- End 3 Small Images --></td>
+  </tr>
+  <tr>
+    <td height=3D"10" bgcolor=3D"#ffffff"><div class=3D"spacer" style=3D"he=
+ight:10px"></div></td>
+  </tr>
+</table>
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tr>
+    <td height=3D"20"><div class=3D"spacer" style=3D"height:20px"></div></t=
+d>
+  </tr>
+</table>
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"contentWidth" bgcolor=3D"#ffffff" style=3D"background-=
+color:#ffffff;">
+  <tr >
+    <td class=3D"center" style=3D"padding:0px;"><table width=3D"100%" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left">
+        <tr valign=3D"middle">
+          <td align=3D"center" valign=3D"middle">
+            <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2229667&l=3D1=
+67338&ctl=3D31CDD63:98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E&">
+=09=09=09<img width=3D"650" src=3D"https://407etr.s3.amazonaws.com/2017/407=
+etr-mar2017-express.jpg" alt=3D"407 ETR" border=3D"0" style=3D"width:displa=
+y:block;padding:0;width:650px;margin:auto;" class=3D"imgWidth2" /></a></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td align=3D"center">
+=09<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" a=
+lign=3D"center" >
+        <tr>
+          <td style=3D"font-size: 12px; color: #959595; font-weight: normal=
+; text-align: left; font-family: Gotham, 'Helvetica Neue', Helvetica, Arial=
+, sans-serif; line-height: 18px; vertical-align: top; " align=3D"center">
+=09=09  <table width=3D"100%" class=3D"deviceWidth" cellpadding=3D"0" cells=
+pacing=3D"0" >
+              <tr>
+                <td valign=3D"middle" style=3D"padding:10px 9px; text-decor=
+ation: none; font-size: 12px; color: #202020; font-weight: normal; line-hei=
+ght: 18px; font-family:Arial, sans-serif;text-align:left">
+
+                 <b>Get up to TWO bonus entries to win a year of free trave=
+l on 407 ETR!</b>
+=09=09=09=09 <br /><br />
+=09=09=09=09Switch to paperless billing and/or pre-authorized payment to ge=
+t up to two bonus entries in Log in to Win.=20
+=09=09=09=09
+=09=09=09=09You could win a year of free travel on 407 ETR or other awesome=
+ travel prizes.*
+=09=09=09=09=20
+            =20
+                </td>
+              </tr>
+           =20
+            <tr>
+               <td align=3D"left" style=3D"text-align:center;padding-bottom=
+:5px; padding-left:10px;">
+                    <table class=3D"w-resize100 min-300" width=3D"210" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" >
+                          <tbody>
+                             <tr>
+                                <td align=3D"center" >
+                                    <table class=3D"w-resize100 min-300" wi=
+dth=3D"210" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"cente=
+r" >
+                                        <tbody>
+                                              <tr>
+                                              <td class=3D"paint-area" alig=
+n=3D"center" valign=3D"middle" height=3D"36" bgcolor=3D"#0564b4" style=3D"f=
+ont-family:Arial, Helvetica, sans-serif; font-size:14px; mso-line-height-ru=
+le:exactly; line-height:18px; color:#ffffff; padding:0 0 0 0; ">    <font f=
+ace=3D"Arial, sans-serif, Helvetica">
+                                                <a class=3D"paint-area pain=
+t-area--text" target=3D"_blank" href=3D"http://email.407etr.com/t?r=3D2473&=
+c=3D2229667&l=3D167338&ctl=3D31CDD64:98A95CF58AAFECE158CCEE36F97744FE20226B=
+78F617D71E&" style=3D"color:#ffffff; text-decoration:none; display:block; p=
+adding:7px 10px 7px 10px;"><strong>LOG IN TO WIN</strong></a>
+
+                                                 </font>
+                                               </td>
+                                            </tr>
+                                      </tbody>
+                                         </table>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                   </table>
+                               </td>
+                            </tr>
+=09=09=09=09=09=09
+            </table>
+=09=09
+=09=09</td>
+        </tr>
+      </table></td>
+  </tr>
+ =20
+    <tr>
+    <td height=3D"20"><div class=3D"spacer" style=3D"height:20px"></div></t=
+d>
+  </tr>
+</table>
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"contentWidth" bgcolor=3D"#ffffff" style=3D"background-=
+color:#ffffff;">
+  <tr >
+    <td class=3D"center" style=3D"padding:0px;"><table width=3D"100%" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"left">
+        <tr valign=3D"middle">
+          <td align=3D"center" valign=3D"middle">
+            <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2229667&l=3D1=
+67338&ctl=3D31CDD62:98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E&"><img=
+ width=3D"650" src=3D"https://407etr.s3.amazonaws.com/2017/407etr-mar2017-e=
+xpress2.jpg" alt=3D"407 ETR" border=3D"0" style=3D"width:display:block;padd=
+ing:0;width:650px;margin:auto;" class=3D"imgWidth2" /></a></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td align=3D"center"><table width=3D"100%" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" align=3D"center" >
+        <tr>
+          <td style=3D"font-size: 12px; color: #959595; font-weight: normal=
+; text-align: left; font-family: Gotham, 'Helvetica Neue', Helvetica, Arial=
+, sans-serif; line-height: 18px; vertical-align: top; " align=3D"center"><t=
+able width=3D"100%" class=3D"deviceWidth" cellpadding=3D"0" cellspacing=3D"=
+0" >
+              <tr>
+                <td valign=3D"middle" style=3D"padding:10px 9px; text-decor=
+ation: none; font-size: 12px; color: #202020; font-weight: normal; line-hei=
+ght: 18px; font-family:Arial, sans-serif;text-align:left">
+               =20
+               =20
+We would like to welcome all new customers! Here are some tips about 407 ET=
+R services for new (and existing) customers to help you get the most out of=
+ your driving experience.</td>
+              </tr>
+          =20
+            <tr>
+               <td align=3D"left" style=3D"text-align:center;padding-bottom=
+:5px; padding-left:10px;">
+                    <table class=3D"w-resize100 min-300" width=3D"210" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" >
+                          <tbody>
+                             <tr>
+                                <td align=3D"center" >
+                                    <table class=3D"w-resize100 min-300" wi=
+dth=3D"210" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"cente=
+r" >
+                                        <tbody>
+                                              <tr>
+                                              <td class=3D"paint-area" alig=
+n=3D"center" valign=3D"middle" height=3D"36" bgcolor=3D"#0564b4" style=3D"f=
+ont-family:Arial, Helvetica, sans-serif; font-size:14px; mso-line-height-ru=
+le:exactly; line-height:18px; color:#ffffff; padding:0 0 0 0; ">    <font f=
+ace=3D"Arial, sans-serif, Helvetica">
+                                                <a class=3D"paint-area pain=
+t-area--text" target=3D"_blank" href=3D"http://email.407etr.com/t?r=3D2473&=
+c=3D2229667&l=3D167338&ctl=3D31CDD62:98A95CF58AAFECE158CCEE36F97744FE20226B=
+78F617D71E&" style=3D"color:#ffffff; text-decoration:none; display:block; p=
+adding:7px 10px 7px 10px;"><strong>LEARN MORE</strong></a>
+
+                                                 </font>
+                                               </td>
+                                            </tr>
+                                      </tbody>
+                                         </table>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                   </table>
+                               </td>
+                            </tr>
+=09=09=09=09=09=09
+            </table>
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09</td>
+        </tr>
+      </table></td>
+  </tr>
+ =20
+    <tr>
+    <td height=3D"20"><div class=3D"spacer" style=3D"height:20px"></div></t=
+d>
+  </tr>
+ =20
+ =20
+ =20
+</table>
+
+
+
+<center>
+
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tbody><tr>
+    <td><table width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" align=3D"center" bgcolor=3D"#ffffff" class=3D"topRowWidth">
+        <tbody><tr>
+          <td width=3D"30%" valign=3D"bottom" align=3D"left" class=3D"acctW=
+idth" bgcolor=3D"#f1f1f1">
+=09=09  <table width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"acctWidth">
+              <tbody><tr>
+                <td height=3D"10"><div class=3D"spacer" style=3D"height:10p=
+x"></div>
+                  <!-- spacer --></td>
+              </tr>
+              <tr>
+                <td width=3D"100%" valign=3D"bottom" align=3D"center"><img =
+src=3D"https://407etr.s3.amazonaws.com/2017/407etr-mar2017-express-footer1.=
+png" style=3D"display:block;margin:0 auto;padding:0;" alt=3D"407 ETR" class=
+=3D"twoRowImg"></td>
+              </tr>
+              <tr>
+                <td style=3D"color:#006cb7;font-family: arial;font-weight:b=
+old; font-size:14px;text-align:center;" class=3D"acctTxt">In the Community<=
+/td>
+              </tr>
+              <tr>
+                <td height=3D"32" style=3D"color:#777777;font-size:11px; he=
+ight:32px;text-align:center;line-height:13px;" valign=3D"top" class=3D"acct=
+Txt2">
+=09=09=09=09We=E2=80=99re doing our part to make the communities that 407 E=
+TR serves the best they can be.</td>
+              </tr>
+             =20
+              <tr>
+              <td height=3D"10"></td>
+              </tr>
+              <tr>
+                <td style=3D"color:#777777;font-size:12px;text-align:center=
+;" valign=3D"top"><table width=3D"85%" height=3D"30" align=3D"center" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0">
+                    <tbody>=20
+=09=09=09=09=09<tr>
+               <td>
+                    <table class=3D"w-resize100 min-300" width=3D"116" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" >
+                          <tbody>
+                             <tr>
+                                <td align=3D"center" >
+                                    <table class=3D"w-resize100 min-300" wi=
+dth=3D"116" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"cente=
+r" >
+                                        <tbody>
+                                              <tr>
+                                              <td class=3D"paint-area" alig=
+n=3D"center" valign=3D"middle" height=3D"30" bgcolor=3D"#0564b4" style=3D"f=
+ont-family:Arial, Helvetica, sans-serif; font-size:12px; mso-line-height-ru=
+le:exactly; line-height:18px; color:#ffffff; padding:0 0 0 0; ">    <font f=
+ace=3D"Arial, sans-serif, Helvetica">
+                                                <a class=3D"paint-area pain=
+t-area--text" target=3D"_blank" href=3D"http://email.407etr.com/t?r=3D2473&=
+c=3D2229667&l=3D167338&ctl=3D31CDD65:98A95CF58AAFECE158CCEE36F97744FE20226B=
+78F617D71E&" style=3D"color:#ffffff; text-decoration:none; display:block; p=
+adding:0px 0px 0px 0px;"><strong>READ MORE</strong></a>
+
+                                                 </font>
+                                               </td>
+                                            </tr>
+                                      </tbody>
+                                         </table>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                   </table>
+                               </td>
+                            </tr>
+                  </tbody></table></td>
+              </tr>
+=09=09=09 =20
+=09=09=09 =20
+=09=09=09 =20
+              <tr>
+                <td height=3D"15"><div class=3D"spacer" style=3D"height:15p=
+x">&nbsp;</div>
+                  <!-- spacer --></td>
+              </tr>
+            </tbody></table></td>
+=09=09=09
+          <td width=3D"5%" class=3D"blank2"></td>
+          <td width=3D"30%" valign=3D"bottom" align=3D"left" class=3D"acctW=
+idth-mid" bgcolor=3D"#f1f1f1"><table width=3D"100%" align=3D"center" cellpa=
+dding=3D"0" cellspacing=3D"0" class=3D"acctWidth">
+              <tbody><tr>
+                <td height=3D"10"><div class=3D"spacer" style=3D"height:10p=
+x"></div>
+                  <!-- spacer --></td>
+              </tr>
+              <tr>
+                <td width=3D"100%" valign=3D"bottom" align=3D"center"><img =
+src=3D"https://407etr.s3.amazonaws.com/2016/407ETR-june-14-2016-09.png" sty=
+le=3D"display:block;margin:0 auto;padding:0;" alt=3D"407 ETR" class=3D"twoR=
+owImg"></td>
+              </tr>
+              <tr>
+                <td style=3D"color:#006cb7;font-family: arial;font-weight:b=
+old; font-size:14px;text-align:center;" class=3D"acctTxt">O.P.P. Corner</td=
+>
+              </tr>
+              <tr>
+                <td height=3D"32" style=3D"color:#777777;font-size:11px; he=
+ight:32px;text-align:center;line-height:13px;" valign=3D"top" class=3D"acct=
+Txt2">
+=09=09=09=09Learn about Project E.R.A.S.E. (Eliminate Racing Activity on St=
+reets Everywhere) to keep streets safe across the province.</td>
+              </tr>
+             =20
+              <tr>
+              <td height=3D"10"></td>
+              </tr>
+              <tr>
+                <td style=3D"color:#777777;font-size:12px;text-align:center=
+;" valign=3D"top"><table width=3D"85%" height=3D"30" align=3D"center" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0">
+                    <tbody>=20
+=09=09=09=09=09<tr>
+               <td>
+                    <table class=3D"w-resize100 min-300" width=3D"116" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" >
+                          <tbody>
+                             <tr>
+                                <td align=3D"center" >
+                                    <table class=3D"w-resize100 min-300" wi=
+dth=3D"116" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"cente=
+r" >
+                                        <tbody>
+                                              <tr>
+                                              <td class=3D"paint-area" alig=
+n=3D"center" valign=3D"middle" height=3D"30" bgcolor=3D"#0564b4" style=3D"f=
+ont-family:Arial, Helvetica, sans-serif; font-size:12px; mso-line-height-ru=
+le:exactly; line-height:18px; color:#ffffff; padding:0 0 0 0; ">    <font f=
+ace=3D"Arial, sans-serif, Helvetica">
+                                                <a class=3D"paint-area pain=
+t-area--text" target=3D"_blank" href=3D"http://email.407etr.com/t?r=3D2473&=
+c=3D2229667&l=3D167338&ctl=3D31CDD66:98A95CF58AAFECE158CCEE36F97744FE20226B=
+78F617D71E&" style=3D"color:#ffffff; text-decoration:none; display:block; p=
+adding:0px 0px 0px 0px;"><strong>READ MORE</strong></a>
+
+                                                 </font>
+                                               </td>
+                                            </tr>
+                                      </tbody>
+                                         </table>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                   </table>
+                               </td>
+                            </tr>
+                  </tbody></table></td>
+              </tr>
+=09=09=09 =20
+              <tr>
+                <td height=3D"15"><div class=3D"spacer" style=3D"height:15p=
+x">&nbsp;</div>
+                  <!-- spacer --></td>
+              </tr>
+            </tbody></table></td>
+          <td width=3D"5%" class=3D"blank2"></td>
+          <td width=3D"30%" valign=3D"bottom" align=3D"left" class=3D"acctW=
+idth" bgcolor=3D"#f1f1f1"><table width=3D"100%" align=3D"center" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"acctWidth">
+              <tbody><tr>
+                <td height=3D"10"><div class=3D"spacer" style=3D"height:10p=
+x"></div>
+                  <!-- spacer --></td>
+              </tr>
+             <tr>
+                <td width=3D"100%" valign=3D"bottom" align=3D"center"><img =
+src=3D"https://407etr.s3.amazonaws.com/2017/407etr-mar2017-express-footer3.=
+png" style=3D"display:block;margin:0 auto;padding:0;" alt=3D"407 ETR" class=
+=3D"twoRowImg"></td>
+              </tr>
+              <tr>
+                <td style=3D"color:#006cb7;font-family: arial;font-weight:b=
+old; font-size:14px;text-align:center;" class=3D"acctTxt">Optimize your acc=
+ount</td>
+              </tr>
+              <tr>
+                <td height=3D"32" style=3D"color:#777777;font-size:11px; he=
+ight:32px;text-align:center;line-height:13px;" valign=3D"top" class=3D"acct=
+Txt2">
+=09=09=09=09See all the features your 407 ETR web account has to offer to e=
+nsure you have a positive 407 ETR experience.</td>
+              </tr>
+             =20
+              <tr>
+              <td height=3D"10"></td>
+              </tr>
+              <tr>
+                <td style=3D"color:#777777;font-size:12px;text-align:center=
+;" valign=3D"top"><table width=3D"85%" height=3D"30" align=3D"center" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0">
+                    <tbody>=20
+=09=09=09=09=09<tr>
+               <td>
+                    <table class=3D"w-resize100 min-300" width=3D"116" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" >
+                          <tbody>
+                             <tr>
+                                <td align=3D"center" >
+                                    <table class=3D"w-resize100 min-300" wi=
+dth=3D"116" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"cente=
+r" >
+                                        <tbody>
+                                              <tr>
+                                              <td class=3D"paint-area" alig=
+n=3D"center" valign=3D"middle" height=3D"30" bgcolor=3D"#0564b4" style=3D"f=
+ont-family:Arial, Helvetica, sans-serif; font-size:12px; mso-line-height-ru=
+le:exactly; line-height:18px; color:#ffffff; padding:0 0 0 0; ">    <font f=
+ace=3D"Arial, sans-serif, Helvetica">
+                                                <a class=3D"paint-area pain=
+t-area--text" target=3D"_blank" href=3D"http://email.407etr.com/t?r=3D2473&=
+c=3D2229667&l=3D167338&ctl=3D31CDD67:98A95CF58AAFECE158CCEE36F97744FE20226B=
+78F617D71E&" style=3D"color:#ffffff; text-decoration:none; display:block; p=
+adding:0px 0px 0px 0px;"><strong>READ MORE</strong></a>
+
+                                                 </font>
+                                               </td>
+                                            </tr>
+                                      </tbody>
+                                         </table>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                   </table>
+                               </td>
+                            </tr>
+                  </tbody></table></td>
+              </tr>
+              <tr>
+                <td height=3D"15"><div class=3D"spacer" style=3D"height:15p=
+x">&nbsp;</div>
+                  <!-- spacer --></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr>
+                <td height=3D"10"><div class=3D"spacer" style=3D"height:10p=
+x">&nbsp;</div>
+                </td>
+              </tr>
+</tbody></table>
+</center>
+
+
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tr>
+    <td height=3D"10"><div class=3D"spacer" style=3D"height:10px"><hr></div=
+></td>
+  </tr>
+</table>
+
+<table width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=
+=3D"deviceWidth" align=3D"center">
+<tr>
+  <td><table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ align=3D"left" class=3D"deviceWidth">
+      <tr>
+        <td><table width=3D"80%" cellpadding=3D"0" cellspacing=3D"0"  borde=
+r=3D"0" align=3D"left" class=3D"deviceWidth">
+            <tr>
+              <td valign=3D"top" style=3D" color: #666666; font-family: Ari=
+al, Helvetica, sans-serif; font-size: 11px; padding-bottom:10px; line-heigh=
+t:14px; text-align:left;">
+=09=09=09  *Contest ends on April 30, 2017. Terms and conditions apply. For=
+ more promotion details or to view terms and conditions, <a href=3D"http://=
+email.407etr.com/t?r=3D2473&c=3D2229667&l=3D167338&ctl=3D31CDD68:98A95CF58A=
+AFECE158CCEE36F97744FE20226B78F617D71E&" style=3D"color:#006cb7">visit the =
+promotions page</a>.
+             =20
+
+<br><br>
+             =20
+             =20
+              You are currently signed up to receive news and information f=
+rom 407 ETR.<br/>
+                If you would prefer not to receive emails from 407 ETR, ple=
+ase <a href=3D"http://email.407etr.com/u?id=3D98A95CF58AAFECE158CCEE36F9774=
+4FE20226B78F617D71E&global=3Dtrue" style=3D"color:#006cb7">unsubscribe</a> =
+here.<br/>
+                This email was sent to brenda@chainsawclinic.com by 407 ETR=
+.<br/>
+                Do not reply to this email. To contact 407 ETR Customer Ser=
+vice, please <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2229667&l=3D=
+167338&ctl=3D31CDD69:98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E&" sty=
+le=3D"color:#006cb7">click here</a><br/>
+                <br/>
+                407 ETR | 6300 Steeles Avenue West | Woodbridge, ON | L4H 1=
+J1 | 1-888-407-0407 </td>
+            </tr>
+          </table></td>
+=09=09  </tr>
+=09=09=20
+         =20
+            <tr>
+              <td style=3D"text-align:right">
+=09=09=09  <a href=3D"http://www.wiredmessenger.com/?utm_source=3DNewslette=
+r&utm_medium=3DEmail&utm_campaign=3D407ETR&email=3Dbrenda@chainsawclinic.co=
+m">=20
+=09=09=09  <img border=3D"0" src=3D"http://wmcta.s3.amazonaws.com/cta/power=
+ed-by-wired-small.png" width=3D"117" height=3D"30" style=3D"-webkit-text-si=
+ze-adjust: none; border: medium none" alt=3D"wiredmessenger.com" ></a></td>
+            </tr>
+      =20
+   =20
+    </table>
+=09</td>
+=09</tr>
+=09</table>
+
+</body>
+
+<img src=3D"http://email.407etr.com/t?c=3D2229667&r=3D2473&l=3D167338&t=3D1=
+0&e=3D98A95CF58AAFECE158CCEE36F97744FE20226B78F617D71E" width=3D1 height=3D=
+1 border=3D0>
+</html>
+
+------=_Part_15686392_1398347296.1489514625531--

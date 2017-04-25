@@ -1,0 +1,199 @@
+Return-Path: <husqvarna-marketing@mailmw.rnmk.com>
+Delivered-To: brenda@chainsawclinic.com
+Received: from kazamai.websitewelcome.com
+	by kazamai.websitewelcome.com (Dovecot) with LMTP id sWAzIISN3liebgEAaocpPg
+	for <brenda@chainsawclinic.com>; Fri, 31 Mar 2017 12:10:28 -0500
+Return-path: <husqvarna-marketing@mailmw.rnmk.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Fri, 31 Mar 2017 12:10:28 -0500
+Received: from rntmw65.rnmk.com ([74.117.203.65]:39345)
+	by kazamai.websitewelcome.com with esmtp (Exim 4.87)
+	(envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	id 1cu04C-000Ot9-DO
+	for brenda@chainsawclinic.com; Fri, 31 Mar 2017 12:10:28 -0500
+DKIM-Signature: v=1; a=rsa-sha1; d=mailca.rnmk.com; s=dkimrnt; c=relaxed/relaxed;
+	q=dns/txt; i=@mailca.rnmk.com; t=1490980217;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=EJRAqw+YomX/599jEML5BPKl7ho=;
+	b=LHTFf7+E3J4vlE9bje4GqLhjyf/D9HwAmxewfueSWJuleXVUq5V2QcJqoaXO4WBp
+	X9/mSJOVJCMAcI5B8YTdfjBHW5S7WeljTYDf8YPXMWD+3kBQQEx5JrrTjn7SqpqA
+	BKz6NlOxpVi5jnJviq/KZ9/eqMKGe8sTSIzY8zP7UUE=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkrnt; d=mailca.rnmk.com;
+	h=Received:MIME-Version:Message-Id:To:Date:Subject:List-Unsubscribe:From:Reply-To:Content-Type:Content-Transfer-Encoding;
+	b=C3B0UXmuSxcTUAGbQ6aMlLTMnRpULuyvPZw51ehsGbCPe2Cm8/EssXey9ek7BtOU
+	mrUFdappLq30VV9pqPeO5JWQhrCH2AtRN7h/GrHILeMv0E9VaW3TYtzFr1o5ydcS
+	PSN0MTgz3/4ROJR8vvsJmoRciFQPyWonepCRhPhkfFI=
+Received: from [10.70.0.90] ([10.70.0.90:19620] helo=rnmdmw01.int.rightnowtech.com)
+	by rntmw65.rnmk.com (envelope-from <husqvarna-marketing@mailmw.rnmk.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTP
+	id F3/2E-14483-97D8ED85; Fri, 31 Mar 2017 12:10:17 -0500
+MIME-Version: 1.0
+Message-Id: <RNTM.AvMM~wp7Dv8S~xb~Gv8O~yJ4ockqbov7JiWpcj7~Pv9g.0.1490980174.6C~kGcgT0hs9.675075@rnmdmw01.int.rightnowtech.com>
+To: brenda@chainsawclinic.com
+Date: Fri, 31 Mar 2017 13:09:34 -0400 (EDT)
+Subject: HUSQVARNA UNIVERSITY 2017 WARRANTY CERTIFICATION
+List-Unsubscribe: <mailto:husqvarna-marketing@mailca.rnmk.com?subject=Unsubscribe AvMM~wp7Dv8S~xb~Gv8O~yJ4ockqbov7JiWpcj7~Pv9g>
+From: "Husqvarna Canada" <husqvarna-marketing@mailca.rnmk.com>
+Reply-To: "Husqvarna Canada" <husqvarna-marketing@mailca.rnmk.com>
+Content-Type: Text/Html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-micro=
+soft-com:office:office" xmlns:rn=3D"http://schemas.rightnow.com/crm/docum=
+ent">
+<head>
+<title></title>
+                                                                    =20
+</head>
+<body style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Arial',sans-serif; PADDING-=
+BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 0px; MAR=
+GIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #d4d5d8">
+
+<p style=3D"COLOR: #8e8e8e">&#160;</p>
+<table style=3D"FONT-SIZE: 14px; FONT-FAMILY: 'Arial',sans-serif; WIDTH: =
+600px; MARGIN: 0px auto" cellspacing=3D"0" cellpadding=3D"0"><!-- LIGHT-G=
+RAY HEADER -->
+<tbody>
+<tr>
+<td style=3D"HEIGHT: 100px; PADDING-BOTTOM: 10px; TEXT-ALIGN: right; PADD=
+ING-TOP: 10px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND-COLOR:=
+ #efefef"><img alt=3D"Husqvarna, Ready when you are (logo)" border=3D"0" =
+height=3D"53" src=3D"http://54.76.127.175/Emails/Dealer-News/2016/februar=
+y/husq-logo.png" width=3D"216" /></td>
+</tr>
+<!-- END LIGHT-GRAY HEADER --><!-- MAIN SUBJECT TEXT -->
+<tr style=3D"HEIGHT: 200px; VERTICAL-ALIGN: text-top; BORDER-BOTTOM: #ebe=
+cef thin; TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px">
+<div style=3D"HEIGHT: 23px; WIDTH: 100%; BORDER-BOTTOM: #ddd 1px solid; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PAD=
+DING-RIGHT: 0px">
+<p style=3D"FONT-SIZE: 15px; TEXT-DECORATION: none; COLOR: #f15321" align=
+=3D"right"><a style=3D"FONT-SIZE: 14px; TEXT-DECORATION: none; COLOR: #f1=
+5321" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wp7Dv8S~xb~Gv8O~y=
+J4ockqbov7JiWpcj7~Pv9g&amp;2=3D5922">Dealer Support Site</a>&#160;|&#160;=
+&#160;<a style=3D"FONT-SIZE: 14px; TEXT-DECORATION: none; COLOR: #f15321"=
+ href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wp7Dv8S~xb~Gv8O~yJ4ock=
+qbov7JiWpcj7~Pv9g&amp;2=3D5923">WebOrder</a> | <a style=3D"FONT-SIZE: 14p=
+x; TEXT-DECORATION: none; COLOR: #f15321" href=3D"http://husqvarna.custhe=
+lp.com/rd?1=3DAvMM~wp7Dv8S~xb~Gv8O~yJ4ockqbov7JiWpcj7~Pv9g&amp;2=3D5924">=
+Husqvarna.ca</a></p>
+</div>
+<br />
+<p style=3D"FONT-SIZE: 18pt"><font style=3D'FONT-SIZE: 24pt; FONT-FAMILY:=
+ "Arial",sans-serif'>MARCH&#160;2017</font></p>
+<p class=3D"MsoNormal" style=3D"LINE-HEIGHT: 200%"><b style=3D"mso-bidi-f=
+ont-weight: normal"><u><span lang=3D"EN-US" style=3D'FONT-SIZE: 12pt; FON=
+T-FAMILY: "Arial",sans-serif; LINE-HEIGHT: 200%' xml:lang=3D"EN-US">HUSQV=
+ARNA UNIVERSITY 2017 WARRANTY CERTIFICATION&#160;</span></u></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D'FONT-SIZE: 12pt; FON=
+T-FAMILY: "Arial",sans-serif' xml:lang=3D"EN-US">Dear Valued Husqvarna De=
+aler,<br />
+<br />
+The Warranty Certification assessment is now available on Husqvarna Unive=
+rsity, available in both English and French.<br />
+<br />
+To obtain full Warranty benefits please complete the certification assess=
+ment prior to April 30, 2017.&#160;&#160;The current certifications expir=
+e on May 1, 2017.<br />
+<br />
+We recommend that you do not delay in completing so that your dealership =
+can continue to receive maximum Warranty benefits!&#160;&#160;Please clic=
+k the link for the <a style=3D"TEXT-DECORATION: underline" href=3D"http:/=
+/husqvarna.custhelp.com/rd?1=3DAvMM~wp7Dv8S~xb~Gv8O~yJ4ockqbov7JiWpcj7~Pv=
+9g&amp;2=3D6356">process guide</a>.<br />
+<br />
+We would also like to take this opportunity to remind you that the new We=
+b Warranty 2.0 site is live on the Dealer Support Site. We have created a=
+ Quick Link on the main page to help you with connecting directly.<br />
+<br />
+On March 9, 2017 an automated email was sent providing a new username and=
+ password for the new Web Warranty 2.0 site. If you discarded the origina=
+l email with your new credentials and are unable to retrieve, please cont=
+act our Technical Support Team at 1-800-363-3664 and press option 2 to re=
+quest new credentials. Turnaround time for this is approximately 7-10 bus=
+iness days.<br />
+<br />
+For further information, please contact your Territory Manager.<br />
+<br />
+<br />
+Sincerely,<br />
+<br />
+<br />
+<br />
+Husqvarna Canada Corp.<br /></span></p>
+<p class=3D"MsoNormal">&#160;</p>
+<p class=3D"MsoNormal"></p>
+<p class=3D"MsoNormal" style=3D'FONT-SIZE: 12pt; TEXT-DECORATION: none; F=
+ONT-FAMILY: "Arial",sans-serif; VERTICAL-ALIGN: auto; FONT-WEIGHT: 400; C=
+OLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff'>&#160;</p>
+<p class=3D"MsoListParagraph" style=3D"TEXT-INDENT: -18pt; mso-list: l0 l=
+evel1 lfo1">&#160;</p>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"520" border=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"160">&#160;
+<p align=3D"center">&#160;</p>
+</td>
+<td width=3D"20"></td>
+<td valign=3D"top" width=3D"160"></td>
+<td width=3D"20"></td>
+<td valign=3D"top" width=3D"160">&#160;
+<p>&#160;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style=3D"HEIGHT: 80px; VERTICAL-ALIGN: middle; TEXT-ALIGN: center; BA=
+CKGROUND-COLOR: #ebecef">
+<td style=3D"PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px;=
+ PADDING-RIGHT: 40px"><a href=3D"http://husqvarna.custhelp.com/rd?1=3DAvM=
+M~wp7Dv8S~xb~Gv8O~yJ4ockqbov7JiWpcj7~Pv9g&amp;2=3D6020"><img alt=3D"faceb=
+ook" border=3D"0" src=3D"http://54.76.127.175/Emails/promos/template-rede=
+sign/assets/social-facebook.png" width=3D"50" /></a><a style=3D"TEXT-DECO=
+RATION: underline" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wp7D=
+v8S~xb~Gv8O~yJ4ockqbov7JiWpcj7~Pv9g&amp;2=3D5930"><img alt=3D"twitter" bo=
+rder=3D"0" src=3D"http://54.76.127.175/Emails/promos/template-redesign/as=
+sets/social-twitter.png" width=3D"50" /></a><a href=3D"http://husqvarna.c=
+usthelp.com/rd?1=3DAvMM~wp7Dv8S~xb~Gv8O~yJ4ockqbov7JiWpcj7~Pv9g&amp;2=3D5=
+931"><img alt=3D"youtube" border=3D"0"
+src=3D"http://54.76.127.175/Emails/promos/template-redesign/assets/social=
+-youtube.png" width=3D"50" /></a></td>
+</tr>
+<!-- END FOOTER SOCIAL --><!-- BLUE FOOTER -->
+<tr>
+<td style=3D"FONT-SIZE: 12px; HEIGHT: 100px; COLOR: white; PADDING-BOTTOM=
+: 10px; TEXT-ALIGN: center; PADDING-TOP: 10px; PADDING-LEFT: 40px; PADDIN=
+G-RIGHT: 40px; BACKGROUND-COLOR: #273a60"><a style=3D"TEXT-DECORATION: un=
+derline" href=3D"http://husqvarna.custhelp.com/rd?1=3DAvMM~wp7Dv8S~xb~Gv8=
+O~yJ4ockqbov7JiWpcj7~Pv9g&amp;2=3D5921"><img alt=3D"Husqvarna, Ready when=
+ you are (logo)" border=3D"0" src=3D"http://54.76.127.175/Emails/promos/t=
+emplate-redesign/assets/logo.png " width=3D"150" /></a>
+<p>This is a newsletter from Husqvarna Canada Corp. 850 Matheson Blvd. W.=
+ Unit 1, &#160;Mississauga ON L5V 0B4. Please do not respond directly to =
+this e-mail. If you have questions or comments, please <a style=3D"TEXT-D=
+ECORATION: none; COLOR: #f15321" href=3D"mailto:marketing.canada@husqvarn=
+agroup.com">contact us</a>. We respect your privacy and do not share or s=
+ell email addresses. If you no longer wish to receive emails from Husqvar=
+na please&#160;<a style=3D"FONT-SIZE: 11px; TEXT-DECORATION: none; COLOR:=
+ #f15321" href=3D"http://husqvarna.custhelp.com/cgi-bin/husqvarna.cfg/php=
+/ma/unsub.php?1=3DAvMM~wp7Dv8S~xb~Gv8O~yJ4ockqbov7JiWpcj7~Pv9g&amp;2=3D10=
+0025&amp;3=3D1">click here</a>. By unsubscribing you will no longer recei=
+ve important company updates, product launch information and other market=
+ing
+communications.</p>
+</td>
+</tr>
+<!-- END BLUE FOOTER --></tbody>
+</table>
+<img alt=3D"" height=3D"1" width=3D"1" style=3D"display: none" src=3D"htt=
+p://husqvarna.custhelp.com/rd/AvMM~wp7Dv8S~xb~Gv8O~yJ4ockqbov7JiWpcj7~Pv9=
+g.gif"/> </body>
+</html>
+

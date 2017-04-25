@@ -1,0 +1,13 @@
+--- 
+icFAA: 
+  mtime: 1252525878
+  value: "{\"manageaccounts\":1,\"null\":1,\"webemail\":2}"
+ron@chainsawclinic.com_webmail_autoload_numseconds: 
+  mtime: 1254248753
+  value: 5
+ron@chainsawclinic.com_webmailclient: 
+  mtime: 1254248743
+  value: roundcube
+x3_gettingstarted: 
+  mtime: 1252378042
+  value: disable

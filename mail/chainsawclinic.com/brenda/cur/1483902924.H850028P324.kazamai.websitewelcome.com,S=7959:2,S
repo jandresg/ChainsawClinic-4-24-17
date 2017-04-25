@@ -1,0 +1,129 @@
+Return-path: <john.parete@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Sun, 08 Jan 2017 13:15:24 -0600
+Received: from mail-io0-f195.google.com ([209.85.223.195]:35933)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <john.parete@gmail.com>)
+	id 1cQIw8-000Y3v-NG
+	for brenda@chainsawclinic.com; Sun, 08 Jan 2017 13:15:24 -0600
+Received: by mail-io0-f195.google.com with SMTP id q20so6233164ioi.3
+        for <brenda@chainsawclinic.com>; Sun, 08 Jan 2017 11:15:19 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=PVJ7XYjmn5n6gSIMA8anMXFrPauD6TbJCYpwg9cowHM=;
+        b=MoJ9XSLydPcDEgC/pYR5/Yp9TBC7IfcdY26M02NdZXfJQx6YOZ8jyuMx3SHuah+IB6
+         bPvpWSIkyO469MvTqUI1Hd1rR4ya2ma0IjqLt+RbwDPqBavtaSzzar7mccCJnSMat6+Y
+         8na9CdVpK/KUHk0IcHRd+U/LBQ5RcuatEvr0rpL/Iq7RmOxQVTQziK1TEa8KOb/M0TtI
+         bcXoey/Rwmm91iYub+x3w51Fk1eXMczrAx4NxtZLZluO2tvUdQqunZhlqw1rcYkHlVti
+         uQruX0UXjJTgyNDMOwJtZQ7V108YkYRL1U4WNS23Ncp+812zVXpBjEl8E9deFF7l47Ew
+         OqkA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=PVJ7XYjmn5n6gSIMA8anMXFrPauD6TbJCYpwg9cowHM=;
+        b=FINO64jiumJQjauE7Xo6Zj4JqkPf5wSUYauH/KUqMOpWGcrHrHu2FEpnFoLVAJKkQ6
+         OQpaXUDKqEFtoa/Sbj02QP/vp+CHh9Ry1nlo8p+lr0nBOyk8WG5q5puFCw/UMBg+poYq
+         z9GZJG9SQe+kgE/cSnyxnwqH6yu9bE1XoYcq0p05sY6XpbHm+7QDIJ4ebaq+oYwnzBir
+         Y47/ennYEsUOt2w/abDnRBMRN5o1FcbrGcjgEHfudGW15pwC0P+FC5XYUQAL4uMgOjnF
+         zT/LSUyr8dUUY4ACWUYkzVA57F1jYQK8cPFLs3h47geerhyUA4ugRTSfgJIcMvaZKZ9f
+         TUhA==
+X-Gm-Message-State: AIkVDXIHcF5Ur6wOfMe10oXt555qiwNr07YxgxyReSw+i9P818FAulYEZRHVpwaH01vtNkaZpuNRHOm7/WLn9A==
+X-Received: by 10.107.168.160 with SMTP id e32mr8720765ioj.127.1483902913820;
+ Sun, 08 Jan 2017 11:15:13 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.64.226.111 with HTTP; Sun, 8 Jan 2017 11:14:43 -0800 (PST)
+From: John Parete <john.parete@gmail.com>
+Date: Sun, 8 Jan 2017 14:14:43 -0500
+Message-ID: <CAL7=Tmm1KDj=foNyCHxA=uAjDyY8NJKr8Jt7gM76H+uFmMUxWg@mail.gmail.com>
+Subject: Our Bethelites
+To: Adewale Mabayoje <amabayoje@yahoo.com>, Andrew Lommano <andrewlommano@yahoo.ca>, 
+	Angie Parete <angie.parete@gmail.com>, Bernie Marchio <bmarchio@hotmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Carmela Motta <carmela.motta86@gmail.com>, 
+	Catarina Zambri <zamfilcat@hotmail.com>, Chris Ghangas <chris.ghangas@gmail.com>, 
+	Darrin Hollmann <dvhollmann@gmail.com>, David Fowler <uniteddave@aol.com>, 
+	David Junnola <junnolahomes@gmail.com>, Dennis - Cell Bou <dennis.bou92@gmail.com>, 
+	Derrick Smerchansky <smerchansky@hotmail.com>, Dino Vilardo <dinovilardo@yahoo.com>, 
+	Elvira Di Nuzzo <edinuzzo@alumni.uoguelph.ca>, Filippo Zambri <zamfilippo@hotmail.com>, 
+	"Frank & Amanda Stalteri" <amandar_86@hotmail.com>, Frank Rucchetta <frucchetta@yahoo.ca>, 
+	"Gary & Lucy Blunt" <lucyablunt@gmail.com>, Giulio Pace <gppp_us@yahoo.com>, 
+	Grace Lopes <lopes.grace@ymail.com>, Jade Smerchansky <cocodawson@hotmail.com>, 
+	Jennifer Perusini <jlperusini@gmail.com>, Jessica Mclean <jessicamclean78@gmail.com>, 
+	Joe Loggia <joe.loggia@vitran.com>, Joe Venezia <jvenezia72@rogers.com>, 
+	John Lommano <jlommano@yahoo.ca>, Joshua Mclean <joshua.4.mclean@gmail.com>, 
+	Julie Mclean <Julie.mclean05@live.ca>, Karin Teti <karinteti@hotmail.com>, 
+	Laura Casavant <laura.casavant@gmail.com>, Luigi Panigas <sensory5@gmail.com>, 
+	Marilena DiMatteo <marilena@rogers.com>, Marina Lancia <marinalancia@gmail.com>, 
+	Marisa Panaroni <mpanaroni@gmail.com>, Mark Casavant <mark.casavant@gmail.com>, 
+	Mary Varkaris <maryvarkaris@yahoo.com>, Michelle Annarilli <santelicesm@hotmail.com>, 
+	Nick - Cell Zambri <nick_zambri@hotmail.com>, Nina Junnola <njunnola@gmail.com>, 
+	"Omar, Jennifer Perusini" <perusini@gmail.com>, Paul Losacco <plosacco@rogers.com>, 
+	Peter Rothman <rothmanspainting@gmail.com>, "Phil & Anna D'Angelo" <anna.dangelo@rogers.com>, 
+	Phyllis Fenuta <phyllis.fenuta@hotmail.com>, Pierluca Belsito <pierluca.belsito@gmail.com>, 
+	Pina Mobilio <pina.mobilio@gmail.com>, Raquel Floro <rlfloro93@gmail.com>, 
+	Richard Sherif <richard.sherif@gmail.com>, Rita Casavant <rita.casavant@gmail.com>, 
+	"Ron & Marjory Robinson" <brenda@chainsawclinic.com>, Samantha McLean <samantha041205@gmail.com>, 
+	Sonia Genovese <sonia.genovese@yahoo.com>, 
+	Stephanie - cell Rucchetta <srucchetta@yahoo.com>, Teneson Floro <tenesonfloro@gmail.com>, 
+	Teresa Parejas <tlparejas@hotmail.com>, Tiana Lancia <tianalancia@hotmail.com>, 
+	Tobilola Mabayoje <tobilola.k.mabayoje@live.com>, Tony Alcamo <talcamo@gmail.com>, 
+	Tony Fiorellino <tony@insureitgroup.com>, Vince Teti <vinceteti@gmail.com>, 
+	Walter Panaroni <wpanaroni@gmail.com>, Zenon Varisella <zrvarisella@primus.ca>
+Content-Type: multipart/alternative; boundary=001a11426ae60f628405459a1275
+
+--001a11426ae60f628405459a1275
+Content-Type: text/plain; charset=UTF-8
+
+Dear Brothers
+I would like to bring up a matter for your attention regarding our
+Bethelites. In view of our Sunday 3:30pm meetings, it would be an
+expression of kindness and brotherly love if we were to invite them for a
+meal after the meetings.
+
+Consider a typical Sunday. They come out for service at 10:30 (after a
+45min drive). They bring a lunch for before the meeting. Then after the
+meeting, they arrive "home" at around 6:30 However, on Sunday, the kitchen
+at Bethel closes at 6pm, too late for our Bethelites. At that time, they
+only have pre-prepared frozen meals they could obtain. So after arriving
+"home", they would have to acquire a meal to re-heat or have something
+already prepared. By then they have had at least an 8hr day serving the
+territory and the congregation. And they all have to start work the next
+day at 8am like many of us do.
+
+Hospitality is defined as a love of strangers. The Bethelites are certainly
+no strangers to us, they are our family. So could we think of them and have
+them for a meal before they have to return to Bethel. No doubt this also
+will brings a great exchange of encouragement.
+
+Thank you for your consideration of this.
+
+John Parete
+
+--001a11426ae60f628405459a1275
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Dear Brothers<div>I would like to bring up a matter for yo=
+ur attention regarding our Bethelites. In view of our Sunday 3:30pm meeting=
+s, it would be an expression of kindness and brotherly love if we were to i=
+nvite them for a meal after the meetings.=C2=A0</div><div><br></div><div>Co=
+nsider a typical Sunday. They come out for service at 10:30 (after a 45min =
+drive). They bring a lunch for before the meeting. Then after the meeting, =
+they arrive &quot;home&quot; at around 6:30 However, on Sunday, the kitchen=
+ at Bethel closes at 6pm, too late for our Bethelites. At that time, they o=
+nly have pre-prepared frozen meals they could obtain. So after arriving &qu=
+ot;home&quot;, they would have to acquire a meal to re-heat or have somethi=
+ng already prepared. By then they have had at least an 8hr day serving the =
+territory and the congregation. And they all have to start work the next da=
+y at 8am like many of us do.</div><div><br></div><div>Hospitality is define=
+d as a love of strangers. The Bethelites are certainly no strangers to us, =
+they are our family. So could we think of them and have them for a meal bef=
+ore they have to return to Bethel. No doubt this also will brings a great e=
+xchange of encouragement.</div><div><br></div><div>Thank you for your consi=
+deration of this.</div><div><br clear=3D"all"><div><div class=3D"gmail_sign=
+ature" data-smartmail=3D"gmail_signature"><font face=3D"georgia, serif">Joh=
+n Parete</font></div></div>
+</div></div>
+
+--001a11426ae60f628405459a1275--

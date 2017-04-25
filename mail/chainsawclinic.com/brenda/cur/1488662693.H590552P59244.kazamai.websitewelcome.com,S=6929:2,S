@@ -1,0 +1,116 @@
+Return-path: <john.parete@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Sat, 04 Mar 2017 15:24:53 -0600
+Received: from mail-io0-f169.google.com ([209.85.223.169]:36106)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <john.parete@gmail.com>)
+	id 1ckHAb-000FLr-Gw
+	for brenda@chainsawclinic.com; Sat, 04 Mar 2017 15:24:53 -0600
+Received: by mail-io0-f169.google.com with SMTP id l7so94032308ioe.3
+        for <brenda@chainsawclinic.com>; Sat, 04 Mar 2017 13:24:48 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=8Hx04LOjEGe4l5oCpiCVk08NOMXEsTR/Iu/GHRfldxc=;
+        b=B3/X/7m+wklgVK/r+21OU+0vaFLA792bKyrWLt8ee6dEU6OA1abcgI0cC8q+eyFUsR
+         1YCvp5AC9W1cpLnR9fTqLgt7fJNFzc+rGhZ6OyLdlOaU3WLdTsjImwxq5NI9NCy6PxqH
+         vc4VwszG9J4WeJwTU9vCJ+z2qlpbJbTOD9CcRX8RFXNSYG/oGchwj11FI6gk8im1Z8pU
+         b2ho9bOR2Sc8HPplOjhEPonVblVwN6cb6v/qMfWHoM3UgmOYJGvpw5ngWaeDR7BAUFQ5
+         lVe3VJ1klVnRe+MeEwCox/ySlmuwdJnwx7tJh6YIS7g78uttvs1RPJTVLR9/uHjdtXsC
+         glMg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=8Hx04LOjEGe4l5oCpiCVk08NOMXEsTR/Iu/GHRfldxc=;
+        b=byWKEen4Jtu26VBfoCtQfLMonViDcqoYg9KPE7ROkB4GrUHa8EHaAWtdBrhAVLBldU
+         lXHAoUujY0/xL4RKNLba9pMqTWOsV3SliiFuY1WtGB+VZ0SOyE3OijysizmPr+T5UFGF
+         UuSbRvXbn6wnt4IwkKXU7KDVOZGmUc4BD5cNgMuCQTMNCGmVqYzETu5IIsjoFbZLUT65
+         Qox+H4PcrQebNATnMxC/j48K3S52iP+7icOG7iS3fYWoaO0poN75E3aUwtENalea5Cbl
+         PnGai4UwcczO/RTbppAB40Cz9qiOaU7vC5DQcyPnVkjsk8UUqU6dSZXOEEYAhDELx59l
+         4jkA==
+X-Gm-Message-State: AMke39mNFCZIzWEp8bBSJbdoE/9D6GKs8Ow1Ary+sajzTWm/mQ0gN8dV7cy4u2CKxxZfvpJNybwKo2IHPJDc8w==
+X-Received: by 10.107.41.212 with SMTP id p203mr1932815iop.13.1488662682904;
+ Sat, 04 Mar 2017 13:24:42 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.64.226.111 with HTTP; Sat, 4 Mar 2017 13:24:12 -0800 (PST)
+From: John Parete <john.parete@gmail.com>
+Date: Sat, 4 Mar 2017 16:24:12 -0500
+Message-ID: <CAL7=Tm=v7mzKBV8z5RR12apY20R4TBgoLOK7+iz4QVFq4t4BGA@mail.gmail.com>
+Subject: Sunday Service Arrangements - March and April
+To: Adewale Mabayoje <amabayoje@yahoo.com>, Andrew Lommano <andrewlommano@yahoo.ca>, 
+	Angie Parete <angie.parete@gmail.com>, Bernie Marchio <bmarchio@hotmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Carmela Motta <carmela.motta86@gmail.com>, 
+	Catarina Zambri <zamfilcat@hotmail.com>, Chris Ghangas <chris.ghangas@gmail.com>, 
+	Darrin Hollmann <dvhollmann@gmail.com>, David Fowler <uniteddave@aol.com>, 
+	Dennis - Cell Bou <dennis.bou92@gmail.com>, Derrick Smerchansky <smerchansky@hotmail.com>, 
+	Dino Vilardo <dinovilardo@yahoo.com>, Elvira Di Nuzzo <edinuzzo@alumni.uoguelph.ca>, 
+	Filippo Zambri <zamfilippo@hotmail.com>, "Frank & Amanda Stalteri" <amandar_86@hotmail.com>, 
+	Frank Rucchetta <frucchetta@yahoo.ca>, "Gary & Lucy Blunt" <lucyablunt@gmail.com>, 
+	Giulio Pace <gppp_us@yahoo.com>, Grace Lopes <lopes.grace@ymail.com>, 
+	Jade Smerchansky <cocodawson@hotmail.com>, Jennifer Perusini <jlperusini@gmail.com>, 
+	Jessica Mclean <jessicamclean78@gmail.com>, Joe Loggia <joe.loggia@vitran.com>, 
+	Joe Venezia <jvenezia72@rogers.com>, John Lommano <jlommano@yahoo.ca>, 
+	Joseph Yu <josephydw@gmail.com>, Joshua Mclean <joshua.4.mclean@gmail.com>, 
+	Julie Mclean <Julie.mclean05@live.ca>, Karin Teti <karinteti@hotmail.com>, 
+	Laura Casavant <laura.casavant@gmail.com>, Luigi Panigas <sensory5@gmail.com>, 
+	Marilena DiMatteo <marilena@rogers.com>, Marina Lancia <marinalancia@gmail.com>, 
+	Marisa Panaroni <mpanaroni@gmail.com>, Mark Casavant <mark.casavant@gmail.com>, 
+	Mary Varkaris <maryvarkaris@yahoo.com>, Michelle Annarilli <santelicesm@hotmail.com>, 
+	Nick - Cell Zambri <nick_zambri@hotmail.com>, Nick Smith <mossberg303@gmail.com>, 
+	"Omar, Jennifer Perusini" <perusini@gmail.com>, Paul Losacco <plosacco@rogers.com>, 
+	Peter Rothman <rothmanspainting@gmail.com>, "Phil & Anna D'Angelo" <anna.dangelo@rogers.com>, 
+	Phyllis Fenuta <phyllis.fenuta@hotmail.com>, Pierluca Belsito <pierluca.belsito@gmail.com>, 
+	Pina Mobilio <pina.mobilio@gmail.com>, Randall Franske <rfranske@gmail.com>, 
+	Raquel Floro <rlfloro93@gmail.com>, Richard Sherif <richard.sherif@gmail.com>, 
+	Rita Casavant <rita.casavant@gmail.com>, 
+	"Ron & Marjory Robinson" <brenda@chainsawclinic.com>, Sally Franske <sfranske@yahoo.com>, 
+	Samantha McLean <samantha041205@gmail.com>, Sonia Genovese <sonia.genovese@yahoo.com>, 
+	Stephanie - cell Rucchetta <srucchetta@yahoo.com>, Teneson Floro <tenesonfloro@gmail.com>, 
+	Teresa Parejas <tlparejas@hotmail.com>, Tiana Lancia <tianalancia@hotmail.com>, 
+	Tobilola Mabayoje <tobilola.k.mabayoje@live.com>, Tony Alcamo <talcamo@gmail.com>, 
+	Tony Fiorellino <tony@insureitgroup.com>, Vince Teti <vinceteti@gmail.com>, 
+	Walter Panaroni <wpanaroni@gmail.com>, Zenon Varisella <zrvarisella@primus.ca>
+Content-Type: multipart/alternative; boundary=001a1141f18667b1b30549ee4a5e
+
+--001a1141f18667b1b30549ee4a5e
+Content-Type: text/plain; charset=UTF-8
+
+Dear Brothers,
+As a reminder of the Sunday Service Arrangements, they will take place as
+follows:
+
+*March*
+Location 7440 Kipling - for Kipling, Kingdom Hall and Velvet groups
+Location 59 Blue Willow - for Blue Willow and Velmar groups
+
+*April*
+Location 43 Velvet - for Kipling, Kingdom Hall and Velvet groups
+Location 15 Velmar - for Blue Willow and Velmar groups
+
+Group time is at 10:30
+
+John Parete
+
+--001a1141f18667b1b30549ee4a5e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div><div class=3D"gmail_signature"><fon=
+t face=3D"georgia, serif">Dear Brothers,<br>As a reminder of the Sunday Ser=
+vice Arrangements, they will take place as follows:<br><br></font></div><di=
+v class=3D"gmail_signature"><font face=3D"georgia, serif"><b>March</b><br><=
+/font></div><div class=3D"gmail_signature"><font face=3D"georgia, serif">Lo=
+cation 7440 Kipling - for Kipling, Kingdom Hall and Velvet groups<br></font=
+></div><div class=3D"gmail_signature"><font face=3D"georgia, serif">Locatio=
+n 59 Blue Willow - for Blue Willow and Velmar groups<br><br></font></div><d=
+iv class=3D"gmail_signature"><b><font face=3D"georgia, serif">April</font><=
+/b><br><div class=3D"gmail_signature"><font face=3D"georgia, serif">Locatio=
+n 43 Velvet - for Kipling, Kingdom Hall and Velvet groups<br></font></div><=
+font face=3D"georgia, serif">Location 15 Velmar - for Blue Willow and Velma=
+r groups<br><br></font></div><div class=3D"gmail_signature"><font face=3D"g=
+eorgia, serif">Group time is at 10:30<br></font></div><div class=3D"gmail_s=
+ignature"><font face=3D"georgia, serif"><br>John Parete</font></div></div>
+</div>
+
+--001a1141f18667b1b30549ee4a5e--

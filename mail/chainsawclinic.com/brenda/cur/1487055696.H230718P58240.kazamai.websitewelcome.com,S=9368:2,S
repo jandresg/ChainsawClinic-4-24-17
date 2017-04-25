@@ -1,0 +1,227 @@
+Return-path: <bounces+3641920-fdda-brenda=chainsawclinic.com@mail.shiptime.co>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 14 Feb 2017 01:01:36 -0600
+Received: from o1678978x58.outbound-mail.sendgrid.net ([167.89.78.58]:6463)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+3641920-fdda-brenda=chainsawclinic.com@mail.shiptime.co>)
+	id 1cdX7H-000F6n-VJ
+	for brenda@chainsawclinic.com; Tue, 14 Feb 2017 01:01:36 -0600
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=shiptime.co; 
+	h=from:to:subject:mime-version:content-type; s=s1; 
+	bh=4fc7vLg+Xs3W4keKCM2dAXZ9VDk=; b=I0jlGrD1RppgpCe5u1n2hEbTbQtTf
+	2FxfZdpQUZFVMokabEaSwf4JMJdeDg+QxH/C6vJx2KwN8xCFINLAZoEJGXzyynCr
+	DfJEeYR53r73KrkHpHxIhjW/Bv1SP2UzJrdanRUVOBRhXqBNIvcWQ7KVJNqPffJv
+	y2vKlchYWbrSRY=
+Received: by filter0626p1mdw1.sendgrid.net with SMTP id filter0626p1mdw1-23302-58A2AB3F-18
+        2017-02-14 07:01:19.252394065 +0000 UTC
+Received: from 10-165-141-18.cloud.opsource.net (207-20-35-71-compute-ag2-ash01.opsourcecloud.net [207.20.35.71])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id EcFlukSmSJKP_P6jqsusJg
+	for <brenda@chainsawclinic.com>; Tue, 14 Feb 2017 07:01:19.167 +0000 (UTC)
+Date: Tue, 14 Feb 2017 02:01:19 -0500 (EST)
+From: support@zoomshipr.ca
+To: brenda@chainsawclinic.com
+Message-ID: <74955309.17211487055679164.JavaMail.tomcat7@10-165-141-18.cloud.opsource.net>
+Subject: New Statement Available
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1722_1914985070.1487055679100"
+X-SG-EID: IuTw9Apubm5pef66PmGnqST8qtdQoP1y1iVhDOMfGVXmCcOSOOAy2MAPI7kKcevjQIorDHABWDmeLQ
+ zyo4QYLzsgJmaOywfrFHLdaHHnNY0ZYXHnHhtYOKEI/LngVRQfzA5pv5ByzTVtPiksn1/FzfzBvfF4
+ woL+rbUAnRe5iXkVCWE8wiemC0H1kCsNZogGSOBQaBH1YU0jBQwjRxPBIQ==
+
+------=_Part_1722_1914985070.1487055679100
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Welcome to ZoomShipR!</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<style type="text/css">
+
+		body,.backgroundTable{
+			background-color:#eeeeee;
+			margin-top: 0px;
+		}
+		#contentTable{
+			border:1px ridge #aaaaaa;
+			margin-top: 0px;
+			}
+		.headerTop{
+			background-color:#77859c;
+			border-top:0px none #000000;
+			border-bottom:2px ridge #FFFFFF;
+			text-align:center;
+			padding:2px;
+		}
+		.adminText{
+			font-size:10px;
+			color:#dddddd;
+			line-height:200%;
+			font-family:Helvetica;
+			text-decoration:none;
+		}
+		.headerBar{
+			background-color:#FFFFFF;
+			border-top:0px none #333333;
+			border-bottom:0px none #FFFFFF;
+			padding:0px;
+		}
+		.headerBarText{
+			color:#dddddd;
+			font-size:30px;
+			font-family:Helvetica;
+			font-weight:normal;
+			text-align:left;
+		}
+		.title{
+			font-size:24px;
+			font-weight:normal;
+			color:#d14803;
+			font-family:Georgia;
+			line-height:110%;
+			padding
+		}
+		.subTitle{
+			font-size:20px;
+			font-weight:normal;
+			color:#d14803;
+			font-style:normal;
+			font-family:Georgia;
+		}
+		.defaultText{
+	font-size:13px;
+	color:#111111;
+	line-height:16px;
+	font-family:Georgia;
+	width:410px;
+	background-color:#FFFFFF;
+	padding:10px 10px 10px 20px;
+		}
+		.sideColumn{
+			background-color:#FFFFFF;
+			border-left:1px solid #DDDDDD;
+			text-align:left;
+			width:190px;
+			padding:10px;
+			margin:0px;
+		}
+		.sideColumnText{
+			font-size:11px;
+			font-weight:normal;
+			color:#333333;
+			font-family:Helvetica;
+			line-height:150%;
+		}
+		.sideColumnTitle{
+			font-size:18px;
+			font-weight:normal;
+			color:#d44700;
+			font-family:Georgia;
+			line-height:150%;
+		}
+		.footerRow{
+			background-color:#77859c;
+			border-top:2px ridge #FFFFFF;
+			padding:10px;
+		}
+		.footerText{
+			font-size:10px;
+			color:#ffffff;
+			line-height:100%;
+			font-family:Helvetica;
+		}
+		a,a:link,a:visited{
+			color:#17488a;
+			text-decoration:underline;
+			font-weight:normal;
+		}
+		.headerTop a{
+			color:#ffffff;
+			text-decoration:none;
+			font-weight:normal;
+		}
+		.footerRow a{
+			color:#ffffff;
+			text-decoration:underline;
+			font-weight:normal;
+		}
+		body,.backgroundTable{
+			background-color:#efefef;
+		}
+		#templateHeader{
+			padding:0px;
+			background-color:#000000;
+		}
+</style></head>
+<body leftmargin="0"topmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="background-color: #efefef;margin-top:0px;">
+
+
+<table width="100%" cellpadding="10" cellspacing="0" class="backgroundTable" style="background-color: #efefef;">
+<tr>
+<td valign="top" align="center">
+
+<table id="contentTable" cellspacing="0" cellpadding="0" width="600" style="border: 1px ridge #aaaaaa;margin-top: 0px;"><tr><td>
+
+<table width="600" cellpadding="0" cellspacing="0">
+
+<tr>
+<td align="left" valign="middle" class="headerBar" style="background-color: #FFFFFF;border-top: 0px none #333333;border-bottom: 0px none #FFFFFF;padding: 0px;"><div class="headerBarText" style="color: #dddddd;font-size: 30px;font-family: Helvetica;font-weight: normal;text-align: left;">
+    <div style="text-align: left;">
+    	<a href="https://u3641920.ct.sendgrid.net/wf/click?upn=SMC4rTsJcbSOcwov-2Bu040pZkuNmnuZPmdeDjlpBu6WcymPHBX9Lr-2BmzEzxejQx9QTGx13gK6a3pCAE2pqWnSTEy3v9bBreiah6KWervI-2FUFLXzhfqtGhKrHNHo9L55MQ_y52NfNZJFC-2F8HOnfTR8XaHlQ7viajQqfRNizKy5-2BdJDf-2BQOrcM-2FeIaW9HexHVcag3uMVwDGcNaiT5PtK2RRU0FzBU4fcpRcyoFkW6-2BDJIj9tIXZci9oGYPChSPlsd1n5nSE6y4NJZM7tX3cum3ouW2nXzcGL-2FA2Qfn-2FTL86eTWmB2cg04q1NjCsTBZ0aRnx4JncUlLpuRkEMFtrCJTwAoD-2B-2F-2FqXttiyMyFy3nPjg-2FGY-3D" style="color: #17488a;text-decoration: underline;font-weight: normal;">
+    		<img src="http://ship.emergeit.com/resources/images/email/cfib/header-zoomshipr-statement.jpg" alt="Welcome to ZoomShipR!" border="0" style="margin: 0; padding: 0;display: block; margin-top: 0; margin-bottom: 0;" width="600" height="90">
+    	</a>
+    </div>
+</div></td>
+</tr>
+
+
+</table>
+
+<table width="600" cellpadding="20" cellspacing="0" class="bodyTable">
+<tr>
+
+<td valign="top" class="defaultText" align="left" style="font-size: 13px;color: #111111;line-height: 16px;font-family: Georgia;width: 410px;background-color: #FFFFFF;padding:10px 10px 10px 20px;">
+    <span class="title" style="font-size: 24px;font-weight: normal;color: #d14803;font-family: Georgia;line-height: 110%;">Your Statement is Ready.</span><br>
+	<p>This email is to inform you that your latest Statement has been created as of February 14, 2017 and is now available for review on the ZoomShipR website. All of your Statements are available under the 'Invoices' tab of your account.</p>
+	
+	<a href="https://u3641920.ct.sendgrid.net/wf/click?upn=SMC4rTsJcbSOcwov-2Bu040qWEyjpZ-2FyLJLKV9kw47zxq4CYGeojFcgvlqxn2LnJPe_y52NfNZJFC-2F8HOnfTR8XaHlQ7viajQqfRNizKy5-2BdJDf-2BQOrcM-2FeIaW9HexHVcag3uMVwDGcNaiT5PtK2RRU0AepRsi4iL8WeGoqovgvNRRbRRETN-2FWLtDyicjAtacdP3gxSMf-2By-2BWSMd8BRpQOuySTWDQ3JZNMN2RCVQsOIo3DXqOy1ANI6mhBm3HiuguNNkDzpiz-2FZXpEmaWssqVlPC8eNgXzD70wGTl7QBpQ8Bgk-3D" style="text-decoration: none;font-size: 12px;font-weight: normal;color: #ff3142;font-style: normal;font-family: Georgia;">Click Here To Login and View Invoices</a>
+	
+<p><span class="subTitle" style="font-size: 20px;font-weight: normal;color: #d14803;font-style: normal;font-family: Georgia;"><br>
+  Heroic  Support</span>.</p>
+<p>Remember that our first priority is world-class support. If at any time you have any questions about using ZoomShipR or this invoice, call our Heroic Support team at 1-877-309-2710 or email <a href="mailto:support@zoomshipr.ca">support@zoomshipr.ca</a> and we'll help you out.</p></td>
+
+<td valign="top" class="sideColumn" align="left" style="margin: 0px;background-color: #F6F6F6;border-left: 1px solid #DDDDDD; border-top: 1px solid #DDDDDD; text-align: left;width: 190px;padding: 10px;">
+<div class="sideColumnText" style="font-size: 11px;font-weight: normal;color: #333333;font-family: Helvetica;line-height: 150%;">
+    <p><span class="sideColumnTitle" style="font-size: 18px;font-weight: normal;color: #d44700;font-family: Georgia;line-height: 150%;">Thanks!</span><br>
+      <strong><br>
+      </strong>As always, we want to thank-you for using ZoomShipR. Have suggestions about how we can improve our service? Please let us know by <a href="mailto:support@zoomshipr.ca">submitting feedback.</a></p>
+</div>
+</td>
+
+</tr>
+
+<tr>
+<td class="footerRow" valign="top" colspan="2" align="right" style="background-color: #77859c;border-top: 2px ridge #FFFFFF;padding: 10px;">
+<div class="footerText" style="font-size: 10px;color: #ffffff;line-height: 100%;font-family: Helvetica;">
+Copyright &copy; 2017 <i>ZoomShipR</i>. All rights reserved.</div>
+</td>
+</tr>
+
+</table>
+
+</td></tr></table>
+
+</td>
+</tr>
+</table>
+<span style="padding: 0px;"></span>
+
+<img src="https://u3641920.ct.sendgrid.net/wf/open?upn=y52NfNZJFC-2F8HOnfTR8XaHlQ7viajQqfRNizKy5-2BdJDf-2BQOrcM-2FeIaW9HexHVcag3uMVwDGcNaiT5PtK2RRU0EMKqcUITi3DeNegXihQObYB01m6W9Xx0EkGEJ4fbd27-2Bq8qV15LyW4KOQBHmcgTo8u9-2FT1YoCcphqkEJhVW8zHyKLpIr-2FQ1tVkRmvpzqGQiSFB8IZ0VpCsLI25euBFJDlqjfdrbC7Qb8VzgQBLIC0M-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+------=_Part_1722_1914985070.1487055679100--
+

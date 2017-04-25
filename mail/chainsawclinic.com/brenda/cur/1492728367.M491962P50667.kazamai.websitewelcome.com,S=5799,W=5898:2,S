@@ -1,0 +1,99 @@
+Return-Path: <mtremblay@mayo-associates.com>
+Delivered-To: brenda@chainsawclinic.com
+Received: from kazamai.websitewelcome.com
+	by kazamai.websitewelcome.com (Dovecot) with LMTP id afwtHS86+VjrxQAAaocpPg
+	for <brenda@chainsawclinic.com>; Thu, 20 Apr 2017 17:46:07 -0500
+Return-path: <mtremblay@mayo-associates.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Thu, 20 Apr 2017 17:46:07 -0500
+Received: from mail-io0-f180.google.com ([209.85.223.180]:36385)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <mtremblay@mayo-associates.com>)
+	id 1d1Kpz-000GAb-DW
+	for brenda@chainsawclinic.com; Thu, 20 Apr 2017 17:46:07 -0500
+Received: by mail-io0-f180.google.com with SMTP id o22so99439452iod.3
+        for <brenda@chainsawclinic.com>; Thu, 20 Apr 2017 15:46:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=mayo-associates-com.20150623.gappssmtp.com; s=20150623;
+        h=date:subject:message-id:importance:from:to:mime-version;
+        bh=1nFR/yr67f8IoTXx/z1v0HBM1iRDD9NnLSsCJJTiOVU=;
+        b=0LbrYcGdy+LYCSjT3cN6FsDqao0bPtA15Yg+8msdWSsO5fNnFU7WcatMrqx4lqNJKi
+         unfdRVRRGtgZugtLdqTBs8c8GtQqckFH01ucBC5c8cPPB+YXjZX2b+7lb/VHIjbrUOGn
+         FC4TsTq6u/7MRQEgkaPY9/X5kuHY+Wgt38pKE8Nxe30/iGn1XH8raT/kAsVjqCfUorrN
+         JnNYU2nX87uYJswFVHZiQAPpJWz91AY7L8Y7hX55J4j87AAaoscyoEmNwoEG3wSiMk8z
+         Go47eqVfLNUSU+0blVlPHjO4GPVheL/mOxH6Rkpkik7PgiK/tRwdm74rIv8ugCxPmNhm
+         k/lQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:date:subject:message-id:importance:from:to
+         :mime-version;
+        bh=1nFR/yr67f8IoTXx/z1v0HBM1iRDD9NnLSsCJJTiOVU=;
+        b=tSULXhypmEnfoc6DDx4ZT0xC27iCia4603azEKYZsA7dfocMZcSRDbXew1mgYY+B6O
+         nXEm0SyhT93lFNmLRJD/ZFRbVulE+gVA3UuxcPQCDDjtfG88kizOi8yXEW8pSMyRodKd
+         07AaWzV0v76IL3rLXroYrbv1yz6/LS3Aw2BKLRjy4zq/A6oqKX2OzL/G6iFQ4jOdSQjw
+         Fw7v8uB9GcqW7z1J8xT8o+6K8iH1DtQdPWsqDQ+76Z1JiCcoZCA39CMXb68qq8yp0Rip
+         JVdr9vNK0rbPx6HFsJm9RPp0Bk27NtKj5HkBFyeFjD29knEt42SLL9kEsEshHn46VM/K
+         F1Jg==
+X-Gm-Message-State: AN3rC/6iWMnOpaRpz0H2T46WGnJ1RqXch6x3FUan9FfKngtUEjovItMN
+	GWVcK9hJoO8dFq5eefe3xQ==
+X-Received: by 10.36.220.6 with SMTP id q6mr6799640itg.77.1492728356135;
+        Thu, 20 Apr 2017 15:45:56 -0700 (PDT)
+Received: from ?IPv6:2605:8d80:660:3575:91a2:1b96:326a:339e? ([2605:8d80:660:3575:91a2:1b96:326a:339e])
+        by smtp.gmail.com with ESMTPSA id k22sm306017iti.5.2017.04.20.15.45.52
+        for <brenda@chainsawclinic.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 20 Apr 2017 15:45:54 -0700 (PDT)
+Date: Thu, 20 Apr 2017 18:49:13 -0400
+Subject: Re: GH Maintenance
+Message-ID: <gpbct7xwixdbkkff9sbpndts.1492728553911@email.android.com>
+Importance: normal
+From: Monique Tremblay <mtremblay@mayo-associates.com>
+To: Chain Saw Clinic - Brenda <brenda@chainsawclinic.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.samsung.android.email_357270226893680"
+
+----_com.samsung.android.email_357270226893680
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+VGhhbmtzIEJyZW5kYSHCoEknbGwgYXdhaXQgdGhlIG1pc3NpbmcgaW52b2ljZSBiZWZvcmUgSSBw
+cm9jZXNzIHRoZSBkb2N1bWVudHMuIMKgTm8gcHJvYmxlbSBhYm91dCBub3QgZ2V0dGluZyBiYWNr
+IHRvIG1lLiDCoPCfmIYKCgpTZW50IGZyb20gbXkgU2Ftc3VuZyBHYWxheHkgc21hcnRwaG9uZS4K
+LS0tLS0tLS0gT3JpZ2luYWwgbWVzc2FnZSAtLS0tLS0tLUZyb206IENoYWluIFNhdyBDbGluaWMg
+LSBCcmVuZGEgPGJyZW5kYUBjaGFpbnNhd2NsaW5pYy5jb20+IERhdGU6IDIwMTctMDQtMjAgIDY6
+MjEgUE0gIChHTVQtMDU6MDApIFRvOiBtdHJlbWJsYXlAbWF5by1hc3NvY2lhdGVzLmNvbSBTdWJq
+ZWN0OiBHSCBNYWludGVuYW5jZSAKSGksIGdvb2QgZXZlbmluZyxJIGhhdmUgYXR0YWNoZWQgMyBp
+bnZvaWNlcyBmb3IgR2VvcmdlLsKgIEkgdGhpbmsgdGhlcmUgbWF5IGJlIGFub3RoZXIgb25lIHNo
+b3J0bHkuV2hlbiBJIGdldCBpdCwgSSB3aWxsIGZvcndhcmQgaXQgdG8geW91LlNvcnJ5IEkgZGlk
+buKAmXQgZ2V0IGJhY2sgdG8geW91IGVhcmxpZXJUaGFua3PCoCBCcmVuZGE=
+
+----_com.samsung.android.email_357270226893680
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keT48ZGl2PlRoYW5rcyBCcmVuZGEhJm5i
+c3A7PC9kaXY+PGRpdj5JJ2xsIGF3YWl0IHRoZSBtaXNzaW5nIGludm9pY2UgYmVmb3JlIEkgcHJv
+Y2VzcyB0aGUgZG9jdW1lbnRzLiAmbmJzcDs8L2Rpdj48ZGl2Pk5vIHByb2JsZW0gYWJvdXQgbm90
+IGdldHRpbmcgYmFjayB0byBtZS4gJm5ic3A78J+YhjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+
+PGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXYgaWQ9ImNvbXBvc2VyX3NpZ25hdHVyZSI+PGRp
+diBzdHlsZT0iZm9udC1zaXplOjg1JTtjb2xvcjojNTc1NzU3IiBkaXI9ImF1dG8iPlNlbnQgZnJv
+bSBteSBTYW1zdW5nIEdhbGF4eSBzbWFydHBob25lLjwvZGl2PjwvZGl2PjxkaXY+PGJyPjwvZGl2
+PjxkaXYgc3R5bGU9ImZvbnQtc2l6ZToxMDAlO2NvbG9yOiMwMDAwMDAiPjwhLS0gb3JpZ2luYWxN
+ZXNzYWdlIC0tPjxkaXY+LS0tLS0tLS0gT3JpZ2luYWwgbWVzc2FnZSAtLS0tLS0tLTwvZGl2Pjxk
+aXY+RnJvbTogQ2hhaW4gU2F3IENsaW5pYyAtIEJyZW5kYSAmbHQ7YnJlbmRhQGNoYWluc2F3Y2xp
+bmljLmNvbSZndDsgPC9kaXY+PGRpdj5EYXRlOiAyMDE3LTA0LTIwICA2OjIxIFBNICAoR01ULTA1
+OjAwKSA8L2Rpdj48ZGl2PlRvOiBtdHJlbWJsYXlAbWF5by1hc3NvY2lhdGVzLmNvbSA8L2Rpdj48
+ZGl2PlN1YmplY3Q6IEdIIE1haW50ZW5hbmNlIDwvZGl2PjxkaXY+PGJyPjwvZGl2PjwvZGl2Pjxk
+aXYgY2xhc3M9IldvcmRTZWN0aW9uMSI+PHAgY2xhc3M9Ik1zb05vcm1hbCI+SGksIGdvb2QgZXZl
+bmluZyw8bzpwPjwvbzpwPjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIj5JIGhhdmUgYXR0YWNoZWQg
+MyBpbnZvaWNlcyBmb3IgR2VvcmdlLiZuYnNwOyBJIHRoaW5rIHRoZXJlIG1heSBiZSBhbm90aGVy
+IG9uZSBzaG9ydGx5LjxvOnA+PC9vOnA+PC9wPjxwIGNsYXNzPSJNc29Ob3JtYWwiPldoZW4gSSBn
+ZXQgaXQsIEkgd2lsbCBmb3J3YXJkIGl0IHRvIHlvdS48bzpwPjwvbzpwPjwvcD48cCBjbGFzcz0i
+TXNvTm9ybWFsIj5Tb3JyeSBJIGRpZG7igJl0IGdldCBiYWNrIHRvIHlvdSBlYXJsaWVyPG86cD48
+L286cD48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCI+VGhhbmtzJm5ic3A7IEJyZW5kYTxvOnA+PC9v
+OnA+PC9wPjwvZGl2PjwvYm9keT48L2h0bWw+
+
+----_com.samsung.android.email_357270226893680--
+

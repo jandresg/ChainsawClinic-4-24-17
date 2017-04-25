@@ -1,0 +1,241 @@
+Return-Path: <mtremblay@mayo-associates.com>
+Delivered-To: brenda@chainsawclinic.com
+Received: from kazamai.websitewelcome.com
+	by kazamai.websitewelcome.com (Dovecot) with LMTP id KcjPDdVP/lhvJgEAaocpPg
+	for <brenda@chainsawclinic.com>; Mon, 24 Apr 2017 14:19:49 -0500
+Return-path: <mtremblay@mayo-associates.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Mon, 24 Apr 2017 14:19:49 -0500
+Received: from mail-it0-f41.google.com ([209.85.214.41]:36701)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <mtremblay@mayo-associates.com>)
+	id 1d2jWX-000L1e-4M
+	for brenda@chainsawclinic.com; Mon, 24 Apr 2017 14:19:49 -0500
+Received: by mail-it0-f41.google.com with SMTP id g66so4997910ite.1
+        for <brenda@chainsawclinic.com>; Mon, 24 Apr 2017 12:19:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=mayo-associates-com.20150623.gappssmtp.com; s=20150623;
+        h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=/GPG7JUOvFz4t5IE65CZF+4/o0Cho6ykcBEYlHYikEg=;
+        b=g6j+ATwoWVYiFFW/yb8Sn2NlGeT4TcBuNqUWli3stn6hH396701qyeuQcoJS0RSBUd
+         A9fm9bK91A2ppwXffBDnvfeGY6k7lgjKboav/8HOsXnrLJ92ETa9qqMJDTagUu1f9WAy
+         yOo0YyF1je2BlN+dXQrF7Aq3J8k5ol3lw1bX+18N5Hb8TPuNGzSPpMtCXtNQmWiGEeXw
+         AqPgFgZWyF1rIJTXSTAMDfGlvK2z4hUyqcKTNfTydOyyv8GK7WH5oEacEwftJqhtFLIn
+         y7xXDf5aSROvoCNM/6mh5Yx57SUWUISjjmYt3uacDrJ17nJmj8T7C1e4OSFZqh9w0XC7
+         U/mQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:references:in-reply-to:subject:date
+         :message-id:mime-version:thread-index:content-language;
+        bh=/GPG7JUOvFz4t5IE65CZF+4/o0Cho6ykcBEYlHYikEg=;
+        b=Xz337tn0HHFlGyMI8+osvnawdwlUrr5MRzF9lvrSeXzgSD7HnfPOiGZbxHjoBT6zUU
+         FShDl1rDORADfXKRvxBYtz4ns6ZX9GrzaaYD8zocqHqu6Rw+wtIMNfOwPStQQyf026tf
+         j5WtTCzvJAgUsY175TmVwIwso0lDvAYg+C2BpmFxfVvR+ab2TZ4GJYQFM/F49PCvgFxD
+         dD6LZhnd9jxPY8BmOtY3eU/VUpq2tAID2eEJZqMF7PPKuTtyphmCoiHSqzFxzCKNHNtH
+         F4l0oeOzulgzC/UJYLGKR/kUePm6XOzMohB2D++h/E1bJxfQFga4zTPR6y3cxjNtsiDk
+         sWvQ==
+X-Gm-Message-State: AN3rC/7Kr7fRgtLJNsN8nGDlbQVr/uoD6G4Cr2oq9KRHO427UI5+0DU9
+	uRJnwqhLGJIPZmKUX88=
+X-Received: by 10.36.82.68 with SMTP id d65mr11678439itb.108.1493061578055;
+        Mon, 24 Apr 2017 12:19:38 -0700 (PDT)
+Received: from mtremblaywin7 (toroon2171w-lp140-01-74-14-82-22.dsl.bell.ca. [74.14.82.22])
+        by smtp.gmail.com with ESMTPSA id e73sm8207830ioi.22.2017.04.24.12.19.36
+        for <brenda@chainsawclinic.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 24 Apr 2017 12:19:37 -0700 (PDT)
+From: "Monique Tremblay" <mtremblay@mayo-associates.com>
+To: "'Chain Saw Clinic - Brenda'" <brenda@chainsawclinic.com>
+References: <000d01d2bd2f$00111dc0$00335940$@chainsawclinic.com>
+In-Reply-To: <000d01d2bd2f$00111dc0$00335940$@chainsawclinic.com>
+Subject: RE: GH MAINTENNCE
+Date: Mon, 24 Apr 2017 15:31:18 -0400
+Message-ID: <006201d2bd31$59059170$0b10b450$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0063_01D2BD0F.D1F3F170"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdK9Lt4CW1jAJhfeRkStKQsHi8gVsAAAlFQA
+Content-Language: en-ca
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0063_01D2BD0F.D1F3F170
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hey Brenda! 
+
+That works for me! J 
+
+Ill get working on the documents for George to sign off on.  This is the
+same lender as last time, Would you like me to have the chq couriered to
+your location?   Or we can have you set up for EFT if you send me a void. 
+
+ 
+
+Thanks!!!!  
+
+ 
+
+Monique Tremblay
+
+Mayo & Associates Ltd.
+
+ 
+
+10 Milner Business Court, Suite  810
+
+Toronto, On M1B 3C6
+
+Tel: 416 292 4771  Toll Free: 1 888 825 7690
+
+Fax: 416 292 6090 Toll Free: 1 888 825 7802
+
+mtremblay@mayo-associates.com
+
+ 
+
+To unsubscribe from this email please
+<mailto:info@mayo-associates.com?subject=Unsubscribe> click here
+
+ 
+
+ 
+
+ 
+
+From: Chain Saw Clinic - Brenda [mailto:brenda@chainsawclinic.com] 
+Sent: April-24-17 3:15 PM
+To: mtremblay@mayo-associates.com
+Subject: GH MAINTENNCE
+
+ 
+
+Hi Monique,
+
+Kindly let me know if this is how the invoice can go.
+
+Thanks Brenda
+
+
+------=_NextPart_000_0063_01D2BD0F.D1F3F170
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-CA link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Hey Brenda! <o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>That works for me! =
+</span><span style=3D'font-family:Wingdings;color:#1F497D'>J</span><span =
+style=3D'color:#1F497D'> <o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Ill get working on the =
+documents for George to sign off on.&nbsp; This is the same lender as =
+last time, Would you like me to have the chq couriered to your =
+location?&nbsp;&nbsp; Or we can have you set up for EFT if you send me a =
+void. <o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Thanks!!!!&nbsp; =
+<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Monique =
+Tremblay<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Mayo &amp; Associates =
+Ltd.<o:p></o:p></span></p><p class=3DMsoNormal><b><i><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></i></b></p><p =
+class=3DMsoNormal><b><i><span style=3D'color:#1F497D'>10 Milner Business =
+Court, Suite&nbsp; 810</span></i></b><b><span =
+style=3D'color:#1F497D'><o:p></o:p></span></b></p><p =
+class=3DMsoNormal><b><span style=3D'color:#1F497D'>Toronto, On <i>M1B =
+3C6</i><o:p></o:p></span></b></p><p class=3DMsoNormal><b><span =
+style=3D'color:#1F497D'>Tel: 416 292 4771&nbsp; Toll Free: 1 888 825 =
+7690<o:p></o:p></span></b></p><p class=3DMsoNormal><b><span =
+style=3D'color:#1F497D'>Fax: 416 292 6090 Toll Free: 1 888 825 =
+7802<o:p></o:p></span></b></p><p class=3DMsoNormal><b><span =
+style=3D'color:#1F497D'>mtremblay@mayo-associates.com<o:p></o:p></span></=
+b></p><p class=3DMsoNormal><b><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></b></p><p =
+class=3DMsoNormal><b><span style=3D'color:#1F497D'>To unsubscribe from =
+this email please <a =
+href=3D"mailto:info@mayo-associates.com?subject=3DUnsubscribe"><span =
+style=3D'color:blue'>click here</span></a><o:p></o:p></span></b></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p></div><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm'><p class=3DMsoNormal><b><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Chain Saw =
+Clinic - Brenda [mailto:brenda@chainsawclinic.com] <br><b>Sent:</b> =
+April-24-17 3:15 PM<br><b>To:</b> =
+mtremblay@mayo-associates.com<br><b>Subject:</b> GH =
+MAINTENNCE<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Hi =
+Monique,<o:p></o:p></p><p class=3DMsoNormal>Kindly let me know if this =
+is how the invoice can go.<o:p></o:p></p><p class=3DMsoNormal>Thanks =
+Brenda<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0063_01D2BD0F.D1F3F170--
+

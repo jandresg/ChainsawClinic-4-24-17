@@ -1,0 +1,65 @@
+Return-path: <>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Thu, 02 Feb 2017 14:37:25 -0600
+Received: from mailnull by kazamai.websitewelcome.com with local (Exim 4.87)
+	id 1cZO8D-0006U6-RZ
+	for brenda@chainsawclinic.com; Thu, 02 Feb 2017 14:37:25 -0600
+X-Failed-Recipients: jay@hmmdistribtors.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@kazamai.websitewelcome.com>
+To: brenda@chainsawclinic.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1486067845-eximdsn-71426522
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1cZO8D-0006U6-RZ@kazamai.websitewelcome.com>
+Date: Thu, 02 Feb 2017 14:37:25 -0600
+
+--1486067845-eximdsn-71426522
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  jay@hmmdistribtors.com
+    host cm.websitewelcome.com [108.167.139.23]
+    SMTP error from remote mail server after RCPT TO:<jay@hmmdistribtors.com>:
+    550 5.1.1 <jay@hmmdistribtors.com> recipient rejected
+
+--1486067845-eximdsn-71426522
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; kazamai.websitewelcome.com
+
+Action: failed
+Final-Recipient: rfc822;jay@hmmdistribtors.com
+Status: 5.0.0
+Remote-MTA: dns; cm.websitewelcome.com
+Diagnostic-Code: smtp; 550 5.1.1 <jay@hmmdistribtors.com> recipient rejected
+
+--1486067845-eximdsn-71426522
+Content-type: text/rfc822-headers
+
+Return-path: <brenda@chainsawclinic.com>
+Received: from cpef8bc1285d6bb-cm602ad086d896.cpe.net.cable.rogers.com ([99.242.224.195]:52478 helo=LAPTOPO4AKUVG6)
+	by kazamai.websitewelcome.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <brenda@chainsawclinic.com>)
+	id 1cZO81-0006R1-Sz
+	for jay@hmmdistribtors.com; Thu, 02 Feb 2017 14:37:24 -0600
+From: "Chain Saw Clinic - Brenda" <brenda@chainsawclinic.com>
+To: <jay@hmmdistribtors.com>
+Subject: Re PO 19386 May 13 2015 - Product purchased has a recall
+Date: Thu, 2 Feb 2017 15:37:12 -0500
+Message-ID: <000301d27d94$221ccbb0$66566310$@chainsawclinic.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0004_01D27D6A.3946C3B0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdJ9k51rn38isODvS+ymg6DsxEzJTg==
+Content-Language: en-ca
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1486067845-eximdsn-71426522--

@@ -1,0 +1,104 @@
+Return-path: <john.parete@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 29 Nov 2016 11:25:59 -0600
+Received: from mail-yw0-f194.google.com ([209.85.161.194]:35773)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <john.parete@gmail.com>)
+	id 1cBmAJ-000FoP-E9
+	for brenda@chainsawclinic.com; Tue, 29 Nov 2016 11:25:59 -0600
+Received: by mail-yw0-f194.google.com with SMTP id b66so12758121ywh.2
+        for <brenda@chainsawclinic.com>; Tue, 29 Nov 2016 09:25:54 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=fRNG3AX+z54oskvr9kdwWuX7jKAG6QYcEQirgeH8MQA=;
+        b=msHKIozaGG9k+9tR9qRXaMfAn62eEcgY579MpN+fn8R+GN0s7ttdy/quUo29llA8wQ
+         Pxv25CVEy/Aafe6/ii6tTetsChPHto4lxORD+O+4hD4Iyucyxl2wYdvS6mJ0BxdktTWO
+         TPri3tqIgge9Nx/nCBn+ay1mOQeVBJ29hwSDIt8e5lMDCceiUL4vGdF1OkHUGSsw7CaB
+         tAFKy9Fj40+R6BLlEVsyacpnqz18ErVL77FWBOj8qCUysWK/jDqsn6ODpZOyLWmoCEI+
+         0StSey5lsGdYj6Cec/z28VBhhf7/jJYLnb+oVnBYUuwGVfVrbI1oS2mJcm8Sz9pAeyHi
+         YHcA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=fRNG3AX+z54oskvr9kdwWuX7jKAG6QYcEQirgeH8MQA=;
+        b=BbcS8vibrUm0NAd9tkJA8L+80yx5myo+1/+aUxaH/KnmjuCBoakxYDCoc+uH5OP/k4
+         8fl8LiqDrlN1kOKxRDpxmmT3r/X5zyuROvyYu5tzM4qBaVvW4S3GIpuwxbtK2/OMr6Ru
+         YJb9RpPUu17u5ZZpKOXWKvR/AJaiUlCmWpqQ/5u2SD+hS3kzVxnn4Rpay0Endx5w/WJf
+         upC7/tlbRTozhqrdR38ppzUYK2CBHyIkeDG8TlBX1yTDIz2qzR11CHJtalJt5N7fDLYa
+         c34Fwq+H+zn/8AQLyrwUnT5cNYhRQwp5v4ZVN2BZJnMldaQiydjJ5MIxotDBWMoXlcbF
+         rZkg==
+X-Gm-Message-State: AKaTC02BtOt8d05/CH73PiLNUl8dHH5MucRHzwCVsSQYXgTPcvip1HEAitaPsZcuhNJPDxq01v6ugmrxBMYTpQ==
+X-Received: by 10.36.129.9 with SMTP id q9mr24822303itd.24.1480440348852; Tue,
+ 29 Nov 2016 09:25:48 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.64.226.111 with HTTP; Tue, 29 Nov 2016 09:25:18 -0800 (PST)
+In-Reply-To: <A37BB28F-3CB7-4B9A-8734-FD47A508B33B@gmail.com>
+References: <CAL7=TmkYj3TCjKb_G=_aercKDJFZzJrSnDF3Z-HVep7jHASdBA@mail.gmail.com>
+ <A37BB28F-3CB7-4B9A-8734-FD47A508B33B@gmail.com>
+From: John Parete <john.parete@gmail.com>
+Date: Tue, 29 Nov 2016 12:25:18 -0500
+Message-ID: <CAL7=TmkYF69QKSwXdhLVZk9etyAQidy0aj96Ai2+uGkBmjicGg@mail.gmail.com>
+Subject: Fwd: Gary Blunt's mother passed away
+To: Adewale Mabayoje <amabayoje@yahoo.com>, Andrew Lommano <andrewlommano@yahoo.ca>, 
+	Angie Parete <angie.parete@gmail.com>, Bernie Marchio <bmarchio@hotmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Carmela Motta <carmela.motta86@gmail.com>, 
+	Chris Ghangas <chris.ghangas@gmail.com>, Darrin Hollmann <dvhollmann@gmail.com>, 
+	David Fowler <uniteddave@aol.com>, David Junnola <junnolahomes@gmail.com>, 
+	Dennis - Cell Bou <dennis.bou92@gmail.com>, Derrick Smerchansky <smerchansky@hotmail.com>, 
+	Dino Vilardo <dinovilardo@yahoo.com>, Elvira Dinuzzo <edinuzzo@alumni.uoguelph.ca>, 
+	"Filipo & Catarina Zambri" <zamfilcat@hotmail.com>, "Frank & Amanda Stalteri" <amandar_86@hotmail.com>, 
+	Frank Rucchetta <frucchetta@yahoo.ca>, "Gary & Lucy Blunt" <lucyablunt@gmail.com>, 
+	Giulio Pace <gppp_us@yahoo.com>, Grace Lopes <lopes.grace@ymail.com>, 
+	Jade Smerchansky <cocodawson@hotmail.com>, Jennifer Perusini <jlperusini@gmail.com>, 
+	Jessica Mclean <jessicamclean78@gmail.com>, Joe Loggia <joe.loggia@vitran.com>, 
+	Joe Venezia <jvenezia72@rogers.com>, John Lommano <jlommano@yahoo.ca>, 
+	Joseph Yu <josephydw@gmail.com>, Joshua Mclean <joshua.4.mclean@gmail.com>, 
+	Julie Mclean <Julie.mclean05@live.ca>, Karin Teti <karinteti@hotmail.com>, 
+	Laura Casavant <laura.casavant@gmail.com>, Luigi Panigas <sensory5@gmail.com>, 
+	Marilena DiMatteo <marilena@rogers.com>, Marina Lancia <marinalancia@gmail.com>, 
+	Marisa Panaroni <mpanaroni@gmail.com>, Mark Casavant <mark.casavant@gmail.com>, 
+	Mary Varkaris <maryvarkaris@yahoo.com>, Michelle Annarilli <santelicesm@hotmail.com>, 
+	Nick - Cell Zambri <nick_zambri@hotmail.com>, Nick Smith <mossberg303@gmail.com>, 
+	Nina Junnola <njunnola@gmail.com>, "Omar, Jennifer Perusini" <perusini@gmail.com>, 
+	Paul Losacco <plosacco@rogers.com>, Peter Rothman <rothmanspainting@gmail.com>, 
+	"Phil & Anna D'Angelo" <anna.dangelo@rogers.com>, Phyllis Fenuta <phyllis.fenuta@hotmail.com>, 
+	Pierluca Belsito <pierluca.belsito@gmail.com>, Pina Mobilio <pina.mobilio@gmail.com>, 
+	Randall Franske <rfranske@gmail.com>, Raquel Floro <rlfloro93@gmail.com>, 
+	Richard Sherif <richard.sherif@gmail.com>, Rita Casavant <rita.casavant@gmail.com>, 
+	"Ron & Marjory Robinson" <brenda@chainsawclinic.com>, Sally Franske <sfranske@yahoo.com>, 
+	Samantha McLean <samantha041205@gmail.com>, Sonia Genovese <sonia.genovese@yahoo.com>, 
+	Stephanie - cell Rucchetta <srucchetta@yahoo.com>, Teneson Floro <tenesonfloro@gmail.com>, 
+	Teresa Parejas <tlparejas@hotmail.com>, Tiana Lancia <tianalancia@hotmail.com>, 
+	Tobilola Mabayoje <tobilola.k.mabayoje@live.com>, Tony Alcamo <talcamo@gmail.com>, 
+	Tony Fiorellino <tony@insureitgroup.com>, Vince Teti <vinceteti@gmail.com>, 
+	Walter Panaroni <wpanaroni@gmail.com>, Zenon Varisella <zrvarisella@primus.ca>
+Content-Type: multipart/alternative; boundary=94eb2c0598101acd74054273e128
+
+--94eb2c0598101acd74054273e128
+Content-Type: text/plain; charset=UTF-8
+
+Thank you there will be a memorial talk for Gary Blunt's mother:
+
+Lorraine Blunt
+Donlands Congregation.
+172 Donlands Ave
+
+Saturday December 3 at 2:00
+
+--94eb2c0598101acd74054273e128
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><div class=3D"gmail_quote"><br><br><div dir=3D"auto"><=
+div>Thank you there will be a memorial talk for Gary Blunt&#39;s mother:</d=
+iv><div><br></div><div>Lorraine Blunt=C2=A0</div><div>Donlands Congregation=
+.=C2=A0</div><div>172 Donlands Ave=C2=A0</div><div><br></div><div>Saturday =
+December 3 at 2:00<br><br><br></div><div><div class=3D"h5"><blockquote type=
+=3D"cite"><div><div dir=3D"ltr"><div>
+</div></div>
+</div></blockquote></div></div></div></div><br></div>
+
+--94eb2c0598101acd74054273e128--

@@ -1,0 +1,460 @@
+Return-path: <ltiangco@MetroSCG.com>
+Envelope-to: Brenda@chainsawclinic.com
+Delivery-date: Mon, 13 Feb 2017 16:10:53 -0600
+Received: from mail-bl2nam02on0090.outbound.protection.outlook.com ([104.47.38.90]:35264 helo=NAM02-BL2-obe.outbound.protection.outlook.com)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <ltiangco@MetroSCG.com>)
+	id 1cdOph-0008v7-4y; Mon, 13 Feb 2017 16:10:53 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=3ELogistics.onmicrosoft.com; s=selector1-MetroSCG-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=RvE3qldxKbuNTWWL/3ECErwW4TatkJ86Wd6lFURIiZo=;
+ b=pZpfjSG8cr1EB/D2729vJUmOTSqiJYAehOQsgKbVJclUm9kyjzQKcCYTu4dgp6gWhJrtfbiJxyuMGhsUGoLVQAf60JXYuEke9NGAXdcSU9LzChfuzieE/GNbYzlNQvBlNHnOw5XFpsOeqd6l/dLhVmuugGIGF+ohxEMK2GYYaKk=
+Received: from BLUPR0501MB1841.namprd05.prod.outlook.com (10.163.121.151) by
+ BLUPR0501MB1841.namprd05.prod.outlook.com (10.163.121.151) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.919.10; Mon, 13
+ Feb 2017 22:10:31 +0000
+Received: from BLUPR0501MB1841.namprd05.prod.outlook.com ([10.163.121.151]) by
+ BLUPR0501MB1841.namprd05.prod.outlook.com ([10.163.121.151]) with mapi id
+ 15.01.0919.011; Mon, 13 Feb 2017 22:10:31 +0000
+From: "Tiangco, LuAnne" <ltiangco@MetroSCG.com>
+To: "sales@chainsawclinic.com" <sales@chainsawclinic.com>,
+	"Brenda@chainsawclinic.com" <Brenda@chainsawclinic.com>,
+	"ron@chainsawclinic.com" <ron@chainsawclinic.com>
+Subject: Dealer Ship Notification _Honda   05787
+Thread-Topic: Dealer Ship Notification _Honda   05787
+Thread-Index: AdKGRfqk0YUe9lotR76KoKd3Uy8kKg==
+Importance: high
+X-Priority: 1
+Date: Mon, 13 Feb 2017 22:10:31 +0000
+Message-ID: <BLUPR0501MB18419B588C703BD0D5C32877B6590@BLUPR0501MB1841.namprd05.prod.outlook.com>
+Accept-Language: en-CA, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=ltiangco@MetroSCG.com; 
+x-originating-ip: [70.25.53.76]
+x-ms-office365-filtering-correlation-id: e5385a48-47f4-4d5f-d04c-08d4545d2033
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001);SRVR:BLUPR0501MB1841;
+x-microsoft-exchange-diagnostics: 1;BLUPR0501MB1841;7:1CQ0yTmMf3Lp1Lu7s4YFzSsxPIonlD0qtSnPUyQ91HMxL8fnhFbcTF+DNv2z4+Mjrm+3LEWKzZ2W2mnnMBdj2eubN3hpb7UA217PeYH9YHg4FUX9IBJR/M4BUNYJ3H3fhlExutKPW8+DVdrZ0NoNbjglSmfxgdJWNZLcfTv8XGmKdQUqIC7dV2kZf6tM/LlRUK4i4C8LwBoUj5Y1IV16PZCM7vjlkBlH+EgjpAEyFUKzKKgwGM6puNF6DwFzt1IBZO084czot/4gFk57UQxQhkgQiKIJXBMKIhXMHo99Ift4EKe0+/426vFoQua0yiLZ0kOvLh1C+noB0mspM4Z9L7W3H0EcsgkjEixvHiDf6dOr+xcs2ClnRDnxutLvzgrOdc+jhy2DvF74iLU3Mxo5EULjoMaM3MveUOOK1gWzREM+PbB4l1UVfz+xTFwxnQ78EfV17Nq5WWcnYYvmo5F4s6bO/MuTuERIZZFMGkr54w5aHUW0otecb6v1taGNI0MMPkVgw+NOZnEeEzEcBsuOLg==
+x-microsoft-antispam-prvs: <BLUPR0501MB184116F54E485E6DA427ED4AB6590@BLUPR0501MB1841.namprd05.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(158342451672863);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415395)(6040375)(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046)(6041248)(20161123558025)(20161123562025)(20161123560025)(20161123564025)(20161123555025)(6072148);SRVR:BLUPR0501MB1841;BCL:0;PCL:0;RULEID:;SRVR:BLUPR0501MB1841;
+x-forefront-prvs: 02176E2458
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(979002)(6009001)(7916002)(39830400002)(39450400003)(39410400002)(40224003)(189002)(199003)(102836003)(3846002)(6116002)(7696004)(15650500001)(189998001)(7736002)(68736007)(2906002)(74316002)(97736004)(8676002)(81156014)(5660300001)(3660700001)(81166006)(3280700002)(8936002)(66066001)(53936002)(25786008)(77096006)(9686003)(2501003)(6506006)(99286003)(55016002)(5890100001)(38730400002)(2900100001)(33656002)(106356001)(105586002)(92566002)(54896002)(450100001)(122556002)(54356999)(2201001)(86362001)(50986999)(81686999)(101416001)(99936001)(6436002)(81003)(14943795004)(969003)(989001)(999001)(1009001)(1019001);DIR:OUT;SFP:1102;SCL:1;SRVR:BLUPR0501MB1841;H:BLUPR0501MB1841.namprd05.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+received-spf: None (protection.outlook.com: MetroSCG.com does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/mixed;
+	boundary="_004_BLUPR0501MB18419B588C703BD0D5C32877B6590BLUPR0501MB1841_"
+MIME-Version: 1.0
+X-OriginatorOrg: MetroSCG.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 13 Feb 2017 22:10:31.4009
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: fdbb3d32-4b18-4512-8e39-1acfc2b8f6b7
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR0501MB1841
+
+--_004_BLUPR0501MB18419B588C703BD0D5C32877B6590BLUPR0501MB1841_
+Content-Type: multipart/alternative;
+	boundary="_000_BLUPR0501MB18419B588C703BD0D5C32877B6590BLUPR0501MB1841_"
+
+--_000_BLUPR0501MB18419B588C703BD0D5C32877B6590BLUPR0501MB1841_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi
+
+Please print the shipment notification attached and refer to it when receiv=
+ing the shipment. It contains the shipment reference numbers, shipment deta=
+ils, and the corresponding Honda release numbers..
+
+Please advise if you are unable to open the attached excel document or if t=
+his should be sent to someone else. Send your changes or concerns to Priyan=
+ka at pjhurry@metroscg.com.
+
+SVP imprimer la notification d'exp=E9dition ci-joint et s'y r=E9f=E9rer lor=
+s de la r=E9ception de l'exp=E9dition.  Il contient les num=E9ros d'exp=E9d=
+ition de r=E9f=E9rence, d=E9tails de l'exp=E9dition, et les num=E9ros de re=
+lease  Honda correspondant.
+
+SVP aviser si vous ne parvenez pas =E0 ouvrir le document Excel ci-joint ou=
+ si cela devrait =EAtre envoy=E9 =E0 quelqu'un d'autre. Envoyer vos changem=
+ents ou vos questions =E0 Priyanka au pjhurry@metroscg.com
+
+Dispatch                    Carrier                     ETA                =
+             Release#         Ship_ID               Serial Number          =
+           Model
+
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SET=
+C      1000224       SSETC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SBC=
+C      1000700       SSBCC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SBC=
+C      1000694       SSBCC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SBC=
+C      1000693       SSBCC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SBC=
+C      1000692       SSBCC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SBL=
+C      1000386       SSBLC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SHS=
+C      1000483       SSHHSC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SCL=
+C      1000207       SSCLC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SHS=
+C      1000482       SSHHSC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SBC=
+C      1000691       SSBCC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SPP=
+C      1000420       SSPPC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SBL=
+C      1000387       SSBLC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SHL=
+C      1000447       SSHHLC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SPP=
+C      1000419       SSPPC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SPP=
+C      1000424       SSPPC-0
+2017/02/13      GENERAL CARTAGE 02/14/2017      056679  SID2643097      SHL=
+C      1000448       SSHHLC-0
+
+Thanks,
+LuAnne Tiangco/Metro Supply Chain Group/905-888-4458
+
+
+--_000_BLUPR0501MB18419B588C703BD0D5C32877B6590BLUPR0501MB1841_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"MS Exchange Server version rmj.rmm.rup.=
+rpr">
+<title></title>
+</head>
+<body>
+<!-- Converted from text/rtf format -->
+<p><font face=3D"Calibri">Hi </font></p>
+<p><font face=3D"Calibri">Please print the shipment notification attached a=
+nd refer to it when receiving the shipment. It contains the shipment refere=
+nce numbers, shipment details, and the corresponding Honda release numbers.=
+.</font></p>
+<p><font face=3D"Calibri">Please advise if you are unable to open the attac=
+hed excel document or if this should be sent to someone else. Send your cha=
+nges or concerns to Priyanka at pjhurry@metroscg.com.</font></p>
+<p><font face=3D"Calibri">SVP imprimer la notification d'exp=E9dition ci-jo=
+int et s'y r=E9f=E9rer lors de la r=E9ception de l'exp=E9dition.&nbsp; Il c=
+ontient les num=E9ros d'exp=E9dition de r=E9f=E9rence, d=E9tails de l'exp=
+=E9dition, et les num=E9ros de release&nbsp; Honda correspondant.</font></p=
+>
+<p><font face=3D"Calibri">SVP aviser si vous ne parvenez pas =E0 ouvrir le =
+document Excel ci-joint ou si cela devrait =EAtre envoy=E9 =E0 quelqu'un d'=
+autre. Envoyer vos changements ou vos questions =E0 Priyanka au pjhurry@met=
+roscg.com</font></p>
+<p><font face=3D"Calibri">Dispatch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C=
+arrier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ETA&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R=
+elease#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ship_ID&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Se=
+rial Number&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Model&nbsp;&nbsp;
+</font></p>
+<p><font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL =
+CARTAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp; SETC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000224&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSETC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SBCC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000700&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSBCC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SBCC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000694&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSBCC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SBCC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000693&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSBCC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SBCC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000692&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSBCC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SBLC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000386&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSBLC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SHSC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000483&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSHHSC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SCLC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000207&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSCLC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SHSC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000482&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSHHSC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SBCC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000691&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSBCC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SPPC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000420&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSPPC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SBLC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000387&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSBLC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SHLC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000447&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSHHLC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SPPC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000419&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSPPC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SPPC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000424&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSPPC-0</font>
+<br>
+<font face=3D"Calibri">2017/02/13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GENERAL CAR=
+TAGE 02/14/2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 056679&nbsp; SID2643097&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; SHLC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000448&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; SSHHLC-0</font>
+</p>
+<p><font face=3D"Calibri">Thanks,</font> <br>
+<font face=3D"Calibri">LuAnne Tiangco/Metro Supply Chain Group/905-888-4458=
+</font> </p>
+<br>
+</body>
+</html>
+
+--_000_BLUPR0501MB18419B588C703BD0D5C32877B6590BLUPR0501MB1841_--
+
+--_004_BLUPR0501MB18419B588C703BD0D5C32877B6590BLUPR0501MB1841_
+Content-Type: application/vnd.ms-excel; name="Honda05787-13022017.xls"
+Content-Description: Honda05787-13022017.xls
+Content-Disposition: attachment; filename="Honda05787-13022017.xls";
+	size=10752; creation-date="Mon, 13 Feb 2017 22:10:26 GMT";
+	modification-date="Mon, 13 Feb 2017 22:10:26 GMT"
+Content-Transfer-Encoding: base64
+
+0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAPgADAP7/CQAGAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA
+EAAAAgAAAAEAAAD+////AAAAAAAAAAD/////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////9
+/////v////7///8EAAAABQAAAAYAAAAHAAAACAAAAAkAAAAKAAAA/v///wwAAAANAAAADgAAAA8A
+AAAQAAAAEQAAABIAAAATAAAAAwAAAP//////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////1IA
+bwBvAHQAIABFAG4AdAByAHkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAWAAUA//////////8CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCynfpFhtIB
+/v///wAAAAAAAAAAQgBvAG8AawAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAoAAgD///////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAALAAAAOiEAAAAAAABDAG8AbQBwAE8AYgBqAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAACAQEAAAADAAAA/////wAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7///8AAAAAAAAAAFMAdQBtAG0AYQByAHkASQBu
+AGYAbwByAG0AYQB0AGkAbwBuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAAIA////////
+////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/v///wAAAAAAAAAA////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////8wOTcE
+AhUABwAGABgADQBETS9BTExPQ0FUSU9OBAISAAcABwAYAAoAQ01WMDY4NzA4NQQCGQAHAAgAGAAR
+AFNIU0MgICAgICAxMDAwNDgzBAIQAAcACQAYAAgAU1NISFNDLTAEAlEABwAKABgASQBzYWxlc0Bj
+aGFpbnNhd2NsaW5pYy5jb207QnJlbmRhQGNoYWluc2F3Y2xpbmljLmNvbTtyb25AY2hhaW5zYXdj
+bGluaWMuY29tBAIdAAcACwAYABUAQ0hBSU4gU0FXIENMSU5JQyBMVEQuBAIYAAcADAAYABAAMjU5
+OCBXRVNUT04gUk9BRAQCFQAHAA0AGAANAE5PUlRIIFlPUkssT04EAhIACAAAABgACgAyMDE3LzAy
+LzEzBAIXAAgAAQAYAA8AR0VORVJBTCBDQVJUQUdFBAISAAgAAgAYAAoAMDIvMTQvMjAxNwQCDQAI
+AAMAGAAFADA1Nzg3BAIOAAgABAAYAAYAMDU2Njc5BAISAAgABQAYAAoAU0lEMjY0MzA5NwQCFQAI
+AAYAGAANAERNL0FMTE9DQVRJT04EAhIACAAHABgACgBDTVYwNjg3MDg1BAIZAAgACAAYABEAU0NM
+QyAgICAgIDEwMDAyMDcEAg8ACAAJABgABwBTU0NMQy0wBAJRAAgACgAYAEkAc2FsZXNAY2hhaW5z
+YXdjbGluaWMuY29tO0JyZW5kYUBjaGFpbnNhd2NsaW5pYy5jb207cm9uQGNoYWluc2F3Y2xpbmlj
+LmNvbQQCHQAIAAsAGAAVAENIQUlOIFNBVyBDTElOSUMgTFRELgQCGAAIAAwAGAAQADI1OTggV0VT
+VE9OIFJPQUQEAhUACAANABgADQBOT1JUSCBZT1JLLE9OBAISAAkAAAAYAAoAMjAxNy8wMi8xMwQC
+FwAJAAEAGAAPAEdFTkVSQUwgQ0FSVEFHRQQCEgAJAAIAGAAKADAyLzE0LzIwMTcEAg0ACQADABgA
+BQAwNTc4NwQCDgAJAAQAGAAGADA1NjY3OQQCEgAJAAUAGAAKAFNJRDI2NDMwOTcEAhUACQAGABgA
+DQBETS9BTExPQ0FUSU9OBAISAAkABwAYAAoAQ01WMDY4NzA4NQQCGQAJAAgAGAARAFNIU0MgICAg
+ICAxMDAwNDgyBAIQAAkACQAYAAgAU1NISFNDLTAEAlEACQAKABgASQBzYWxlc0BjaGFpbnNhd2Ns
+aW5pYy5jb207QnJlbmRhQGNoYWluc2F3Y2xpbmljLmNvbTtyb25AY2hhaW5zYXdjbGluaWMuY29t
+BAIdAAkACwAYABUAQ0hBSU4gU0FXIENMSU5JQyBMVEQuBAIYAAkADAAYABAAMjU5OCBXRVNUT04g
+Uk9BRAQCFQAJAA0AGAANAE5PUlRIIFlPUkssT04EAhIACgAAABgACgAyMDE3LzAyLzEzBAIXAAoA
+AQAYAA8AR0VORVJBTCBDQVJUQUdFBAISAAoAAgAYAAoAMDIvMTQvMjAxNwQCDQAKAAMAGAAFADA1
+Nzg3BAIOAAoABAAYAAYAMDU2Njc5BAISAAoABQAYAAoAU0lEMjY0MzA5NwQCFQAKAAYAGAANAERN
+L0FMTE9DQVRJT04EAhIACgAHABgACgBDTVYwNjg3MDg1BAIZAAoACAAYABEAU0JDQyAgICAgIDEw
+MDA2OTEEAg8ACgAJABgABwBTU0JDQy0wBAJRAAoACgAYAEkAc2FsZXNAY2hhaW5zYXdjbGluaWMu
+Y29tO0JyZW5kYUBjaGFpbnNhd2NsaW5pYy5jb207cm9uQGNoYWluc2F3Y2xpbmljLmNvbQQCHQAK
+AAsAGAAVAENIQUlOIFNBVyBDTElOSUMgTFRELgQCGAAKAAwAGAAQADI1OTggV0VTVE9OIFJPQUQE
+AhUACgANABgADQBOT1JUSCBZT1JLLE9OBAISAAsAAAAYAAoAMjAxNy8wMi8xMwQCFwALAAEAGAAP
+AEdFTkVSQUwgQ0FSVEFHRQQCEgALAAIAGAAKADAyLzE0LzIwMTcEAg0ACwADABgABQAwNTc4NwQC
+DgALAAQAGAAGADA1NjY3OQQCEgALAAUAGAAKAFNJRDI2NDMwOTcEAhUACwAGABgADQBETS9BTExP
+Q0FUSU9OBAISAAsABwAYAAoAQ01WMDY4NzA4NQQCGQALAAgAGAARAFNQUEMgICAgICAxMDAwNDIw
+BAIPAAsACQAYAAcAU1NQUEMtMAQCUQALAAoAGABJAHNhbGVzQGNoYWluc2F3Y2xpbmljLmNvbTtC
+cmVuZGFAY2hhaW5zYXdjbGluaWMuY29tO3JvbkBjaGFpbnNhd2NsaW5pYy5jb20EAh0ACwALABgA
+FQBDSEFJTiBTQVcgQ0xJTklDIExURC4EAhgACwAMABgAEAAyNTk4IFdFU1RPTiBST0FEBAIVAAsA
+DQAYAA0ATk9SVEggWU9SSyxPTgQCEgAMAAAAGAAKADIwMTcvMDIvMTMEAhcADAABABgADwBHRU5F
+UkFMIENBUlRBR0UEAhIADAACABgACgAwMi8xNC8yMDE3BAINAAwAAwAYAAUAMDU3ODcEAg4ADAAE
+ABgABgAwNTY2NzkEAhIADAAFABgACgBTSUQyNjQzMDk3BAIVAAwABgAYAA0ARE0vQUxMT0NBVElP
+TgQCEgAMAAcAGAAKAENNVjA2ODcwODUEAhkADAAIABgAEQBTQkxDICAgICAgMTAwMDM4NwQCDwAM
+AAkAGAAHAFNTQkxDLTAEAlEADAAKABgASQBzYWxlc0BjaGFpbnNhd2NsaW5pYy5jb207QnJlbmRh
+QGNoYWluc2F3Y2xpbmljLmNvbTtyb25AY2hhaW5zYXdjbGluaWMuY29tBAIdAAwACwAYABUAQ0hB
+SU4gU0FXIENMSU5JQyBMVEQuBAIYAAwADAAYABAAMjU5OCBXRVNUT04gUk9BRAQCFQAMAA0AGAAN
+AE5PUlRIIFlPUkssT04EAhIADQAAABgACgAyMDE3LzAyLzEzBAIXAA0AAQAYAA8AR0VORVJBTCBD
+QVJUQUdFBAISAA0AAgAYAAoAMDIvMTQvMjAxNwQCDQANAAMAGAAFADA1Nzg3BAIOAA0ABAAYAAYA
+MDU2Njc5BAISAA0ABQAYAAoAU0lEMjY0MzA5NwQCFQANAAYAGAANAERNL0FMTE9DQVRJT04EAhIA
+DQAHABgACgBDTVYwNjg3MDg1BAIZAA0ACAAYABEAU0hMQyAgICAgIDEwMDA0NDcEAhAADQAJABgA
+CABTU0hITEMtMAQCUQANAAoAGABJAHNhbGVzQGNoYWluc2F3Y2xpbmljLmNvbTtCcmVuZGFAY2hh
+aW5zYXdjbGluaWMuY29tO3JvbkBjaGFpbnNhd2NsaW5pYy5jb20EAh0ADQALABgAFQBDSEFJTiBT
+QVcgQ0xJTklDIExURC4EAhgADQAMABgAEAAyNTk4IFdFU1RPTiBST0FEBAIVAA0ADQAYAA0ATk9S
+VEggWU9SSyxPTgQCEgAOAAAAGAAKADIwMTcvMDIvMTMEAhcADgABABgADwBHRU5FUkFMIENBUlRB
+R0UEAhIADgACABgACgAwMi8xNC8yMDE3BAINAA4AAwAYAAUAMDU3ODcEAg4ADgAEABgABgAwNTY2
+NzkEAhIADgAFABgACgBTSUQyNjQzMDk3BAIVAA4ABgAYAA0ARE0vQUxMT0NBVElPTgQCEgAOAAcA
+GAAKAENNVjA2ODcwODUEAhkADgAIABgAEQBTUFBDICAgICAgMTAwMDQxOQQCDwAOAAkAGAAHAFNT
+UFBDLTAEAlEADgAKABgASQBzYWxlc0BjaGFpbnNhd2NsaW5pYy5jb207QnJlbmRhQGNoYWluc2F3
+Y2xpbmljLmNvbTtyb25AY2hhaW5zYXdjbGluaWMuY29tBAIdAA4ACwAYABUAQ0hBSU4gU0FXIENM
+SU5JQyBMVEQuBAIYAA4ADAAYABAAMjU5OCBXRVNUT04gUk9BRAQCFQAOAA0AGAANAE5PUlRIIFlP
+UkssT04EAhIADwAAABgACgAyMDE3LzAyLzEzBAIXAA8AAQAYAA8AR0VORVJBTCBDQVJUQUdFBAIS
+AA8AAgAYAAoAMDIvMTQvMjAxNwQCDQAPAAMAGAAFADA1Nzg3BAIOAA8ABAAYAAYAMDU2Njc5BAIS
+AA8ABQAYAAoAU0lEMjY0MzA5NwQCFQAPAAYAGAANAERNL0FMTE9DQVRJT04EAhIADwAHABgACgBD
+TVYwNjg3MDg1BAIZAA8ACAAYABEAU1BQQyAgICAgIDEwMDA0MjQEAg8ADwAJABgABwBTU1BQQy0w
+BAJRAA8ACgAYAEkAc2FsZXNAY2hhaW5zYXdjbGluaWMuY29tO0JyZW5kYUBjaGFpbnNhd2NsaW5p
+Yy5jb207cm9uQGNoYWluc2F3Y2xpbmljLmNvbQQCHQAPAAsAGAAVAENIQUlOIFNBVyBDTElOSUMg
+TFRELgQCGAAPAAwAGAAQADI1OTggV0VTVE9OIFJPQUQEAhUADwANABgADQBOT1JUSCBZT1JLLE9O
+BAISABAAAAAYAAoAMjAxNy8wMi8xMwQCFwAQAAEAGAAPAEdFTkVSQUwgQ0FSVEFHRQQCEgAQAAIA
+GAAKADAyLzE0LzIwMTcEAg0AEAADABgABQAwNTc4NwQCDgAQAAQAGAAGADA1NjY3OQQCEgAQAAUA
+GAAKAFNJRDI2NDMwOTcEAhUAEAAGABgADQBETS9BTExPQ0FUSU9OBAISABAABwAYAAoAQ01WMDY4
+NzA4NQQCGQAQAAgAGAARAFNITEMgICAgICAxMDAwNDQ4BAIQABAACQAYAAgAU1NISExDLTAEAlEA
+EAAKABgASQBzYWxlc0BjaGFpbnNhd2NsaW5pYy5jb207QnJlbmRhQGNoYWluc2F3Y2xpbmljLmNv
+bTtyb25AY2hhaW5zYXdjbGluaWMuY29tBAIdABAACwAYABUAQ0hBSU4gU0FXIENMSU5JQyBMVEQu
+BAIYABAADAAYABAAMjU5OCBXRVNUT04gUk9BRAQCFQAQAA0AGAANAE5PUlRIIFlPUkssT07XACYA
+KxsAAEABMwGKAYoBigGKAYoBigGLAYoBiwGKAYoBigGLAYoBigE+AgoAtgYAAAAAAAAAAB0ADwAD
+AAAAAAAAAQAAAAAAAAAKAAAAABgADwBHRU5FUkFMIENBUlRBR0UEAhIABgACABgACgAwMi8xNC8y
+MDE3BAINAAYAAwAYAAUAMDU3ODcEAg4ABgAEABgABgAwNTY2NzkEAhIABgAFABgACgBTSUQyNjQz
+MDk3BAIVAAYABgAYAA0ARE0vQUxMT0NBVElPTgQCEgAGAAcAGAAKAENNVjA2ODcwODUEAhkABgAI
+ABgAEQBTQkxDICAgICAgMTAwMDM4NgQCDwAGAAkAGAAHAFNTQkxDLTAAAAAACQgIAAAFBQD5DMoH
+XAAgAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIgACAAAA4QAAAMEAAgAAAL8AAADA
+AAAA4gAAABkAAgAAABIAAgAAABMAAgAAAD0AEgB4ADwA2zNdGzgAAAAAAAEAlgAxABQAyAAAAAgA
+kAEAAAAAAAAFQXJpYWwxABYA3AABAAgAkAEAAAAAAAAHQ2FsaWJyaTEAFgDcAAAACACQAQAAAAAA
+AAdDYWxpYnJpMQAWANwAAAAIAJABAAAAAAAAB0NhbGlicmkxABQAyAAAAAgAkAEAAAAAAAAFQXJp
+YWweBBoABQAXIiQiIywjIzBfKTtcKCIkIiMsIyMwXCkeBB8ABgAcIiQiIywjIzBfKTtbUmVkXVwo
+IiQiIywjIzBcKR4EIAAHAB0iJCIjLCMjMC4wMF8pO1woIiQiIywjIzAuMDBcKR4EJQAIACIiJCIj
+LCMjMC4wMF8pO1tSZWRdXCgiJCIjLCMjMC4wMFwpHgQ1ACoAMl8oIiQiKiAjLCMjMF8pO18oIiQi
+KiBcKCMsIyMwXCk7XygiJCIqICItIl8pO18oQF8pHgQsACkAKV8oKiAjLCMjMF8pO18oKiBcKCMs
+IyMwXCk7XygqICItIl8pO18oQF8pHgQ9ACwAOl8oIiQiKiAjLCMjMC4wMF8pO18oIiQiKiBcKCMs
+IyMwLjAwXCk7XygiJCIqICItIj8/Xyk7XyhAXykeBDQAKwAxXygqICMsIyMwLjAwXyk7XygqIFwo
+IywjIzAuMDBcKTtfKCogIi0iPz9fKTtfKEBfKR4EFgAPABNkZGRkLCBtbW1tIGRkLCB5eXl54AAQ
+AAAAAAD1/yAAwCAAAAAAAADgABAAAAAAAPX/IPTAIAAAAAAAAOAAEAAAAAAA9f8g9MAgAAAAAAAA
+4AAQAAAAAAD1/yD0wCAAAAAAAADgABAAAAAAAPX/IPTAIAAAAAAAAOAAEAAAAAAA9f8g9MAgAAAA
+AAAA4AAQAAAAAAD1/yD0wCAAAAAAAADgABAAAAAAAPX/IPTAIAAAAAAAAOAAEAAAAAAA9f8g9MAg
+AAAAAAAA4AAQAAAAAAD1/yD0wCAAAAAAAADgABAAAAAAAPX/IPTAIAAAAAAAAOAAEAAAAAAA9f8g
+9MAgAAAAAAAA4AAQAAAAAAD1/yD0wCAAAAAAAADgABAAAAAAAPX/IPTAIAAAAAAAAOAAEAAAAAAA
+9f8g9MAgAAAAAAAA4AAQAAAAAAABACAAwCAAAAAAAADgABAABQArAPX/IPjAIAAAAAAAAOAAEAAF
+ACkA9f8g+MAgAAAAAAAA4AAQAAUALAD1/yD4wCAAAAAAAADgABAABQAqAPX/IPjAIAAAAAAAAOAA
+EAAFAAkA9f8g+MAgAAAAAAAA4AAQAAAAAAABABFQCCAAAAAAAADgABAAAQAAAAEAEngWIEEQSRAI
+BOAAEAACAAAAAQASeAggQCxJLBYL4AAQAAMAAAABABh4CCBALEksFguTAgQAEIAD/5MCBAARgAb/
+kwIEABKABP+TAgQAE4AH/5MCBAAAgAD/kwIEABSABf+FAAwAtAQAAAAABVNoZWV0CgAAAAkICAAA
+BRAA+QzKBwsCEAAAAAAAAAARAAAAAADrIAAAgAAIAAAAAAAAAAAAfQALAAAAAADWDQ8AAAAAfQAL
+AAEAAQDWDQ8AAAAAfQALAAIAAgDWDQ8AAAAAfQALAAMAAwDWDQ8AAAAAfQALAAQABADWDQ8AAAAA
+fQALAAUABQDWDQ8AAAAAfQALAAYABgDWDQ8AAAAAfQALAAcABwDWDQ8AAAAAfQALAAgACADWDQ8A
+AAAAfQALAAkACQDWDQ8AAAAAfQALAAoACgDWDQ8AAAAAfQALAAsACwDWDQ8AAAAAfQALAAwADADW
+DQ8AAAAAfQALAA0ADQDWDQ8AAAAAAAIKAAAAEQAAAA4AAAAIAhAAAAAAAA4AIAEAAAAAQAEPAAgC
+EAABAAAADgAgAQAAAABAAQ8ACAIQAAIAAAAOACABAAAAAEABDwAIAhAAAwAAAA4AIAEAAAAAQAEP
+AAgCEAAEAAAADgAgAQAAAABAAQ8ACAIQAAUAAAAOACABAAAAAEABDwAIAhAABgAAAA4AIAEAAAAA
+QAEPAAgCEAAHAAAADgAgAQAAAABAAQ8ACAIQAAgAAAAOACABAAAAAEABDwAIAhAACQAAAA4AIAEA
+AAAAQAEPAAgCEAAKAAAADgAgAQAAAABAAQ8ACAIQAAsAAAAOACABAAAAAEABDwAIAhAADAAAAA4A
+IAEAAAAAQAEPAAgCEAANAAAADgAgAQAAAABAAQ8ACAIQAA4AAAAOACABAAAAAEABDwAIAhAADwAA
+AA4AIAEAAAAAQAEPAAgCEAAQAAAADgAgAQAAAABAAQ8ABAIVAAAAAAAWAA0ARGlzcGF0Y2hfRGF0
+ZQQCFAAAAAEAFgAMAENhcnJpZXJfTmFtZQQCCwAAAAIAFgADAEVUQQQCDwAAAAMAFgAHAFNoaXAg
+VG8EAiUAAAAEABYAHQBSZWxlYXNlIE5vIC8gTnVtZXJvZGUgUmVsZWFzZQQCDwAAAAUAFgAHAFNo
+aXAgSUQEAhEAAAAGABYACQBQTyBOdW1iZXIEAhMAAAAHABYACwBDQVJfTU9WRV9JRAQCFQAAAAgA
+FgANAFNlcmlhbCBOdW1iZXIEAhIAAAAJABYACgBNb2RlbCBDb2RlBAINAAAACgAWAAUARW1haWwE
+Ag4AAAALABYABgBBRFJOQU0EAg4AAAAMABYABgBBRFJMTjEEAhAAAAANABYACABDSVRZUFJPVgQC
+EgABAAAAGAAKADIwMTcvMDIvMTMEAhcAAQABABgADwBHRU5FUkFMIENBUlRBR0UEAhIAAQACABgA
+CgAwMi8xNC8yMDE3BAINAAEAAwAYAAUAMDU3ODcEAg4AAQAEABgABgAwNTY2NzkEAhIAAQAFABgA
+CgBTSUQyNjQzMDk3BAIVAAEABgAYAA0ARE0vQUxMT0NBVElPTgQCEgABAAcAGAAKAENNVjA2ODcw
+ODUEAhkAAQAIABgAEQBTRVRDICAgICAgMTAwMDIyNAQCDwABAAkAGAAHAFNTRVRDLTAEAlEAAQAK
+ABgASQBzYWxlc0BjaGFpbnNhd2NsaW5pYy5jb207QnJlbmRhQGNoYWluc2F3Y2xpbmljLmNvbTty
+b25AY2hhaW5zYXdjbGluaWMuY29tBAIdAAEACwAYABUAQ0hBSU4gU0FXIENMSU5JQyBMVEQuBAIY
+AAEADAAYABAAMjU5OCBXRVNUT04gUk9BRAQCFQABAA0AGAANAE5PUlRIIFlPUkssT04EAhIAAgAA
+ABgACgAyMDE3LzAyLzEzBAIXAAIAAQAYAA8AR0VORVJBTCBDQVJUQUdFBAISAAIAAgAYAAoAMDIv
+MTQvMjAxNwQCDQACAAMAGAAFADA1Nzg3BAIOAAIABAAYAAYAMDU2Njc5BAISAAIABQAYAAoAU0lE
+MjY0MzA5NwQCFQACAAYAGAANAERNL0FMTE9DQVRJT04EAhIAAgAHABgACgBDTVYwNjg3MDg1BAIZ
+AAIACAAYABEAU0JDQyAgICAgIDEwMDA3MDAEAg8AAgAJABgABwBTU0JDQy0wBAJRAAIACgAYAEkA
+c2FsZXNAY2hhaW5zYXdjbGluaWMuY29tO0JyZW5kYUBjaGFpbnNhd2NsaW5pYy5jb207cm9uQGNo
+YWluc2F3Y2xpbmljLmNvbQQCHQACAAsAGAAVAENIQUlOIFNBVyBDTElOSUMgTFRELgQCGAACAAwA
+GAAQADI1OTggV0VTVE9OIFJPQUQEAhUAAgANABgADQBOT1JUSCBZT1JLLE9OBAISAAMAAAAYAAoA
+MjAxNy8wMi8xMwQCFwADAAEAGAAPAEdFTkVSQUwgQ0FSVEFHRQQCEgADAAIAGAAKADAyLzE0LzIw
+MTcEAg0AAwADABgABQAwNTc4NwQCDgADAAQAGAAGADA1NjY3OQQCEgADAAUAGAAKAFNJRDI2NDMw
+OTcEAhUAAwAGABgADQBETS9BTExPQ0FUSU9OBAISAAMABwAYAAoAQ01WMDY4NzA4NQQCGQADAAgA
+GAARAFNCQ0MgICAgICAxMDAwNjk0BAIPAAMACQAYAAcAU1NCQ0MtMAQCUQADAAoAGABJAHNhbGVz
+QGNoYWluc2F3Y2xpbmljLmNvbTtCcmVuZGFAY2hhaW5zYXdjbGluaWMuY29tO3JvbkBjaGFpbnNh
+d2NsaW5pYy5jb20EAh0AAwALABgAFQBDSEFJTiBTQVcgQ0xJTklDIExURC4EAhgAAwAMABgAEAAy
+NTk4IFdFU1RPTiBST0FEBAIVAAMADQAYAA0ATk9SVEggWU9SSyxPTgQCEgAEAAAAGAAKADIwMTcv
+MDIvMTMEAhcABAABABgADwBHRU5FUkFMIENBUlRBR0UEAhIABAACABgACgAwMi8xNC8yMDE3BAIN
+AAQAAwAYAAUAMDU3ODcEAg4ABAAEABgABgAwNTY2NzkEAhIABAAFABgACgBTSUQyNjQzMDk3BAIV
+AAQABgAYAA0ARE0vQUxMT0NBVElPTgQCEgAEAAcAGAAKAENNVjA2ODcwODUEAhkABAAIABgAEQBT
+QkNDICAgICAgMTAwMDY5MwQCDwAEAAkAGAAHAFNTQkNDLTAEAlEABAAKABgASQBzYWxlc0BjaGFp
+bnNhd2NsaW5pYy5jb207QnJlbmRhQGNoYWluc2F3Y2xpbmljLmNvbTtyb25AY2hhaW5zYXdjbGlu
+aWMuY29tBAIdAAQACwAYABUAQ0hBSU4gU0FXIENMSU5JQyBMVEQuBAIYAAQADAAYABAAMjU5OCBX
+RVNUT04gUk9BRAQCFQAEAA0AGAANAE5PUlRIIFlPUkssT04EAhIABQAAABgACgAyMDE3LzAyLzEz
+BAIXAAUAAQAYAA8AR0VORVJBTCBDQVJUQUdFBAISAAUAAgAYAAoAMDIvMTQvMjAxNwQCDQAFAAMA
+GAAFADA1Nzg3BAIOAAUABAAYAAYAMDU2Njc5BAISAAUABQAYAAoAU0lEMjY0MzA5NwQCFQAFAAYA
+GAANAERNL0FMTE9DQVRJT04EAhIABQAHABgACgBDTVYwNjg3MDg1BAIZAAUACAAYABEAU0JDQyAg
+ICAgIDEwMDA2OTIEAg8ABQAJABgABwBTU0JDQy0wBAJRAAUACgAYAEkAc2FsZXNAY2hhaW5zYXdj
+bGluaWMuY29tO0JyZW5kYUBjaGFpbnNhd2NsaW5pYy5jb207cm9uQGNoYWluc2F3Y2xpbmljLmNv
+bQQCHQAFAAsAGAAVAENIQUlOIFNBVyBDTElOSUMgTFRELgQCGAAFAAwAGAAQADI1OTggV0VTVE9O
+IFJPQUQEAhUABQANABgADQBOT1JUSCBZT1JLLE9OBAISAAYAAAAYAAoAMjAxNy8wMi8xMwQCFwAG
+AAEAGAAPAEdFTkVSQUwgQ0FSVEFHRQQCEgAGAAIAGAAKADAyLzE0LzIwMTcEAg0ABgADABgABQAw
+NTc4NwQCDgAGAAQAGAAGADA1NjY3OQQCEgAGAAUAGAAKAFNJRDI2NDMwOTcEAhUABgAGABgADQBE
+TS9BTExPQ0FUSU9OBAISAAYABwAYAAoAQ01WMDY4NzA4NQQCGQAGAAgAGAARAFNCTEMgICAgICAx
+MDAwMzg2BAIPAAYACQAYAAcAU1NCTEMtMAQCUQAGAAoAGABJAHNhbGVzQGNoYWluc2F3Y2xpbmlj
+LmNvbTtCcmVuZGFAY2hhaW5zYXdjbGluaWMuY29tO3JvbkBjaGFpbnNhd2NsaW5pYy5jb20EAh0A
+BgALABgAFQBDSEFJTiBTQVcgQ0xJTklDIExURC4EAhgABgAMABgAEAAyNTk4IFdFU1RPTiBST0FE
+BAIVAAYADQAYAA0ATk9SVEggWU9SSyxPTgQCEgAHAAAAGAAKADIwMTcvMDIvMTMEAhcABwABABgA
+DwBHRU5FUkFMIENBUlRBR0UEAhIABwACABgACgAwMi8xNC8yMDE3BAINAAcAAwAYAAUAMDU3ODcE
+Ag4ABwAEABgABgAwNTY2NzkEAhIABwAFABgACgBTSUQyNjQz
+
+--_004_BLUPR0501MB18419B588C703BD0D5C32877B6590BLUPR0501MB1841_--

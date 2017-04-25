@@ -1,0 +1,128 @@
+Return-path: <john.parete@gmail.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Sat, 10 Dec 2016 16:26:10 -0600
+Received: from mail-io0-f196.google.com ([209.85.223.196]:33173)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <john.parete@gmail.com>)
+	id 1cFq5o-000TCw-DG
+	for brenda@chainsawclinic.com; Sat, 10 Dec 2016 16:26:08 -0600
+Received: by mail-io0-f196.google.com with SMTP id p13so14201537ioi.0
+        for <brenda@chainsawclinic.com>; Sat, 10 Dec 2016 14:26:02 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=Bp1WoD4BrwNIkjdmYSbAaKrWms+rP6xp4BD+AaJn+zw=;
+        b=YtJL+T00YI4mARu0LEiU1JtwQ0+psxqqZVmNCgv15lMkEo/w/Uy/oGzQBGJb/JmqpV
+         m+AQglZkV1BkMmWpC/Hofoww4Io5QcpMgOpLGYUZmKfjDuwFUCPvRjBKNWzbtfrTNQR7
+         Hm1Arq0Nd2VLBl/tPgANggPABc4kQtxF34ivMmeCMOynwbcF+cJGV+MkjWh77aMF6jCi
+         jQDM8HNXGs03aK8/LfPlkDZQqacrKTZl1VNglXbFbsnzXrykH9LwZsmQEnqhF2MgxDMQ
+         tdGig2/oNmB97TB2WvW23d3bPMJjTJgGiV4UDPaQH1N0kG1QGjPG8S9n5Mjq/WgIpFH0
+         vtvw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=Bp1WoD4BrwNIkjdmYSbAaKrWms+rP6xp4BD+AaJn+zw=;
+        b=BbKR7W7khqJiRpIuSfdKvucHyPxuA799AzlBDugPiEf/iVBO9yg88NrE6ZwPUpCStn
+         v4c4fUdsi4E+BtH7GwHnalUylH5iAynBYdqiIIqFC/zFb1cte3tvhHQnMfK8RZ9HruCH
+         O1spYjSoZiIuBlB5slnpjRGVPbqj9yU+5iQ5wNltWi0/Z70y8rcjht9i7MhetSWDIY9/
+         StGOf20HTbRuShhpDpdHFYGTJjXfIctBDo2n8TWnpWvuZ6/42X2oe6ynGwvlGqBEPr/I
+         tAM2Mhm2m+VBJfUEc9EaAy25qrabS7GJ59RNsl1FNCSJdmlqCSD997xLVZKQTkg9Y2nb
+         Jicg==
+X-Gm-Message-State: AKaTC01kF+umAw5XqxGZs+b/dUOysH+uO7QXz1LHNTDkabgpqNwxH3rSOKtvbkt6gd7ahzjYNxEzqeEKYipFAA==
+X-Received: by 10.36.250.196 with SMTP id v187mr4105729ith.91.1481408756980;
+ Sat, 10 Dec 2016 14:25:56 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.64.226.111 with HTTP; Sat, 10 Dec 2016 14:25:26 -0800 (PST)
+From: John Parete <john.parete@gmail.com>
+Date: Sat, 10 Dec 2016 17:25:26 -0500
+Message-ID: <CAL7=Tmnd0xJ0MG4BBikkVq-Rx--+ZpbDk_AWnDMPb25TAwoS3Q@mail.gmail.com>
+Subject: Toronto convention - urgent need!
+To: Adewale Mabayoje <amabayoje@yahoo.com>, Andrew Lommano <andrewlommano@yahoo.ca>, 
+	Angie Parete <angie.parete@gmail.com>, Bernie Marchio <bmarchio@hotmail.com>, 
+	Billy Varkaris <billyvarkaris@gmail.com>, Carmela Motta <carmela.motta86@gmail.com>, 
+	Catarina Zambri <zamfilcat@hotmail.com>, Chris Ghangas <chris.ghangas@gmail.com>, 
+	Darrin Hollmann <dvhollmann@gmail.com>, David Fowler <uniteddave@aol.com>, 
+	David Junnola <junnolahomes@gmail.com>, Dennis - Cell Bou <dennis.bou92@gmail.com>, 
+	Derrick Smerchansky <smerchansky@hotmail.com>, Dino Vilardo <dinovilardo@yahoo.com>, 
+	Elvira Di Nuzzo <edinuzzo@alumni.uoguelph.ca>, Filippo Zambri <zamfilippo@hotmail.com>, 
+	"Frank & Amanda Stalteri" <amandar_86@hotmail.com>, Frank Rucchetta <frucchetta@yahoo.ca>, 
+	"Gary & Lucy Blunt" <lucyablunt@gmail.com>, Giulio Pace <gppp_us@yahoo.com>, 
+	Grace Lopes <lopes.grace@ymail.com>, Jade Smerchansky <cocodawson@hotmail.com>, 
+	Jennifer Perusini <jlperusini@gmail.com>, Jessica Mclean <jessicamclean78@gmail.com>, 
+	Joe Loggia <joe.loggia@vitran.com>, Joe Venezia <jvenezia72@rogers.com>, 
+	John Lommano <jlommano@yahoo.ca>, Joseph Yu <josephydw@gmail.com>, 
+	Joshua Mclean <joshua.4.mclean@gmail.com>, Julie Mclean <Julie.mclean05@live.ca>, 
+	Karin Teti <karinteti@hotmail.com>, Laura Casavant <laura.casavant@gmail.com>, 
+	Luigi Panigas <sensory5@gmail.com>, Marilena DiMatteo <marilena@rogers.com>, 
+	Marina Lancia <marinalancia@gmail.com>, Marisa Panaroni <mpanaroni@gmail.com>, 
+	Mark Casavant <mark.casavant@gmail.com>, Mary Varkaris <maryvarkaris@yahoo.com>, 
+	Michelle Annarilli <santelicesm@hotmail.com>, Nick - Cell Zambri <nick_zambri@hotmail.com>, 
+	Nick Smith <mossberg303@gmail.com>, Nina Junnola <njunnola@gmail.com>, 
+	"Omar, Jennifer Perusini" <perusini@gmail.com>, Paul Losacco <plosacco@rogers.com>, 
+	Peter Rothman <rothmanspainting@gmail.com>, "Phil & Anna D'Angelo" <anna.dangelo@rogers.com>, 
+	Phyllis Fenuta <phyllis.fenuta@hotmail.com>, Pierluca Belsito <pierluca.belsito@gmail.com>, 
+	Pina Mobilio <pina.mobilio@gmail.com>, Randall Franske <rfranske@gmail.com>, 
+	Raquel Floro <rlfloro93@gmail.com>, Richard Sherif <richard.sherif@gmail.com>, 
+	Rita Casavant <rita.casavant@gmail.com>, 
+	"Ron & Marjory Robinson" <brenda@chainsawclinic.com>, Sally Franske <sfranske@yahoo.com>, 
+	Samantha McLean <samantha041205@gmail.com>, Sonia Genovese <sonia.genovese@yahoo.com>, 
+	Stephanie - cell Rucchetta <srucchetta@yahoo.com>, Teneson Floro <tenesonfloro@gmail.com>, 
+	Teresa Parejas <tlparejas@hotmail.com>, Tiana Lancia <tianalancia@hotmail.com>, 
+	Tobilola Mabayoje <tobilola.k.mabayoje@live.com>, Tony Alcamo <talcamo@gmail.com>, 
+	Tony Fiorellino <tony@insureitgroup.com>, Vince Teti <vinceteti@gmail.com>, 
+	Walter Panaroni <wpanaroni@gmail.com>, Zenon Varisella <zrvarisella@primus.ca>
+Content-Type: multipart/alternative; boundary=94eb2c030cdcba25700543555aac
+
+--94eb2c030cdcba25700543555aac
+Content-Type: text/plain; charset=UTF-8
+
+Dear Brothers,
+
+The convention committee has an urgent need for the following:
+
+   - vocal and/or singing abilities
+   - experience in composing music
+   - experience in organizing choral and orchestral arrangements
+   - musical ability
+   - those who play an instrument that would be in an orchestra
+   - experience with choreography
+   - various forms of dance
+   - experience in video production and performances
+
+We know many are modest in their abilities, but it is not professionals the
+brothers need. There is an opportunity to audition, so let them decide if
+they can use you! All you need is a willing spirit.
+
+If you have even modest skills in the above, please *fill out an
+application this weekend*, as auditions will be scheduled in 2 weeks time,
+so urgency is requested.
+
+Thank you all,
+
+John Parete
+
+--94eb2c030cdcba25700543555aac
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Dear Brothers,<br><br></div>The convention committee =
+has an urgent need for the following:<br><ul><li style=3D"margin-left:15px"=
+>vocal and/or singing abilities</li><li style=3D"margin-left:15px">experien=
+ce in composing music</li><li style=3D"margin-left:15px">experience in orga=
+nizing choral and orchestral arrangements</li><li style=3D"margin-left:15px=
+">musical ability</li><li style=3D"margin-left:15px">those who play an inst=
+rument that would be in an orchestra</li><li style=3D"margin-left:15px">exp=
+erience with choreography</li><li style=3D"margin-left:15px">various forms =
+of dance</li><li style=3D"margin-left:15px">experience in video production =
+and performances</li></ul><p>We know many are modest in their abilities, bu=
+t it is not professionals the brothers need. There is an opportunity to aud=
+ition, so let them decide if they can use you! All you need is a willing sp=
+irit. <br></p><p>If you have even modest skills in the above, please <b><u>=
+fill out an application this weekend</u></b>, as auditions will be schedule=
+d in 2 weeks time, so urgency is requested.</p><p>Thank you all,<br></p><br=
+ clear=3D"all"><div><div><div><div class=3D"gmail_signature"><font face=3D"=
+georgia, serif">John Parete</font></div></div>
+</div></div></div>
+
+--94eb2c030cdcba25700543555aac--

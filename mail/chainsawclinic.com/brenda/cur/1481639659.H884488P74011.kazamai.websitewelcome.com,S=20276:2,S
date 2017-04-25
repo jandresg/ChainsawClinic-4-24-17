@@ -1,0 +1,451 @@
+Return-path: <407etr_98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6@email.407etr.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 13 Dec 2016 08:34:19 -0600
+Received: from vmta3.response.wiredmessenger.com ([96.31.174.167]:39635)
+	by kazamai.websitewelcome.com with esmtps (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <407etr_98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6@email.407etr.com>)
+	id 1cGo9r-000JBk-NQ
+	for brenda@chainsawclinic.com; Tue, 13 Dec 2016 08:34:19 -0600
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=email.407etr.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=407etr@email.407etr.com;
+ bh=772BegyMeLhti/L9gX/5t1IM9Vc=;
+ b=mxoVB9jqi9QcHuoSCTIMl3+gOSRB0/JoUd50SR4RWR3m4iTkdEOyNBgqo/nrkHq8yMjYZvfnLnL3
+   idk/Mh0eZg==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=email.407etr.com;
+ b=YkA3c+cNGQrxRWS9731z4XzlZuTNFdFp9MstNJRAmV3C4MEzI9HXWS/mhxjb9a4K8ERzsR31ebq0
+   AiT2Gw4c+A==;
+Received: from target.wiredmessenger.com (127.0.0.1) by vmta3.response.wiredmessenger.com id ha03em1t8bkb for <brenda@chainsawclinic.com>; Tue, 13 Dec 2016 09:33:38 -0500 (envelope-from <407etr_98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6@email.407etr.com>)
+Date: Tue, 13 Dec 2016 09:33:22 -0500
+From: 407 ETR <407etr@email.407etr.com>
+Reply-To: 
+	407 ETR <407etr_98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6@email.407etr.com>
+To: brenda@chainsawclinic.com
+Message-ID: <98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6-26592061bc404f3687e43ded7d5792d3@email.407etr.com>
+Subject: Win a year of free 407 ETR!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_27617945_258260656.1481639602252"
+X-Mailer: WiredMessenger.com
+ENVID: WC-1481639602252-98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6-26592061bc404f3687e43ded7d5792d3
+Feedback-ID: 2473-2226750:vmta3:wiredm
+List-Unsubscribe: <http://email.407etr.com/u?id=98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6>
+X-Unsubscribe-Web: <http://email.407etr.com/u?id=98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6>
+
+------=_Part_27617945_258260656.1481639602252
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+407 ETR
+
+
+Please click below to view email in a web browser.
+
+http://email.407etr.com/dm?id=98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6
+
+
+Please click below to unsubscribe.
+
+http://email.407etr.com/u?id=98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6&global=true
+
+
+407 ETR | 6300 Steeles Avenue West | Woodbridge, ON | L4H 1J1 | 1-888-407-0407
+------=_Part_27617945_258260656.1481639602252
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<title>407 ETR - Win a year of free 407 ETR!</title>
+
+<style type=3D"text/css" >
+
+.ReadMsgBody { width: 100%; background-color: #ffffff; }
+.ExternalClass { width: 100%; background-color: #ffffff; }
+body { width: 100%; background-color: #ffffff; margin: 0; padding: 0; -webk=
+it-font-smoothing: antialiased; font-family: Arial, sans-serif; }
+table { border-collapse: collapse; }
+
+@media only screen and (max-width: 640px) {
+    body[yahoo] .deviceWidth { width: 430px !important; padding-bottom: 10p=
+x; }
+    body[yahoo] .center { text-align: center !important; }
+    table[class=3DdeviceWidth] { width: 430px !important; border: none !imp=
+ortant; }
+    table[class=3DspecialWidth] { width: 420px !important; border: none !im=
+portant; }
+    table[class=3DheaderWidth] { width: 430px !important; border: none !imp=
+ortant; }
+    table[class=3DlogoWidth] { width: 29% !important; }
+    table[class=3DexpressWidth] { height: 77px !important; width: 63% !impo=
+rtant; }
+    td[class=3DexpressWidth] { font-size: 20px !important; }
+    td[class=3Dspacer] { height: 10px !important; }
+    table[class=3DcontentWidth] { width: 430px !important; }
+    img[class=3D"deviceWidth"] { width: 50% !important; }
+    img[class=3D"imgWidth2"] { width: 430px !important; margin: auto; }
+    img[class=3D"imgWidth3"] { width: 380px !important; margin: auto; }
+    td[class=3D"imgWidth2"] { padding: 10px !important; }
+    td[class=3Dblank] { display: none !important; }
+    img[class=3D"imgButton3"] { width: 190px !important; margin: auto; }
+=09
+=09.mobileButtonTextLarger{font-size:14px!important;}
+}
+
+@media only screen and (max-width: 479px) {
+    body[yahoo] .deviceWidth { width: 300px !important; padding: 0; text-al=
+ign: center; }
+    body[yahoo] .center { text-align: center !important; }
+    table[class=3DheaderWidth] { width: 300px !important; border: none !imp=
+ortant; }
+    table[class=3DdeviceWidth] { width: 300px !important; display: block !i=
+mportant; text-align: center !important; }
+    table[class=3DspecialWidth] { width: 300px !important; border: none !im=
+portant; margin-bottom: 10px; }
+    table[class=3DcontentWidth] { width: 300px !important; }
+    table[class=3DlogoWidth] { width: 29% !important; background: green; ma=
+rgin-top: 12px !important; }
+    img[class=3DlogoWidth] { width: 120px !important; }
+    table[class=3DexpressWidth] { height: 77px !important; width: 59% !impo=
+rtant; margin-top: 5px; }
+    td[class=3DexpressWidth] { font-size: 12px !important; }
+    img[class=3D"imgWidth2"] { width: 300px !important; padding: 0; }
+    img[class=3D"imgWidth3"] { width: 300px !important; margin: auto; }
+    td[class=3D"wm-logo"] {  }
+    img[class=3D"imgButton3"] { width: 100% !important; max-width: 190px !i=
+mportant; margin: auto; }
+}
+
+
+
+/* 3 equal-width columns Layout Pattern CSS */
+@media only screen and (max-width: 640px) {
+    td[class=3D"pattern"] table { width: 100%; }
+    td[class=3D"pattern"] .col { width: 33%; }
+}
+
+@media only screen and (max-width: 640px) {
+    td[class=3D"pattern"] .col { width: 100%; display: block; }
+    td[class=3D"pattern"] .col-left, td[class=3D"pattern"] .col-mid { margi=
+n-bottom: 20px; }
+}
+
+@media only screen and (max-width: 768px) {
+.mobileButtonTextLarger{letter-spacing:-0.03em;}
+}
+
+
+</style>
+
+</head>
+
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0"=
+ yahoo=3D"fix" style=3D"font-family:Arial, sans-serif; background:#ffffff;"=
+ bgcolor=3D"#ffffff">
+
+<!-- Wrapper -->
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tr>
+    <td width=3D"100%" valign=3D"top" bgcolor=3D"#ffffff" style=3D"padding:=
+10px"><table  width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" align=3D"center" class=3D"deviceWidth">
+        <tr>
+=09=09<td style=3D"font-family:Arial, sans-serif; font-size: 11px;color: #3=
+33333;text-align:center;" st-content=3D"viewonline" align=3D"center" valign=
+=3D"middle">Log in to Win | <a target=3D"_blank" style=3D"color:#666666; te=
+xt-decoration:none;" href=3D"http://email.407etr.com/dm?id=3D98A95CF58AAFEC=
+E1BE57582BEC2D02D32726E1D1BBC6D8A6">View Online.</a></td>
+=09</tr>
+      </table></td>
+  </tr>
+</table>
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+  <tr>
+    <td valign=3D"top" bgcolor=3D"#ffffff"><table width=3D"650" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" class=3D"headerWidth=
+" bgcolor=3D"#0564b4">
+        <tr>
+          <td class=3D"center" ><table width=3D"24%" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" align=3D"left" class=3D"logoWidth">
+              <tr>
+                <td align=3D"left" valign=3D"top">
+                  <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2226750=
+&l=3D167193&ctl=3D31C6A8E:98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6&=
+"><img width=3D"152" src=3D"https://407etr.s3.amazonaws.com/template/407etr=
+-responsive-mock_01.gif" alt=3D"407 ETR" border=3D"0" style=3D"width: 152px=
+;display:block;margin:0;padding:0;" class=3D"logoWidth" /></a></td>
+              </tr>
+            </table>
+            <table width=3D"73%" height=3D"77" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" align=3D"right" class=3D"expressWidth">
+              <tr>
+                <td valign=3D"middle" height=3D"77" class=3D"expressWidth" =
+align=3D"right" style=3D"mso-table-lspace:0;mso-table-rspace:0; margin:0; f=
+ont-family:arial,sans-serif; font-size:20px;color:#ffffff;padding-right:10p=
+x;"><span>You could win a year of free travel on 407 ETR!</span></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      <!-- End Two Column (Images Stacked over Text) --></td>
+  </tr>
+</table>
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"contentWidth" bgcolor=3D"#ffffff" style=3D"background-=
+color:#ffffff;">
+  <tr >
+    <td class=3D"center"><table width=3D"100%" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" align=3D"left">
+        <tr valign=3D"middle">
+          <td align=3D"center" valign=3D"middle">
+            <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2226750&l=3D1=
+67193&ctl=3D31C6A8F:98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6&"><img=
+ width=3D"100%" src=3D"https://407etr.s3.amazonaws.com/2016/407etr_dec_2016=
+_LITW_Holiday.jpg" alt=3D"407 ETR" border=3D"0" style=3D"width:display:bloc=
+k;padding:0;width:100%;margin:auto;" class=3D"imgWidth2" /></a></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td align=3D"center"><table width=3D"90%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" align=3D"center" >
+        <tr>
+          <td style=3D"font-size: 12px; color: #959595; font-weight: normal=
+; text-align: left; font-family: Gotham, 'Helvetica Neue', Helvetica, Arial=
+, sans-serif; line-height: 24px; vertical-align: top; " align=3D"center"><t=
+able width=3D"100%" class=3D"deviceWidth" cellpadding=3D"0" cellspacing=3D"=
+0" >
+              <tr>
+                <td height=3D"24"></td>
+              </tr>
+              <tr>
+                <td valign=3D"middle" style=3D"text-align:center; color: #0=
+06bb6;font-size: 28px; letter-spacing:-0.04em; line-height:30px; font-famil=
+y:arial,sans-serif;">
+
+                  <b>Earn up to 5 chances to win</b>
+
+</td>
+              </tr>
+=09=09=09 <tr><td height=3D"15"style=3D"font-size:0; line-height:0">&nbsp;<=
+/td></tr>
+            =20
+              <tr>
+                <td style=3D"color:#666666;font-size:14px; font-family:aria=
+l,sans-serif;line-height:20px;" align=3D"left">This season, log into your <=
+a style=3D"color:#666666;" href=3D"http://email.407etr.com/t?r=3D2473&c=3D2=
+226750&l=3D167193&ctl=3D31C6A90:98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC=
+6D8A6&" target=3D"_blank">407 ETR web account</a> and you will be automatic=
+ally entered into the Log in to Win draw to <b>win a year of free travel on=
+ 407 ETR*</b> or other great travel prizes! <br /><br />
+=09=09=09=09Earn up to 3 entries in the draw simply by logging into your 40=
+7 ETR web account, each month*, until the contest closes on January 31, 201=
+7.<br /><br />
+
+<b>Get an extra 2 entries</b> if you are signed up for 407 ETR Paperless Bi=
+lling and Pre-authorized Payment. Not registered yet? Get your extra entrie=
+s by registering before the end of the contest period.<br /><br />
+
+Act today and maximize your chances to win this holiday season! Prizes incl=
+ude:
+</td>
+              </tr>
+              <tr>
+              <tr>
+                <td height=3D"20"></td>
+              </tr>
+              <tr>
+                <td><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" align=3D"center" class=3D"deviceWidth">
+                    <tr>
+                     <td align=3D"center"><a href=3D"http://email.407etr.co=
+m/t?r=3D2473&c=3D2226750&l=3D167193&ctl=3D31C6A8F:98A95CF58AAFECE1BE57582BE=
+C2D02D32726E1D1BBC6D8A6&"><img src=3D"https://407etr.s3.amazonaws.com/2016/=
+407etr_dec_2016_prizes.jpg" style=3D" margin:0;padding:0;" alt=3D"407 ETR" =
+class=3D"imgWidth3" width=3D"500"  border=3D"0"/></a> </td>
+                    </tr>
+                    <tr>
+                      <td colspan=3D"3" height=3D"16" style=3D"height:16px;=
+padding-top:5px;color:#4c4c4c;font-size:12px;font-family:arial,sans-serif;"=
+ align=3D"center"></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+        <tr>
+          <td class=3D"pattern" width=3D"650" align=3D"center"><table cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0">
+              <tr>
+                <td class=3D"col col-left" width=3D"190" align=3D"left" val=
+ign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0">
+                    <tr>
+                      <td align=3D"left" style=3D"padding: 0 10px;"><table =
+cellpadding=3D"0" cellspacing=3D"0">
+                          <tr>
+                            <td align=3D"left"><table width=3D"190" cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0">
+                                <tr>
+                                  <td align=3D"center" style=3D"font-family=
+: arial, helvetica, sans-serif;color:#016bb7;font-weight:bold;padding-botto=
+m:5px;font-size:14px; height:18px;">Get your extra entries</td>
+                                </tr>
+                                <tr>
+                                  <td align=3D"center"><a href=3D"http://em=
+ail.407etr.com/t?r=3D2473&c=3D2226750&l=3D167193&ctl=3D31C6A91:98A95CF58AAF=
+ECE1BE57582BEC2D02D32726E1D1BBC6D8A6&" target=3D"_blank"> <img class=3D"img=
+Button3" src=3D"https://407etr.s3.amazonaws.com/2016/407etr-march17-2016_bt=
+n-combo-1.jpg" style=3D"display:block;margin:0;padding:0;" width=3D"190" bo=
+rder=3D"0" alt=3D"407 ETR"/> </a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+                <td class=3D"col col-mid" width=3D"190" align=3D"center" va=
+lign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0">
+                    <tr>
+                      <td align=3D"left" style=3D"padding: 0 10px;"><table =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                          <tr>
+                            <td align=3D"left" ><table width=3D"190" cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0">
+                                <tr>
+                                  <td align=3D"center" style=3D"font-family=
+: arial, helvetica, sans-serif;color:#016bb7;font-weight:bold;padding-botto=
+m:5px;font-size:14px; height:18px;">Get in the draw</td>
+                                </tr>
+                                <tr>
+                                  <td align=3D"center"><a href=3D"http://em=
+ail.407etr.com/t?r=3D2473&c=3D2226750&l=3D167193&ctl=3D31C6A90:98A95CF58AAF=
+ECE1BE57582BEC2D02D32726E1D1BBC6D8A6&" target=3D"_blank"> <img class=3D"img=
+Button3" src=3D"https://407etr.s3.amazonaws.com/2016/407etr-march17-2016_bt=
+n-login-1.jpg" style=3D"display:block;margin:0;padding:0;" width=3D"190" bo=
+rder=3D"0" alt=3D"407 ETR"/> </a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+                <td class=3D"col" width=3D"190" align=3D"center" valign=3D"=
+top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                    <tr>
+                      <td align=3D"left" style=3D"padding: 0 10px;"><table =
+cellpadding=3D"0" cellspacing=3D"0">
+                          <tr>
+                            <td align=3D"left" ><table width=3D"190" cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0">
+                                <tr>
+                                  <td align=3D"center" style=3D"font-family=
+: arial, helvetica, sans-serif;color:#016bb7;font-weight:bold;padding-botto=
+m:5px;font-size:14px; height:18px;">I don=E2=80=99t have an account</td>
+                                </tr>
+                                <tr>
+                                  <td align=3D"center"><a href=3D"http://em=
+ail.407etr.com/t?r=3D2473&c=3D2226750&l=3D167193&ctl=3D31C6A92:98A95CF58AAF=
+ECE1BE57582BEC2D02D32726E1D1BBC6D8A6&" target=3D"_blank"> <img class=3D"img=
+Button3" src=3D"https://407etr.s3.amazonaws.com/2016/407etr-march17-2016_bt=
+n-create-1.jpg" style=3D"display:block;margin:0;padding:0;" width=3D"190" b=
+order=3D"0" alt=3D"407 ETR"/> </a></td>
+                                </tr>
+                                <tr>
+           <td align=3D"center"  style=3D"font-family: arial, helvetica, sa=
+ns-serif;color:#2b2b2b;font-size:11px;height:30px;" height=3D"30">Please ha=
+ve your account number ready.</td>
+                                </tr>
+                              </table></td>
+                          </tr>
+=09=09=09=09=09=09=20
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+=09=09=20
+=09=09=09=09=09=09 =20
+      </table></td>
+  </tr>
+  <tr>
+    <td height=3D"15" style=3D"height:15px; border-bottom:1px solid #cccccc=
+;"><div style=3D"height:15px;border-bottom:1px solid #cccccc;"></div></td>
+  </tr>
+  <tr>
+    <td height=3D"15"></td>
+  </tr>
+</table>
+<table width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=
+=3D"deviceWidth" align=3D"center">
+<tr>
+  <td><table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ align=3D"center" class=3D"deviceWidth">
+      <tr>
+        <td><table width=3D"85%" cellpadding=3D"0" cellspacing=3D"0"  borde=
+r=3D"0" align=3D"left" class=3D"deviceWidth">
+            <tr>
+              <td valign=3D"top" class=3D"center"><p style=3D"font-family: =
+Arial, Helvetica, sans-serif; font-size: 11px; font-weight:normal; color: #=
+666666; margin:0; padding:0; text-align:left;">*Log in to Win contest close=
+s January 31, 2017. One entry per month, per account, for logging into your=
+ 407 ETR web account. All accounts signed up for paperless billing and pre-=
+authorized payment on January 31, 2017 at 11:59 pm will receive two extra e=
+ntries (one for each) in the draw. <a href=3D"http://email.407etr.com/t?r=
+=3D2473&c=3D2226750&l=3D167193&ctl=3D31C6A8F:98A95CF58AAFECE1BE57582BEC2D02=
+D32726E1D1BBC6D8A6&" target=3D"_blank">Click here</a> for full contest deta=
+ils or to access contest terms and conditions.
+<br/>
+                  <br/>
+                  You are currently signed up to receive news and=20
+                  information from 407 ETR.<br />
+                  If you would prefer not to receive emails from 407 ETR,=
+=20
+                  please unsubscribe <a href=3D"http://email.407etr.com/u?i=
+d=3D98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6&global=3Dtrue">here</a=
+>.<br />
+                  This email was sent to brenda@chainsawclinic.com by 407 E=
+TR.<br />
+                  Do not reply to this email. To contact 407 ETR Customer=
+=20
+                  Service, please click <a href=3D"http://email.407etr.com/=
+t?r=3D2473&c=3D2226750&l=3D167193&ctl=3D31C6A93:98A95CF58AAFECE1BE57582BEC2=
+D02D32726E1D1BBC6D8A6&"> here</a>.<br />
+                  <br />
+                  407 ETR | 6300 Steeles Avenue West | Woodbridge, ON |=20
+                  L4H 1J1 | 1-888-407-0407</p></td>
+            </tr>
+          </table></td>
+      </tr>
+     <tr>
+        <td height=3D"10"></td>
+      </tr>
+      <tr>
+        <td style=3D"text-align:right;" class=3D"wm-logo"><a href=3D"http:/=
+/www.wiredmessenger.com/?utm_source=3DNewsletter&utm_medium=3DEmail&utm_cam=
+paign=3D407ETR&email=3Dbrenda@chainsawclinic.com"> <img border=3D"0" src=3D=
+"http://wmcta.s3.amazonaws.com/cta/powered-by-wired-small.png" width=3D"117=
+" height=3D"30" style=3D"-webkit-text-size-adjust: none; border: medium non=
+e" alt=3D"wiredmessenger.com" ></a></td>
+      </tr>
+    </table>
+=09</td>
+=09</tr>
+=09</table>
+=09
+</body>
+
+<img src=3D"http://email.407etr.com/t?c=3D2226750&r=3D2473&l=3D167193&t=3D1=
+0&e=3D98A95CF58AAFECE1BE57582BEC2D02D32726E1D1BBC6D8A6" width=3D1 height=3D=
+1 border=3D0>
+</html>
+
+------=_Part_27617945_258260656.1481639602252--

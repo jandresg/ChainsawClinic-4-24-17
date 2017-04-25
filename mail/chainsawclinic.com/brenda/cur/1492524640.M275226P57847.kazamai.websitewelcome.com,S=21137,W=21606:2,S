@@ -1,0 +1,469 @@
+Return-Path: <407etr_98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC@email.407etr.com>
+Delivered-To: brenda@chainsawclinic.com
+Received: from kazamai.websitewelcome.com
+	by kazamai.websitewelcome.com (Dovecot) with LMTP id CVG1D2Ae9lj34QAAaocpPg
+	for <brenda@chainsawclinic.com>; Tue, 18 Apr 2017 09:10:40 -0500
+Return-path: <407etr_98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC@email.407etr.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Tue, 18 Apr 2017 09:10:40 -0500
+Received: from vmta3.response.wiredmessenger.com ([96.31.174.167]:51093)
+	by kazamai.websitewelcome.com with esmtps (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <407etr_98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC@email.407etr.com>)
+	id 1d0Tq4-000LpF-3K
+	for brenda@chainsawclinic.com; Tue, 18 Apr 2017 09:10:40 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=email.407etr.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=407etr@email.407etr.com;
+ bh=2LGl+d/W5+LjTbi3+76aPJC6nVI=;
+ b=MTsmEj9OCYOV3aUzd80JkAdiPzZzfhrLNmnXZszjwBFBcQAyzd339JXMryVtK9Gv0T4tz6KJRU8z
+   MWft4p+qqw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=email.407etr.com;
+ b=qAzGxv9J7ZKd659iwHjhJUMR8UnC3jQt1Yd7VXYeXw+BOwB+qad1XhqEh22o9lKUYr1VYUVR/tAz
+   MreJS8KR7g==;
+Received: from target.wiredmessenger.com (127.0.0.1) by vmta3.response.wiredmessenger.com id huof601t8bkl for <brenda@chainsawclinic.com>; Tue, 18 Apr 2017 10:10:28 -0400 (envelope-from <407etr_98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC@email.407etr.com>)
+Date: Tue, 18 Apr 2017 10:10:14 -0400
+From: 407 ETR <407etr@email.407etr.com>
+Reply-To: 
+	407 ETR <407etr_98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC@email.407etr.com>
+To: brenda@chainsawclinic.com
+Message-ID: <98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC-b5a9f561331b4f45849abfd6b744fc1e@email.407etr.com>
+Subject: Get 100 free km!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_26185174_1486196517.1492524614213"
+X-Mailer: WiredMessenger.com
+ENVID: WC-1492524614212-98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC-b5a9f561331b4f45849abfd6b744fc1e
+Feedback-ID: 2473-2230885:vmta3:wiredm
+List-Unsubscribe: <http://email.407etr.com/u?id=98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC>
+X-Unsubscribe-Web: <http://email.407etr.com/u?id=98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC>
+
+------=_Part_26185174_1486196517.1492524614213
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+407 ETR
+
+
+Please click below to view email in a web browser.
+
+http://email.407etr.com/dm?id=98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC
+
+
+Please click below to unsubscribe.
+
+http://email.407etr.com/u?id=98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC&global=true
+
+
+407 ETR | 6300 Steeles Avenue West | Woodbridge, ON | L4H 1J1 | 1-888-407-0407
+------=_Part_26185174_1486196517.1492524614213
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+
+<title>407 ETR - Get 100 free km!</title>
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                =20
+<style type=3D"text/css">
+=09.ReadMsgBody {width: 100%; background-color: #ffffff;}
+=09.ExternalClass {width: 100%; background-color: #ffffff;}
+=09body=09 {width: 100%; background-color: #ffffff; margin:0; padding:0; -w=
+ebkit-font-smoothing: antialiased;font-family:Arial, sans-serif;}
+=09table {border-collapse: collapse;}
+=09
+=09
+=09@media only screen and (max-width: 640px)  {
+=09=09=09=09=09body[yahoo] .deviceWidth {width:430px!important; padding-bot=
+tom:10px;}=09
+=09=09=09=09=09body[yahoo] .center {text-align: center!important;}=09=20
+=09=09=09=09=09table[class=3DdeviceWidth]  {width:430px!important; border: =
+none!important;}=09
+=09=09=09=09=09table[class=3DspecialWidth]  {width:420px!important; border:=
+none!important;}=09
+=09=09=09=09=09table[class=3DheaderWidth] {width:430px!important; border: n=
+one!important;}
+=09=09=09=09=09table[class=3DlogoWidth] {width:29%!important;}
+=09=09=09=09=09table[class=3DexpressWidth] {height:77px!important;width:63%=
+!important;}
+=09=09=09=09=09td[class=3DexpressWidth] {font-size:18px!important;}
+=09=09=09=09=09td[class=3Dspacer] {height:10px!important;}
+=09=09=09=09=09table[class=3DcontentWidth] {width:430px!important;}=09=09=
+=09
+=09=09=09=09=09img[class=3D"deviceWidth"] {width:50%!important;}
+=09=09=09=09=09img[class=3D"imgWidth2"] {width:430px!important;margin:auto;=
+}
+=09=09=09=09=09img[class=3D"login"] {width:236px!important;margin:auto;}
+=09=09=09=09=09td[class=3D"imgWidth2"] {padding:10px!important;}
+=09=09=09=09=09td[class=3Dblank] {display:none!important;}
+=09=09
+=09}
+=09=09=09
+=09@media only screen and (max-width: 479px) {
+=09=09=09=09=09body[yahoo] .deviceWidth {width:300px!important; padding:0; =
+text-align:center;}=09
+=09=09=09=09=09body[yahoo] .center {text-align: center!important;}=09
+=09=09=09=09=09table[class=3DheaderWidth]  {width:300px!important; border:n=
+one!important;}=09=20
+=09=09=09=09=09table[class=3DdeviceWidth]  {width:280px!important; display:=
+block!important; text-align:center!important;}=09
+=09=09=09=09=09table[class=3DspecialWidth]  {width:280px!important; border:=
+ none!important; margin-bottom:10px;}
+=09=09=09=09=09table[class=3DcontentWidth] {width:280px!important;}
+=09=09=09=09=09table[class=3DlogoWidth] {width:40%!important;background:gre=
+en;margin-top:12px!important;}
+=09=09=09=09=09img[class=3DlogoWidth] {width:120px!important;}
+=09=09=09=09=09table[class=3DexpressWidth] {height:77px!important;width:59%=
+!important;margin-top:5px;}
+=09=09=09=09=09td[class=3DexpressWidth] {font-size:16px!important;}
+=09=09=09=09=09span[class=3Dheading] {font-size:24px!important;}
+=09=09=09=09=09img[class=3D"imgWidth2"] {width:300px!important;padding:0;}
+=09=09=09=09=09img[class=3D"login"] {width:200px!important;margin:auto;}
+=09=09=09=09=09td[class=3D"wm-logo"] {text-align:right!important;}
+=09}
+=09
+
+       a:link{
+           color: #666666;
+       }
+       a:hover{
+           color: #666666;
+       }
+       a:active{
+           color: #666666;
+       }
+=09    a:visited{
+           color: #666666;
+       }
+
+
+</style>
+</head>
+
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0"=
+ yahoo=3D"fix" style=3D"font-family:Arial, sans-serif; background:#ffffff;"=
+ bgcolor=3D"#ffffff">
+
+<!-- Wrapper -->
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+=09<tr>
+    =09<td width=3D"100%" valign=3D"top" bgcolor=3D"#ffffff" style=3D"paddi=
+ng:10px">        =20
+            <table  width=3D"650" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" align=3D"center" class=3D"deviceWidth">
+                <tr>
+                    <td align=3D"center" valign=3D"middle" style=3D"font-fa=
+mily:Arial, sans-serif; font-size: 11px;color: #333333;text-align:center;" =
+st-content=3D"viewonline">
+                   <strong>See if you qualify for 100 free km &nbsp;&nbsp;|=
+&nbsp;&nbsp;</strong><a href=3D"http://email.407etr.com/dm?id=3D98A95CF58AA=
+FECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC" target=3D"_blank" style=3D"color:#66=
+6666; text-decoration:none;">View Online</a>
+                    </td>
+                </tr>
+            </table>                            =20
+        </td>
+=09</tr>    =20
+      =20
+</table>      =20
+      =20
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+<tr>
+=09=09<td valign=3D"top" bgcolor=3D"#ffffff">
+=09=09 <table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" align=3D"center" class=3D"headerWidth" bgcolor=3D"#0564b4">
+=09=09=09=09<tr>
+=09=09=09=09=09<td class=3D"center" >
+
+                       <table width=3D"29%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" align=3D"left" class=3D"logoWidth">
+                            <tr>
+                                <td align=3D"left" valign=3D"top">
+                                =09<!-- The paragraph tag is important here=
+ to ensure that this table floats properly in Outlook 2007, 2010, and 2013
+                                    To learn more about this fix check out =
+this link: http://www.emailonacid.com/blog/details/C13/removing_unwanted_sp=
+acing_or_gaps_between_tables_in_outlook_2007_2010
+                                    This fix is used for all floating table=
+s in this responsive template
+                                    The margin set to 0 is for Gmail -->
+                                    <a href=3D"http://email.407etr.com/t?r=
+=3D2473&c=3D2230885&l=3D167401&ctl=3D31D0BAF:98A95CF58AAFECE1CAFD0B9E610B0E=
+0E8B8FE2D473DDCBBC&"><img width=3D"152" src=3D"https://407etr.s3.amazonaws.=
+com/template/407etr-responsive-logo.jpg" alt=3D"407ETR" border=3D"0" style=
+=3D"width: 152px;display:block;margin:0;padding:0;" class=3D"logoWidth" /><=
+/a>
+                                </td>
+                            </tr>
+                                                 =20
+                        </table>
+                                               =20
+                        <table width=3D"69%" height=3D"77" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" align=3D"right" class=3D"expressWidth">
+                      =20
+                            <tr>
+                                <td valign=3D"middle" height=3D"77" class=
+=3D"expressWidth" align=3D"right" style=3D"mso-table-lspace:0;mso-table-rsp=
+ace:0; margin:0; font-family:arial,helvetica,sans-serif; font-size:20px;col=
+or:#ffffff;padding-right:15px;"><span>You could get 100 free km & win a yea=
+r of free travel on <nobr>407&nbsp;ETR</nobr></span>
+                                   =20
+                                </td>
+                            </tr>
+                                         =20
+                        </table>                                       =20
+
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+              =20
+=09=09  </table><!-- End Two Column (Images Stacked over Text) -->=09
+  </td>
+ =20
+  </tr>=09
+</table>
+
+
+
+<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"contentWidth" bgcolor=3D"#ffffff" style=3D"background-=
+color:#ffffff;">
+=09=09=09=09<tr >
+=09=09=09=09=09<td class=3D"center">
+
+                           =20
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" align=3D"left">
+                         =20
+                          =09<tr valign=3D"middle">
+                                <td align=3D"center" valign=3D"middle">
+
+                                     <a href=3D"http://email.407etr.com/t?r=
+=3D2473&c=3D2230885&l=3D167401&ctl=3D31D0BB0:98A95CF58AAFECE1CAFD0B9E610B0E=
+0E8B8FE2D473DDCBBC&" target=3D"_blank">
+                                   <img width=3D"100%" src=3D"https://407et=
+r.s3.amazonaws.com/2017/407etr-201704-promo.jpg" alt=3D"407 ETR" border=3D"=
+0" style=3D"width:display:block;padding:0;width:100%;margin:auto;" class=3D=
+"imgWidth2" /></a>
+                                </td>
+                            </tr>
+                          </table>
+                          </td>
+                          </tr>
+                          <tr>
+                          <td align=3D"center">
+                          <table width=3D"95%" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" align=3D"center" >
+                               <tr>
+                                <td style=3D"font-size: 12px; color: #95959=
+5; font-weight: normal; text-align: left; font-family: Gotham, 'Helvetica N=
+eue', Helvetica, Arial, sans-serif; line-height: 24px; vertical-align: top;=
+ " align=3D"center">
+
+                                        <table width=3D"100%" class=3D"devi=
+ceWidth" cellpadding=3D"0" cellspacing=3D"0" >
+                                        =09<tr>
+                                            <td height=3D"20" style=3D"heig=
+ht:20px;line-height:20px;"></td>
+                                            </tr>
+                                            <tr>
+                                                <td valign=3D"middle" style=
+=3D"text-align:center; color: #9eb134;font-size: 24px;line-height:28px; fon=
+t-family:arial,helvetica,sans-serif;" >
+=09=09=09=09=09=09=09=09=09=09=09=09<span class=3D"heading" style=3D"font-s=
+ize: 24px; line-height:28px; font-family: Arial, Helvetica, sans-serif;font=
+-weight:100;color:#0864af;">
+=09=09=09=09=09=09=09=09=09=09=09=09Switch to paperless billing & pre-autho=
+rized payment and you could get 100 free km*</span></td>
+                                            </tr>
+                                            <tr>
+                                            <td height=3D"10"></td>
+                                            </tr>
+                                            <tr>
+                                            <td>
+                                            <table width=3D"100%" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0">
+                        <tr>
+                        <td style=3D"color:#666666;font-size:14px;font-fami=
+ly:arial,helvetica,sans-serif;" align=3D"left">
+                          <p>
+=09=09=09=09=09=09  If you received 4+ bills per year in 2016 or 2017, <b>y=
+ou are eligible to receive 50 free km*</b> when you switch to paperless bil=
+ling and <b>another 50 free km*</b> when you switch to pre-authorized payme=
+nt.</p>
+
+<p>That=E2=80=99s right, a total of 100 free km are yours for the taking!</=
+p>
+
+<p>Plus, if you make the switch, you will receive up to 2 bonus entries in =
+the Log in to Win** draw where you could <b>win a year of free travel on <n=
+obr>407&nbsp;ETR!</nobr></b></p>
+
+<!--<p>It's easy to check how many bills you received by using your 407 ETR=
+ web account. <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2230885&l=
+=3D167401&ctl=3D31D0BB1:98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC&" =
+target=3D"_blank" style=3D"text-decoration:underline; text-color:#666666; f=
+ont-color:#666666">Click here</a> for a step-by-step guide.
+</p> -->
+                        </td>
+                        </tr>
+                        <tr>
+                        <td height=3D"10" style=3D"height:10px;line-height:=
+10px;"></td>
+                        </tr>
+                       =20
+=09=09=09=09=09=09<tr>
+               <td align=3D"center" style=3D"text-align:center;padding-bott=
+om:5px;">
+                    <table class=3D"w-resize100 min-300" width=3D"240" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" >
+                          <tbody>
+                             <tr>
+                                <td align=3D"center" >
+                                    <table class=3D"w-resize100 min-300" wi=
+dth=3D"240" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"cente=
+r" >
+                                        <tbody>
+                                              <tr>
+                                              <td class=3D"paint-area" alig=
+n=3D"center" valign=3D"middle" height=3D"36" bgcolor=3D"#0564b4" style=3D"f=
+ont-family:Arial, Helvetica, sans-serif; font-size:14px; mso-line-height-ru=
+le:exactly; line-height:18px; color:#ffffff; padding:0 0 0 0; ">    <font f=
+ace=3D"Arial, sans-serif, Helvetica">
+                                                <a class=3D"paint-area pain=
+t-area--text" target=3D"_blank" href=3D"http://email.407etr.com/t?r=3D2473&=
+c=3D2230885&l=3D167401&ctl=3D31D0BB0:98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2=
+D473DDCBBC&" style=3D"color:#ffffff; text-decoration:none; display:block; p=
+adding:10px 15px 10px 15px;"><strong>MAKE THE SWITCH</strong></a>
+
+                                                 </font>
+                                               </td>
+                                            </tr>
+                                      </tbody>
+                                         </table>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                   </table>
+                               </td>
+                            </tr>
+=09=09=09=09=09=09=09
+                        </table>
+                                            </td>
+                                            </tr>
+                                        </table>
+                                       =20
+                                </td>
+                            </tr>=20
+                           =20
+=09=09=09=09=09=09=09</table>
+                         =20
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+                <tr>
+=09<td height=3D"25" style=3D"height:25px;border-bottom:1px solid #cccccc">=
+<div style=3D"height:25px;border-bottom:1px solid #cccccc"></div></td>
+</tr>       =20
+  <tr>
+            =09<td height=3D"20"></td>
+            </tr>
+                </table>
+
+
+
+
+
+
+
+<table width=3D"650" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=
+=3D"deviceWidth" align=3D"center">
+<tr>
+
+<td>
+=09<table width=3D"650" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" al=
+ign=3D"center" class=3D"deviceWidth">
+                            <tr>
+                                <td>                   =20
+                                        <table width=3D"80%" cellpadding=3D=
+"0" cellspacing=3D"0"  border=3D"0" align=3D"left" class=3D"deviceWidth">
+                                             <tr>
+                                                <td valign=3D"top" class=3D=
+"center">
+
+<p style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 11px; fon=
+t-weight:normal; color: #666666; margin:0; padding:0; text-align:left;">
+                               *50 or 100 kilometre credit will be applied =
+at the rate of 44.74 cents per kilometre. Offer is valid only on new paperl=
+ess billing and pre-authorized payment registrations at <a href=3D"http://e=
+mail.407etr.com/t?r=3D2473&c=3D2230885&l=3D167401&ctl=3D31D0BB2:98A95CF58AA=
+FECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC&" target=3D"_blank">www.407etr.com</a=
+> by June 30, 2017. Personal accounts only. Full offer details and terms an=
+d conditions at <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D2230885&l=
+=3D167401&ctl=3D31D0BB2:98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC&" =
+target=3D"_blank">www.407etr.com</a>. <br>
+**Contest closes April 30, 2017. Full terms and conditions for the Log in t=
+o Win promotion at <a href=3D"http://email.407etr.com/t?r=3D2473&c=3D223088=
+5&l=3D167401&ctl=3D31D0BB2:98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC=
+&" target=3D"_blank">www.407etr.com</a>.=20
+<br/><br/>
+                                You are currently signed up to receive news=
+ and=20
+                                information from 407 ETR.<br />
+                                If you would prefer not to receive emails f=
+rom 407 ETR,=20
+                                please unsubscribe
+                                <a href=3D"http://email.407etr.com/u?id=3D9=
+8A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC&global=3Dtrue">here</a>.<br=
+ />
+                                This email was sent to brenda@chainsawclini=
+c.com by 407 ETR.<br />
+                                Do not reply to this email. To contact 407 =
+ETR Customer=20
+                                Service, please click <a href=3D"http://ema=
+il.407etr.com/t?r=3D2473&c=3D2230885&l=3D167401&ctl=3D31D0BB3:98A95CF58AAFE=
+CE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC&">
+                                here</a>.<br />
+                                <br />
+                                407 ETR | 6300 Steeles Avenue West | Woodbr=
+idge, ON |=20
+                                L4H 1J1 | 1-888-407-0407</p>
+
+                                                </td>
+                                            </tr>
+                                        </table>
+                       =20
+                                       =20
+</td>
+
+</tr>
+<tr>
+<td height=3D"20">
+
+</td>
+</tr>
+<tr>
+          <td style=3D"text-align:right" class=3D"wm-logo"><a href=3D"http:=
+//www.wiredmessenger.com/?utm_source=3DNewsletter&utm_medium=3DEmail&utm_ca=
+mpaign=3D407ETR&email=3Dbrenda@chainsawclinic.com"> <img border=3D"0" src=
+=3D"http://wmcta.s3.amazonaws.com/cta/powered-by-wired-small.png" width=3D"=
+117" height=3D"30" style=3D"-webkit-text-size-adjust: none; border: medium =
+none" alt=3D"wiredmessenger.com" ></a></td>
+        </tr>
+</table>    =20
+=09=20
+</body>
+
+<img src=3D"http://email.407etr.com/t?c=3D2230885&r=3D2473&l=3D167401&t=3D1=
+0&e=3D98A95CF58AAFECE1CAFD0B9E610B0E0E8B8FE2D473DDCBBC" width=3D1 height=3D=
+1 border=3D0>
+</html>
+
+------=_Part_26185174_1486196517.1492524614213--

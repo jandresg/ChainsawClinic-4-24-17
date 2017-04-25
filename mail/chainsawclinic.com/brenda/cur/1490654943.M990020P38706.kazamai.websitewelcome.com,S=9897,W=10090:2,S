@@ -1,0 +1,193 @@
+Return-Path: <moulon02@outlook.com>
+Delivered-To: brenda@chainsawclinic.com
+Received: from kazamai.websitewelcome.com
+	by kazamai.websitewelcome.com (Dovecot) with LMTP id qZGQOt+W2VgylwAAaocpPg
+	for <brenda@chainsawclinic.com>; Mon, 27 Mar 2017 17:49:03 -0500
+Return-path: <moulon02@outlook.com>
+Envelope-to: brenda@chainsawclinic.com
+Delivery-date: Mon, 27 Mar 2017 17:49:03 -0500
+Received: from mail-oln040092001014.outbound.protection.outlook.com ([40.92.1.14]:35443 helo=NAM01-BY2-obe.outbound.protection.outlook.com)
+	by kazamai.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <moulon02@outlook.com>)
+	id 1csdRf-000AH3-QE
+	for brenda@chainsawclinic.com; Mon, 27 Mar 2017 17:49:03 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=O+BDTLppJFB5vP2BgHOrOHe89cKg4AfdRqjLpXlzFDU=;
+ b=EbZEeRlLY1CI+8G+4Z2LNMPJb0bl5FViGi5kYYFZuDuj0II1VhI8vQhrc7ZuG85gY2LJ+a+SRX6k3GFAXZV312FJbvMJ9ds8oY7YpdwlcN06iURKAXYQySQXSW/P/9MMsY4fXDS4z+VJuGWUjHK5LOa3NSnJOAsBnmPr7nhjSO96iyXB5mdLQSYB1MXWK49ROCDAiy35VzJtzEOmBC3mwvJqF69Lft3lj+r4JVeQ2VNswbH1Gmx7lZ3PkoaaCYjTkOwfaTrP7oV/E92Y/haA/LaMiLdtP9buRdOjSanzRupAdchcAo+2CYPCsIPraK8kM9HcxIxfioldIRxAmIvQeA==
+Received: from SN1NAM01FT052.eop-nam01.prod.protection.outlook.com
+ (10.152.64.54) by SN1NAM01HT143.eop-nam01.prod.protection.outlook.com
+ (10.152.64.165) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.977.7; Mon, 27 Mar
+ 2017 22:48:50 +0000
+Received: from BL2PR20MB0706.namprd20.prod.outlook.com (10.152.64.60) by
+ SN1NAM01FT052.mail.protection.outlook.com (10.152.65.152) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.977.7 via Frontend Transport; Mon, 27 Mar 2017 22:48:50 +0000
+Received: from BL2PR20MB0706.namprd20.prod.outlook.com ([10.167.121.154]) by
+ BL2PR20MB0706.namprd20.prod.outlook.com ([10.167.121.154]) with mapi id
+ 15.01.0991.020; Mon, 27 Mar 2017 22:48:50 +0000
+From: Sidney Jordan <moulon02@outlook.com>
+To: Chain Saw Clinic - Brenda <brenda@chainsawclinic.com>
+Subject: RE: ANNIVERSARY
+Thread-Topic: ANNIVERSARY
+Thread-Index: AdKnOlRvAcl56xfVT62Mltm9hCL92wAELygl
+Date: Mon, 27 Mar 2017 22:48:50 +0000
+Message-ID: <BL2PR20MB0706F4A63F1AD5C2D333695BC4330@BL2PR20MB0706.namprd20.prod.outlook.com>
+References: <002401d2a742$43cc0550$cb640ff0$@chainsawclinic.com>
+In-Reply-To: <002401d2a742$43cc0550$cb640ff0$@chainsawclinic.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-CA
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: chainsawclinic.com; dkim=none (message not signed)
+ header.d=none;chainsawclinic.com; dmarc=none action=none
+ header.from=outlook.com;
+x-incomingtopheadermarker: OriginalChecksum:4BBC9A17189CA1B752D402641007B15FE6E1C03220754C74757DC0F194063412;UpperCasedChecksum:5F82AE6164C5FCB8C727EFDD221914AF476328CAF28935D3CC77BB33CA5E740E;SizeAsReceived:8013;Count:42
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [HrZ3f64/yHWJCTxzubeBwtI2kyFP09Pu]
+x-microsoft-exchange-diagnostics: 1;SN1NAM01HT143;5:cQzUoOqqM5JKeB6D8wGRh/iceH9FluD2smx8FMiSJldRtfIh8STD3NRM4CyTHrWDJhLOImymvDEGFC1AcKr9Dw4l1Hkh50apdrfqipkB7pWdIqsdnsMasZ1RGCbqPG5KxL3OwDrLyrqtQRp3DXedRmEa0RgIuhEwO9S77ocmjHA=;24:dEUv2GcYk0BN58/FCQlh/ZirXH9RZ5TNJcHrH9ktzIQym7zqlALU4NZSCRUHX1PaM1oQoKtj6PEp1nvoDbQKJGPqfx+RYaQbzDnfn7cconw=;7:k+5hD9/j1Y6r58V7d1HBmrTspy/xc60ZSN/A9ESrwuvGFilJaYy2rpTFpC/rgLl+fE75oIoEfGfPa1XT3VufXd1bjK9NpFM3aMUkNZuxKZnRuILc5Q1cvlU/05j4WA3UmtTntFZaBscqWtCFx0JKcu2K2OMh7E0PgBdmNI8PnOz5MX+PMx7cfmV1OaK2xB0Zqm0OtcbQAgyoOlv0gaKJAgrg1PrtOZW/uhsp9FQhAN6tCq1uvzmRcTIyMvz2usL/+9BESP//Zr72gR2n9w/jsh7eNY0NA5TADNr6MNfX4LJKAcmFt5OUiy9pIbxhM/05
+x-incomingheadercount: 42
+x-eopattributedmessage: 0
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:SN1NAM01HT143;H:BL2PR20MB0706.namprd20.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 1921c375-3a56-4ee2-4157-08d475636fcf
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031322274)(1603101448)(1601125374)(1701031045);SRVR:SN1NAM01HT143;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444000031);SRVR:SN1NAM01HT143;BCL:0;PCL:0;RULEID:;SRVR:SN1NAM01HT143;
+x-forefront-prvs: 02596AB7DA
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BL2PR20MB0706F4A63F1AD5C2D333695BC4330BL2PR20MB0706namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 27 Mar 2017 22:48:50.2898
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM01HT143
+
+--_000_BL2PR20MB0706F4A63F1AD5C2D333695BC4330BL2PR20MB0706namp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+I haven=92t made reservations for wally & Donna yet got to find out if she =
+can get time off  but is trying will phone tonight been looking at west jet=
+ have not tried A/C  got to get them in a hotel my wife filled up the house=
+ and forgot about W & D (Not Intentionally) what have you guys doneI looked=
+ at the university  booking and only a few rooms left there  don=92t know m=
+uch about them didn=92t even know about till they mentioned it  what flight=
+ have you booked?? Let me knoe SAP as not many seats left
+Thanks
+SJ
+
+Sent from Mail<https://go.microsoft.com/fwlink/?LinkId=3D550986> for Window=
+s 10
+
+From: Chain Saw Clinic - Brenda<mailto:brenda@chainsawclinic.com>
+Sent: March 27, 2017 3:37 PM
+To: moulon02@outlook.com<mailto:moulon02@outlook.com>
+Subject: ANNIVERSARY
+
+Hi Sid, I was wondering if you made the plane reservations for Wally, perha=
+ps we can travel there together.
+Is Wally and Donna staying with you guys.  Also what hotels is around there=
+ that everyone may be staying at that is nice but reasonable, so we can mak=
+e reservations together. I know Barb and the kids are staying at the Univer=
+sity.
+Thanks,
+Marjorie
+
+
+
+--_000_BL2PR20MB0706F4A63F1AD5C2D333695BC4330BL2PR20MB0706namp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang=3D"EN-CA" link=3D"blue" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">I haven=92t made reservations for wally &amp; Donna =
+yet got to find out if she can get time off&nbsp; but is trying will phone =
+tonight been looking at west jet have not tried A/C&nbsp; got to get them i=
+n a hotel my wife filled up the house and forgot about
+ W &amp; D (Not Intentionally) what have you guys doneI looked at the unive=
+rsity&nbsp; booking and only a few rooms left there&nbsp; don=92t know much=
+ about them didn=92t even know about till they mentioned it &nbsp;what flig=
+ht have you booked?? Let me knoe SAP as not many seats
+ left </p>
+<p class=3D"MsoNormal">Thanks </p>
+<p class=3D"MsoNormal">SJ</p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Sent from <a href=3D"https://go.microsoft.com/fwlink=
+/?LinkId=3D550986">
+Mail</a> for Windows 10</p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div style=3D"mso-element:para-border-div;border:none;border-top:solid #E1E=
+1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm">
+<p class=3D"MsoNormal" style=3D"border:none;padding:0cm"><b>From: </b><a hr=
+ef=3D"mailto:brenda@chainsawclinic.com">Chain Saw Clinic - Brenda</a><br>
+<b>Sent: </b>March 27, 2017 3:37 PM<br>
+<b>To: </b><a href=3D"mailto:moulon02@outlook.com">moulon02@outlook.com</a>=
+<br>
+<b>Subject: </b>ANNIVERSARY</p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-US">Hi Sid, I=
+ was wondering if you made the plane reservations for Wally, perhaps we can=
+ travel there together.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-US">Is Wally =
+and Donna staying with you guys.&nbsp; Also what hotels is around there tha=
+t everyone may be staying at that is nice but reasonable, so we can make re=
+servations together. I know Barb and the
+ kids are staying at the University.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-US">Thanks,<o=
+:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-US">Marjorie<=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-US"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-US"><o:p>&nbs=
+p;</o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_BL2PR20MB0706F4A63F1AD5C2D333695BC4330BL2PR20MB0706namp_--

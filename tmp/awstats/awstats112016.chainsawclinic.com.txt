@@ -1,0 +1,1853 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201611 will be lost/reset.
+# Last config file used to build this data file was /home/chainsaw/tmp/awstats/awstats.chainsawclinic.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2698                
+POS_VISITOR 25233               
+POS_DAY 60737               
+POS_DOMAIN 3638                
+POS_LOGIN 4559                
+POS_ROBOT 4714                
+POS_WORMS 5425                
+POS_EMAILSENDER 5556                
+POS_EMAILRECEIVER 5699                
+POS_SESSION 61644               
+POS_SIDER 61857               
+POS_FILETYPES 5834                
+POS_DOWNLOADS 6187                
+POS_OS 6235                
+POS_BROWSER 6694                
+POS_SCREENSIZE 10735               
+POS_UNKNOWNREFERER 10809               
+POS_UNKNOWNREFERERBROWSER 11791               
+POS_ORIGIN 12341               
+POS_SEREFERRALS 12492               
+POS_PAGEREFS 12726               
+POS_SEARCHWORDS 20272               
+POS_KEYWORDS 20764               
+POS_MISC 2360                
+POS_ERRORS 21096               
+POS_CLUSTER 4415                
+POS_SIDER_404 21230               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161201001843 254 54342 9897467957282
+FirstTime 20161101004730
+LastTime 20161130233911
+LastUpdate 20161201034839 254 0 253 0 0
+TotalVisits 1355                
+TotalUnique 845                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 897                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 695 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 76 196 7580608 39 101 549552
+1 122 326 4026627 72 165 948769
+2 91 244 23097716 110 155 710227
+3 103 149 5867578 52 88 542912
+4 99 251 3465479 37 70 2005596
+5 63 181 4509433 67 111 765904
+6 109 435 5285672 45 98 466186
+7 214 955 25540283 57 157 854462
+8 302 1291 48403961 91 153 885958
+9 225 975 64188840 86 182 1285862
+10 329 1237 151264436 260 490 4022502
+11 250 1027 36990407 45 130 1265308
+12 207 768 38296793 90 201 1185307
+13 251 1070 57413586 68 140 938296
+14 245 1066 43836856 56 129 741087
+15 185 670 29758457 53 135 739989
+16 218 712 41102992 45 132 2628562
+17 210 763 53618237 64 194 2856279
+18 158 553 13341652 45 129 1137643
+19 195 699 31918105 76 200 3180283
+20 174 700 20360823 62 146 1006638
+21 123 423 25227013 56 115 2637801
+22 125 585 28144921 59 111 2548209
+23 97 273 28594081 59 147 1196430
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 49
+ca 2402 11900 519695485
+ua 775 775 3536434
+us 635 1788 160543965
+si 68 256 78153563
+cn 57 62 370076
+ru 45 208 977871
+fr 33 33 151107
+br 28 161 2445184
+de 16 52 13484325
+in 13 63 332943
+gb 12 18 1774187
+jp 10 10 48056
+nl 8 8 35978
+ie 6 8 190459
+sr 6 16 3236260
+bs 4 20 89205
+mx 4 21 173903
+pl 4 5 55629
+tw 4 22 147470
+hu 4 9 1689728
+ar 3 20 169639
+cl 3 19 84941
+cz 3 3 12792
+my 3 16 1906689
+se 3 3 12792
+be 0 1 62091
+ug 1 1 4264
+mk 0 1 35774
+at 1 1 4264
+hr 0 1 4279
+ee 0 1 31904
+pk 2 2 10394
+dz 1 1 4264
+tr 0 2 120472
+bb 0 1 35774
+il 3 3 13725
+es 0 1 31904
+mz 3 8 1761392
+au 1 15 249415
+lt 1 1 5197
+me 0 2 71548
+sk 2 2 8528
+id 1 1 5197
+no 1 1 5197
+hk 2 2 8528
+kr 1 1 4264
+za 0 1 16568
+ro 2 2 8528
+lb 0 1 12404
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+bot[\s_+:,\.\;\/\\-] 546 4105240 20161130180628 0
+googlebot 303 3585044 20161130223708 0
+bingpreview 250 8026783 20161130171120 0
+spider 234 832320 20161130072645 0
+googlebot\-image 96 4041409 20161124044614 0
+no_user_agent 82 398577 20161130010655 0
+crawl 35 164656 20161124092029 0
+[\s_+:,\.\;\/\\-]bot 30 26336 20161121182802 0
+slurp 23 97855 20161122120616 0
+google[_+\s]web[_+\s]preview 19 84941 20161105072625 0
+checker 17 84537 20161126163825 0
+robot 13 154890 20161124052813 0
+curl 4 13725 20161130060815 0
+msnbot\-media 1 2041 20161113152851 0
+php 1 0 20161113205938 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+htm 1461 5759194 0 0
+css 1425 49716399 0 0
+png 976 640087932 0 0
+Unknown 2 17894 0 0
+ttf 12 654580 0 0
+woff2 87 1424212 0 0
+gif 5824 25596812 0 0
+jpeg 275 9764997 0 0
+js 430 407157 0 0
+jpg 2447 35712925 0 0
+woff 436 10433160 0 0
+eot 111 2848550 0 0
+svg 1 108738 0 0
+html 2062 9302006 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 28
+linuxandroid 1691 322
+macosx9 182 47
+winunknown 23 23
+macosx5 5 5
+ios_ipad 737 188
+blackberry 1 1
+macosx8 72 13
+win98 17 17
+win95 23 23
+Unknown 92 76
+linux 169 69
+win16 3 3
+win7 4165 928
+win2003 374 151
+macosx7 45 6
+win8.1 192 42
+win8 31 15
+winme 3 3
+wince 10 10
+ios_iphone 2011 536
+unix 19 9
+winxp 762 548
+java 20 20
+macosx6 53 8
+winnt 2984 646
+winlong 221 89
+win2000 102 102
+macosx 1542 271
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 200
+chrome54.0.2840.87 227 31
+firefox3.6.3 16 6
+firefox12.0 5 1
+chrome25.0.1364.8 2 1
+chrome17.0.1025.133 3 3
+chrome28.0.1500.95 148 24
+msie11.0 1895 441
+firefox36.0 7 2
+chrome25.0.1364.5 6 2
+firefox16.0 5 1
+chrome37.0.2062.120 6 6
+safari9.1.1 23 5
+chrome33.0.0.0 1 0
+chrome13.0.782.43 1 1
+chrome28.0.1500.94 18 5
+netscape 13 13
+netscape4.76 3 3
+chrome24.0.1290.1 1 1
+firefox11.0 5 1
+safari9.1.3 110 14
+chrome10.0.648.82 6 2
+firefox26.0 5 2
+safari9.0 554 135
+chrome55.0.2883.52 38 6
+chrome46.0.2490.76 2 1
+chrome28.0.1469.0 2 2
+chrome55.0.2883.44 19 3
+firefox47.0 79 12
+chrome54.0.2840.101 7 2
+firefox27.0 1 1
+firefox31.0 8 3
+chrome44.0.2403.133 395 68
+firefox3.5.6 1 1
+chrome54.0.2840.85 524 100
+blackberry 1 1
+chrome46.0.2490.80 26 5
+chrome34.0.1847.137 10 10
+chrome34.0.1847.76 46 13
+mozilla 122 75
+chrome35.0.1922.11 1 1
+safari10.0.1 172 36
+firefox28.0 19 15
+android 222 43
+chrome19.0.1062.0 2 2
+opera8.50 5 5
+opera11.52 1 1
+chrome49.0.2623.75 6 6
+chrome53.0.2785.116 13 4
+chrome26.0.1410.65 1 1
+firefox6.0 5 1
+chrome51.0.2704.84 19 3
+firefox15.0 7 3
+safari7.0 10 4
+chrome53.0.2785.143 120 19
+chrome27.0.1453.90 3 3
+firefox34.0 5 1
+chrome20.0.1123.4 6 2
+chrome45.0.2444.0 23 5
+chrome11.0.696.16 6 2
+safari6.0 43 5
+chrome50.0.2661.102 1 1
+chrome51.0.2704.79 402 85
+netscape4.79 5 5
+firefox48.0 146 26
+msie4.01 3 3
+firefox7.0 10 2
+safari10.3.2.2876 8 3
+firefox45.0 49 13
+safari8.0.7 41 8
+chrome21.0.1180.11 6 2
+firefox46.0 46 7
+chrome24.0.1284.2 6 2
+safari8.0 120 32
+firefox18.0 5 1
+iphone 185 60
+msie7.0 72 52
+chrome54.0.2840.68 172 25
+msie3.02 10 10
+firefox3.6 2 2
+firefox30.0 5 1
+opera12.14 1 1
+chrome39.0.2171.71 7 2
+chrome45.0.2454.93 1 1
+firefox3.0.10 5 5
+chrome24.0.1292.0 1 1
+opera7.54 9 9
+msie8.0 47 47
+chrome54.0.2840.99 779 153
+chrome47.0.2526.111 57 9
+chrome51.0.2704.81 10 3
+msie10.0 9 4
+chrome19.0.1047.0 1 1
+opera10.00 1 1
+chrome46.0.2486.0 27 6
+chrome19.0.1061.1 2 2
+chrome14.0.835.15 6 2
+firefox38.0 33 7
+safari10.0 1695 458
+opera8.01 8 8
+chrome34.0.1847.116 1 1
+chrome20.0.1132.57 1 1
+firefox41.0 16 15
+chrome33.0.1750.517 9 1
+firefox8.0 5 1
+firefox17.0 5 1
+opera40.0.2308.90 1 0
+chrome31.0.1650.8 6 2
+opera9.0 26 26
+opera9.00 31 31
+safari 303 62
+chrome16.0.912.15 6 2
+msie5.0 17 17
+chrome48.0.2564.116 1 1
+firefox44.0 9 4
+firefox21.0 12 8
+chrome54.0.2840.98 354 58
+chrome17.0.963.66 1 1
+chrome34.0.1847.131 8 8
+opera37.0.2192.105088 7 2
+chrome9.0.597.19 6 2
+chrome40.0.2214.115 16 16
+firefox25.0 5 1
+chrome30.0.1599.69 33 4
+chrome29.0.1547.0 6 2
+firefox29.0 589 113
+chrome31.0.1650.63 43 6
+firefox10.0.2 5 1
+firefox9.0 5 1
+chrome19.0.1084.15 6 2
+chrome30.0.0.0 20 8
+chrome44.0.2403.125 4 4
+netscape0.91 3 3
+chrome22.0.1216.0 6 6
+opera8.00 13 13
+chrome35.0.1916.27 7 3
+firefox43.0 310 91
+opera7.0 5 5
+chrome22.0.1229.56 19 3
+chrome52.0.2743.82 67 9
+firefox22.0 5 1
+msie6.0 492 492
+opera7.02 12 12
+chrome5.0.375.99 2 2
+netscape4.61 3 3
+firefox49.0 663 106
+firefox33.0 9 4
+chrome19.0.1055.1 3 3
+chrome35.0.1916.114 6 6
+chrome39.0.2171.95 11 11
+chrome53.0.2785.124 78 19
+chrome41.0.2272.96 2 1
+chrome36.0.1985.143 168 30
+firefox13.0 5 1
+safari9.0.1 23 5
+chrome38.0.2125.102 77 12
+opera7.60 6 6
+chrome23.0.1271.10 6 2
+chrome43.0.2357.124 1 1
+chrome22.0.1201.0 6 2
+chrome54.0.2840.93 7 2
+msie5.5 47 47
+chrome49.0.2623.112 297 44
+chrome15.0.874.15 12 4
+Unknown 51 51
+firefox19.0 6 2
+lynx 3 3
+chrome10.0.648.204 4 4
+msie2.0 13 13
+chrome37.0.0.0 14 4
+chrome41.0.2228.0 4 4
+firefox47.0.1 19 3
+webcapture 20 20
+chrome54.0.2840.71 1804 285
+firefox24.0 5 1
+safari9.1.2 22 4
+firefox50.0 128 24
+firefox4.0 5 1
+msie9.0 135 61
+firefox23.0 6 2
+safari10.3.2.2639 16 6
+chrome22.0.1229.94 1 1
+chrome52.0.2743.116 46 22
+chrome30.0.1599.10 6 2
+firefox14.0.1 20 12
+chrome32.0.1700.107 38 6
+chrome51.0.2704.103 1 1
+chrome52.0.2743.98 29 4
+chrome27.0.1453.93 1 1
+firefox40.1 26 16
+firefox40.0 36 7
+safari7.0.3 5 5
+chrome50.0.2661.94 7 2
+chrome50.0.2661.89 61 9
+chrome23.0.1271.91 19 3
+chrome47.0.2526.80 1 1
+firefox5.0 6 2
+firefox3.6.9 1 1
+chrome43.0.2357.134 27 4
+firefox20.0 6 2
+firefox3.6.8 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 16
+scrapy-redis_(_https://github.com/rolando/scrapy-redis) 20161111062459
+Go-http-client/1.1 20161102024706
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.2.2876_Mobile_Safari/537.35_ 20161124134506
+aria2/1.18.8 20161125013954
+Mozilla/5.0_(BB10;_Kbd)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.2.2639_Mobile_Safari/537.35_ 20161130190445
+Mozilla/5.0_(compatible;_Dataprovider/6.101;__https://www.dataprovider.com/) 20161113195441
+Lynx/2.8.8rel.1_libwww-FM/2.14FM 20161122102517
+Mozilla/4.0_(compatible;) 20161105072323
+VidibleScraper/1.0 20161124211549
+Browsershots 20161122102134
+nutch-1.4/Nutch-1.4 20161119071822
+python-requests/2.12.1 20161120044927
+SalesIntelligent_(_https://www.salesintelligent.com) 20161111205333
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20161126073713
+Mozilla 20161119150656
+panscient.com 20161107013232
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+panscient.com 20161107013232
+VidibleScraper/1.0 20161124211549
+Java/1.8.0_101 20161122165028
+python-requests/2.12.1 20161120044927
+nutch-1.4/Nutch-1.4 20161119071822
+aria2/1.18.8 20161125013954
+python-requests/2.7.0_CPython/2.7.10_Linux/3.2.0-4-amd64 20161103043320
+SalesIntelligent_(_https://www.salesintelligent.com) 20161111205333
+Browsershots 20161122102134
+Go-http-client/1.1 20161102024706
+scrapy-redis_(_https://github.com/rolando/scrapy-redis) 20161111062459
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 926 955
+From1 11 11
+From2 334 365
+From3 947 947
+From4 1953 13271
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 7
+google_image 0 1
+duckduckgo 3 3
+bing 8 8
+yahoo 5 5
+search 1 1
+yandex 12 12
+google 305 335
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 187
+http://ib.adnxs.com/cr 65 65
+http://komputers-best.ru 18 18
+http://monarhs.info 18 18
+http://www.newtechspb.ru 15 15
+http://medicines-choice.com 15 15
+http://electricwheelchairsarea.com 15 15
+http://frivgame250.com 15 15
+http://uytmaster.ru/top/santech 14 14
+http://stairliftsarea.com 14 14
+http://balkanfarma.ru 13 13
+http://aktivator-windows10.blogspot.com 13 13
+http://isistaylorporn.info 13 13
+http://tmm-kurs.ru 12 12
+http://j-times.ru 12 12
+http://dnepropetrovsk.mistr-x.org 12 12
+http://mydirtystuff.com 12 12
+http://pizda.lol 12 12
+http://autorn.ru 11 11
+http://life-instyle.com 11 11
+http://www.istmira.ru 11 11
+http://pk-services.ru 9 9
+http://www.amt-k.ru 9 9
+http://chelnytruck.ru 9 9
+http://viberdownload10.com/viber-for-android/ 9 9
+http://zaporizhia.mistr-x.org 9 9
+http://alfa-politeh.ru 5 5
+http://www.husqvarna.com/ca-en/products/snow-blowers/st-330t/961930095/ 1 1
+http://torrents.cd 6 6
+http://all-that-is-interesting.com/new-york-immigrants-photos 1 1
+http://gotomontenegro.net 3 3
+http://daydream-studio.ru 3 3
+http://www.xn----7sbaaabaei0cc8aj5bj0bncejx.xn--p1ai 8 8
+http://confib.ifmo.ru 6 6
+http://musicstock.me 6 6
+http://indiakino.net 6 6
+http://www.husqvarna.com/ca/en/landscape-and-groundcare/dealers/dealer-locator/ 1 1
+http://restorator-msk.ru 3 3
+http://painting-planet.com 6 6
+http://www.husqvarna.com/ca-en/products/leaf-blowers/ 1 1
+http://fototravel.eu 3 3
+http://www.magiquiz.com/quiz/whats-your-supernatural-iq/6/ 1 1
+http://1916q4.cn.birthwell.cn/quiz/4/question 1 1
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./accessories.html 1 1
+http://pizza-tycoon.com 4 4
+http://nym1-b.adnxs.com/ab 1 1
+http://www.magiquiz.com/quiz/can-you-pass-this-greys-anatomy-trivia-quiz/11/ 1 1
+http://wechatdownload10.com/wechat-on-pc.html 6 6
+http://liky.co.ua 3 3
+http://drillsaw.ru 5 5
+http://www.husqvarna.com/ca-en/dealers/chain-saw-clinic-ltd/ 1 1
+http://www.husqvarna.com/ca-en/products/snow-blowers/st-224/961930096/ 2 2
+http://doxyporno.com 3 3
+http://turizm.bz 5 5
+http://orsonet.ru 2 2
+http://vipsiterip.org 4 4
+http://www.pressroomvip.com/g/15-things-we-learned-from-maci-bookouts-novel-bulletproof/9/ 1 1
+http://www.husqvarna.com/ca-en/accessories/wedges/felling-wedges/608201002/ 1 1
+http://xn--24-glceagatoq7c2a6ioc.xn--p1ai 2 2
+http://www.husqvarna.com/ca-en/products/chainsaws/ 1 1
+http://rukino.org 6 6
+http://x-musics.com 3 3
+http://www.asseenontvonline.ru 3 3
+http://kursy-ege.ru 6 6
+http://kollesa.ru 3 3
+http://preview.eyereturn.com/if 1 1
+http://www.meddesk.ru/cosmetology/krasota-i-molodost/kakie-vitaminyi-nuzhnyi-dlya-rosta-volos.html 5 5
+http://purchasepillsnorx.com 2 2
+http://powerequipment.ca 1 1
+http://www.photorepair.ru 6 6
+http://manuscript.su 6 6
+http://www.yellowpages.ca/bus/Ontario/North-York/Chain-Saw-Clinic-Ltd/3478571.html 4 4
+http://www.musezone.su 6 6
+http://www.indiatimes.com 1 1
+http://vadimkravtcov.ru 5 5
+http://www.kinotorka.ru 3 3
+http://saletool.ru 3 3
+http://www.elektir.ru 5 5
+https://goo.gl/lAs0aJ 3 3
+http://xwatt.ru 2 2
+http://ru-dety.ru 7 7
+http://www.manilatimes.net/news/ 1 1
+http://light.ifmo.ru 6 6
+http://www.yellowpages.ca/merchant/directions/3478571 1 1
+http://hyiphunter.org 3 3
+http://taxi-v-eisk.ru 3 3
+http://womama.ru 5 5
+http://marketparts.com.ua 5 5
+https://konteiner24.com 3 3
+http://larutti.ru 6 6
+http://exonline.info 3 3
+http://bestcurs.org 8 8
+http://burger-imperia.com 2 2
+http://telegramdownload10.com 3 3
+http://tri-slona.org/category/christmas 6 6
+http://xn--80aaomkdl5amcy.xn--p1ai 6 6
+http://allday.com/post/10740-this-teacher-is-caught-having-orgy-with-5-students/pages/11/ 1 1
+http://lider-zhaluzi.kiev.ua 4 4
+http://www.husqvarna.com/ca-en/dealer-locator/ 3 3
+http://apache.ariens.com/cgibin/PNRG0139 1 1
+http://pharmacyincity.com 3 3
+http://cpabegins.ru 7 7
+http://www.souvenirua.com 6 6
+http://hyiphunter.org 4 4
+http://whatsappdownload10.com/whatsapp-on-ipad/ 6 6
+http://w-journal.ru 7 7
+http://www.trendelier.com/the-worst-tattoo-fails-ever/39/ 1 1
+http://www.edge.ca/stihl-gta-dealers/ 3 3
+http://nym1-ib.adnxs.com/ab 2 2
+http://www.eloxal.ru 3 3
+http://ukrup.com 6 6
+http://drillsaw.ru 3 3
+http://limtu.ifmo.ru 1 1
+http://petrovka-online.com 5 5
+http://portomaltese.net 8 8
+http://downloadkakaotalk.com 6 6
+http://allrecipes.com/recipe/16682/feta-cheese-and-bacon-stuffed-breasts/ 1 1
+https://googleads.g.doubleclick.net/pagead/ads 1 1
+http://phototravel.pl 7 7
+http://freetangodownload.com/tango-for-pc/ 6 6
+http://m.definition.org/rare-photos-from-history-that-will-amaze-you/4/ 1 1
+http://modabutik.ru 3 3
+http://pc-services.ru 8 8
+http://x-porno.video 3 3
+http://voloomoney.com/buy/kupit-gold-wow/ 1 1
+http://apxeo.info 3 3
+http://light.ifmo.ru 3 3
+http://www.husqvarna.com/ca-en/products/chainsaws/536li-xp/966729174/ 1 1
+http://mobi.perezhilton.com/included_ads/mobile_banners/remnant/Perez_Mobile_Remnant_Ad_com_300x250_BTF.html 1 1
+http://tpc.googlesyndication.com/safeframe/1-0-5/html/container.html 7 7
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./ 2 2
+http://handicapbathtubarea.com 6 6
+http://www.kinotorka.ru 3 3
+https://autotrends.today 8 8
+http://www.husqvarna.com/ca/en/dealers/dealer-locator/ 6 6
+http://goo.gl/eEq5wU 3 3
+http://chainsawclinic.ca 1 1
+http://everflora.ru 3 3
+http://www.itservicesthatworkforyou.com 6 6
+http://meduza-consult.ru 8 8
+http://parlament.biz 3 3
+http://daydream-studio.ru 2 2
+http://www.husqvarna.com/ca-en/products/chainsaws/t540-xp/966611001/ 1 1
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./chainsaws.html 3 3
+http://glp3.indexexchange.com/glp/GLPCreative.html 1 1
+http://watchdogs-2.ru 8 8
+http://mobplayer.net 5 5
+http://shmetall.com.ua 1 1
+http://kissanime.to/ads/300x250Special.aspx 1 1
+http://guitar-master.org 3 3
+http://www.husqvarna.com/ca-fr/ 1 1
+http://oxford-book.com.ua 6 6
+http://homeandhealth.ru 3 3
+http://www.autowebmarket.com.ua 3 3
+http://x-lime.net 3 3
+http://mobile.yp.ca/bus/Ontario/North-York/Chain-Saw-Clinic-Ltd/3478571.html 1 1
+http://www.husqvarna.com/ca-en/products/riding-lawn-mowers/lgth22v48/960480059/ 1 1
+http://storehouse.ua 6 6
+https://www.lflash.ru 7 7
+http://kinocccp.net 5 5
+http://glp7.indexexchange.com/glp/GLPCreative.html 2 2
+http://twentytwowords.com/tweets-that-prove-breakups-can-be-sad-and-funny/22/ 1 1
+http://heatpower.ru 5 5
+http://soft1.ru 5 5
+http://www.husqvarna.com/ca/en/products/blowers/130bt/ 1 1
+http://mantramusic.ru 6 6
+http://www.magiquiz.com/quiz/can-we-guess-how-many-siblings-you-have/3/ 1 1
+http://1-free-share-buttons.com 6 6
+http://mobplayer.net 3 3
+http://www.blackle.com/results/ 1 1
+http://kharkov.mistr-x.org 3 3
+http://www.husqvarna.com/ca/en/products/snow-throwers/st-111/ 2 2
+http://xn--d1abj0abs9d.in.ua 6 6
+http://pokerniydom.ru 9 9
+http://videochat.tv.br 3 3
+http://kamen-e.ru 2 2
+http://profitsport.club 3 3
+http://1-99seo.com/try.php 9 9
+http://productarium.com 5 5
+http://ads.mopub.com 9 9
+http://astana.xkaz.org 3 3
+http://gribkovye-zabolevaniya.com 2 2
+http://www.husqvarna.com/ca-en/accessories/axes/traditional-axe/576926201/ 2 2
+http://www.stihldealers.ca/Search.aspx/Toronto_(North_York)/Ontario/ON/M9N+2A9/Chain+Saw+Clinic+Ltd./blowers.html 2 2
+http://www.husqvarna.com/ca-en/ 2 2
+https://7fon.ru 2 2
+http://www.viralscoop.com/celebrities-major-debts/4/ 1 1
+http://flowersbazar.com 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 12
+chainsaw+clinic 3
+echo+acho+ask+any+pro 1
+%5ecfs%5exdm122%5ettab02%5eca 1
+chainsaw+clinic+ltd+toronto 1
+chaindaw+clinic 1
+chainsaw+clinic+etobicoke 1
+http+%2f%2fchainsawclinic.com%2f 1
+chainsaw+parts+toronto 1
+chain+saw+clinic+ltd 1
+chainsaw+clinic+weston+road 1
+rogers+and+old+weston+road+small+engine+mechanic 1
+www.chainsawclinic.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 26
+clinic 8
+chainsaw 7
+toronto 2
+weston 2
+ltd 2
+road 2
+parts 1
+echo 1
+www.chainsawclinic.com 1
+and 1
+etobicoke 1
+chain 1
+rogers 1
+%2f%2fchainsawclinic.com%2f 1
+small 1
+ask 1
+chaindaw 1
+%5ecfs%5exdm122%5ettab02%5eca 1
+acho 1
+saw 1
+http 1
+any 1
+old 1
+pro 1
+engine 1
+mechanic 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+406 43 9718
+206 20 732298
+403 187 41492
+404 1080 12697900
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 112
+/administrator/ 1 -
+/index.php/admin/ 1 http://CHAINSAWCLINIC.COM/index.php/admin/
+/modules/ 1 http://chainsawclinic.com/modules/
+/web/wp-login.php 4 -
+/administrator/index.php 5 -
+/cms/wp-login.php 5 -
+/main/wp-login.php 5 -
+/images/up_toro.gif 1 -
+//templates/atomic/index.php 2 -
+/admin/ 2 -
+/modules/README.txt 1 -
+/blog/wp-admin/setup-config.php 2 -
+/giftcertificates.php 1 http://CHAINSAWCLINIC.COM/giftcertificates.php
+/assets/css/HqSansProTT-Bold.ttf 85 http://chainsawclinic.com/
+//login.php 10 -
+/wordpress/blog/wp-admin/setup-config.php 1 -
+/robots.txt 431 -
+/shop/ 2 -
+/assets/contact.php 3 http://www.chainsawclinic.com/assets/contact.html
+/Style.css 1 -
+/images/pump1.jpg 1 -
+/contactus.htm 13 -
+/login.php 1 http://www.chainsawclinic.com/login.php
+/xmlrpc.php 1 -
+/wordpress/wp-login.php 4 -
+/husqvarna.htm 8 -
+/images/hedgehon.jpg 2 -
+/language/en-GB/en-GB.xml 1 -
+/toro.htm 8 -
+//index.php 1 -
+/feed/magpie_debug.php 1 http://chainsawclinic.com/feed/magpie_debug.php
+/modules/tadtools/ckeditor/elFinder/elfinder.html 1 -
+/_core/utils/elfinder/elfinder.html 1 -
+/wordpress/wordpress/wp-admin/setup-config.php 1 -
+/echo.htm 7 -
+/phpmyadmin/ 2 -
+/wp-login.php 13 -
+/apple-touch-icon-120x120.png 1 -
+/images/image2.jpeg 2 -
+/new/wp-login.php 4 -
+/wp-includes/ 1 http://chainsawclinic.com/wp-includes/
+/images/up_aboutus.gif 1 -
+/aboutus.htm 6 -
+/license.php 6 -
+/site/wp-login.php 6 -
+/honda.htm 12 -
+/stihl.htm 15 http://r.search.yahoo.com/_ylt=A0LEVj5k.jRYaaMAwf8MGCI5/RV=2/RE=1479895780/RO=10/RU=http%3a%2f%2fchainsawclinic.com%2fstihl.htm/RK=0/RS=_cLl0tjlzCLtaAARzVAAk4.XdNU-
+/images/logostihl.gif 2 -
+/sitemap.xml 27 -
+/apple-touch-icon.png 2 -
+/README.txt 1 -
+/images/up_contactus.gif 1 -
+/public_html/index.html 1 -
+/admin.php 1 -
+/images/sw_01.jpg 2 -
+/cfg.php 7 -
+/assets//css/HqSansProTT-Bold.ttf 2 http://www.chainsawclinic.com/assets/contact.html
+/news/wp-login.php 5 -
+/wordpress/wp-admin/setup-config.php 2 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/~daycare/assets/elfinder/elfinder.html 1 -
+/main.htm 10 -
+/packages/ahmadazimi/laravel-media-manager/elfinder.html 1 -
+/mysql/ 2 -
+/test/wp-login.php 4 -
+/lawnboy.htm 8 -
+/wp/wp-login.php 5 -
+/images/image3.png 4 https://www.google.com/
+/images/image7.jpeg 1 https://www.google.dm/
+/blog/wp-login.php 5 -
+/blog/robots.txt 1 -
+/common/js/elfinder_2.0/elfinder.html 1 -
+/apple-touch-icon-precomposed.png 2 -
+/assets/js/ie10-viewport-bug-workaround.js 116 http://chainsawclinic.com/
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/pub/errors/design.xml 1 -
+/aaa/ 2 -
+/images/up_lawnboy.gif 1 -
+/media/system/css/mootree.css 1 -
+/wordpress/ 1 -
+/js/mage/cookies.js 3 powerequipment.ca
+/blogs/wp-login.php 5 -
+/design/backend/media/fonts/alsrubl-arial-regular.svg 1 -
+/index.php/component/users/ 1 -
+/1/wp-admin/setup-config.php 1 -
+/404.html 2 http://whois.domaintools.com/chainsawclinic.com
+/wp-admin/admin-ajax.php 2 -
+/wp/ 1 -
+/index.html 3 -
+/.google-analytics.com/ga.js 2 -
+/images/logohonda.gif 1 -
+/stihl.html 1 -
+/assets/css/HqSansProTT-Bold.woff 87 http://chainsawclinic.com/
+/assets/css/HqSansProTT-Bold.eot 9 http://chainsawclinic.com/
+/images/shilchain.jpg 1 -
+/home/wp-login.php 4 -
+/manager/media 1 -
+/en/wp-login.php 5 -
+/images/spacer.gif 1 -
+/wp/wp-admin/setup-config.php 2 -
+/downloader/ 1 http://CHAINSAWCLINIC.COM/downloader/
+/news/wp-admin/setup-config.php 1 -
+/wp-includes/js/tw-sack.js 1 -
+/index 3 -
+/images/logochainsaw.gif 4 https://www.google.com.sg/
+/contents.htm 18 -
+/backup/wp-admin/setup-config.php 2 -
+/assets//css/HqSansProTT-Bold.woff 2 http://www.chainsawclinic.com/assets/contact.html
+/blog/ 4 -
+/tel:416-244-5678 1 http://www.chainsawclinic.com/
+/images/map.jpg 2 -
+/sql/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 897
+99.242.224.195 251 1058 35829052 20161130125142
+93.103.209.7 68 256 78153563 20161122103242
+99.236.9.100 58 58 265039 20161130205558
+46.119.127.117 56 56 238784 20161119222241
+178.137.161.77 55 55 285835 20161130143213
+178.137.163.110 54 54 280638 20161130044332
+178.137.165.57 52 52 221728 20161110212249
+178.137.89.246 52 52 221728 20161120082717
+134.249.51.255 50 50 259850 20161130122855
+46.118.116.7 50 50 213200 20161120112921
+46.118.154.190 49 49 254653 20161130213614
+46.118.155.149 48 48 204672 20161120000806
+37.115.113.73 42 42 212676 20161130042709
+46.118.124.241 41 41 174824 20161110194423
+134.249.53.114 35 35 149240 20161108011425
+69.64.173.132 32 111 19369182 20161129215314
+5.248.253.78 30 30 127920 20161109033327
+178.137.165.59 28 28 119392 20161108101227
+23.233.75.81 25 133 4171010 20161124140116
+209.128.119.91 24 24 114304 20161130142212
+108.63.186.143 24 54 3401954 20161128205841
+64.79.100.13 22 22 108650 20161119150656
+134.249.74.95 21 21 89544 20161115063437
+209.29.240.16 20 20 94610 20161122165028
+4.35.234.196 20 70 16812000 20161128220432
+108.168.58.56 4 27 173294 20161111074739
+65.95.94.74 3 19 84941 20161118101626
+54.91.108.228 1 1 4264 20161107083854
+64.229.204.62 3 19 84941 20161119074834
+35.162.26.250 3 24 95387 20161112080850
+67.204.241.30 6 40 544693 20161108173616
+76.69.147.222 4 36 478439 20161102181052
+123.252.207.23 1 1 5197 20161123123627
+103.255.254.231 2 2 8528 20161109011803
+174.93.71.181 3 3 12792 20161113055512
+194.213.39.50 1 1 4264 20161106015604
+208.103.231.55 0 5 10446 
+207.164.79.111 2 6 14998 20161121061553
+113.210.53.152 0 2 71548 
+117.78.13.59 1 1 4264 20161106044302
+72.38.68.86 0 1 84698 
+108.60.242.201 1 1 4264 20161110091224
+37.187.129.166 1 1 5197 20161125230127
+172.98.67.112 5 44 566792 20161105153821
+209.171.88.24 8 44 258717 20161111123132
+62.212.73.49 3 3 13725 20161128204745
+99.225.143.188 5 44 566792 20161108210337
+173.34.221.118 5 23 149962 20161103162708
+207.164.79.52 3 8 1699228 20161124172341
+199.212.65.108 2 7 1681200 20161125075338
+99.225.128.54 2 7 1681187 20161122120016
+45.32.130.173 1 1 4264 20161108164422
+76.67.72.104 6 28 162363 20161119061356
+24.114.54.27 3 8 1704624 20161124181624
+184.151.178.29 3 8 1699228 20161124164355
+174.91.127.95 3 19 84941 20161121124012
+64.231.152.221 4 22 147470 20161109115410
+8.28.16.254 9 9 84456 20161129125211
+70.24.7.8 3 8 1704624 20161125054731
+174.114.91.177 5 29 194375 20161114135833
+212.69.169.55 1 1 5197 20161123172229
+62.210.152.84 1 1 4264 20161117035246
+99.237.9.187 3 19 84941 20161115130758
+46.229.170.197 4 4 17989 20161127052147
+38.130.221.52 1 1 4264 20161107103027
+207.44.132.76 2 2 8528 20161121144132
+24.114.78.243 2 7 1681200 20161124134633
+162.211.82.104 1 1 4264 20161113092623
+38.100.21.68 11 11 54325 20161105182037
+184.94.61.186 4 36 478439 20161101140124
+207.107.137.250 7 36 3383425 20161128091559
+99.237.14.103 4 23 183244 20161112054919
+104.236.119.218 2 2 12506 20161126203551
+199.212.246.14 4 22 147470 20161116131655
+73.167.229.179 3 19 84941 20161118191632
+204.40.130.133 4 36 478439 20161117084819
+141.113.150.22 4 9 1762613 20161124091110
+142.19.97.4 2 7 1681200 20161122123104
+192.197.205.95 3 24 206917 20161111115601
+54.162.12.161 5 12 317257 20161128015508
+209.95.186.219 1 1 4264 20161111150759
+213.149.62.36 0 1 4279 
+70.52.180.126 3 8 1704624 20161128074632
+176.8.88.141 8 8 34112 20161102041313
+66.249.88.49 0 2 1647639 
+174.118.60.148 3 19 84941 20161119183628
+66.249.93.67 0 1 35774 
+99.226.102.159 3 13 1715070 20161122201103
+99.231.34.15 3 19 84941 20161112111306
+184.151.178.102 2 7 1681200 20161124174956
+213.136.78.176 1 1 4264 20161120164806
+68.67.139.241 4 14 3362400 20161124214911
+120.188.80.208 1 1 5197 20161123162737
+70.28.49.244 3 8 1699228 20161122123328
+150.70.173.46 1 1 4264 20161104101035
+104.237.63.226 1 1 4264 20161106192011
+99.227.136.4 5 23 149962 20161101201509
+134.249.159.113 1 1 5197 20161124145042
+76.68.230.135 3 19 84941 20161106174239
+99.225.218.161 6 38 169882 20161104142028
+64.229.15.80 2 5 102567 20161103190732
+209.171.88.54 1 6 12547 20161117180140
+99.227.172.21 8 32 201823 20161109113354
+108.162.138.23 4 22 147470 20161118071356
+24.36.16.88 3 19 84941 20161116080342
+178.137.95.202 5 5 21320 20161102014818
+99.224.10.79 4 26 131846 20161102100457
+138.51.118.213 1 4 128068 20161124141440
+24.114.59.214 4 36 478439 20161108133432
+24.114.68.250 1 1 5197 20161130173943
+150.70.173.21 5 5 24028 20161129100926
+199.212.69.142 3 8 1699228 20161123130640
+129.100.253.81 2 7 1681200 20161128091003
+69.158.23.86 4 6 15042 20161101215357
+199.91.135.163 2 2 15141 20161117121409
+66.102.8.149 5 12 3298127 20161124234301
+209.171.88.139 3 19 84941 20161107081954
+199.212.69.43 4 12 1728716 20161129211651
+24.114.65.223 7 36 347088 20161103053927
+216.198.177.116 1 1 4264 20161108144717
+157.52.19.43 4 27 173294 20161121082758
+24.114.52.222 2 17 45442 20161114135503
+54.226.1.135 1 1 5197 20161127232217
+108.168.36.205 3 8 1704624 20161124201753
+95.143.47.180 1 1 7309 20161123170321
+99.241.94.157 9 24 5113872 20161124162203
+99.224.165.21 1 1 4264 20161101230030
+170.8.10.50 3 19 84941 20161108125804
+24.114.48.17 8 47 250116 20161109193200
+104.194.39.71 2 7 1681200 20161124135511
+99.231.56.228 5 11 3262552 20161125103420
+24.141.160.98 0 1 1526439 
+76.68.29.61 2 7 1681200 20161124171935
+195.154.199.140 3 3 15591 20161124125426
+99.252.138.172 2 7 1681200 20161124152840
+68.179.102.193 4 22 147470 20161117120336
+200.104.54.21 3 19 84941 20161111145714
+99.248.90.235 5 44 566792 20161116124720
+92.222.100.248 1 1 4264 20161108033206
+144.76.87.236 8 39 11699745 20161122103143
+131.161.180.10 3 8 1761392 20161125051656
+66.102.6.94 14 36 7112686 20161126135636
+71.127.222.91 19 19 99430 20161107013232
+184.151.61.0 6 28 140989 20161121075455
+198.13.155.56 0 1 55642 
+163.172.136.193 1 1 4264 20161121111303
+70.31.166.91 2 7 1681200 20161124153641
+35.165.70.197 5 18 1744359 20161129200950
+177.223.114.41 3 19 84941 20161109100349
+99.237.20.77 7 39 172374 20161119195155
+65.93.21.11 5 50 952036 20161107180354
+104.222.124.64 2 7 1681200 20161128175644
+24.114.75.24 1 1 5197 20161124120409
+50.21.173.217 4 20 87433 20161115143753
+184.146.140.156 2 8 3207639 20161125081721
+70.48.103.201 2 7 1681200 20161124122445
+45.55.133.225 1 2 5598 20161128114040
+24.114.57.31 4 20 89205 20161119133110
+184.151.179.225 0 1 35774 
+117.78.13.58 1 1 4264 20161119071822
+24.114.49.175 12 52 293443 20161117191524
+108.162.175.247 3 19 84941 20161106171156
+99.253.214.150 2 7 1681200 20161124134407
+216.121.242.22 0 1 35774 
+184.151.179.201 6 16 1699228 20161126094608
+69.158.20.45 4 36 478439 20161109174643
+204.187.70.2 4 27 173294 20161114155830
+70.55.51.119 3 19 84941 20161110081248
+64.231.154.64 3 8 1699228 20161123192520
+180.153.214.180 1 1 5197 20161124163448
+107.179.149.57 6 45 569284 20161108125853
+38.98.70.179 4 9 1762613 20161124155020
+52.1.31.172 1 1 5197 20161124211549
+67.70.163.84 4 27 173294 20161107202803
+45.78.202.181 2 2 5766 20161122064113
+95.213.184.35 1 1 4264 20161102105724
+104.156.230.231 2 2 6728 20161110161229
+142.169.78.14 6 43 438852 20161101095430
+67.226.172.226 6 48 464676 20161114133133
+67.71.98.143 3 19 84941 20161115204210
+50.100.28.25 4 26 131846 20161116083747
+82.80.249.211 1 1 4264 20161111152458
+192.171.49.33 4 22 147470 20161107091244
+99.231.156.226 3 19 84941 20161101222524
+74.114.172.94 4 9 1704425 20161128115205
+209.171.88.51 3 8 1704624 20161124235659
+216.58.88.121 3 9 20133 20161106075402
+70.30.8.53 9 52 1897987 20161130113156
+70.28.55.214 4 36 478439 20161103143322
+35.161.144.143 3 24 95387 20161101055249
+24.114.49.225 1 6 1654908 20161125111819
+104.157.131.235 3 19 84941 20161111203523
+54.91.207.122 1 1 4264 20161114101500
+208.114.154.23 10 62 543194 20161109155008
+99.243.80.213 2 7 1681200 20161129194801
+104.251.96.178 4 22 147470 20161102094638
+4.15.238.178 4 14 3362400 20161125100712
+76.64.140.211 2 7 1681200 20161124133127
+187.122.165.220 3 19 84941 20161110072138
+204.79.180.197 1 1 1371 20161109163854
+70.28.55.28 5 39 540968 20161109115414
+99.227.97.18 5 34 220199 20161120204530
+184.146.129.163 8 26 158643 20161120111629
+131.137.245.208 0 1 35774 
+187.64.28.73 3 19 84941 20161120062507
+207.245.234.18 6 40 543460 20161113134535
+104.153.134.119 0 1 35774 
+70.31.179.198 3 8 1704624 20161125093624
+150.70.173.9 1 1 5197 20161129095322
+99.228.211.151 5 23 149962 20161121210711
+64.187.186.4 2 7 1681200 20161130092757
+173.208.136.114 1 1 5197 20161125024009
+99.229.218.214 0 1 55642 
+99.225.137.244 3 19 84941 20161114084544
+68.67.139.251 4 14 3362400 20161124090107
+64.137.139.162 3 14 18982 20161116234056
+174.89.103.210 4 20 87433 20161104154916
+162.196.143.68 3 19 84941 20161118182640
+190.227.181.38 3 19 84941 20161110045130
+91.201.63.139 1 1 4264 20161113171004
+24.114.57.135 3 8 1699228 20161125181419
+207.245.204.194 2 14 55943 20161101160652
+99.224.26.133 3 19 84941 20161104161342
+35.164.137.160 3 24 95387 20161121001957
+193.150.13.160 1 1 4264 20161113223020
+50.101.76.94 1 1 0 20161115001858
+150.70.188.171 1 1 4264 20161114112427
+54.224.182.49 1 1 4264 20161102020108
+192.197.205.213 3 21 362367 20161111115435
+45.55.135.225 1 2 5598 20161124111421
+99.253.172.144 2 7 1681200 20161127091502
+174.197.16.122 0 1 84698 
+198.245.51.150 14 14 72758 20161130034743
+174.91.126.172 5 30 235823 20161102105522
+165.225.104.84 1 1 2492 20161104145757
+209.171.88.26 3 8 1699228 20161124150329
+60.182.200.57 11 11 57087 20161118030316
+174.118.69.225 3 9 3225667 20161127162808
+109.63.141.206 3 19 84941 20161119065552
+70.48.13.162 4 36 478439 20161102201320
+99.225.133.62 6 57 811024 20161113202017
+99.224.9.211 3 8 1699228 20161124220035
+174.5.226.83 3 8 1699228 20161124140707
+104.236.227.151 9 9 48559 20161116082418
+78.158.11.226 1 1 5197 20161126073713
+173.34.225.26 5 37 480480 20161109225657
+184.146.143.174 2 7 1681200 20161124121214
+70.49.56.219 2 7 1681200 20161124164732
+69.158.24.83 2 8 3207639 20161126192828
+69.64.173.238 18 60 10551483 20161128024808
+85.99.255.93 0 1 84698 
+99.237.18.51 7 17 3414445 20161126125335
+199.254.238.44 1 1 4264 20161113082037
+207.164.79.57 4 9 1704425 20161125143905
+38.122.104.90 2 7 1681200 20161124230037
+88.249.223.124 0 1 35774 
+99.244.41.136 3 13 1715070 20161126211542
+24.114.49.104 4 6 73073 20161107080447
+50.101.79.150 4 20 89205 20161116075723
+99.254.220.223 2 7 1681200 20161125160646
+5.228.186.28 3 19 84941 20161120202009
+70.24.91.164 2 7 1681200 20161126154526
+159.18.26.96 3 19 84941 20161118102935
+159.18.221.196 6 37 394439 20161122033000
+195.154.222.99 1 1 4264 20161117195312
+23.106.250.160 1 1 2464 20161104034122
+69.156.104.190 5 40 376323 20161106100705
+199.7.157.113 4 27 173294 20161114112319
+24.114.71.143 5 49 722671 20161117062906
+99.236.23.27 5 34 333143 20161115071546
+174.112.97.245 4 26 131846 20161111084651
+209.171.88.0 3 8 1699228 20161124112245
+108.162.189.231 5 44 566792 20161110221807
+73.190.120.67 0 1 62091 
+54.162.47.154 3 3 10030 20161116154351
+24.114.66.210 1 1 0 20161126161838
+84.196.220.253 0 1 62091 
+184.151.178.100 3 8 1699228 20161125140301
+66.102.6.209 2 2 9461 20161130140153
+184.145.118.106 4 33 329418 20161122085629
+180.153.186.17 0 1 401 
+209.171.88.208 1 8 52779 20161117135156
+209.171.88.59 3 8 1699228 20161124152003
+95.165.4.66 3 15 78307 20161119173450
+184.150.236.43 15 106 886739 20161121153253
+66.249.93.71 0 1 35774 
+198.134.52.72 4 9 1762613 20161128071758
+99.254.92.71 3 19 84941 20161111105412
+198.240.82.145 1 1 5036 20161122093940
+162.213.136.49 3 11 3324574 20161122095407
+52.70.48.63 1 1 4264 20161113103952
+76.71.57.122 9 67 886482 20161112221250
+35.163.204.111 3 24 95387 20161119043719
+193.171.202.150 1 1 4264 20161101114518
+84.126.182.54 0 1 31904 
+76.67.72.203 3 19 84941 20161107114149
+184.151.61.120 5 23 149962 20161109190153
+184.151.179.218 2 7 1681200 20161124073613
+5.101.219.195 1 1 5197 20161129092026
+70.51.248.202 5 28 163963 20161112122906
+99.236.27.195 3 19 84941 20161120092414
+99.227.27.131 2 7 1681200 20161124132052
+99.226.141.240 4 36 478439 20161102213647
+183.171.29.145 3 7 1704223 20161129062408
+195.154.255.203 1 1 4264 20161117212219
+54.162.15.157 3 3 10030 20161115201138
+24.114.72.246 1 6 1654908 20161124175235
+83.217.27.244 1 1 5197 20161123124358
+76.64.55.162 5 49 722671 20161107171640
+192.99.150.97 11 11 57087 20161113195442
+167.114.172.225 11 11 57087 20161104102254
+198.103.184.76 4 28 177415 20161108090004
+70.49.89.229 5 44 566792 20161111161454
+99.242.218.0 3 8 1699228 20161123140613
+192.214.227.88 6 17 3530448 20161126091609
+24.114.65.238 3 8 1699228 20161124135039
+99.254.229.220 3 19 84941 20161102112939
+99.233.43.171 9 57 254823 20161121130831
+54.163.1.166 1 1 4264 20161120105801
+24.114.50.248 3 8 0 20161126193641
+207.219.20.25 1 4 98303 20161104074611
+78.85.53.230 1 1 4264 20161109180619
+209.171.9.125 2 7 1681200 20161124191603
+24.231.94.249 3 19 84941 20161110071711
+174.113.165.235 4 22 147470 20161105135946
+99.237.88.66 3 8 1704624 20161127205755
+52.1.110.200 2 2 8528 20161114065434
+99.241.185.166 3 8 1704624 20161125170852
+99.227.172.32 3 19 84941 20161120131408
+218.0.6.158 1 1 2464 20161113223142
+184.151.178.98 3 8 0 20161127174258
+93.115.95.207 1 1 4264 20161113091424
+76.71.65.110 5 23 149962 20161121105134
+66.183.204.144 0 1 35774 
+99.238.57.16 2 5 45535 20161117165859
+70.31.4.101 1 15 249415 20161103195531
+209.171.88.58 1 2 126397 20161124110451
+35.162.225.154 3 24 95387 20161116081522
+205.207.123.154 4 36 478439 20161108130205
+24.114.68.108 1 6 1654908 20161124170538
+165.125.176.20 4 9 1762613 20161122130755
+82.80.249.137 1 1 4264 20161111152500
+70.51.2.155 4 26 131846 20161112162447
+180.153.180.75 0 4 123272 
+184.151.36.171 3 19 84941 20161111101944
+41.138.229.23 3 8 1761392 20161129234734
+76.66.94.162 5 23 149962 20161106072104
+112.166.212.93 1 1 4264 20161114030812
+206.47.148.202 5 24 2012015 20161122115351
+69.84.207.246 4 4 22900 20161130144825
+24.114.68.225 3 8 1699228 20161124194705
+173.239.158.90 3 19 84941 20161121063504
+35.161.151.50 3 24 95387 20161105102201
+76.66.166.136 3 19 84941 20161108081949
+99.233.218.127 3 8 1699228 20161125081409
+128.177.10.197 12 12 40120 20161114122835
+207.164.11.194 3 19 84941 20161103135534
+204.40.130.136 4 27 173294 20161109073034
+185.114.254.8 0 1 31904 
+73.161.191.22 1 1 4264 20161102203303
+69.159.50.105 1 6 1654908 20161125103154
+179.36.142.148 0 1 84698 
+184.151.222.50 0 4 9693 
+99.242.226.33 3 8 1699228 20161125022108
+99.237.50.146 1 4 98303 20161113180408
+70.54.76.59 4 27 173294 20161102082559
+199.119.233.143 1 6 1654908 20161124170811
+99.254.93.53 4 9 1757440 20161125095035
+76.64.12.222 14 55 297590 20161119080253
+163.172.137.174 1 1 4264 20161117182912
+24.114.48.74 5 16 47516 20161127053901
+209.171.88.185 2 7 1681200 20161124164329
+45.58.220.233 3 8 1704624 20161124132013
+174.93.62.226 9 62 860658 20161105143859
+207.228.78.22 1 8 88353 20161112113446
+209.171.88.155 3 8 1699228 20161124132601
+68.67.139.236 2 7 1681200 20161125024739
+174.117.128.198 4 27 173294 20161107120611
+184.151.178.7 3 19 84941 20161119132733
+172.97.255.246 3 19 84941 20161116093756
+189.78.184.159 3 19 84941 20161103113854
+108.63.136.80 3 8 1704624 20161124182326
+65.19.167.131 2 2 8528 20161113222321
+99.233.45.100 4 12 1728716 20161125213601
+121.41.44.125 10 10 52823 20161117045223
+76.64.218.165 1 1 4264 20161116175507
+99.229.221.84 2 2 9461 20161122161434
+68.67.139.213 2 7 1681200 20161125101623
+149.202.98.161 1 1 4264 20161116153831
+209.171.88.36 2 7 1681200 20161124170519
+174.89.147.231 3 8 1699228 20161125221158
+173.33.129.95 17 101 802998 20161121101626
+54.221.58.110 6 16 3398456 20161123224732
+149.202.98.160 1 1 4264 20161106060224
+99.254.172.126 3 8 1699228 20161127070833
+38.131.184.68 2 7 1681200 20161127212229
+68.115.235.85 0 1 16568 
+23.233.80.91 6 40 543460 20161119184335
+208.85.220.77 14 94 902106 20161108151721
+24.114.65.226 3 8 1699228 20161130090127
+68.67.139.235 2 7 1681200 20161124231425
+176.195.96.24 3 19 84941 20161110013855
+24.114.22.241 3 19 84941 20161115162832
+76.10.130.61 5 39 540968 20161115113019
+69.58.178.56 11 11 57218 20161112010223
+142.245.193.11 4 27 173294 20161121151641
+193.90.12.86 1 1 5197 20161127060146
+4.16.246.130 6 20 3517161 20161126095823
+209.171.88.72 4 36 478439 20161107133908
+135.23.97.181 4 14 3362400 20161128105525
+85.143.210.233 1 1 5197 20161124020810
+23.20.151.63 1 1 4264 20161116044424
+172.241.216.243 1 1 4264 20161102074342
+173.239.174.62 6 31 240087 20161105142545
+70.28.86.245 3 19 84941 20161103142810
+178.217.187.39 1 1 4264 20161108124041
+209.171.88.193 3 19 84941 20161116102151
+174.95.70.22 3 8 1704624 20161125083833
+95.130.11.147 1 1 4264 20161118143555
+217.66.158.81 0 1 35774 
+96.55.119.104 0 1 16082 
+85.93.17.127 1 1 5197 20161123164052
+107.179.233.232 1 4 128068 20161124150332
+192.0.182.3 3 8 1704624 20161130205131
+50.101.33.112 12 102 1362429 20161108223739
+68.67.139.248 2 7 1681200 20161125024257
+37.110.39.183 0 5 10446 
+72.139.13.230 7 15 1871415 20161129172842
+45.58.217.153 3 19 410439 20161120214810
+198.96.187.2 1 4 98303 20161103174700
+174.119.208.159 2 7 1681200 20161126092844
+209.15.66.202 3 19 84941 20161110074707
+177.237.13.240 1 1 4264 20161104212257
+83.217.27.128 1 1 4264 20161102050716
+199.212.69.108 6 48 801541 20161115193515
+66.249.88.52 3 5 94356 20161123171633
+142.169.78.6 3 8 1699228 20161125145113
+108.63.107.64 11 85 968931 20161121172606
+135.23.72.29 2 7 1681200 20161127110743
+212.86.111.237 1 1 5197 20161128080050
+74.216.249.70 2 7 1681200 20161125101532
+128.100.47.40 5 23 149962 20161114091515
+208.72.5.44 5 36 391947 20161101131243
+209.197.160.186 1 2 5598 20161125063834
+99.246.49.68 3 8 1704624 20161124144606
+174.116.126.208 3 8 1704624 20161128080003
+184.151.61.182 1 15 249415 20161102084125
+72.143.11.90 3 19 84941 20161114081423
+173.206.161.193 3 8 1704624 20161124192829
+198.48.172.102 2 7 1681200 20161126225235
+99.226.209.67 3 8 1699228 20161124191406
+208.124.182.34 6 31 238315 20161122070655
+99.226.46.181 5 23 149962 20161118073825
+69.158.44.238 6 38 494841 20161101192540
+207.61.57.35 3 19 84941 20161104100829
+72.139.1.122 10 28 9698386 20161125140246
+99.235.10.153 5 34 220199 20161112115846
+184.151.190.86 3 8 1681200 20161130163014
+187.126.58.52 3 19 84941 20161106014430
+173.33.251.173 7 46 258235 20161114194510
+199.116.169.254 9 9 65614 20161130085835
+184.149.39.108 17 139 2568796 20161122144351
+150.70.173.5 1 1 4264 20161117125516
+69.158.21.69 10 57 370161 20161105111302
+192.0.197.203 4 22 147470 20161106202400
+35.161.206.218 5 18 1744359 20161127071341
+91.219.237.229 1 1 4264 20161109073900
+134.249.66.185 18 18 76752 20161119175958
+76.69.131.146 3 8 1704624 20161125021349
+174.114.90.155 2 7 1681200 20161124190801
+99.237.67.25 3 19 84941 20161115073154
+172.56.11.96 0 1 84698 
+209.95.189.139 1 1 4264 20161105134305
+99.228.211.124 5 23 149962 20161118024356
+99.226.223.69 3 19 84941 20161116075105
+173.206.90.37 5 23 151195 20161110075820
+213.135.161.203 0 1 35774 
+174.112.11.220 3 33 156881 20161115012710
+199.198.223.109 5 28 177558 20161111071559
+66.102.8.145 6 12 524903 20161124234300
+35.162.49.190 3 24 95387 20161119224138
+99.242.210.86 3 8 1699228 20161123160510
+86.11.179.130 0 1 35774 
+70.24.107.59 3 19 84941 20161121134704
+91.219.236.218 1 1 4264 20161107055743
+204.101.16.230 4 36 478439 20161110114642
+46.118.119.54 6 6 25584 20161122022824
+204.101.5.38 2 7 1681200 20161125075529
+50.101.76.4 1 4 27667 20161121230854
+108.60.248.138 3 19 84941 20161110171704
+104.236.108.135 9 9 48559 20161103022956
+209.222.50.39 9 57 254823 20161117111308
+99.226.168.139 3 19 84941 20161107195757
+70.55.231.65 6 45 569284 20161110070606
+209.171.88.87 3 8 1704624 20161124235222
+134.249.55.72 8 8 34112 20161109000753
+104.236.110.18 9 9 48559 20161112174812
+62.140.234.247 1 1 4264 20161115233305
+184.146.156.202 0 1 31904 
+66.102.6.207 3 3 12792 20161104072831
+70.31.86.155 4 36 478439 20161115063205
+67.71.130.50 5 28 175335 20161113094323
+99.242.17.189 1 1 5197 20161124184914
+69.156.107.10 5 26 1766141 20161125083103
+142.0.157.118 10 70 949011 20161114065707
+4.16.68.22 10 34 6879561 20161127220526
+38.112.16.158 4 9 1762613 20161123131111
+135.23.190.254 5 23 149962 20161118145144
+173.206.230.20 3 19 84941 20161120161839
+24.114.74.201 1 6 1654908 20161124172334
+177.152.176.1 3 19 84941 20161112102258
+149.202.127.215 1 1 4264 20161110200302
+202.78.238.130 3 19 84941 20161117110243
+74.15.2.201 3 19 84941 20161115204911
+46.73.230.2 3 3 10030 20161106110744
+99.227.174.245 3 19 84941 20161119115446
+69.171.106.184 4 22 147470 20161110070421
+24.114.73.1 1 1 5197 20161124113814
+74.59.225.114 0 2 146789 
+178.137.162.10 9 9 38376 20161110195404
+24.114.98.28 1 4 98303 20161111105900
+76.69.88.32 5 23 149962 20161117101234
+70.48.198.116 2 7 1681200 20161130230349
+24.114.78.143 5 43 525344 20161108013147
+223.166.72.245 18 18 48559 20161105032423
+46.119.121.206 7 7 32164 20161122103205
+174.112.134.225 4 14 3362400 20161127173553
+74.91.23.166 1 1 0 20161125013954
+68.67.139.253 2 7 1681200 20161124084416
+107.155.197.90 1 1 5197 20161123172245
+209.171.88.153 5 23 151195 20161117135027
+35.163.147.252 3 24 95387 20161114003005
+208.82.90.102 4 36 478439 20161111095005
+50.101.77.127 5 23 149962 20161122000535
+184.151.178.3 1 1 4264 20161114163405
+189.186.182.179 0 1 84698 
+35.160.200.75 5 28 160408 20161117205857
+99.237.40.152 3 19 84941 20161116112117
+209.171.88.152 5 34 341322 20161121010056
+99.253.106.184 14 14 65294 20161130233911
+72.143.26.42 4 16 140924 20161101160732
+209.171.88.249 3 16 73782 20161120093121
+70.30.8.56 3 19 84941 20161107114116
+99.244.78.197 3 19 84941 20161108091747
+99.254.87.135 2 7 1681200 20161125222205
+206.248.172.188 3 19 84941 20161112085242
+99.237.2.141 7 41 2013110 20161125231144
+209.99.130.31 1 1 4264 20161117102316
+24.114.57.169 1 1 5197 20161123121134
+199.188.60.193 3 19 84941 20161105105355
+184.151.190.172 3 19 84941 20161116132153
+36.110.147.68 1 1 5197 20161130231541
+142.169.78.67 4 20 86982 20161114084425
+198.168.255.185 8 33 1910083 20161124070620
+187.244.209.65 3 19 84941 20161103140644
+47.90.47.13 1 1 4264 20161117000615
+107.170.96.6 1 1 5197 20161127130121
+45.55.74.129 2 2 12506 20161123045939
+45.32.129.1 1 1 4264 20161101070602
+94.23.75.242 2 2 9461 20161126030000
+35.162.141.167 3 24 95387 20161103072923
+69.24.173.100 0 1 62091 
+142.76.1.62 2 7 1681200 20161129122002
+99.253.175.93 3 45 258604 20161107175031
+173.231.41.210 3 3 15591 20161123065243
+199.7.157.70 4 9 1709821 20161124112846
+104.238.180.234 3 3 10992 20161110065434
+174.112.218.95 5 34 220199 20161116090848
+184.151.178.126 2 2 44320 20161125093555
+185.129.148.190 1 1 0 20161103043320
+89.76.113.165 3 3 15591 20161129185509
+91.203.146.126 1 1 4264 20161119013019
+99.250.255.58 4 27 173294 20161106180010
+187.112.177.62 3 19 84941 20161103140316
+35.164.213.70 5 18 1744359 20161125032206
+74.15.246.141 3 19 84941 20161122090032
+99.248.19.158 2 2 6305 20161113182630
+49.34.33.21 2 2 10394 20161123142650
+74.15.34.155 2 7 1681200 20161123082314
+209.213.238.94 4 36 478439 20161114194056
+24.114.53.139 2 7 1681200 20161124163317
+173.212.176.49 4 22 147470 20161118121915
+176.9.50.43 1 1 5197 20161130063718
+174.113.71.132 4 22 147470 20161118132521
+99.241.130.121 8 18 3392460 20161125085111
+99.234.229.42 3 19 84941 20161120141553
+65.93.204.153 4 12 1728716 20161124084905
+104.207.150.177 3 3 11925 20161122125421
+24.114.74.66 3 19 84941 20161116070116
+174.91.13.176 7 46 258235 20161113220522
+172.58.169.97 0 1 84698 
+174.95.66.171 4 27 173294 20161105161623
+89.178.7.11 3 19 84941 20161120025147
+158.69.225.37 1 1 5197 20161122203208
+70.51.148.202 2 7 1681200 20161124143512
+99.230.4.167 3 19 84941 20161117152015
+136.237.45.10 6 31 238315 20161116105316
+192.223.136.9 2 8 98303 20161111084436
+207.61.188.74 8 44 294940 20161115074902
+184.151.190.77 4 20 87433 20161102133954
+24.114.67.185 2 7 1681200 20161124172923
+173.34.217.99 2 7 1681200 20161122201655
+72.35.7.181 2 7 1681200 20161126121723
+142.169.33.214 4 27 173294 20161109122242
+95.221.253.166 3 19 84941 20161120025125
+174.95.100.75 7 64 857929 20161106205842
+50.101.76.45 14 79 7236892 20161122211517
+207.216.80.172 0 1 62091 
+99.238.41.164 3 19 84941 20161121084756
+69.158.0.42 3 19 84941 20161105153241
+99.254.95.85 3 8 1699228 20161125084037
+209.171.88.137 1 1 5197 20161125102755
+209.171.88.129 2 7 1681200 20161124174643
+99.255.74.160 1 6 1654908 20161125093419
+99.227.130.66 3 8 1699228 20161125083706
+184.151.179.67 3 19 84941 20161120094101
+209.171.88.212 3 8 1699228 20161124133240
+70.25.107.218 4 27 173294 20161118110812
+52.212.4.181 3 19 84941 20161113224132
+173.35.7.223 3 19 84941 20161115203032
+209.171.88.194 3 9 3231063 20161129143139
+70.26.87.176 3 8 1699228 20161129123200
+216.211.36.115 5 11 3269987 20161124164447
+64.40.244.175 3 8 1699228 20161123103724
+174.112.130.84 1 1 5197 20161125121315
+99.245.65.120 5 44 566792 20161121224207
+204.187.67.26 7 48 631813 20161117121407
+68.67.139.246 2 7 1681200 20161125025037
+65.93.101.4 2 7 1681200 20161127213403
+104.132.20.70 2 7 1681200 20161124001410
+84.50.88.160 0 1 31904 
+184.151.190.217 2 17 258381 20161107052724
+64.74.215.113 2 2 0 20161115102543
+52.200.246.137 3 3 10030 20161103162002
+99.225.169.80 3 19 84941 20161114105628
+24.114.59.78 5 44 566792 20161112075007
+14.192.239.230 0 1 84698 
+209.171.88.71 3 8 1704624 20161124125527
+186.179.253.244 3 8 1531636 20161125161803
+68.67.139.145 2 7 1681200 20161124090103
+50.252.212.14 1 1 4264 20161115024303
+24.114.68.185 1 4 98303 20161112135806
+24.114.54.136 3 18 1709674 20161126153822
+99.232.242.121 5 28 175786 20161122083546
+95.44.37.204 0 2 169396 
+206.223.176.92 5 44 566792 20161111110325
+24.114.55.178 3 19 84941 20161121164532
+173.212.179.122 4 9 1762613 20161129095123
+104.131.63.207 2 2 12506 20161128032054
+184.151.178.150 3 19 84941 20161108110305
+188.165.206.188 1 1 5197 20161123060457
+174.91.112.140 3 19 84941 20161120083548
+209.171.88.113 3 8 1704624 20161130210225
+188.165.28.233 1 1 4264 20161115205444
+76.65.29.240 4 33 329418 20161115151514
+173.34.229.233 2 7 1681200 20161123151411
+192.197.90.57 1 2 126397 20161124153548
+216.58.25.185 1 2 5598 20161125025911
+69.159.83.127 3 8 1704624 20161122135117
+184.151.190.2 3 19 84941 20161116125848
+174.88.39.133 1 10 1663696 20161122091755
+216.123.2.163 3 19 84941 20161116071908
+50.100.229.73 5 44 566792 20161120081540
+54.198.191.5 3 3 10030 20161115201137
+206.172.21.144 4 29 1748660 20161122094658
+76.68.113.41 4 12 3258936 20161125191657
+66.225.147.130 4 36 478439 20161101090048
+113.240.250.156 1 1 4264 20161102062154
+70.24.156.39 3 8 1704624 20161124134506
+186.179.155.108 3 8 1704624 20161125092143
+105.107.91.15 1 1 4264 20161104184614
+24.114.55.181 6 16 3409248 20161124150753
+70.49.88.155 5 30 235823 20161118143938
+68.179.34.1 2 7 1681200 20161123075913
+192.0.141.76 3 8 1686397 20161125203236
+90.194.212.145 3 8 1704624 20161123141542
+69.77.160.2 3 8 1699228 20161125094836
+54.208.97.100 1 1 4264 20161111205333
+23.233.49.106 2 7 1681200 20161127070017
+45.55.134.9 3 3 10030 20161107190546
+99.233.44.254 3 8 1699228 20161124232308
+66.102.6.65 13 28 5288185 20161125135730
+39.55.27.233 2 2 10394 20161127131933
+24.114.68.58 3 19 84941 20161105150159
+184.151.179.147 3 8 1699228 20161124190350
+171.25.193.20 2 2 8528 20161122014557
+54.90.41.238 1 1 4264 20161115220542
+207.112.96.248 5 23 149962 20161101141955
+46.119.118.233 8 8 34112 20161102023008
+207.35.2.149 3 15 3306500 20161122091601
+74.122.54.156 6 29 183058 20161113134007
+54.171.50.155 1 1 4264 20161120044927
+64.71.200.226 3 3 10030 20161117201507
+116.72.99.249 3 19 84941 20161103002009
+206.130.173.29 2 7 1681200 20161130085835
+24.114.70.77 1 1 4264 20161108192917
+69.157.66.224 5 28 175335 20161106105521
+76.68.124.214 3 19 84941 20161110003744
+79.143.111.206 0 2 71548 
+199.246.162.3 2 7 1681200 20161124171142
+174.91.125.251 4 14 3362400 20161123131703
+70.31.5.142 3 8 1699228 20161125100232
+24.114.52.203 4 36 478439 20161116143601
+99.255.119.191 2 7 1681200 20161128083631
+178.137.90.11 9 9 38376 20161122035539
+209.171.44.8 3 3 13725 20161124094304
+159.203.81.93 1 1 5197 20161127131933
+192.206.151.130 12 75 4238445 20161130095113
+99.231.53.72 4 22 147470 20161104090233
+54.197.114.133 3 8 1699228 20161123164439
+174.95.60.207 5 23 149962 20161107063036
+24.143.176.99 2 7 1681200 20161124153433
+35.160.123.23 5 18 1744359 20161125222759
+163.172.7.236 1 1 4264 20161115010949
+99.226.149.222 5 27 134338 20161117175106
+24.114.50.24 3 9 3225667 20161128162809
+69.157.96.12 3 8 1699228 20161122193146
+35.163.128.23 3 24 95387 20161112025706
+199.91.135.254 2 2 8503 20161111071600
+35.162.154.125 5 28 160408 20161107081620
+99.246.96.11 3 19 84941 20161108153215
+95.27.175.66 3 19 84941 20161118223146
+23.248.129.219 2 7 1681200 20161124152141
+178.135.145.93 0 1 12404 
+185.28.193.98 1 1 4264 20161102024706
+111.253.42.27 4 22 147470 20161110014859
+109.63.143.146 3 19 84941 20161121045911
+209.171.88.253 4 22 147470 20161115092253
+35.162.141.129 5 28 160408 20161104100415
+173.34.173.114 4 22 147470 20161116181407
+174.117.110.209 3 10 3231063 20161124135134
+66.249.88.51 1 2 20618 20161123171631
+35.163.0.100 3 24 95387 20161108063843
+172.98.200.218 1 1 4264 20161107181457
+216.170.122.107 1 1 4264 20161117205350
+174.115.105.174 3 19 84941 20161104161334
+66.102.8.147 4 11 3169433 20161123175117
+76.65.21.95 6 44 480300 20161119195541
+24.114.70.97 1 1 5197 20161123124147
+99.226.217.4 4 36 478439 20161104092347
+74.216.223.194 7 39 320994 20161117142742
+68.67.139.140 2 7 1681200 20161124090103
+173.34.39.49 3 8 1704624 20161124165823
+209.171.88.140 2 2 5766 20161118195346
+99.253.106.212 3 19 84941 20161120225429
+24.114.77.199 3 8 1704624 20161124202539
+70.24.107.9 3 8 1699228 20161125074720
+178.137.164.149 5 5 21320 20161111054628
+207.35.13.19 7 41 232411 20161121123139
+207.164.79.78 4 26 131846 20161115194503
+116.23.14.112 1 1 4264 20161119115626
+85.248.227.163 1 1 4264 20161109002651
+176.8.88.110 11 11 46904 20161110040426
+162.243.185.90 9 9 48559 20161119164415
+142.245.193.4 1 4 98303 20161110130603
+184.151.190.207 3 8 1704624 20161130190445
+68.67.139.210 2 7 1681200 20161124230527
+185.100.85.61 1 1 4264 20161113010056
+54.244.63.13 2 2 12506 20161126165140
+76.66.108.2 4 22 147470 20161101171642
+76.65.21.91 3 19 84941 20161102135940
+66.102.6.95 8 16 3350932 20161126135635
+198.254.159.222 4 34 329418 20161108190348
+24.150.178.77 5 11 1919846 20161124151230
+155.94.214.74 3 19 84941 20161116220734
+174.95.63.99 3 19 84941 20161112191520
+68.67.139.252 4 14 3362400 20161124214444
+128.72.64.224 3 3 10030 20161118095659
+209.171.88.43 18 49 11611145 20161122123022
+69.157.33.203 3 19 84941 20161102140027
+45.55.134.19 3 3 10030 20161116121156
+209.171.88.27 0 5 10446 
+206.130.173.28 6 43 180328 20161116135957
+70.48.186.187 3 19 84941 20161105145449
+186.219.124.20 1 1 4264 20161102075942
+173.34.160.250 4 36 478439 20161119145117
+24.114.71.171 3 8 1704624 20161124163427
+208.76.104.27 1 17 393498 20161101135605
+178.33.217.31 1 1 5197 20161129025913
+192.69.218.234 2 2 10072 20161122102134
+76.71.58.233 1 9 1664054 20161128165123
+24.246.66.140 5 37 478439 20161106112231
+24.114.54.112 3 8 1699228 20161124163338
+38.99.134.10 4 33 329418 20161109141129
+207.236.219.30 4 10 3289052 20161128105134
+180.153.180.92 1 1 5197 20161128171752
+69.71.84.134 0 1 35774 
+99.239.175.223 17 76 802531 20161112174135
+174.91.124.66 4 22 147470 20161109082545
+99.236.21.142 6 29 206829 20161101114716
+150.70.188.180 1 1 6039 20161114112518
+37.144.138.39 3 19 84941 20161107230006
+188.6.175.130 2 7 1681200 20161125013936
+35.162.149.247 3 24 95387 20161107011444
+35.162.41.114 3 24 95387 20161102053435
+204.13.255.3 3 8 0 20161126200416
+184.151.179.16 4 20 87433 20161120082741
+104.196.100.15 2 2 8528 20161111062459
+64.229.44.191 6 48 504092 20161116210654
+68.148.150.128 3 19 84941 20161114231321
+184.148.83.171 1 1 5197 20161124141144
+149.5.113.139 1 1 5197 20161123162434
+70.48.30.100 5 11 3269987 20161124171314
+99.236.25.61 5 27 134338 20161109134701
+69.49.61.249 4 22 147470 20161121195637
+209.171.88.42 7 48 634739 20161116164952
+93.158.216.52 1 1 4264 20161114031719
+76.64.212.23 5 44 566792 20161108163122
+184.149.39.146 8 42 232411 20161121142643
+24.114.49.254 3 8 1704624 20161130182947
+185.2.196.196 6 6 20997 20161111084434
+206.130.173.25 6 36 248761 20161113081756
+216.240.5.215 1 6 1654908 20161124160401
+54.234.35.62 1 1 4264 20161113155744
+192.126.217.212 0 1 55642 
+99.234.224.25 2 7 1681200 20161130230843
+99.237.74.10 3 19 84941 20161119071631
+184.151.190.10 4 22 147470 20161102102101
+74.114.172.20 3 8 1699228 20161124134236
+99.224.157.189 3 9 3225667 20161127115613
+91.94.42.124 0 1 35774 
+35.163.55.201 5 18 1744359 20161124042520
+74.12.123.100 3 9 3225667 20161125141659
+184.151.179.254 2 2 4505 20161119152511
+174.91.124.183 5 21 91158 20161112201417
+35.160.77.52 5 28 160408 20161122013534
+113.210.178.39 0 1 35774 
+85.248.227.164 1 1 4264 20161115073258
+69.7.240.110 5 23 149962 20161113163010
+209.171.88.197 3 19 84941 20161112143603
+99.250.102.148 10 81 772396 20161112175321
+173.192.229.3 2 9 4734078 20161124090909
+69.158.45.13 6 31 238315 20161103081708
+107.6.40.254 2 7 1681200 20161123144723
+174.112.90.96 3 8 1699228 20161124170341
+177.67.180.142 3 19 84941 20161118180734
+195.154.146.225 8 8 37844 20161130173744
+45.32.130.87 2 2 6728 20161101170028
+45.55.146.21 9 9 48559 20161108100321
+125.99.249.134 4 22 147470 20161116032720
+188.32.176.69 3 19 84941 20161118071618
+92.222.128.249 1 1 4264 20161108033234
+76.64.141.173 1 4 27667 20161120185629
+35.163.58.105 3 24 95387 20161110082431
+86.47.80.145 6 6 21063 20161101025037
+24.114.52.210 2 7 54432 20161110123115
+76.69.72.7 3 8 1699228 20161125005346
+76.65.30.120 3 19 84941 20161118040230
+173.14.173.227 1 1 4264 20161105224434
+68.67.139.178 2 7 1681200 20161124090103
+76.66.165.182 5 23 149962 20161115171154
+174.24.98.159 4 9 1762613 20161127114342
+99.252.82.153 8 49 636077 20161119162012
+65.93.132.198 1 1 4264 20161112090304
+74.15.192.189 2 7 1681200 20161129155052
+209.171.9.243 1 6 1654908 20161124170328
+23.253.201.148 4 12 3346800 20161122110832
+64.228.94.84 4 33 329418 20161102190614
+178.137.86.68 8 8 34112 20161101163918
+207.107.151.154 3 19 84941 20161102103334
+72.38.126.138 2 7 1681200 20161128103741
+101.173.55.120 1 15 249415 20161119201945
+176.108.194.155 1 1 4264 20161101105341
+173.34.227.193 3 8 1699228 20161125120525
+23.92.212.2 1 1 4264 20161106205233
+71.196.222.76 0 5 10446 
+154.73.14.193 1 1 4264 20161116104733
+24.88.83.160 1 1 4264 20161112200306
+142.214.241.110 2 7 1681200 20161124151204
+188.165.29.82 1 1 4264 20161119103501
+119.129.109.35 10 10 52823 20161121192622
+184.150.236.51 4 9 1762613 20161130140145
+99.233.203.177 4 19 1691646 20161125172615
+72.35.21.58 1 2 0 20161105030111
+192.160.102.164 1 1 5197 20161127192125
+99.243.66.2 5 15 1732789 20161129201627
+199.119.233.205 3 8 1704624 20161124105501
+70.24.32.58 4 27 173294 20161115063030
+210.187.174.248 0 5 10446 
+184.151.179.79 3 9 3231063 20161125191121
+142.162.190.152 1 1 4264 20161111144733
+199.19.249.196 4 4 21934 20161109141129
+99.226.43.241 9 43 2094523 20161122172638
+213.184.100.104 1 1 5197 20161126091200
+207.164.79.85 5 39 540968 20161114102155
+105.226.72.159 0 1 16568 
+54.246.133.2 1 1 5197 20161130130953
+192.0.221.68 5 17 6433306 20161126135027
+24.64.248.158 3 5 68834 20161101235338
+24.114.61.34 2 7 1681200 20161124130247
+135.23.76.165 5 28 175786 20161114141516
+46.118.115.35 7 7 29848 20161122012058
+184.150.236.67 2 7 1681200 20161124133058
+24.114.79.178 1 5 1653273 20161122093045
+176.31.39.23 5 5 20519 20161128135239
+4.15.238.176 4 14 3362400 20161124225023
+99.224.158.147 3 8 1699228 20161127120241
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20161101 110 481 4278014 37
+20161102 102 523 4583679 39
+20161103 119 490 3680689 36
+20161104 79 293 2003831 29
+20161105 127 526 4006992 33
+20161106 109 443 4053894 35
+20161107 134 612 4990651 40
+20161108 141 753 7462615 39
+20161109 109 496 4191107 33
+20161110 109 456 3546246 35
+20161111 90 461 3722702 36
+20161112 156 632 4473180 40
+20161113 113 411 3783734 34
+20161114 128 630 4729505 44
+20161115 140 582 4825126 49
+20161116 149 719 4945967 46
+20161117 162 689 4728764 47
+20161118 131 530 2651197 41
+20161119 157 618 4168044 38
+20161120 83 394 2630941 29
+20161121 150 716 4546778 46
+20161122 282 990 167802657 59
+20161123 137 272 41331240 54
+20161124 366 997 203886108 149
+20161125 237 622 119377754 87
+20161126 131 307 43971157 48
+20161127 103 241 37644299 37
+20161128 112 258 35916148 42
+20161129 100 222 28055932 37
+20161130 105 185 25845605 36
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 27
+30mn-1h 20
+15mn-30mn 18
+2mn-5mn 33
+30s-2mn 78
+1h+ 4
+0s-30s 1175
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 21
+/ 2044 9170444 1264 561
+/contents.htm 441 849056 12 46
+/main.htm 439 1542150 4 191
+/assets/fonts/SofachromeRg-Regular.woff 359 8676360 8 195
+/contactus.htm 137 332640 23 90
+/husqvarna.htm 102 609939 10 41
+/stihl.htm 88 1102899 5 35
+/assets/fonts/glyphicons-halflings-regular.woff2 87 1424212 4 50
+/aboutus.htm 86 211820 4 21
+/assets/fonts/glyphicons-halflings-regular.woff 77 1756800 2 47
+/honda.htm 61 714240 5 21
+/toro.htm 60 319662 1 18
+/assets/fonts/glyphicons-halflings-regular.eot 58 764826 4 8
+/assets/fonts/SofachromeRg-Regular.eot 53 2083724 5 4
+/lawnboy.htm 28 52110 0 7
+/echo.htm 19 24678 1 8
+/assets/contact.html 17 124253 1 4
+/assets/fonts/SofachromeRg-Regular.ttf 7 427560 0 3
+/assets/fonts/glyphicons-halflings-regular.ttf 5 227020 0 1
+/cpanel 2 17894 2 2
+/./assets/contact.html 1 7309 0 1
+END_SIDER
